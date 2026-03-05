@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <marker id="arrDom" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">Middle-Class Default Chain Reaction</text>
+
+  <!-- Chain: 6 nodes in zigzag pattern -->
+  <!-- Row 1 -->
+  <!-- Node 1: Middle-Class Mortgage Default -->
+  <rect x="60" y="170" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
+  <text x="160" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Middle-Class</text>
+  <text x="160" y="235" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Mortgage Default</text>
+  <text x="160" y="155" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">① Trigger</text>
+
+  <!-- Arrow 1→2 -->
+  <line x1="265" y1="225" x2="370" y2="225" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 2: Bank Bad Debt -->
+  <rect x="380" y="170" width="200" height="110" rx="12" fill="#FF9800" fill-opacity="0.15" stroke="#FF9800" stroke-width="2"/>
+  <text x="480" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">Bank Bad Debt</text>
+  <text x="480" y="240" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Regional banks fail</text>
+  <text x="480" y="155" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">②</text>
+
+  <!-- Arrow 2→3 -->
+  <line x1="585" y1="225" x2="690" y2="225" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 3: Credit Freeze -->
+  <rect x="700" y="170" width="200" height="110" rx="12" fill="#FF9800" fill-opacity="0.15" stroke="#FF9800" stroke-width="2"/>
+  <text x="800" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">Credit Freeze</text>
+  <text x="800" y="240" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">FDIC can't save all</text>
+  <text x="800" y="155" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">③</text>
+
+  <!-- Arrow 3→4 (down) -->
+  <path d="M800,285 Q800,350 800,370" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrDom)"/>
+
+  <!-- Row 2 (reversed direction) -->
+  <!-- Node 4: Infrastructure Stalls -->
+  <rect x="700" y="380" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="2"/>
+  <text x="800" y="415" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Infrastructure</text>
+  <text x="800" y="438" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Stalls</text>
+  <text x="800" y="462" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Schools, fire, police cut</text>
+  <text x="800" y="365" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">④</text>
+
+  <!-- Arrow 4→5 -->
+  <line x1="695" y1="435" x2="590" y2="435" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 5: Population Exodus -->
+  <rect x="380" y="380" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="2"/>
+  <text x="480" y="415" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Population</text>
+  <text x="480" y="438" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Exodus</text>
+  <text x="480" y="462" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Young people flee</text>
+  <text x="480" y="365" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">⑤</text>
+
+  <!-- Arrow 5→6 -->
+  <line x1="375" y1="435" x2="270" y2="435" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 6: Urban Decay -->
+  <rect x="60" y="380" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
+  <text x="160" y="420" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">Urban Decay</text>
+  <text x="160" y="450" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Ghost towns emerge</text>
+  <text x="160" y="365" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">⑥ Endgame</text>
+
+  <!-- Timeline comparison box -->
+  <rect x="150" y="550" width="900" height="100" rx="12" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
+  <text x="600" y="585" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">Speed Comparison</text>
+  <text x="400" y="625" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="16">Rust Belt decline: 30 years</text>
+  <text x="800" y="625" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">AI era: 5-10 years</text>
+
+  <!-- Bottom -->
+  <text x="600" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">$1T in commercial RE loans maturing 2026, 20% = office buildings</text>
+</svg>

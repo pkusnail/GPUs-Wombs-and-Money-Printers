@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880">
+  <rect width="1200" height="880" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">Tragedy of the Commons — Three Layers</text>
+
+  <!-- Layer 1: Corporate Competition -->
+  <rect x="80" y="120" width="1040" height="180" rx="16" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="2"/>
+  <text x="120" y="155" fill="#2196F3" font-family="sans-serif" font-size="20" font-weight="bold">Layer 1: Corporate Competition</text>
+
+  <text x="600" y="220" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16">"Don't use AI = get eliminated" → All deploy AI → Collectively eliminate customers</text>
+
+  <!-- Prisoner's Dilemma mini grid -->
+  <rect x="700" y="155" width="170" height="40" rx="4" fill="#2196F3" fill-opacity="0.15"/>
+  <text x="785" y="180" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="12">Prisoner's Dilemma</text>
+  <text x="600" y="280" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="12">Individually rational → Collectively catastrophic</text>
+
+  <!-- Connecting arrow -->
+  <text x="600" y="340" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20">Amplifies</text>
+
+  <!-- Layer 2: National Arms Race -->
+  <rect x="80" y="370" width="1040" height="180" rx="16" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="2"/>
+  <text x="120" y="405" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">Layer 2: National Arms Race</text>
+
+  <text x="600" y="470" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16">"Robot tax? AI output tax?" → Capital flees to untaxed nations</text>
+  <text x="600" y="530" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12">Everyone wants to tax, nobody dares go first</text>
+
+  <!-- Flags -->
+  <text x="750" y="410" fill="#FF9800" font-family="sans-serif" font-size="14">US vs China vs EU</text>
+
+  <!-- Connecting arrow -->
+  <text x="600" y="590" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20">Amplifies</text>
+
+  <!-- Layer 3: Human Destiny -->
+  <rect x="80" y="620" width="1040" height="180" rx="16" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="2"/>
+  <text x="120" y="655" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">Layer 3: Human Destiny</text>
+
+  <text x="600" y="720" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16">"Stop AI = lose to rivals" → No entity dares slow down → Humanity passive</text>
+  <text x="600" y="780" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">Feedback loops have no natural brake</text>
+
+  <!-- Bottom -->
+  <text x="600" y="845" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">Winner = whoever builds "post-employment society" first</text>
+</svg>

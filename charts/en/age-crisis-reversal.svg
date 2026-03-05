@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">The Age Crisis Reversal: AI Favors Seniority</text>
+
+  <!-- Before vs After -->
+  <text x="300" y="125" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="20" font-weight="bold">Before AI</text>
+  <text x="900" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">After AI</text>
+
+  <!-- Before box -->
+  <rect x="80" y="145" width="440" height="130" rx="10" fill="#888888" fill-opacity="0.06" stroke="#888888" stroke-width="1"/>
+  <text x="300" y="178" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">The "35-Age Crisis"</text>
+  <text x="110" y="205" fill="#888888" font-family="sans-serif" font-size="13">Young workers: cheap, overwork, replaceable → preferred</text>
+  <text x="110" y="230" fill="#FF9800" font-family="sans-serif" font-size="13">Senior workers: expensive, hard to manage → cut at 35</text>
+  <text x="110" y="260" fill="#888888" font-family="sans-serif" font-size="11">Company logic: 3 juniors = 1 senior, but cheaper</text>
+
+  <!-- Arrow -->
+  <text x="570" y="210" fill="#FF9800" font-family="sans-serif" font-size="40">→</text>
+
+  <!-- After box -->
+  <rect x="660" y="145" width="460" height="130" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="890" y="178" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">The "25-Age Crisis"</text>
+  <text x="690" y="205" fill="#00BCD4" font-family="sans-serif" font-size="13">Senior+AI: 1 person output = 1 senior + 3 juniors → more needed</text>
+  <text x="690" y="230" fill="#FF4444" font-family="sans-serif" font-size="13">Junior workers: AI does their work → can't get in</text>
+  <text x="690" y="260" fill="#888888" font-family="sans-serif" font-size="11">Company logic: 1 senior+AI &gt; 1 senior+3 juniors</text>
+
+  <!-- Harvard Study -->
+  <rect x="80" y="295" width="1040" height="65" rx="10" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="1.5"/>
+  <text x="100" y="322" fill="#2196F3" font-family="sans-serif" font-size="15" font-weight="bold">Harvard Study (2025): 62M workers · 285k companies</text>
+  <text x="100" y="348" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI-adopting firms: <tspan fill="#FF4444" font-weight="bold">entry-level hiring ↓ 7.7-10%</tspan> (within 6 quarters) · <tspan fill="#00BCD4" font-weight="bold">Senior roles: nearly unchanged</tspan></text>
+
+  <!-- Data columns -->
+  <text x="350" y="395" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="18" font-weight="bold">Entry-Level Collapse</text>
+
+  <!-- Bars -->
+  <text x="100" y="435" fill="#FFFFFF" font-family="sans-serif" font-size="13">US big tech new grad hiring</text>
+  <rect x="350" y="420" width="250" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="610" y="437" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">↓ 50%+ (2019→2024)</text>
+
+  <text x="100" y="465" fill="#FFFFFF" font-family="sans-serif" font-size="13">US entry-level job postings</text>
+  <rect x="350" y="450" width="175" height="22" rx="4" fill="#FF9800" opacity="0.7"/>
+  <text x="535" y="467" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">↓ 35% (2023→2025)</text>
+
+  <text x="100" y="495" fill="#FFFFFF" font-family="sans-serif" font-size="13">Fortune 500 internships (tech)</text>
+  <rect x="350" y="480" width="170" height="22" rx="4" fill="#FF9800" opacity="0.6"/>
+  <text x="530" y="497" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">↓ 34% (2022→2024)</text>
+
+  <text x="100" y="525" fill="#FFFFFF" font-family="sans-serif" font-size="13">UK tech graduate positions</text>
+  <rect x="350" y="510" width="230" height="22" rx="4" fill="#FF4444" opacity="0.6"/>
+  <text x="590" y="527" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">↓ 46% (2024) expected ↓ 53% more</text>
+
+  <text x="100" y="555" fill="#FFFFFF" font-family="sans-serif" font-size="13">China graduate job postings</text>
+  <rect x="350" y="540" width="110" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="470" y="557" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">↓ 22% (H1 2025)</text>
+
+  <!-- China youth unemployment -->
+  <rect x="700" y="410" width="420" height="90" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="720" y="438" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">China Youth Unemployment</text>
+  <text x="720" y="463" fill="#FFFFFF" font-family="sans-serif" font-size="14">Age 16-24: <tspan fill="#FF4444" font-weight="bold">18.9%</tspan> (Aug 2025)</text>
+  <text x="720" y="488" fill="#888888" font-family="sans-serif" font-size="12">2025 graduates: 12.22M (record) · Hiring ↓ 22%</text>
+
+  <!-- Paradox box -->
+  <rect x="700" y="515" width="420" height="60" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="720" y="540" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">The Paradox</text>
+  <text x="720" y="562" fill="#888888" font-family="sans-serif" font-size="12">AI boosts junior productivity more (27-39% vs 8-13%)</text>
+
+  <!-- Broken Ladder -->
+  <rect x="80" y="590" width="1040" height="80" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="618" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">The Broken Career Ladder</text>
+  <text x="600" y="645" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14">Senior promoted/leaves → Mid fills up → Junior fills up → <tspan fill="#FF4444" font-weight="bold" text-decoration="line-through">New hire enters</tspan> ← AI cuts this link</text>
+  <text x="600" y="665" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">No entry-level jobs = no ticket in = never becoming "experienced" · A generation's career may end before it begins</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">The crisis didn't disappear — it shifted down a decade. From "fired at 35" to "can't get in at 25."</text>
+
+  <!-- Sources -->
+  <text x="600" y="790" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">Sources: Harvard/SSRN(2025) · SignalFire · Revelio Labs · SCMP · Caixin · NACE · LeadDev · IntuitionLabs</text>
+</svg>

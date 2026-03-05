@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">AI Reshapes Global Division of Labor: Compute = Power</text>
+
+  <!-- LEFT: Compute Distribution -->
+  <text x="300" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">GPU Distribution</text>
+
+  <!-- US bar -->
+  <text x="100" y="175" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇺🇸 US</text>
+  <rect x="220" y="158" width="300" height="28" rx="4" fill="#2196F3" opacity="0.8"/>
+  <text x="530" y="178" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">~75%</text>
+
+  <!-- China bar -->
+  <text x="100" y="215" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇨🇳 China</text>
+  <rect x="220" y="198" width="60" height="28" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="290" y="218" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">~15%</text>
+
+  <!-- EU bar -->
+  <text x="100" y="255" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇪🇺 EU</text>
+  <rect x="220" y="238" width="19" height="28" rx="4" fill="#FF9800" opacity="0.6"/>
+  <text x="250" y="258" fill="#FF9800" font-family="sans-serif" font-size="14">~5%</text>
+
+  <!-- Rest bar -->
+  <text x="100" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="14">🌍 Rest</text>
+  <rect x="220" y="278" width="24" height="28" rx="4" fill="#888888" opacity="0.5"/>
+  <text x="255" y="298" fill="#888888" font-family="sans-serif" font-size="14">~6%</text>
+
+  <text x="300" y="340" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">US H100-equiv: 39.7M · China: ~400K · Ratio ≈ 100:1</text>
+
+  <!-- RIGHT: Labor Cost Convergence -->
+  <text x="850" y="125" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">Labor Cost Convergence</text>
+
+  <rect x="620" y="155" width="500" height="195" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+
+  <!-- Cost comparison -->
+  <text x="650" y="185" fill="#888888" font-family="sans-serif" font-size="13">Hourly Cost (USD)</text>
+
+  <text x="650" y="215" fill="#FFFFFF" font-family="sans-serif" font-size="13">🤖 Robot</text>
+  <rect x="860" y="200" width="30" height="22" rx="3" fill="#00BCD4" opacity="0.8"/>
+  <text x="900" y="217" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">$0.75</text>
+
+  <text x="650" y="248" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇧🇩 Bangladesh</text>
+  <rect x="860" y="233" width="20" height="22" rx="3" fill="#FF9800" opacity="0.6"/>
+  <text x="890" y="250" fill="#FF9800" font-family="sans-serif" font-size="13">$0.50</text>
+
+  <text x="650" y="281" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇻🇳 Vietnam</text>
+  <rect x="860" y="266" width="172" height="22" rx="3" fill="#FF9800" opacity="0.7"/>
+  <text x="1042" y="283" fill="#FF9800" font-family="sans-serif" font-size="13">$4.30</text>
+
+  <text x="650" y="314" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇺🇸 US Worker</text>
+  <rect x="860" y="299" width="400" height="22" rx="3" fill="#2196F3" opacity="0.6"/>
+  <text x="1070" y="316" fill="#2196F3" font-family="sans-serif" font-size="13">$15-20</text>
+
+  <text x="870" y="345" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">Robots already near cheapest-labor-country costs — cheap labor advantage gone</text>
+
+  <!-- MIDDLE: Vulnerable Countries -->
+  <text x="600" y="390" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">Most Vulnerable Economies</text>
+
+  <!-- Bangladesh -->
+  <rect x="80" y="410" width="255" height="90" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="100" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇧🇩 Bangladesh</text>
+  <text x="100" y="458" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">60% textile jobs face automation</text>
+  <text x="100" y="478" fill="#888888" font-family="sans-serif" font-size="11">Garments = 80% exports</text>
+  <text x="100" y="493" fill="#888888" font-family="sans-serif" font-size="11">by 2030</text>
+
+  <!-- Philippines -->
+  <rect x="355" y="410" width="255" height="90" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="375" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇵🇭 Philippines</text>
+  <text x="375" y="458" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">1.3M BPO workers, 89% high risk</text>
+  <text x="375" y="478" fill="#888888" font-family="sans-serif" font-size="11">BPO = 7.4% GDP</text>
+
+  <!-- Kenya -->
+  <rect x="630" y="410" width="255" height="90" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="650" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇰🇪 Kenya</text>
+  <text x="650" y="458" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">2.5M jobs face AI threat</text>
+  <text x="650" y="478" fill="#888888" font-family="sans-serif" font-size="11">40% Africa BPO jobs by 2030</text>
+
+  <!-- Vietnam -->
+  <rect x="905" y="410" width="215" height="90" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="925" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇻🇳 Vietnam</text>
+  <text x="925" y="458" fill="#2196F3" font-family="sans-serif" font-size="12" font-weight="bold">Electronics assembly model under pressure</text>
+  <text x="925" y="478" fill="#888888" font-family="sans-serif" font-size="11">Heavy FDI assembly dependence</text>
+
+  <!-- Historical Parallel -->
+  <rect x="80" y="520" width="1040" height="90" rx="12" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="600" y="548" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">Historical Parallel: Industrial Revolution Destroyed India's Handicrafts</text>
+  <text x="600" y="578" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="14">India: 25% of world manufacturing (1750) → 2% (1900). British yarn price fell to 10% of 1779 levels.</text>
+
+  <!-- Bottom: The New Colonial Pattern -->
+  <rect x="80" y="625" width="1040" height="80" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="653" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">The New Colonial Pattern</text>
+  <text x="600" y="680" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13">US/China: compute + automated mfg + AI platforms → Developing: data labeling + raw materials + captive markets</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="745" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">No gunboats needed — price itself is the weapon. And this time, it takes years, not decades.</text>
+
+  <!-- Sources -->
+  <text x="600" y="793" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">Sources: Epoch AI · Reshoring Initiative (2024) · UNCTAD (2025) · ILO · NBER · Inbolt · ODI</text>
+</svg>

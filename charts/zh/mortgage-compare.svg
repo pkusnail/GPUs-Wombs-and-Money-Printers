@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">2008 vs 2030 按揭危机</text>
+
+  <!-- Divider -->
+  <line x1="600" y1="110" x2="600" y2="720" stroke="#333333" stroke-width="2" stroke-dasharray="8,4"/>
+
+  <!-- LEFT: 2008 -->
+  <text x="300" y="140" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="26" font-weight="bold">2008</text>
+  <text x="300" y="165" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">次贷危机</text>
+
+  <!-- 2008 characteristics -->
+  <rect x="80" y="200" width="440" height="55" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="225" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">根因</text>
+  <text x="100" y="245" fill="#888888" font-family="sans-serif" font-size="13">贷款从一开始就是坏的</text>
+
+  <rect x="80" y="270" width="440" height="55" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="295" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">借款人</text>
+  <text x="100" y="315" fill="#888888" font-family="sans-serif" font-size="13">低信用、零首付</text>
+
+  <rect x="80" y="340" width="440" height="55" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="365" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">规模</text>
+  <text x="100" y="385" fill="#888888" font-family="sans-serif" font-size="13">次贷 ~$1.3万亿</text>
+
+  <rect x="80" y="410" width="440" height="55" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="435" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">可预见性</text>
+  <text x="100" y="455" fill="#888888" font-family="sans-serif" font-size="13">本应被预见</text>
+
+  <rect x="80" y="480" width="440" height="55" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="505" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">解决方案</text>
+  <text x="100" y="525" fill="#888888" font-family="sans-serif" font-size="13">降息+QE+TARP → 管用</text>
+
+  <rect x="80" y="550" width="440" height="55" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="575" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">本质</text>
+  <text x="100" y="595" fill="#888888" font-family="sans-serif" font-size="13">水管破裂（可修）</text>
+
+  <!-- RIGHT: 2028 -->
+  <text x="900" y="140" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="26" font-weight="bold">~2030</text>
+  <text x="900" y="165" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">AI按揭危机</text>
+
+  <rect x="680" y="200" width="440" height="55" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="700" y="225" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">根因</text>
+  <text x="700" y="245" fill="#FFFFFF" font-family="sans-serif" font-size="13">好贷款变坏（世界变了）</text>
+
+  <rect x="680" y="270" width="440" height="55" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="700" y="295" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">借款人</text>
+  <text x="700" y="315" fill="#FFFFFF" font-family="sans-serif" font-size="13">FICO 780、20%首付</text>
+
+  <rect x="680" y="340" width="440" height="55" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="700" y="365" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">规模</text>
+  <text x="700" y="385" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">住宅按揭 $13万亿 ⚠</text>
+
+  <rect x="680" y="410" width="440" height="55" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="700" y="435" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">可预见性</text>
+  <text x="700" y="455" fill="#FFFFFF" font-family="sans-serif" font-size="13">没人预料到AI这么快</text>
+
+  <rect x="680" y="480" width="440" height="55" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="700" y="505" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">解决方案</text>
+  <text x="700" y="525" fill="#FFFFFF" font-family="sans-serif" font-size="13">降息无用（工作已消失）</text>
+
+  <rect x="680" y="550" width="440" height="55" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="700" y="575" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">本质</text>
+  <text x="700" y="595" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">水消失了（不可修）</text>
+
+  <!-- Bottom comparison -->
+  <rect x="200" y="640" width="800" height="60" rx="10" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1"/>
+  <text x="600" y="668" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">规模10× · 借款人更优 · 但无解</text>
+  <text x="600" y="690" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">中产按揭规模远超2008次贷</text>
+</svg>

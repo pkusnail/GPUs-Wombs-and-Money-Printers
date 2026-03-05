@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <filter id="glow6">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">Species Divergence</text>
+  <text x="600" y="85" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="16">Three Types of "People" by 2060-2125</text>
+
+  <!-- Timeline axis -->
+  <line x1="150" y1="400" x2="300" y2="400" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="150" y="430" fill="#888888" font-family="sans-serif" font-size="13">2026</text>
+  <text x="280" y="430" fill="#888888" font-family="sans-serif" font-size="13">2035</text>
+
+  <!-- Starting point: Homo Sapiens -->
+  <circle cx="150" cy="400" r="12" fill="#FFFFFF"/>
+  <text x="150" y="460" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14">Homo Sapiens</text>
+
+  <!-- Fork point -->
+  <circle cx="350" cy="400" r="8" fill="#FF9800"/>
+
+  <!-- Branch 1: Post-Human Enhanced (top) -->
+  <path d="M358,395 Q500,250 700,180" stroke="#00BCD4" stroke-width="3" fill="none"/>
+  <rect x="700" y="130" width="380" height="120" rx="16" fill="#00BCD4" fill-opacity="0.12" stroke="#00BCD4" stroke-width="2"/>
+  <text x="890" y="165" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="22" font-weight="bold">Post-Human Enhanced</text>
+  <text x="890" y="198" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">CRISPR · Brain-Computer Interface · Nanorobots</text>
+  <text x="890" y="218" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">Centuries-long lifespan</text>
+
+  <!-- Branch 2: Natural Humans (middle) -->
+  <path d="M358,400 Q500,400 700,400" stroke="#FF9800" stroke-width="3" fill="none"/>
+  <rect x="700" y="345" width="380" height="120" rx="16" fill="#FF9800" fill-opacity="0.12" stroke="#FF9800" stroke-width="2"/>
+  <text x="890" y="380" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="22" font-weight="bold">Natural Humans</text>
+  <text x="890" y="413" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Refuse enhancement</text>
+  <text x="890" y="433" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">Live in AI-maintained reserves</text>
+
+  <!-- Branch 3: Pure AI (bottom) -->
+  <path d="M358,405 Q500,550 700,620" stroke="#2196F3" stroke-width="3" fill="none"/>
+  <rect x="700" y="565" width="380" height="120" rx="16" fill="#2196F3" fill-opacity="0.12" stroke="#2196F3" stroke-width="2" filter="url(#glow6)"/>
+  <text x="890" y="600" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="22" font-weight="bold">Pure AI / Robots</text>
+  <text x="890" y="633" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Strongest "species"</text>
+  <text x="890" y="653" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">True interstellar civilization builders</text>
+
+  <!-- Power labels on the right -->
+  <text x="1100" y="195" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">Power: High</text>
+  <text x="1100" y="410" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">Power: Low</text>
+  <text x="1100" y="630" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">Power: Highest</text>
+
+  <!-- Key insight -->
+  <text x="450" y="280" fill="#FF4444" font-family="sans-serif" font-size="13">First biological-level split</text>
+  <text x="450" y="520" fill="#FF9800" font-family="sans-serif" font-size="13">Safe, comfortable, powerless</text>
+
+  <!-- Bottom -->
+  <text x="600" y="755" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">Irreversible · Akin to speciation</text>
+</svg>

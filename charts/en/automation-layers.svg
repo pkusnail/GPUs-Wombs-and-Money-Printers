@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#00BCD4"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="60" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">From Muscles to Minds: Each Wave Ate a Higher Layer of Humanity</text>
+
+  <!-- Acceleration arrow -->
+  <line x1="130" y1="110" x2="1080" y2="110" stroke="#00BCD4" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="600" y="105" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13">Intervals shrinking — acceleration of displacement</text>
+
+  <!-- Timeline axis -->
+  <line x1="100" y1="470" x2="1120" y2="470" stroke="#333333" stroke-width="2"/>
+
+  <!-- Node 1: 1750 Steam — TOP -->
+  <circle cx="140" cy="470" r="10" fill="#FF9800"/>
+  <line x1="140" y1="460" x2="140" y2="190" stroke="#FF9800" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="90" y="135" width="200" height="115" rx="8" fill="#0A0A0A" stroke="#FF9800" stroke-width="1"/>
+  <text x="110" y="160" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">1750 Steam Engine</text>
+  <text x="110" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Brute force</text>
+  <text x="110" y="200" fill="#888888" font-family="sans-serif" font-size="11">Weavers, porters</text>
+  <text x="110" y="243" fill="#FF9800" font-family="sans-serif" font-size="11" font-weight="bold">120 yrs →</text>
+
+  <!-- Node 2: 1870 Electricity — BOTTOM -->
+  <circle cx="270" cy="470" r="10" fill="#FF9800"/>
+  <line x1="270" y1="480" x2="270" y2="595" stroke="#FF9800" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="195" y="540" width="220" height="115" rx="8" fill="#0A0A0A" stroke="#FF9800" stroke-width="1"/>
+  <text x="215" y="565" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">1870 Electrification</text>
+  <text x="215" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Endurance</text>
+  <text x="215" y="605" fill="#888888" font-family="sans-serif" font-size="11">Ford assembly, motors</text>
+  <text x="215" y="648" fill="#FF9800" font-family="sans-serif" font-size="11" font-weight="bold">89 yrs →</text>
+
+  <!-- Node 3: 1959 CNC/Robots — TOP -->
+  <circle cx="400" cy="470" r="10" fill="#2196F3"/>
+  <line x1="400" y1="460" x2="400" y2="190" stroke="#2196F3" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="325" y="135" width="230" height="115" rx="8" fill="#0A0A0A" stroke="#2196F3" stroke-width="1"/>
+  <text x="345" y="160" fill="#2196F3" font-family="sans-serif" font-size="15" font-weight="bold">1959 CNC/Industrial Robots</text>
+  <text x="345" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Precision</text>
+  <text x="345" y="200" fill="#888888" font-family="sans-serif" font-size="11">Welders, painters</text>
+  <text x="345" y="243" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">16 yrs →</text>
+
+  <!-- Node 4: 1975 PC — BOTTOM -->
+  <circle cx="520" cy="470" r="10" fill="#2196F3"/>
+  <line x1="520" y1="480" x2="520" y2="595" stroke="#2196F3" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="445" y="540" width="220" height="115" rx="8" fill="#0A0A0A" stroke="#2196F3" stroke-width="1"/>
+  <text x="465" y="565" fill="#2196F3" font-family="sans-serif" font-size="15" font-weight="bold">1975 Personal Computer</text>
+  <text x="465" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Calculation</text>
+  <text x="465" y="605" fill="#888888" font-family="sans-serif" font-size="11">Spreadsheets, word processing</text>
+  <text x="465" y="648" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">20 yrs →</text>
+
+  <!-- Node 5: 1995 Internet — TOP -->
+  <circle cx="640" cy="470" r="10" fill="#00BCD4"/>
+  <line x1="640" y1="460" x2="640" y2="190" stroke="#00BCD4" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="565" y="135" width="230" height="115" rx="8" fill="#0A0A0A" stroke="#00BCD4" stroke-width="1"/>
+  <text x="585" y="160" fill="#00BCD4" font-family="sans-serif" font-size="15" font-weight="bold">1995 Internet/Search</text>
+  <text x="585" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Memory</text>
+  <text x="585" y="200" fill="#888888" font-family="sans-serif" font-size="11">Google, e-commerce</text>
+  <text x="585" y="243" fill="#00BCD4" font-family="sans-serif" font-size="11" font-weight="bold">17 yrs →</text>
+
+  <!-- Node 6: 2012 Deep Learning — BOTTOM -->
+  <circle cx="760" cy="470" r="10" fill="#00BCD4"/>
+  <line x1="760" y1="480" x2="760" y2="595" stroke="#00BCD4" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="685" y="540" width="220" height="115" rx="8" fill="#0A0A0A" stroke="#00BCD4" stroke-width="1"/>
+  <text x="705" y="565" fill="#00BCD4" font-family="sans-serif" font-size="15" font-weight="bold">2012 Deep Learning</text>
+  <text x="705" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Perception</text>
+  <text x="705" y="605" fill="#888888" font-family="sans-serif" font-size="11">Image/speech recognition</text>
+  <text x="705" y="648" fill="#00BCD4" font-family="sans-serif" font-size="11" font-weight="bold">10 yrs →</text>
+
+  <!-- Node 7: 2022 LLM/Agent — TOP (highlighted) -->
+  <circle cx="900" cy="470" r="12" fill="#FF4444"/>
+  <line x1="900" y1="458" x2="900" y2="190" stroke="#FF4444" stroke-width="1.5" stroke-dasharray="3,4"/>
+  <rect x="810" y="135" width="250" height="115" rx="8" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="830" y="160" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">2022 LLM / 2025 Agent</text>
+  <text x="830" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: General cognition</text>
+  <text x="830" y="200" fill="#888888" font-family="sans-serif" font-size="11">Copywriting, coding, translation</text>
+  <text x="830" y="243" fill="#FF4444" font-family="sans-serif" font-size="11" font-weight="bold">~5 yrs →</text>
+
+  <!-- Node 8: ~2030 Embodied AI — BOTTOM (highlighted) -->
+  <circle cx="1060" cy="470" r="14" fill="#FF4444"/>
+  <line x1="1060" y1="484" x2="1060" y2="595" stroke="#FF4444" stroke-width="1.5" stroke-dasharray="3,4"/>
+  <rect x="940" y="540" width="230" height="115" rx="8" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="960" y="565" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">~2030 Embodied AI</text>
+  <text x="960" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">Replaces: Full stack (cognition+action)</text>
+  <text x="960" y="605" fill="#888888" font-family="sans-serif" font-size="11">Humanoid robots, AV</text>
+  <text x="960" y="648" fill="#FF4444" font-family="sans-serif" font-size="11" font-weight="bold">← We are here</text>
+
+  <!-- Escalation bar at bottom -->
+  <rect x="80" y="720" width="1040" height="55" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
+  <text x="600" y="745" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">Intervals: 120 → 89 → 16 → 20 → 17 → 10 → 5 — The acceleration itself is accelerating</text>
+  <text x="600" y="765" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">The gap between disruption waves is compressing. This time it replaces the brain, not the body.</text>
+</svg>

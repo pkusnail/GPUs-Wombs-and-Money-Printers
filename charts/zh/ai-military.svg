@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">AI军事化：算力即火力</text>
+
+  <!-- LEFT: Military AI Budgets -->
+  <text x="300" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">军事AI预算 (2026)</text>
+
+  <!-- US -->
+  <text x="100" y="175" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇺🇸 美国 USA</text>
+  <rect x="240" y="158" width="268" height="28" rx="4" fill="#2196F3" opacity="0.8"/>
+  <text x="520" y="178" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">$134亿</text>
+
+  <!-- China -->
+  <text x="100" y="215" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇨🇳 中国 China</text>
+  <rect x="240" y="198" width="300" height="28" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="550" y="218" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">~$150亿</text>
+
+  <!-- Israel -->
+  <text x="100" y="255" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇮🇱 以色列 Israel</text>
+  <rect x="240" y="238" width="25" height="28" rx="4" fill="#FF9800" opacity="0.7"/>
+  <text x="275" y="258" fill="#FF9800" font-family="sans-serif" font-size="14">$125亿增额</text>
+
+  <!-- Germany -->
+  <text x="100" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇩🇪 德国 Germany</text>
+  <rect x="240" y="278" width="24" height="28" rx="4" fill="#00BCD4" opacity="0.6"/>
+  <text x="275" y="298" fill="#00BCD4" font-family="sans-serif" font-size="14">$120亿 无人机</text>
+
+  <text x="300" y="340" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">美国FY2026总国防预算: $1.01万亿</text>
+
+  <!-- RIGHT: AI in Combat -->
+  <text x="850" y="125" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">AI已在实战中杀人</text>
+
+  <!-- Lavender -->
+  <rect x="620" y="155" width="500" height="190" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="640" y="185" fill="#FF4444" font-family="sans-serif" font-size="18" font-weight="bold">以色列 Lavender 系统</text>
+
+  <text x="640" y="215" fill="#FFFFFF" font-family="sans-serif" font-size="13">分析对象: 加沙230万居民</text>
+  <text x="640" y="240" fill="#FFFFFF" font-family="sans-serif" font-size="13">标记目标: <tspan fill="#FF4444" font-weight="bold">37,000人</tspan></text>
+  <text x="640" y="265" fill="#FFFFFF" font-family="sans-serif" font-size="13">审批时间: <tspan fill="#FF4444" font-weight="bold">20秒/人</tspan>（几乎无人类复核）</text>
+  <text x="640" y="290" fill="#FFFFFF" font-family="sans-serif" font-size="13">误标率: <tspan fill="#FF9800" font-weight="bold">~10%</tspan> · 允许附带平民: <tspan fill="#FF4444" font-weight="bold">15-20人/目标</tspan></text>
+  <text x="640" y="315" fill="#888888" font-family="sans-serif" font-size="12">几天内生成 = 过去一年的工作量</text>
+  <text x="640" y="338" fill="#555555" font-family="sans-serif" font-size="10">Source: 972 Magazine, April 2024</text>
+
+  <!-- MIDDLE: Proliferation -->
+  <text x="600" y="385" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">AI武器扩散</text>
+
+  <rect x="80" y="405" width="340" height="80" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="100" y="433" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇺🇦 乌克兰无人机</text>
+  <text x="100" y="458" fill="#FF9800" font-family="sans-serif" font-size="13">2024: 220万架 → 2025: <tspan font-weight="bold">450万架</tspan></text>
+  <text x="100" y="478" fill="#888888" font-family="sans-serif" font-size="11">AI自主锁定目标</text>
+
+  <rect x="440" y="405" width="340" height="80" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="460" y="433" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🏭 军用无人机企业</text>
+  <text x="460" y="458" fill="#2196F3" font-family="sans-serif" font-size="13">2022: 6家 → 2024: <tspan font-weight="bold">200+家</tspan></text>
+  <text x="460" y="478" fill="#888888" font-family="sans-serif" font-size="11">33倍增长</text>
+
+  <rect x="800" y="405" width="320" height="80" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="820" y="433" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🌐 AI网络攻击</text>
+  <text x="820" y="458" fill="#FF4444" font-family="sans-serif" font-size="13">2025: <tspan font-weight="bold">2800万+次</tspan> (↑72% YoY)</text>
+  <text x="820" y="478" fill="#888888" font-family="sans-serif" font-size="11">39%国家支持</text>
+
+  <!-- US Systems -->
+  <rect x="80" y="505" width="1040" height="95" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="533" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">美国在研AI武器系统</text>
+  <text x="100" y="560" fill="#FFFFFF" font-family="sans-serif" font-size="12">CCA "忠诚僚机": ~1000架自主战斗无人机（2款原型测试中）</text>
+  <text x="100" y="580" fill="#FFFFFF" font-family="sans-serif" font-size="12">LRASM C-3: AI自主反舰导弹，射程翻倍至~1600km · Replicator: 数千架廉价自主系统 · Maven: LLM驱动100%机器情报</text>
+
+  <!-- BOTTOM: The Key Danger -->
+  <rect x="80" y="620" width="1040" height="80" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="650" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">AI让战争变得"容易"——这对和平最危险</text>
+  <text x="600" y="678" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13">自主武器消除了国内伤亡 → 使用武力的政治门槛大幅降低 → 不再有"谁家孩子上战场"的反对</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="745" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">弱国的AI军事预算 = 强国的零头。差距不是在缩小，而是在指数级扩大。</text>
+
+  <!-- Sources -->
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: CDO Magazine · 972 Magazine · Atlantic Council · DefenseScoop · Anthropic · Arms Control Assoc.</text>
+</svg>

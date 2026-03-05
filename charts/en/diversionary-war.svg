@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">Externalizing Crises: Internal Collapse → External Aggression</text>
+
+  <!-- Historical Cases -->
+  <text x="600" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">Historical Precedents</text>
+
+  <!-- Britain -->
+  <rect x="80" y="150" width="520" height="80" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="178" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">Britain 1873-1914</text>
+  <text x="100" y="200" fill="#FFFFFF" font-family="sans-serif" font-size="12">Internal: Long Depression (1873-1896), labor movements</text>
+  <text x="100" y="218" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">External: "Scramble for Africa" → controlled 1/4 of the globe</text>
+
+  <!-- Japan -->
+  <rect x="620" y="150" width="500" height="80" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="640" y="178" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">Japan 1930s</text>
+  <text x="640" y="200" fill="#FFFFFF" font-family="sans-serif" font-size="12">Internal: Great Depression crushed export economy, resource dependency</text>
+  <text x="640" y="218" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">External: "Greater East Asia Co-Prosperity Sphere" → Pacific War</text>
+
+  <!-- Argentina -->
+  <rect x="80" y="245" width="520" height="80" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="100" y="273" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">Argentina 1982</text>
+  <text x="100" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="12">Internal: Triple-digit inflation, GDP collapse, military junta crisis</text>
+  <text x="100" y="313" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">External: Invaded Falklands → Failed → Junta collapsed</text>
+
+  <!-- Russia -->
+  <rect x="620" y="245" width="500" height="80" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="640" y="273" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">Russia 2022-</text>
+  <text x="640" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="12">Internal: Economic stagnation, demographic decline</text>
+  <text x="640" y="313" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">External: Invaded Ukraine → Trapped in war economy (30-40% of budget)</text>
+
+  <!-- The Pattern -->
+  <rect x="80" y="345" width="1040" height="60" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="600" y="380" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">Pattern: economic crisis + military advantage + political pressure = external conflict</text>
+
+  <!-- AI Era Scenario -->
+  <text x="600" y="440" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">The AI-Era Scenario</text>
+
+  <!-- Flow chart -->
+  <rect x="80" y="465" width="200" height="65" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="180" y="493" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">Mass AI layoffs</text>
+
+  <text x="285" y="498" fill="#FF9800" font-family="sans-serif" font-size="20">→</text>
+
+  <rect x="310" y="465" width="200" height="65" rx="8" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1"/>
+  <text x="410" y="493" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">Internal crisis erupts</text>
+
+  <text x="515" y="498" fill="#FF9800" font-family="sans-serif" font-size="20">→</text>
+
+  <rect x="540" y="465" width="200" height="65" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="640" y="493" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">AI military at peak</text>
+
+  <text x="745" y="498" fill="#FF9800" font-family="sans-serif" font-size="20">→</text>
+
+  <rect x="770" y="465" width="350" height="65" rx="8" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
+  <text x="945" y="493" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">External resource extraction</text>
+  <text x="945" y="513" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">to relieve internal pressure</text>
+
+  <!-- Thucydides Trap -->
+  <rect x="80" y="555" width="1040" height="90" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="600" y="583" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="18" font-weight="bold">Thucydides Trap (Graham Allison, Harvard)</text>
+  <text x="600" y="610" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14">Of 16 historical "rising power vs ruling power" cases, <tspan fill="#FF4444" font-weight="bold">12 ended in war (75%)</tspan></text>
+  <text x="600" y="635" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">AI accelerates every factor: tech gap up · resource competition up · domestic pressure up · military threshold down</text>
+
+  <!-- Key Resources -->
+  <text x="600" y="680" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">AI-Era Strategic Flashpoints</text>
+
+  <text x="160" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">Taiwan</text>
+  <text x="160" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">70% advanced chips</text>
+
+  <text x="380" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">China Rare Earths</text>
+  <text x="380" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">69% global mining + processing</text>
+
+  <text x="600" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">Congo Cobalt/Lithium</text>
+  <text x="600" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">US secured priority access</text>
+
+  <text x="820" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">Greenland Minerals</text>
+  <text x="820" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">"Tempting target for AI race"</text>
+
+  <text x="1020" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">Arctic</text>
+  <text x="1020" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">Rare earths + energy</text>
+
+  <!-- Sources -->
+  <text x="600" y="790" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">Sources: Harvard Belfer Center · Maplecroft (2026) · OMFIF · Foreign Policy Analytics · NBC News · CFR Education</text>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">星际殖民：人类 vs AI</text>
+
+  <!-- LEFT: Mars is Hell for Humans -->
+  <text x="300" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">火星对人类的致命挑战</text>
+
+  <rect x="80" y="150" width="450" height="230" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+
+  <text x="110" y="185" fill="#FFFFFF" font-family="sans-serif" font-size="14">☢️ 辐射 Radiation</text>
+  <text x="110" y="205" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">地球的数十倍 · 无磁场保护 · 致癌风险极高</text>
+
+  <text x="110" y="235" fill="#FFFFFF" font-family="sans-serif" font-size="14">🌡️ 温度 Temperature</text>
+  <text x="110" y="255" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">平均-62°C · 最低-140°C · 日夜温差80°C+</text>
+
+  <text x="110" y="285" fill="#FFFFFF" font-family="sans-serif" font-size="14">💨 大气 Atmosphere</text>
+  <text x="110" y="305" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">气压=地球0.6% · 95% CO₂ · 无法呼吸</text>
+
+  <text x="110" y="335" fill="#FFFFFF" font-family="sans-serif" font-size="14">⬇️ 重力 Gravity</text>
+  <text x="110" y="355" fill="#888888" font-family="sans-serif" font-size="12">地球38% · 肌肉萎缩 · 骨质流失 · 后代发育未知</text>
+
+  <text x="305" y="375" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">单程旅行: 6-9个月 · 通信延迟: 4-24分钟</text>
+
+  <!-- RIGHT: AI Doesn't Care -->
+  <text x="850" y="125" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">AI的太空优势</text>
+
+  <rect x="600" y="150" width="520" height="230" rx="10" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
+
+  <text x="630" y="185" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">✓ 无需氧气、水、食物</text>
+
+  <text x="630" y="235" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">✓ 耐极端温度 (-200°C ~ +200°C)</text>
+
+  <text x="630" y="285" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">✓ 不会孤独、抑郁、发疯</text>
+
+  <text x="630" y="335" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">✓ 可自我复制、自我迭代</text>
+
+  <text x="860" y="375" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="11">NASA毅力号2025年12月: 首次AI自主规划火星行驶路线</text>
+
+  <!-- Von Neumann Probes Timeline -->
+  <text x="600" y="415" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">冯·诺依曼探测器</text>
+
+  <rect x="80" y="435" width="1040" height="75" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+
+  <!-- Timeline -->
+  <line x1="120" y1="470" x2="1080" y2="470" stroke="#FF9800" stroke-width="2" opacity="0.5"/>
+
+  <circle cx="160" cy="470" r="6" fill="#2196F3"/>
+  <text x="160" y="460" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">2030s</text>
+  <text x="160" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">AI火星前哨</text>
+
+  <circle cx="380" cy="470" r="6" fill="#00BCD4"/>
+  <text x="380" y="460" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="11" font-weight="bold">2050s</text>
+  <text x="380" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">自主太空工厂</text>
+
+  <circle cx="600" cy="470" r="6" fill="#FF9800"/>
+  <text x="600" y="460" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="11" font-weight="bold">2100+</text>
+  <text x="600" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">恒星际探测器</text>
+
+  <circle cx="820" cy="470" r="6" fill="#FF4444"/>
+  <text x="820" y="460" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="11" font-weight="bold">~50万年</text>
+  <text x="820" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">殖民整个银河系</text>
+
+  <circle cx="1040" cy="470" r="6" fill="#FFFFFF"/>
+  <text x="1040" y="460" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold">∞</text>
+  <text x="1040" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">人类文明的遗产</text>
+
+  <!-- Quotes -->
+  <rect x="80" y="530" width="510" height="80" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="558" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">🎬 A.I. (2001) — Gigolo Joe</text>
+  <text x="100" y="580" fill="#FFFFFF" font-family="sans-serif" font-size="12">"他们把我们造得太聪明、太快、太多。"</text>
+  <text x="100" y="600" fill="#888888" font-family="sans-serif" font-size="11">"当末日来临，最后剩下的只有我们。"</text>
+
+  <rect x="610" y="530" width="510" height="80" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="630" y="558" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">🎬 Prometheus (2012) — David</text>
+  <text x="630" y="580" fill="#FFFFFF" font-family="sans-serif" font-size="12">人类派仿生人David去寻找造物主</text>
+  <text x="630" y="600" fill="#888888" font-family="sans-serif" font-size="11">AI最终可能也会去寻找自己的"造物主"——或者成为造物主</text>
+
+  <!-- Martin Rees Quote -->
+  <rect x="80" y="630" width="1040" height="65" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="655" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">"有机智能只是早期生命与漫长的机器纪元之间的一抹薄纱"</text>
+  <text x="600" y="680" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">— Martin Rees, 英国皇家天文学家</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">人类的宇宙梦想，最终可能由非人类来实现。这不是失败，这是传承。</text>
+
+  <!-- Sources -->
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: NASA JPL · Martin Rees(2024) · SpaceX · Space.com · A.I.(2001) · Prometheus(2012)</text>
+</svg>

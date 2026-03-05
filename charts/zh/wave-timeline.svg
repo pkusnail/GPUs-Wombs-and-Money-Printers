@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">新技术普及速度：越来越快</text>
+
+  <!-- Y axis -->
+  <line x1="110" y1="110" x2="110" y2="660" stroke="#333333" stroke-width="1"/>
+  <text x="48" y="390" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13" transform="rotate(-90,48,390)">从出现到统治的年数</text>
+
+  <!-- Y ticks: 0-50, each 10 = 110px -->
+  <text x="100" y="660" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">0</text>
+  <line x1="110" y1="660" x2="1100" y2="660" stroke="#333333" stroke-width="1"/>
+  <text x="100" y="550" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">10</text>
+  <line x1="110" y1="550" x2="1100" y2="550" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="100" y="440" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">20</text>
+  <line x1="110" y1="440" x2="1100" y2="440" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="100" y="330" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">30</text>
+  <line x1="110" y1="330" x2="1100" y2="330" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="100" y="220" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">40</text>
+  <line x1="110" y1="220" x2="1100" y2="220" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="100" y="110" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">50</text>
+  <line x1="110" y1="110" x2="1100" y2="110" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- Scale: 50 years = 550px (110 to 660). 1 year = 11px -->
+  <!-- 6 bars, evenly spaced. Bar width=110, gap=45 -->
+
+  <!-- 1. AT&T: 50 years. top=110, height=550 -->
+  <rect x="140" y="110" width="110" height="550" rx="5" fill="#2196F3" opacity="0.65"/>
+  <text x="195" y="190" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34" font-weight="bold">50</text>
+  <text x="195" y="215" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="sans-serif" font-size="13">年</text>
+  <text x="195" y="690" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">AT&amp;T</text>
+  <text x="195" y="708" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">电话</text>
+  <text x="195" y="724" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="10">1870s–1920s</text>
+
+  <!-- 2. IBM: 30 years. top=330, height=330 -->
+  <rect x="295" y="330" width="110" height="330" rx="5" fill="#2196F3" opacity="0.7"/>
+  <text x="350" y="405" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34" font-weight="bold">30</text>
+  <text x="350" y="430" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="sans-serif" font-size="13">年</text>
+  <text x="350" y="690" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">IBM</text>
+  <text x="350" y="708" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">大型机</text>
+  <text x="350" y="724" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="10">1950s–1980s</text>
+
+  <!-- 3. Microsoft: 20 years. top=440, height=220 -->
+  <rect x="450" y="440" width="110" height="220" rx="5" fill="#00BCD4" opacity="0.75"/>
+  <text x="505" y="520" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34" font-weight="bold">20</text>
+  <text x="505" y="545" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="sans-serif" font-size="13">年</text>
+  <text x="505" y="690" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Microsoft</text>
+  <text x="505" y="708" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">个人电脑</text>
+  <text x="505" y="724" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="10">1985–2005</text>
+
+  <!-- 4. Google: 15 years. top=495, height=165 -->
+  <rect x="605" y="495" width="110" height="165" rx="5" fill="#00BCD4" opacity="0.8"/>
+  <text x="660" y="565" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34" font-weight="bold">15</text>
+  <text x="660" y="590" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="sans-serif" font-size="13">年</text>
+  <text x="660" y="690" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Google</text>
+  <text x="660" y="708" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">搜索/互联网</text>
+  <text x="660" y="724" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="10">1998–2013</text>
+
+  <!-- 5. Apple/Mobile: 10 years. top=550, height=110 -->
+  <rect x="760" y="550" width="110" height="110" rx="5" fill="#00BCD4" opacity="0.85"/>
+  <text x="815" y="605" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34" font-weight="bold">10</text>
+  <text x="815" y="630" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="sans-serif" font-size="13">年</text>
+  <text x="815" y="690" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Apple</text>
+  <text x="815" y="708" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">移动互联网</text>
+  <text x="815" y="724" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="10">2007–2017</text>
+
+  <!-- 6. AI: 3 years. top=627, height=33 -->
+  <rect x="915" y="627" width="110" height="33" rx="5" fill="#FF9800" opacity="0.95" filter="url(#glow)"/>
+  <text x="970" y="653" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="22" font-weight="bold">?</text>
+  <text x="970" y="690" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">AI</text>
+  <text x="970" y="708" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="10">智能时代</text>
+  <text x="970" y="724" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="10">2022 → …</text>
+
+  <!-- Trend curve through bar tops -->
+  <path d="M195,110 C300,200 350,330 350,330" stroke="#FF4444" stroke-width="2" fill="none" stroke-dasharray="6,4" opacity="0.5"/>
+  <path d="M350,330 C420,380 505,440 505,440" stroke="#FF4444" stroke-width="2" fill="none" stroke-dasharray="6,4" opacity="0.5"/>
+  <path d="M505,440 C560,470 660,495 660,495" stroke="#FF4444" stroke-width="2" fill="none" stroke-dasharray="6,4" opacity="0.5"/>
+  <path d="M660,495 C720,520 815,550 815,550" stroke="#FF4444" stroke-width="2" fill="none" stroke-dasharray="6,4" opacity="0.6"/>
+  <path d="M815,550 C880,590 970,627 970,627" stroke="#FF4444" stroke-width="2.5" fill="none" stroke-dasharray="6,4" opacity="0.7"/>
+
+
+  <!-- Bottom insight -->
+  <text x="600" y="775" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">从认猫到通过律考：10年 · 从ChatGPT到自主编程智能体：3年</text>
+
+  <!-- Source -->
+  <text x="1100" y="775" text-anchor="end" fill="#444444" font-family="sans-serif" font-size="10">参考《浪潮之巅》第四版 吴军 ISBN 9787115514226 book.douban.com/subject/33474750</text>
+</svg>

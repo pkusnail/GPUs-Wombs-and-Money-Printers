@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <filter id="glow4">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">San Francisco: A Dual-Speed City</text>
+
+  <!-- Divider -->
+  <line x1="600" y1="120" x2="600" y2="720" stroke="#333333" stroke-width="2" stroke-dasharray="8,4"/>
+
+  <!-- LEFT: Old Economy -->
+  <text x="300" y="150" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="22" font-weight="bold">Old Economy Zones</text>
+
+  <!-- Big vacancy number -->
+  <text x="300" y="290" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="100" font-weight="bold" filter="url(#glow4)">34%</text>
+  <text x="300" y="330" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18">Office Vacancy Rate</text>
+
+  <!-- Decay indicators -->
+  <rect x="160" y="400" width="280" height="45" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="300" y="428" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">Home prices -11%</text>
+
+  <rect x="160" y="460" width="280" height="45" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="300" y="488" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">Retail closure wave</text>
+
+  <rect x="160" y="520" width="280" height="45" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+  <text x="300" y="548" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">Tax revenue falling</text>
+
+  <!-- Ghost building illustration -->
+  <rect x="220" y="600" width="40" height="80" rx="2" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
+  <rect x="270" y="580" width="60" height="100" rx="2" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
+  <rect x="340" y="610" width="40" height="70" rx="2" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
+  <text x="300" y="710" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="12">Empty towers</text>
+
+  <!-- RIGHT: AI Economy -->
+  <text x="900" y="150" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="22" font-weight="bold">AI Economy Hub</text>
+
+  <!-- Mission Bay number -->
+  <text x="900" y="290" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="100" font-weight="bold" filter="url(#glow4)">&lt;9%</text>
+  <text x="900" y="330" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18">Mission Bay Vacancy</text>
+
+  <!-- Growth indicators -->
+  <rect x="760" y="400" width="280" height="45" rx="8" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
+  <text x="900" y="428" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">OpenAI HQ here</text>
+
+  <rect x="760" y="460" width="280" height="45" rx="8" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
+  <text x="900" y="488" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">AI firms leased 1M+ sqft</text>
+
+  <rect x="760" y="520" width="280" height="45" rx="8" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
+  <text x="900" y="548" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">Per capita GDP rising</text>
+
+  <!-- Lit building illustration -->
+  <rect x="820" y="600" width="40" height="80" rx="2" fill="#00BCD4" fill-opacity="0.2" stroke="#00BCD4" stroke-width="1"/>
+  <rect x="870" y="580" width="60" height="100" rx="2" fill="#00BCD4" fill-opacity="0.3" stroke="#00BCD4" stroke-width="1"/>
+  <rect x="940" y="610" width="40" height="70" rx="2" fill="#00BCD4" fill-opacity="0.2" stroke="#00BCD4" stroke-width="1"/>
+  <text x="900" y="710" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="12">Lights blazing</text>
+
+  <!-- Bottom quote -->
+  <text x="600" y="765" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15" font-style="italic">"A heart still beating, but limbs gone cold"</text>
+</svg>

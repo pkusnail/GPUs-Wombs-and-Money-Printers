@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">技术革命的历史：净创造，不是净毁灭</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">History of Tech Revolutions: Net Creation, Not Net Destruction</text>
+
+  <!-- WEF Waterfall Chart -->
+  <text x="600" y="125" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="18" font-weight="bold">WEF 2025预测：到2030年的全球就业变化</text>
+
+  <!-- Axis -->
+  <line x1="200" y1="400" x2="1000" y2="400" stroke="#555555" stroke-width="1"/>
+  <text x="190" y="405" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">0</text>
+
+  <!-- Created jobs bar (going up) -->
+  <rect x="280" y="165" width="200" height="235" rx="8" fill="#00BCD4" opacity="0.8"/>
+  <text x="380" y="155" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="22" font-weight="bold">+1.7亿</text>
+  <text x="380" y="290" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">新增岗位</text>
+  <text x="380" y="310" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="12">New Jobs</text>
+  <text x="380" y="340" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">AI训练/审计</text>
+  <text x="380" y="358" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">人机协作设计</text>
+  <text x="380" y="376" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">绿色能源/护理</text>
+
+  <!-- Destroyed jobs bar (going down) -->
+  <rect x="520" y="400" width="200" height="130" rx="8" fill="#FF4444" opacity="0.8"/>
+  <text x="620" y="545" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="22" font-weight="bold">-9200万</text>
+  <text x="620" y="450" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">消失岗位</text>
+  <text x="620" y="470" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="12">Displaced Jobs</text>
+  <text x="620" y="498" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">数据录入/文书</text>
+  <text x="620" y="516" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">出纳/客服/翻译</text>
+
+  <!-- Net bar -->
+  <rect x="760" y="280" width="200" height="120" rx="8" fill="#FF9800" opacity="0.9"/>
+  <text x="860" y="268" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="26" font-weight="bold">净+7800万</text>
+  <text x="860" y="335" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">净增</text>
+  <text x="860" y="358" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14">Net New Jobs</text>
+
+  <!-- Plus/minus signs -->
+  <text x="480" y="310" fill="#555555" font-family="sans-serif" font-size="40" font-weight="bold">+</text>
+  <text x="720" y="470" fill="#555555" font-family="sans-serif" font-size="40" font-weight="bold">=</text>
+
+  <!-- ATM Paradox -->
+  <rect x="80" y="590" width="500" height="90" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="618" fill="#2196F3" font-family="sans-serif" font-size="15" font-weight="bold">ATM悖论 The ATM Paradox</text>
+  <text x="100" y="640" fill="#FFFFFF" font-family="sans-serif" font-size="12">每个分行柜员: 20人→13人（↓35%）</text>
+  <text x="100" y="658" fill="#FFFFFF" font-family="sans-serif" font-size="12">城市分行数量: <tspan fill="#00BCD4" font-weight="bold">↑43%</tspan> · 柜员总数: 30万→60万（<tspan fill="#00BCD4" font-weight="bold">↑100%</tspan>）</text>
+  <text x="100" y="674" fill="#888888" font-family="sans-serif" font-size="11">技术让单位成本降低→开更多分行→总就业反而增加</text>
+
+  <!-- 1/3 stat -->
+  <rect x="620" y="590" width="500" height="90" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="640" y="618" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">看不见的新岗位 Invisible New Jobs</text>
+  <text x="640" y="643" fill="#FFFFFF" font-family="sans-serif" font-size="14">美国目前<tspan fill="#FF9800" font-weight="bold"> 1/3 的工作岗位</tspan></text>
+  <text x="640" y="663" fill="#FFFFFF" font-family="sans-serif" font-size="14">在<tspan fill="#FF9800" font-weight="bold"> 25年前根本不存在</tspan></text>
+  <text x="640" y="674" fill="#888888" font-family="sans-serif" font-size="11">— McKinsey</text>
+
+  <!-- Bottom note -->
+  <text x="600" y="730" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13">注意：WEF预测可能偏乐观，但历史方向一致——每次技术革命的长期结果都是净创造</text>
+
+  <!-- Sources -->
+  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: WEF Future of Jobs Report 2025 · McKinsey · AEI · IMF Finance &amp; Development</text>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <linearGradient id="darkGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF4444" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#0A0A0A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00BCD4" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">Dual-Speed Cities — Core vs Periphery</text>
+
+  <!-- Divider -->
+  <line x1="600" y1="110" x2="600" y2="700" stroke="#333333" stroke-width="2"/>
+
+  <!-- LEFT: Common Cities -->
+  <text x="300" y="145" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="24" font-weight="bold">Common Cities</text>
+  <text x="300" y="172" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">Rapid Decay</text>
+
+  <!-- City skyline (dark, decaying) -->
+  <rect x="100" y="350" width="50" height="120" rx="2" fill="none" stroke="#333333" stroke-width="1"/>
+  <rect x="160" y="310" width="60" height="160" rx="2" fill="none" stroke="#333333" stroke-width="1"/>
+  <rect x="230" y="370" width="45" height="100" rx="2" fill="none" stroke="#333333" stroke-width="1"/>
+  <rect x="290" y="330" width="70" height="140" rx="2" fill="none" stroke="#333333" stroke-width="1"/>
+  <rect x="375" y="360" width="50" height="110" rx="2" fill="none" stroke="#333333" stroke-width="1"/>
+  <rect x="440" y="380" width="40" height="90" rx="2" fill="none" stroke="#333333" stroke-width="1"/>
+  <!-- Ground -->
+  <line x1="80" y1="470" x2="520" y2="470" stroke="#333333" stroke-width="1"/>
+
+  <!-- Decay indicators -->
+  <text x="300" y="220" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">▼ Single-industry / transfer-payment towns</text>
+
+  <text x="300" y="510" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13">Jobless → consumption ↓ → housing ↓</text>
+  <text x="300" y="535" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13">→ banks fail → services vanish → youth flees</text>
+
+  <!-- China examples -->
+  <rect x="100" y="570" width="400" height="80" rx="8" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
+  <text x="300" y="598" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13">China: Hegang houses ¥20-30K · Liaoning wages ¥3-4K/mo</text>
+  <text x="300" y="625" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">Prediction: 100s of ghost cities in 10 yrs</text>
+
+  <!-- RIGHT: Core Cities -->
+  <text x="900" y="145" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="24" font-weight="bold">Core Cities</text>
+  <text x="900" y="172" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">Transformation Not Death</text>
+
+  <!-- City skyline (lit up) -->
+  <rect x="700" y="350" width="50" height="120" rx="2" fill="#00BCD4" fill-opacity="0.15" stroke="#00BCD4" stroke-width="1"/>
+  <rect x="760" y="290" width="60" height="180" rx="2" fill="#00BCD4" fill-opacity="0.25" stroke="#00BCD4" stroke-width="1.5"/>
+  <rect x="830" y="340" width="45" height="130" rx="2" fill="#00BCD4" fill-opacity="0.15" stroke="#00BCD4" stroke-width="1"/>
+  <rect x="885" y="300" width="75" height="170" rx="2" fill="#00BCD4" fill-opacity="0.3" stroke="#00BCD4" stroke-width="2"/>
+  <rect x="970" y="360" width="50" height="110" rx="2" fill="#00BCD4" fill-opacity="0.15" stroke="#00BCD4" stroke-width="1"/>
+  <rect x="1030" y="370" width="40" height="100" rx="2" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
+  <!-- Window lights -->
+  <rect x="770" y="310" width="8" height="8" fill="#00BCD4" opacity="0.8"/>
+  <rect x="790" y="310" width="8" height="8" fill="#00BCD4" opacity="0.6"/>
+  <rect x="770" y="330" width="8" height="8" fill="#00BCD4" opacity="0.7"/>
+  <rect x="900" y="320" width="10" height="10" fill="#00BCD4" opacity="0.9"/>
+  <rect x="920" y="320" width="10" height="10" fill="#00BCD4" opacity="0.7"/>
+  <rect x="940" y="320" width="10" height="10" fill="#00BCD4" opacity="0.8"/>
+  <rect x="900" y="345" width="10" height="10" fill="#00BCD4" opacity="0.6"/>
+  <rect x="920" y="345" width="10" height="10" fill="#00BCD4" opacity="0.9"/>
+  <!-- Ground -->
+  <line x1="680" y1="470" x2="1120" y2="470" stroke="#00BCD4" stroke-width="1" opacity="0.5"/>
+
+  <text x="900" y="220" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">▲ AI industry hubs</text>
+
+  <text x="900" y="510" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13">Population halves, GDP rises</text>
+  <text x="900" y="535" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13">Remaining humans + AI = hyperproductive</text>
+
+  <!-- Examples -->
+  <rect x="700" y="570" width="400" height="80" rx="8" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
+  <text x="900" y="598" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13">SF · Beijing · Shanghai · Shenzhen · New York · London</text>
+  <text x="900" y="625" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">Center blazing, surrounding blocks dark and empty</text>
+
+  <!-- Bottom -->
+  <text x="600" y="760" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14" font-style="italic">"A heart still beating, but limbs gone cold"</text>
+</svg>

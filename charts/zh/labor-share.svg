@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2196F3" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#2196F3" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">劳动者GDP份额</text>
+
+  <!-- Axes -->
+  <line x1="140" y1="650" x2="1080" y2="650" stroke="#333333" stroke-width="1"/>
+  <line x1="140" y1="130" x2="140" y2="650" stroke="#333333" stroke-width="1"/>
+
+  <!-- Y axis: 30% to 70% -->
+  <text x="130" y="135" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">70%</text>
+  <text x="130" y="265" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">60%</text>
+  <text x="130" y="395" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">50%</text>
+  <text x="130" y="525" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">40%</text>
+  <text x="130" y="650" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">30%</text>
+
+  <!-- Grid lines -->
+  <line x1="140" y1="265" x2="1080" y2="265" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="140" y1="395" x2="1080" y2="395" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="140" y1="525" x2="1080" y2="525" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- X axis labels -->
+  <text x="200" y="675" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">1974</text>
+  <text x="440" y="675" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">2000</text>
+  <text x="680" y="675" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">2015</text>
+  <text x="850" y="675" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">2024</text>
+  <text x="1020" y="675" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12">2030</text>
+
+  <!-- Data: 64%(1974) → 60%(2000) → 57%(2015) → 56%(2024) → 46%(2030 projected) -->
+  <!-- Y mapping: 70%=130, 30%=650. 1% = 13px. 64%=208, 60%=260, 57%=299, 56%=312, 46%=442 -->
+
+  <!-- Area fill -->
+  <polygon points="200,208 440,260 680,299 850,312 1020,442 1020,650 200,650" fill="url(#areaGrad)"/>
+
+  <!-- Line -->
+  <polyline points="200,208 440,260 680,299 850,312" stroke="#2196F3" stroke-width="3" fill="none"/>
+  <!-- Projected portion (dashed) -->
+  <polyline points="850,312 1020,442" stroke="#FF9800" stroke-width="3" fill="none" stroke-dasharray="8,4"/>
+
+  <!-- Data points -->
+  <circle cx="200" cy="208" r="6" fill="#2196F3"/>
+  <circle cx="440" cy="260" r="6" fill="#2196F3"/>
+  <circle cx="680" cy="299" r="6" fill="#2196F3"/>
+  <circle cx="850" cy="312" r="6" fill="#2196F3"/>
+  <circle cx="1020" cy="442" r="8" fill="#FF9800"/>
+
+  <!-- Data labels -->
+  <text x="200" y="195" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="18" font-weight="bold">64%</text>
+  <text x="440" y="247" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="16">60%</text>
+  <text x="680" y="286" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="16">57%</text>
+  <text x="850" y="299" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="18" font-weight="bold">56%</text>
+  <text x="1020" y="425" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="22" font-weight="bold">46%</text>
+  <text x="1020" y="470" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12">预测</text>
+
+  <!-- Annotation -->
+  <rect x="550" y="500" width="420" height="80" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
+  <text x="760" y="530" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">需给更多人更多钱，同时税收更少</text>
+
+  <!-- Decline arrow annotation -->
+  <text x="40" y="400" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13" transform="rotate(-90,40,400)">劳动份额 Labor Share (%)</text>
+</svg>

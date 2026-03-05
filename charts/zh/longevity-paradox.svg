@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">长寿悖论：活得更久，但谁来养？</text>
+
+  <!-- LEFT PANEL: Pension Insolvency Timeline -->
+  <text x="300" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">养老金破产倒计时</text>
+
+  <!-- Timeline bar -->
+  <line x1="80" y1="200" x2="520" y2="200" stroke="#333333" stroke-width="2"/>
+  <text x="80" y="190" fill="#888888" font-family="sans-serif" font-size="11">2025</text>
+  <text x="520" y="190" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">2040</text>
+
+  <!-- US -->
+  <rect x="80" y="220" width="440" height="70" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="100" y="248" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">🇺🇸 美国社保 US Social Security</text>
+  <text x="100" y="270" fill="#888888" font-family="sans-serif" font-size="12">2033-2034年耗尽 → 只能支付77-81%福利</text>
+  <circle cx="370" cy="200" r="6" fill="#FF4444"/>
+  <text x="370" y="215" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="10" font-weight="bold">2033</text>
+
+  <!-- China -->
+  <rect x="80" y="300" width="440" height="70" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="100" y="328" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">🇨🇳 中国养老金 China Pension</text>
+  <text x="100" y="350" fill="#888888" font-family="sans-serif" font-size="12">~2035年耗竭 · 缺口8-10万亿元</text>
+  <circle cx="400" cy="200" r="6" fill="#FF9800"/>
+  <text x="400" y="215" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="10" font-weight="bold">2035</text>
+
+  <!-- Japan -->
+  <rect x="80" y="380" width="440" height="70" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="408" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">🇯🇵 日本 Japan</text>
+  <text x="100" y="430" fill="#888888" font-family="sans-serif" font-size="12">2050年抚养比 &gt;0.8 · &lt;1.25人养1退休者</text>
+
+  <!-- Worker ratio -->
+  <rect x="80" y="465" width="440" height="55" rx="8" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1"/>
+  <text x="100" y="490" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">工作者:退休者比例</text>
+  <text x="100" y="510" fill="#888888" font-family="sans-serif" font-size="12">1960: 5.1:1 → 2025: 2.8:1 → 2040: 2.1:1（需要≥2.8才能运转）</text>
+
+  <!-- RIGHT PANEL: Longevity Impact -->
+  <text x="850" y="125" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">寿命延长的代价</text>
+
+  <!-- IMF finding -->
+  <rect x="620" y="155" width="500" height="80" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="870" y="185" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">寿命每延长1年 → 养老金负债 +3~5%</text>
+
+  <!-- Lifespan scenarios -->
+  <text x="640" y="270" fill="#FFFFFF" font-family="sans-serif" font-size="14">活到 80岁（当前）</text>
+  <rect x="810" y="255" width="100" height="24" rx="3" fill="#2196F3" opacity="0.6"/>
+  <text x="860" y="272" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">基准</text>
+
+  <text x="640" y="310" fill="#FFFFFF" font-family="sans-serif" font-size="14">活到 100岁</text>
+  <rect x="810" y="295" width="200" height="24" rx="3" fill="#FF9800" opacity="0.7"/>
+  <text x="910" y="312" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold">负债 ×2</text>
+
+  <text x="640" y="350" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">活到 120岁</text>
+  <rect x="810" y="335" width="300" height="24" rx="3" fill="#FF4444" opacity="0.8"/>
+  <text x="960" y="352" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold">负债 ×3</text>
+
+  <!-- Retirement duration -->
+  <rect x="620" y="380" width="500" height="85" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="640" y="405" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">退休时长 vs 工作时长</text>
+
+  <text x="640" y="430" fill="#888888" font-family="sans-serif" font-size="13">当前: 工作 ~40年, 退休 ~15年</text>
+  <text x="640" y="450" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">120岁: 工作 ~40年, 退休 ~55年 — 退休比工作还长</text>
+
+  <!-- The affordability gap -->
+  <rect x="620" y="480" width="500" height="75" rx="10" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1"/>
+  <text x="640" y="505" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">💰 长寿的价格</text>
+  <text x="640" y="528" fill="#888888" font-family="sans-serif" font-size="12">CAR-T疗法: &gt;$1,000,000 · 免疫治疗: $150-200K/年</text>
+  <text x="640" y="548" fill="#888888" font-family="sans-serif" font-size="12">美国贫富健康寿命差: 7-9年 · 全球: 挪威83岁 vs 乍得52岁</text>
+
+  <!-- BOTTOM: The Paradox Loop -->
+  <rect x="80" y="575" width="1040" height="100" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="605" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">AI长寿悖论</text>
+
+  <text x="600" y="640" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14">AI加速医药研发 → 人活得更久 → 养老金缺口↑ → 但AI裁掉交养老金的工人 → 缺口加速扩大</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">养老金靠人类劳动征税，但AI把价值创造从劳动转移到了资本——机器人不交社保</text>
+
+  <!-- Sources -->
+  <text x="600" y="785" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: SSA Trustees Report(2025) · IMF GFSR(2012) · CASS · The Diplomat(2026) · NEJM · MIT Tech Review</text>
+</svg>

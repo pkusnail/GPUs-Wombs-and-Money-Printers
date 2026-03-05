@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">AI扩散的三层制约</text>
+
+  <!-- Layer 1: Physical -->
+  <rect x="80" y="110" width="1040" height="190" rx="12" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="110" y="145" fill="#FF4444" font-family="sans-serif" font-size="22" font-weight="bold">物理层</text>
+  <text x="350" y="145" fill="#888888" font-family="sans-serif" font-size="14">解决周期: 5-10年</text>
+
+  <!-- Power -->
+  <rect x="110" y="160" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF4444" stroke-width="1" opacity="0.8"/>
+  <text x="130" y="185" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">⚡ 电力</text>
+  <text x="130" y="205" fill="#888888" font-family="sans-serif" font-size="11">2030年需134GW · 电网排队7年 · 50%项目延迟</text>
+
+  <!-- Chips -->
+  <rect x="445" y="160" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF4444" stroke-width="1" opacity="0.8"/>
+  <text x="465" y="185" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🔧 芯片</text>
+  <text x="465" y="205" fill="#888888" font-family="sans-serif" font-size="11">台积电产能=需求1/3 · 新厂3-5年 · $200亿+</text>
+
+  <!-- Robot hardware -->
+  <rect x="780" y="160" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF4444" stroke-width="1" opacity="0.8"/>
+  <text x="800" y="185" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🤖 机器人硬件</text>
+  <text x="800" y="205" fill="#888888" font-family="sans-serif" font-size="11">电池2-3h · 无安全标准 · 灵巧性不足</text>
+
+  <!-- Data -->
+  <rect x="110" y="225" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF4444" stroke-width="1" opacity="0.8"/>
+  <text x="130" y="250" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">📊 训练数据</text>
+  <text x="130" y="270" fill="#888888" font-family="sans-serif" font-size="11">高质量文本~2028年耗尽 · 合成数据部分缓解</text>
+
+  <!-- Carbon -->
+  <rect x="445" y="225" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF4444" stroke-width="1" opacity="0.8"/>
+  <text x="465" y="250" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🌍 碳排放</text>
+  <text x="465" y="270" fill="#888888" font-family="sans-serif" font-size="11">AI年排放3280-7970万吨CO₂ · 城市出台禁令</text>
+
+  <!-- Layer 2: Trust -->
+  <rect x="80" y="315" width="1040" height="190" rx="12" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="110" y="350" fill="#FF9800" font-family="sans-serif" font-size="22" font-weight="bold">信任层</text>
+  <text x="340" y="350" fill="#888888" font-family="sans-serif" font-size="14">解决周期: 2-5年</text>
+
+  <!-- Hallucination -->
+  <rect x="110" y="365" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF9800" stroke-width="1" opacity="0.8"/>
+  <text x="130" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🎭 幻觉</text>
+  <text x="130" y="410" fill="#888888" font-family="sans-serif" font-size="11">事实QA幻觉率33-48% · 法律虚假引用频发</text>
+
+  <!-- Last mile -->
+  <rect x="445" y="365" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF9800" stroke-width="1" opacity="0.8"/>
+  <text x="465" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🏁 最后一公里</text>
+  <text x="465" y="410" fill="#888888" font-family="sans-serif" font-size="11">80%→99.9%消耗80%时间 · Waymo仍限地理围栏</text>
+
+  <!-- ROI -->
+  <rect x="780" y="365" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#FF9800" stroke-width="1" opacity="0.8"/>
+  <text x="800" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">📉 ROI幻灭</text>
+  <text x="800" y="410" fill="#888888" font-family="sans-serif" font-size="11">95%企业GenAI零ROI · 均烧$190万/项目</text>
+
+  <!-- Historical precedent -->
+  <rect x="110" y="430" width="980" height="55" rx="6" fill="#0A0A0A" stroke="#FF9800" stroke-width="1" opacity="0.8"/>
+  <text x="130" y="455" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">📜 历史教训</text>
+  <text x="130" y="475" fill="#888888" font-family="sans-serif" font-size="11">自动驾驶: 2015承诺→2026仍限定区域 · GM Cruise烧$100亿后关闭 · 核聚变: 永远"还有30年" · 元宇宙: 日活38人</text>
+
+  <!-- Layer 3: Institutional -->
+  <rect x="80" y="520" width="1040" height="130" rx="12" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1.5"/>
+  <text x="110" y="555" fill="#2196F3" font-family="sans-serif" font-size="22" font-weight="bold">制度层</text>
+  <text x="375" y="555" fill="#888888" font-family="sans-serif" font-size="14">解决周期: 3-7年+</text>
+
+  <!-- Regulation -->
+  <rect x="110" y="570" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#2196F3" stroke-width="1" opacity="0.8"/>
+  <text x="130" y="595" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">⚖️ 监管</text>
+  <text x="130" y="615" fill="#888888" font-family="sans-serif" font-size="11">EU AI Act 2026全面生效 · 中国网安法纳入AI</text>
+
+  <!-- Unions -->
+  <rect x="445" y="570" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#2196F3" stroke-width="1" opacity="0.8"/>
+  <text x="465" y="595" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">✊ 工会</text>
+  <text x="465" y="615" fill="#888888" font-family="sans-serif" font-size="11">港口禁止全自动化 · WGA/SAG限制AI · 码头罢工</text>
+
+  <!-- Liability -->
+  <rect x="780" y="570" width="310" height="55" rx="6" fill="#0A0A0A" stroke="#2196F3" stroke-width="1" opacity="0.8"/>
+  <text x="800" y="595" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">⚠️ 法律真空</text>
+  <text x="800" y="615" fill="#888888" font-family="sans-serif" font-size="11">AI agent无法律主体 · 机器人无联邦安全要求</text>
+
+  <!-- BOTTOM: Key Insight -->
+  <rect x="80" y="670" width="1040" height="60" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
+  <text x="600" y="698" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">软件快、硬件慢：白领的冬天比蓝领来得更早</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="760" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">这些制约减缓的是速度，不是方向。每一个瓶颈都有明确的解决路径。</text>
+
+  <!-- Sources -->
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: S&amp;P Global · Gartner Hype Cycle(2025) · MIT · Epoch AI · EU AI Act · Baker McKenzie</text>
+</svg>

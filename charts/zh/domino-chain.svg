@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <marker id="arrDom" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">中产断供连锁反应</text>
+
+  <!-- Chain: 6 nodes in zigzag pattern -->
+  <!-- Row 1 -->
+  <!-- Node 1: 中产断供 -->
+  <rect x="60" y="170" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
+  <text x="160" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">中产断供</text>
+  <text x="160" y="155" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">① 触发</text>
+
+  <!-- Arrow 1→2 -->
+  <line x1="265" y1="225" x2="370" y2="225" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 2: 银行坏账 -->
+  <rect x="380" y="170" width="200" height="110" rx="12" fill="#FF9800" fill-opacity="0.15" stroke="#FF9800" stroke-width="2"/>
+  <text x="480" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">银行坏账</text>
+  <text x="480" y="155" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">②</text>
+
+  <!-- Arrow 2→3 -->
+  <line x1="585" y1="225" x2="690" y2="225" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 3: 信贷冻结 -->
+  <rect x="700" y="170" width="200" height="110" rx="12" fill="#FF9800" fill-opacity="0.15" stroke="#FF9800" stroke-width="2"/>
+  <text x="800" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">信贷冻结</text>
+  <text x="800" y="155" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">③</text>
+
+  <!-- Arrow 3→4 (down) -->
+  <path d="M800,285 Q800,350 800,370" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrDom)"/>
+
+  <!-- Row 2 (reversed direction) -->
+  <!-- Node 4: 基建停摆 -->
+  <rect x="700" y="380" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="2"/>
+  <text x="800" y="420" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">基建停摆</text>
+  <text x="800" y="365" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">④</text>
+
+  <!-- Arrow 4→5 -->
+  <line x1="695" y1="435" x2="590" y2="435" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 5: 人口外流 -->
+  <rect x="380" y="380" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="2"/>
+  <text x="480" y="420" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">人口外流</text>
+  <text x="480" y="365" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">⑤</text>
+
+  <!-- Arrow 5→6 -->
+  <line x1="375" y1="435" x2="270" y2="435" stroke="#FF9800" stroke-width="2" marker-end="url(#arrDom)"/>
+
+  <!-- Node 6: 城市衰退 -->
+  <rect x="60" y="380" width="200" height="110" rx="12" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
+  <text x="160" y="420" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="bold">城市衰退</text>
+  <text x="160" y="365" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">⑥ 终局</text>
+
+  <!-- Timeline comparison box -->
+  <rect x="150" y="550" width="900" height="100" rx="12" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
+  <text x="600" y="585" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">速度对比</text>
+  <text x="400" y="620" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="16">锈带衰退：30年</text>
+  <text x="800" y="620" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">AI时代：5-10年</text>
+
+  <!-- Bottom -->
+  <text x="600" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">商业地产贷款$1万亿将于2026到期，20%为办公楼</text>
+</svg>

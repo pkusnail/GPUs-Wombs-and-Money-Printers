@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">自动驾驶：开车将像骑马一样原始</text>
+
+  <!-- TOP: Three Leaders -->
+  <text x="600" y="120" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="20" font-weight="bold">三大阵营</text>
+
+  <!-- Tesla -->
+  <rect x="80" y="140" width="340" height="155" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="100" y="168" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">Tesla FSD</text>
+  <text x="100" y="192" fill="#FFFFFF" font-family="sans-serif" font-size="12">累计行驶: <tspan fill="#FF4444" font-weight="bold">80亿+英里</tspan></text>
+  <text x="100" y="212" fill="#FFFFFF" font-family="sans-serif" font-size="12">2026头50天: 10亿英里</text>
+  <text x="100" y="232" fill="#FFFFFF" font-family="sans-serif" font-size="12">安全: 510万英里/重大碰撞(人类70万)</text>
+  <text x="100" y="252" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">2026.1: 奥斯汀无人robotaxi启动</text>
+  <text x="100" y="272" fill="#888888" font-family="sans-serif" font-size="11">纯视觉方案 · 端到端神经网络 · v13+</text>
+  <text x="100" y="288" fill="#888888" font-family="sans-serif" font-size="11">Cybercab目标: 200万辆/年</text>
+
+  <!-- Waymo -->
+  <rect x="440" y="140" width="310" height="155" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1.5"/>
+  <text x="460" y="168" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">Waymo</text>
+  <text x="460" y="192" fill="#FFFFFF" font-family="sans-serif" font-size="12">每周载客: <tspan fill="#2196F3" font-weight="bold">45万+次</tspan></text>
+  <text x="460" y="212" fill="#FFFFFF" font-family="sans-serif" font-size="12">2026目标: 100万次/周</text>
+  <text x="460" y="232" fill="#FFFFFF" font-family="sans-serif" font-size="12">运营: 美国6城 · 2500+辆</text>
+  <text x="460" y="252" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">扩展: 20+城市 + 东京 + 伦敦</text>
+  <text x="460" y="272" fill="#888888" font-family="sans-serif" font-size="11">多传感器融合(LiDAR+雷达+摄像头)</text>
+  <text x="460" y="288" fill="#888888" font-family="sans-serif" font-size="11">纯robotaxi模式，不卖消费者车辆</text>
+
+  <!-- China -->
+  <rect x="770" y="140" width="350" height="155" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="790" y="168" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">🇨🇳 中国军团</text>
+  <text x="790" y="192" fill="#FFFFFF" font-family="sans-serif" font-size="12">百度Apollo: <tspan fill="#FF9800" font-weight="bold">22+城市 · 1700万+次载客</tspan></text>
+  <text x="790" y="212" fill="#FFFFFF" font-family="sans-serif" font-size="12">小马智行: 北上广深全无人驾驶许可</text>
+  <text x="790" y="232" fill="#FFFFFF" font-family="sans-serif" font-size="12">文远知行: 广州24/7全无人运营</text>
+  <text x="790" y="252" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">比亚迪: 智驾免费标配(含$9500海鸥)</text>
+  <text x="790" y="272" fill="#888888" font-family="sans-serif" font-size="11">230万辆搭载 · 日均1.5亿km数据</text>
+  <text x="790" y="288" fill="#888888" font-family="sans-serif" font-size="11">华为ADS · 小鹏L3 · 理想L3许可</text>
+
+  <!-- Horse-to-Car Parallel -->
+  <rect x="80" y="315" width="1040" height="85" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="600" y="343" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">历史类比：马车 → 汽车</text>
+  <text x="100" y="370" fill="#FFFFFF" font-family="sans-serif" font-size="13">1900年: 2150万匹马 vs 4192辆车 → 1912年: 纽约汽车首超马匹 → 1920年: 13,800家马车厂只剩90家(<tspan fill="#FF4444" font-weight="bold">淘汰99.3%</tspan>)</text>
+  <text x="100" y="393" fill="#888888" font-family="sans-serif" font-size="12">消失的职业: 马夫、蹄铁匠、马具工、饲料商 · 关键颠覆期仅10年(1907-1917) · 常被引为技术替代引发区域经济震荡的案例</text>
+
+  <!-- Social Impact -->
+  <text x="600" y="435" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">社会冲击</text>
+
+  <!-- Jobs -->
+  <rect x="80" y="455" width="260" height="95" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="100" y="478" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">就业冲击</text>
+  <text x="100" y="498" fill="#FFFFFF" font-family="sans-serif" font-size="12">全球: <tspan fill="#FF4444" font-weight="bold">~1亿</tspan>驾驶相关岗位</text>
+  <text x="100" y="516" fill="#FFFFFF" font-family="sans-serif" font-size="12">🇨🇳 中国: ~4000万 · 🇺🇸 美国: ~500万</text>
+  <text x="100" y="534" fill="#FFFFFF" font-family="sans-serif" font-size="12">🇪🇺 欧盟: ~600万 · 🇮🇳 印度: ~1500万</text>
+  <text x="100" y="548" fill="#888888" font-family="sans-serif" font-size="10">高盛: 美国满渗透后月失2.5万岗位</text>
+
+  <!-- Urban -->
+  <rect x="360" y="455" width="260" height="95" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="380" y="480" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">城市空间</text>
+  <text x="380" y="502" fill="#FFFFFF" font-family="sans-serif" font-size="12">车辆95%时间在停放</text>
+  <text x="380" y="520" fill="#FFFFFF" font-family="sans-serif" font-size="12">1辆共享AV ≈ 替代11辆传统车</text>
+  <text x="380" y="538" fill="#888888" font-family="sans-serif" font-size="11">洛杉矶14%土地是停车场</text>
+
+  <!-- Safety -->
+  <rect x="640" y="455" width="240" height="95" rx="8" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1"/>
+  <text x="660" y="480" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">安全</text>
+  <text x="660" y="502" fill="#FFFFFF" font-family="sans-serif" font-size="12">93%事故源于人为错误</text>
+  <text x="660" y="520" fill="#FFFFFF" font-family="sans-serif" font-size="12">美国年交通死亡: ~4万人</text>
+  <text x="660" y="538" fill="#888888" font-family="sans-serif" font-size="11">AV理论上可消除绝大部分</text>
+
+  <!-- Accessibility -->
+  <rect x="900" y="455" width="220" height="95" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="920" y="480" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">可及性</text>
+  <text x="920" y="502" fill="#FFFFFF" font-family="sans-serif" font-size="12">老人/残障独立出行</text>
+  <text x="920" y="520" fill="#FFFFFF" font-family="sans-serif" font-size="12">+200万就业机会</text>
+  <text x="920" y="538" fill="#888888" font-family="sans-serif" font-size="11">年省$190亿医疗开支</text>
+
+  <!-- Timeline -->
+  <text x="600" y="590" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="18" font-weight="bold">时间线</text>
+
+  <line x1="120" y1="620" x2="1080" y2="620" stroke="#00BCD4" stroke-width="2" opacity="0.4"/>
+
+  <circle cx="200" cy="620" r="8" fill="#00BCD4"/>
+  <text x="200" y="608" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="12" font-weight="bold">2026</text>
+  <text x="200" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">限定区域robotaxi</text>
+  <text x="200" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Tesla·Waymo·百度</text>
+
+  <circle cx="440" cy="620" r="8" fill="#2196F3"/>
+  <text x="440" y="608" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="12" font-weight="bold">2030</text>
+  <text x="440" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">20%新车含L4</text>
+  <text x="440" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">数十城市运营</text>
+
+  <circle cx="680" cy="620" r="8" fill="#FF9800"/>
+  <text x="680" y="608" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">2035</text>
+  <text x="680" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">57%新车含高级自驾</text>
+  <text x="680" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">中国190万robotaxi</text>
+
+  <circle cx="920" cy="620" r="8" fill="#FF4444"/>
+  <text x="920" y="608" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">2045-2060</text>
+  <text x="920" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">L5完全自动普及</text>
+  <text x="920" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">人类驾驶=骑马</text>
+
+  <!-- Bottom insight -->
+  <rect x="80" y="685" width="1040" height="50" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">马车行业用了10年被淘汰99.3%。自动驾驶的颠覆性十年，可能就是现在到2035年。</text>
+
+  <!-- Bottom sub -->
+  <text x="600" y="758" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13">比亚迪把高级智驾免费塞进$9500的车——当技术不再是奢侈品，普及速度将超出所有预测。</text>
+
+  <!-- Sources -->
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: Tesla · Waymo · CNBC · CleanTechnica · SCMP · McKinsey · NHTSA · Global Policy Solutions</text>
+</svg>

@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">季度仪表盘：我们走在正轨上吗？</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">Quarterly Dashboard: Are We on Track?</text>
+  <text x="600" y="105" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13">连续两季度3+指标红灯 → 从"渐进改良"切换到"紧急干预"</text>
+
+  <!-- Legend -->
+  <circle cx="400" cy="130" r="8" fill="#00BCD4"/>
+  <text x="415" y="135" fill="#888888" font-family="sans-serif" font-size="12">绿灯 On Track</text>
+  <circle cx="540" cy="130" r="8" fill="#FF9800"/>
+  <text x="555" y="135" fill="#888888" font-family="sans-serif" font-size="12">黄灯 Watch</text>
+  <circle cx="670" cy="130" r="8" fill="#FF4444"/>
+  <text x="685" y="135" fill="#888888" font-family="sans-serif" font-size="12">红灯 Intervene</text>
+
+  <!-- Gauge 1: Entry-level jobs -->
+  <rect x="80" y="160" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <text x="100" y="190" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">① 入门级岗位发布量同比</text>
+  <text x="100" y="210" fill="#888888" font-family="sans-serif" font-size="12">Entry-Level Job Postings YoY Change</text>
+  <rect x="100" y="230" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="180" y="250" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">> -5%</text>
+  <rect x="270" y="230" width="160" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="350" y="250" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">-5% ~ -15%</text>
+  <rect x="440" y="230" width="160" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="520" y="250" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">&lt; -15%</text>
+  <text x="100" y="290" fill="#888888" font-family="sans-serif" font-size="11">AI替代的第一个可见信号：初级岗位消失速度</text>
+
+  <!-- Gauge 2: Youth unemployment -->
+  <rect x="630" y="160" width="490" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <text x="650" y="190" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">② 青年失业率差值</text>
+  <text x="650" y="210" fill="#888888" font-family="sans-serif" font-size="12">Youth (16-24) vs Overall Unemployment Gap</text>
+  <rect x="650" y="230" width="140" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="720" y="250" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">&lt; 2pp</text>
+  <rect x="800" y="230" width="140" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="870" y="250" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">2-4pp</text>
+  <rect x="950" y="230" width="140" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="1020" y="250" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">> 4pp</text>
+  <text x="650" y="290" fill="#888888" font-family="sans-serif" font-size="11">年轻人是AI冲击的最脆弱群体</text>
+
+  <!-- Gauge 3: AI CapEx -->
+  <rect x="80" y="330" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <text x="100" y="360" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">③ 企业AI CapEx占营收比</text>
+  <text x="100" y="380" fill="#888888" font-family="sans-serif" font-size="12">Corporate AI Capital Expenditure / Revenue</text>
+  <rect x="100" y="400" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="180" y="420" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="12" font-weight="bold">↑但不挤出研发/人力</text>
+  <rect x="270" y="400" width="130" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="335" y="420" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">挤出研发</text>
+  <rect x="410" y="400" width="130" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="475" y="420" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">挤出人力</text>
+  <text x="100" y="460" fill="#888888" font-family="sans-serif" font-size="11">AI投资健康增长 vs 用AI裁员套利</text>
+
+  <!-- Gauge 4: GPU delivery -->
+  <rect x="630" y="330" width="490" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <text x="650" y="360" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">④ GPU交付周期</text>
+  <text x="650" y="380" fill="#888888" font-family="sans-serif" font-size="12">GPU Delivery Lead Time</text>
+  <rect x="650" y="400" width="140" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="720" y="420" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">下降 ↓</text>
+  <rect x="800" y="400" width="140" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="870" y="420" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">持平 →</text>
+  <rect x="950" y="400" width="140" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="1020" y="420" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">上升 ↑</text>
+  <text x="650" y="460" fill="#888888" font-family="sans-serif" font-size="11">算力供应是否跟上需求 = AI普惠化进度</text>
+
+  <!-- Gauge 5: Pension -->
+  <rect x="80" y="500" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <text x="100" y="530" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">⑤ 养老金可支付年数</text>
+  <text x="100" y="550" fill="#888888" font-family="sans-serif" font-size="12">Pension Fund Solvency (Years Payable)</text>
+  <rect x="100" y="570" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="180" y="590" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">> 8年</text>
+  <rect x="270" y="570" width="130" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="335" y="590" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">5-8年</text>
+  <rect x="410" y="570" width="130" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="475" y="590" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">&lt; 5年</text>
+  <text x="100" y="630" fill="#888888" font-family="sans-serif" font-size="11">税基从工资切向资本/算力/碳的紧迫程度</text>
+
+  <!-- Gauge 6: Housing + Banks -->
+  <rect x="630" y="500" width="490" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <text x="650" y="530" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">⑥ 住房空置率+银行资本充足率</text>
+  <text x="650" y="550" fill="#888888" font-family="sans-serif" font-size="12">Housing Vacancy + Regional Bank Capital</text>
+  <rect x="650" y="570" width="140" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="720" y="590" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">双稳定</text>
+  <rect x="800" y="570" width="140" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="870" y="590" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">单一恶化</text>
+  <rect x="950" y="570" width="140" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="1020" y="590" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">双恶化</text>
+  <text x="650" y="630" fill="#888888" font-family="sans-serif" font-size="11">按揭危机的早期预警信号</text>
+
+  <!-- Bottom insight -->
+  <rect x="80" y="680" width="1040" height="50" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
+  <text x="600" y="710" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">不要等到危机爆发才行动，也不要在数据还绿的时候就恐慌。按季度检查，按信号行动。</text>
+
+  <!-- Sources -->
+  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">指标框架综合自: BLS · OECD · IMF Financial Stability · Fed Regional Banking Data</text>
+</svg>

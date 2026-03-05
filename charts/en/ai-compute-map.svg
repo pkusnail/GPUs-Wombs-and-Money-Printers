@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <filter id="glow5">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">Global AI Compute Distribution</text>
+  <text x="600" y="85" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="16">Digital Colonialism</text>
+
+  <!-- North America -->
+  <path d="M180,220 L280,180 L350,200 L360,280 L340,360 L300,400 L260,380 L200,340 L170,280Z" fill="#2196F3" fill-opacity="0.15" stroke="#2196F3" stroke-width="1"/>
+  <!-- USA hotspot -->
+  <circle cx="280" cy="300" r="45" fill="#00BCD4" fill-opacity="0.6" filter="url(#glow5)"/>
+  <text x="280" y="295" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">~50%</text>
+  <text x="280" y="315" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">USA</text>
+
+  <!-- Europe -->
+  <path d="M490,200 L580,180 L620,200 L610,270 L560,300 L500,280 L480,240Z" fill="#2196F3" fill-opacity="0.08" stroke="#333333" stroke-width="1"/>
+  <circle cx="550" cy="240" r="18" fill="#2196F3" fill-opacity="0.3"/>
+  <text x="550" y="235" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold">~5%</text>
+  <text x="550" y="250" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="9">EU</text>
+
+  <!-- Africa -->
+  <path d="M520,320 L580,310 L600,380 L580,470 L540,490 L510,440 L500,370Z" fill="#333333" fill-opacity="0.3" stroke="#333333" stroke-width="1"/>
+  <circle cx="550" cy="400" r="12" fill="#FF4444" fill-opacity="0.3"/>
+  <text x="550" y="404" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="10">&lt;1%</text>
+  <text x="550" y="425" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="9">Africa</text>
+
+  <!-- China -->
+  <path d="M750,230 L870,220 L920,260 L900,330 L840,360 L770,340 L740,280Z" fill="#FF9800" fill-opacity="0.15" stroke="#FF9800" stroke-width="1"/>
+  <circle cx="830" cy="290" r="40" fill="#FF9800" fill-opacity="0.5" filter="url(#glow5)"/>
+  <text x="830" y="285" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">~30%</text>
+  <text x="830" y="305" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">China</text>
+
+  <!-- India -->
+  <path d="M700,340 L740,330 L760,380 L740,430 L710,440 L690,400Z" fill="#333333" fill-opacity="0.3" stroke="#333333" stroke-width="1"/>
+  <circle cx="720" cy="385" r="14" fill="#2196F3" fill-opacity="0.3"/>
+  <text x="720" y="389" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="10">~3%</text>
+  <text x="720" y="415" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="9">India</text>
+
+  <!-- Japan/Korea -->
+  <circle cx="940" cy="280" r="12" fill="#2196F3" fill-opacity="0.3"/>
+  <text x="940" y="284" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="9">~4%</text>
+  <text x="965" y="300" fill="#555555" font-family="sans-serif" font-size="9">Japan/Korea</text>
+
+  <!-- South America -->
+  <path d="M280,420 L320,400 L340,460 L320,540 L280,560 L260,500Z" fill="#333333" fill-opacity="0.3" stroke="#333333" stroke-width="1"/>
+  <circle cx="300" cy="480" r="12" fill="#FF4444" fill-opacity="0.3"/>
+  <text x="300" y="484" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="10">&lt;2%</text>
+  <text x="300" y="510" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="9">S. America</text>
+
+  <!-- Southeast Asia -->
+  <circle cx="820" cy="410" r="10" fill="#FF4444" fill-opacity="0.3"/>
+  <text x="820" y="414" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="9">&lt;2%</text>
+  <text x="845" y="430" fill="#555555" font-family="sans-serif" font-size="9">SE Asia</text>
+
+  <!-- Key insight box -->
+  <rect x="150" y="580" width="900" height="90" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
+  <text x="600" y="615" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">USA + China control 80%+ of global AI compute</text>
+  <text x="600" y="645" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">The rest consume AI services but control nothing — same logic as 1800s colonialism</text>
+
+  <!-- Legend -->
+  <text x="600" y="730" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13">Circle size = compute share</text>
+  <text x="600" y="755" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="11">GPU clusters + power = control</text>
+</svg>

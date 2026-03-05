@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <filter id="glow3">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrW" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FFFFFF"/>
+    </marker>
+    <marker id="arrR" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FF4444"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">合成谬误</text>
+
+  <!-- 4-node cycle -->
+  <!-- Node 1: 企业用AI降本 (top-left) -->
+  <rect x="130" y="200" width="260" height="100" rx="12" fill="none" stroke="#00BCD4" stroke-width="2"/>
+  <text x="260" y="240" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">企业用AI降本</text>
+
+  <!-- Node 2: 大规模裁员 (top-right) -->
+  <rect x="810" y="200" width="260" height="100" rx="12" fill="none" stroke="#FF9800" stroke-width="2"/>
+  <text x="940" y="240" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">大规模裁员</text>
+
+  <!-- Node 3: 消费者消失 (bottom-right) -->
+  <rect x="810" y="500" width="260" height="100" rx="12" fill="none" stroke="#FF4444" stroke-width="2"/>
+  <text x="940" y="540" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">消费者消失</text>
+
+  <!-- Node 4: 企业收入↓ (bottom-left) -->
+  <rect x="130" y="500" width="260" height="100" rx="12" fill="none" stroke="#FF4444" stroke-width="2"/>
+  <text x="260" y="540" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">企业收入 ↓</text>
+
+  <!-- Arrows -->
+  <!-- Top: 1→2 -->
+  <line x1="395" y1="250" x2="800" y2="250" stroke="#FFFFFF" stroke-width="2" marker-end="url(#arrW)"/>
+  <text x="600" y="235" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">理性选择</text>
+
+  <!-- Right: 2→3 -->
+  <line x1="940" y1="310" x2="940" y2="490" stroke="#FF9800" stroke-width="2" marker-end="url(#arrR)"/>
+  <text x="975" y="405" fill="#888888" font-family="sans-serif" font-size="12">失业</text>
+
+  <!-- Bottom: 3→4 -->
+  <line x1="800" y1="550" x2="395" y2="550" stroke="#FF4444" stroke-width="2" marker-end="url(#arrR)"/>
+  <text x="600" y="540" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">无人购买</text>
+
+  <!-- Left: 4→1 -->
+  <line x1="260" y1="490" x2="260" y2="310" stroke="#FF4444" stroke-width="2" marker-end="url(#arrR)"/>
+  <text x="215" y="405" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">继续降本</text>
+
+  <!-- Center paradox -->
+  <rect x="430" y="350" width="340" height="100" rx="16" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="1"/>
+  <text x="600" y="390" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold" filter="url(#glow3)">每家理性 ≠ 整体理性</text>
+
+  <!-- Bottom text -->
+  <text x="600" y="700" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">效率提升 → 经济死亡加速</text>
+</svg>

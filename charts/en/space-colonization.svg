@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">Interstellar Colonization: Humans vs AI</text>
+
+  <!-- LEFT: Mars is Hell for Humans -->
+  <text x="300" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">Mars: Hostile to Humans</text>
+
+  <rect x="80" y="150" width="450" height="230" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+
+  <text x="110" y="185" fill="#FFFFFF" font-family="sans-serif" font-size="14">Radiation</text>
+  <text x="110" y="205" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">Dozens of times Earth level · No magnetic field · Extreme cancer risk</text>
+
+  <text x="110" y="235" fill="#FFFFFF" font-family="sans-serif" font-size="14">Temperature</text>
+  <text x="110" y="255" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">Average -62C · Low -140C · Day-night swing 80C+</text>
+
+  <text x="110" y="285" fill="#FFFFFF" font-family="sans-serif" font-size="14">Atmosphere</text>
+  <text x="110" y="305" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">Pressure = 0.6% of Earth · 95% CO2 · Unbreathable</text>
+
+  <text x="110" y="335" fill="#FFFFFF" font-family="sans-serif" font-size="14">Gravity</text>
+  <text x="110" y="355" fill="#888888" font-family="sans-serif" font-size="12">38% of Earth · Muscle atrophy · Bone loss · Unknown child development</text>
+
+  <text x="305" y="375" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">One-way trip: 6-9 months · Communication delay: 4-24 minutes</text>
+
+  <!-- RIGHT: AI Doesn't Care -->
+  <text x="850" y="125" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">AI's Space Advantage</text>
+
+  <rect x="600" y="150" width="520" height="230" rx="10" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
+
+  <text x="630" y="185" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">No oxygen, water, or food needed</text>
+
+  <text x="630" y="225" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">Operates in extreme temperatures (-200C to +200C)</text>
+
+  <text x="630" y="265" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">No loneliness, depression, or psychosis</text>
+
+  <text x="630" y="305" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">Self-replicating, self-improving</text>
+
+  <text x="860" y="375" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="11">NASA Perseverance Dec 2025: First AI autonomous Mars driving route planning</text>
+
+  <!-- Von Neumann Probes Timeline -->
+  <text x="600" y="415" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">Von Neumann Probes</text>
+
+  <rect x="80" y="435" width="1040" height="75" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+
+  <!-- Timeline -->
+  <line x1="120" y1="470" x2="1080" y2="470" stroke="#FF9800" stroke-width="2" opacity="0.5"/>
+
+  <circle cx="160" cy="470" r="6" fill="#2196F3"/>
+  <text x="160" y="460" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">2030s</text>
+  <text x="160" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">AI Mars outpost</text>
+
+  <circle cx="380" cy="470" r="6" fill="#00BCD4"/>
+  <text x="380" y="460" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="11" font-weight="bold">2050s</text>
+  <text x="380" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Autonomous space factories</text>
+
+  <circle cx="600" cy="470" r="6" fill="#FF9800"/>
+  <text x="600" y="460" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="11" font-weight="bold">2100+</text>
+  <text x="600" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Interstellar probes</text>
+
+  <circle cx="820" cy="470" r="6" fill="#FF4444"/>
+  <text x="820" y="460" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="11" font-weight="bold">~500K yrs</text>
+  <text x="820" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Colonize entire galaxy</text>
+
+  <circle cx="1040" cy="470" r="6" fill="#FFFFFF"/>
+  <text x="1040" y="460" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold">Infinity</text>
+  <text x="1040" y="498" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Legacy of human civilization</text>
+
+  <!-- Quotes -->
+  <rect x="80" y="530" width="510" height="80" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="100" y="558" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">A.I. (2001) — Gigolo Joe</text>
+  <text x="100" y="580" fill="#FFFFFF" font-family="sans-serif" font-size="12">"They made us too smart, too quick, too many."</text>
+  <text x="100" y="600" fill="#888888" font-family="sans-serif" font-size="11">"When the end comes, all that will be left is us."</text>
+
+  <rect x="610" y="530" width="510" height="80" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="630" y="558" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">Prometheus (2012) — David</text>
+  <text x="630" y="580" fill="#FFFFFF" font-family="sans-serif" font-size="12">Humans sent android David to find their creators</text>
+  <text x="630" y="600" fill="#888888" font-family="sans-serif" font-size="11">AI may also seek its own "creators" — or become one</text>
+
+  <!-- Martin Rees Quote -->
+  <rect x="80" y="630" width="1040" height="65" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="655" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">"Organic intelligence is just a thin sliver between early life and the long era of the machines"</text>
+  <text x="600" y="680" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">— Martin Rees, Astronomer Royal</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">Humanity's cosmic dream may ultimately be realized by non-humans. Not failure — legacy.</text>
+
+  <!-- Sources -->
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">Sources: NASA JPL · Martin Rees (2024) · SpaceX · Space.com · A.I. (2001) · Prometheus (2012)</text>
+</svg>

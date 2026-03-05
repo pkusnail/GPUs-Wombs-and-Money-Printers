@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#00BCD4"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">从替代手脚到替代大脑</text>
+
+  <!-- Acceleration arrow -->
+  <line x1="130" y1="110" x2="1080" y2="110" stroke="#00BCD4" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="600" y="105" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="13">每一波间隔在缩短</text>
+
+  <!-- Timeline axis -->
+  <line x1="100" y1="470" x2="1120" y2="470" stroke="#333333" stroke-width="2"/>
+
+  <!-- Node 1: 1750 Steam — TOP -->
+  <circle cx="140" cy="470" r="10" fill="#FF9800"/>
+  <line x1="140" y1="460" x2="140" y2="190" stroke="#FF9800" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="90" y="135" width="200" height="115" rx="8" fill="#0A0A0A" stroke="#FF9800" stroke-width="1"/>
+  <text x="110" y="160" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">1750 蒸汽机</text>
+  <text x="110" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：粗体力</text>
+  <text x="110" y="200" fill="#888888" font-family="sans-serif" font-size="11">织机、蒸汽机车</text>
+  <text x="110" y="218" fill="#888888" font-family="sans-serif" font-size="11">消失: 织工、搬运工</text>
+  <text x="110" y="243" fill="#FF9800" font-family="sans-serif" font-size="11" font-weight="bold">间隔 120年 →</text>
+
+  <!-- Node 2: 1870 Electricity — BOTTOM -->
+  <circle cx="270" cy="470" r="10" fill="#FF9800"/>
+  <line x1="270" y1="480" x2="270" y2="595" stroke="#FF9800" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="195" y="540" width="220" height="115" rx="8" fill="#0A0A0A" stroke="#FF9800" stroke-width="1"/>
+  <text x="215" y="565" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">1870 电力/流水线</text>
+  <text x="215" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：持续体力/节奏</text>
+  <text x="215" y="605" fill="#888888" font-family="sans-serif" font-size="11">福特流水线、电动机</text>
+  <text x="215" y="623" fill="#888888" font-family="sans-serif" font-size="11">消失: 装配工、码头装卸</text>
+  <text x="215" y="648" fill="#FF9800" font-family="sans-serif" font-size="11" font-weight="bold">间隔 89年 →</text>
+
+  <!-- Node 3: 1959 CNC/Robots — TOP -->
+  <circle cx="400" cy="470" r="10" fill="#2196F3"/>
+  <line x1="400" y1="460" x2="400" y2="190" stroke="#2196F3" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="325" y="135" width="230" height="115" rx="8" fill="#0A0A0A" stroke="#2196F3" stroke-width="1"/>
+  <text x="345" y="160" fill="#2196F3" font-family="sans-serif" font-size="15" font-weight="bold">1959 数控/工业机器人</text>
+  <text x="345" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：精细重复动作</text>
+  <text x="345" y="200" fill="#888888" font-family="sans-serif" font-size="11">焊接、喷漆、数控加工</text>
+  <text x="345" y="218" fill="#888888" font-family="sans-serif" font-size="11">消失: 手工焊工、喷漆工</text>
+  <text x="345" y="243" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">间隔 16年 →</text>
+
+  <!-- Node 4: 1975 PC — BOTTOM -->
+  <circle cx="520" cy="470" r="10" fill="#2196F3"/>
+  <line x1="520" y1="480" x2="520" y2="595" stroke="#2196F3" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="445" y="540" width="220" height="115" rx="8" fill="#0A0A0A" stroke="#2196F3" stroke-width="1"/>
+  <text x="465" y="565" fill="#2196F3" font-family="sans-serif" font-size="15" font-weight="bold">1975 个人电脑</text>
+  <text x="465" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：计算/记账</text>
+  <text x="465" y="605" fill="#888888" font-family="sans-serif" font-size="11">电子表格、文字处理</text>
+  <text x="465" y="623" fill="#888888" font-family="sans-serif" font-size="11">消失: 出纳、统计员、文书</text>
+  <text x="465" y="648" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">间隔 20年 →</text>
+
+  <!-- Node 5: 1995 Internet — TOP -->
+  <circle cx="640" cy="470" r="10" fill="#00BCD4"/>
+  <line x1="640" y1="460" x2="640" y2="190" stroke="#00BCD4" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="565" y="135" width="230" height="115" rx="8" fill="#0A0A0A" stroke="#00BCD4" stroke-width="1"/>
+  <text x="585" y="160" fill="#00BCD4" font-family="sans-serif" font-size="15" font-weight="bold">1995 互联网/搜索</text>
+  <text x="585" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：信息记忆/检索</text>
+  <text x="585" y="200" fill="#888888" font-family="sans-serif" font-size="11">Google、电商、在线百科</text>
+  <text x="585" y="218" fill="#888888" font-family="sans-serif" font-size="11">消失: 图书管理员、黄页广告</text>
+  <text x="585" y="243" fill="#00BCD4" font-family="sans-serif" font-size="11" font-weight="bold">间隔 17年 →</text>
+
+  <!-- Node 6: 2012 Deep Learning — BOTTOM -->
+  <circle cx="760" cy="470" r="10" fill="#00BCD4"/>
+  <line x1="760" y1="480" x2="760" y2="595" stroke="#00BCD4" stroke-width="1" stroke-dasharray="3,4"/>
+  <rect x="685" y="540" width="220" height="115" rx="8" fill="#0A0A0A" stroke="#00BCD4" stroke-width="1"/>
+  <text x="705" y="565" fill="#00BCD4" font-family="sans-serif" font-size="15" font-weight="bold">2012 深度学习</text>
+  <text x="705" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：感知</text>
+  <text x="705" y="605" fill="#888888" font-family="sans-serif" font-size="11">图像识别、语音识别</text>
+  <text x="705" y="623" fill="#888888" font-family="sans-serif" font-size="11">消失: 安防巡检、语音客服</text>
+  <text x="705" y="648" fill="#00BCD4" font-family="sans-serif" font-size="11" font-weight="bold">间隔 10年 →</text>
+
+  <!-- Node 7: 2022 LLM/Agent — TOP (highlighted) -->
+  <circle cx="900" cy="470" r="12" fill="#FF4444"/>
+  <line x1="900" y1="458" x2="900" y2="190" stroke="#FF4444" stroke-width="1.5" stroke-dasharray="3,4"/>
+  <rect x="810" y="135" width="250" height="115" rx="8" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="830" y="160" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">2022 大模型 / 2025 Agent</text>
+  <text x="830" y="180" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：通用认知/语言</text>
+  <text x="830" y="200" fill="#888888" font-family="sans-serif" font-size="11">文案、编程、翻译、法律初审</text>
+  <text x="830" y="218" fill="#888888" font-family="sans-serif" font-size="11">威胁: 客服、初级码农/法务/产品</text>
+  <text x="830" y="243" fill="#FF4444" font-family="sans-serif" font-size="11" font-weight="bold">间隔 ~5年 →</text>
+
+  <!-- Node 8: ~2030 Embodied AI — BOTTOM (highlighted) -->
+  <circle cx="1060" cy="470" r="14" fill="#FF4444"/>
+  <line x1="1060" y1="484" x2="1060" y2="595" stroke="#FF4444" stroke-width="1.5" stroke-dasharray="3,4"/>
+  <rect x="940" y="540" width="230" height="115" rx="8" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="960" y="565" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">~2030 具身AI</text>
+  <text x="960" y="585" fill="#FFFFFF" font-family="sans-serif" font-size="12">替代：认知+感知+动作</text>
+  <text x="960" y="605" fill="#888888" font-family="sans-serif" font-size="11">人形机器人、自动驾驶</text>
+  <text x="960" y="623" fill="#888888" font-family="sans-serif" font-size="11">威胁: 司机、仓储、外卖、护理</text>
+  <text x="960" y="648" fill="#FF4444" font-family="sans-serif" font-size="11" font-weight="bold">← 我们在这里</text>
+
+  <!-- Escalation bar at bottom -->
+  <rect x="80" y="720" width="1040" height="55" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
+  <text x="600" y="745" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">间隔: 120年 → 89年 → 16年 → 20年 → 17年 → 10年 → 5年 — 加速度本身在加速</text>
+</svg>

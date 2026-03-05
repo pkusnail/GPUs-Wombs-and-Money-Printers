@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">AI重塑全球分工：算力即权力</text>
+
+  <!-- LEFT: Compute Distribution -->
+  <text x="300" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">全球AI算力分布</text>
+
+  <!-- US bar -->
+  <text x="100" y="175" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇺🇸 美国</text>
+  <rect x="220" y="158" width="300" height="28" rx="4" fill="#2196F3" opacity="0.8"/>
+  <text x="530" y="178" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">~75%</text>
+
+  <!-- China bar -->
+  <text x="100" y="215" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇨🇳 中国</text>
+  <rect x="220" y="198" width="60" height="28" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="290" y="218" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">~15%</text>
+
+  <!-- EU bar -->
+  <text x="100" y="255" fill="#FFFFFF" font-family="sans-serif" font-size="14">🇪🇺 欧盟</text>
+  <rect x="220" y="238" width="19" height="28" rx="4" fill="#FF9800" opacity="0.6"/>
+  <text x="250" y="258" fill="#FF9800" font-family="sans-serif" font-size="14">~5%</text>
+
+  <!-- Rest bar -->
+  <text x="100" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="14">🌍 其他</text>
+  <rect x="220" y="278" width="24" height="28" rx="4" fill="#888888" opacity="0.5"/>
+  <text x="255" y="298" fill="#888888" font-family="sans-serif" font-size="14">~6%</text>
+
+  <text x="300" y="340" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">美国H100等效: 3970万张 · 中国: ~40万张 · 比例≈100:1</text>
+
+  <!-- RIGHT: Labor Cost Convergence -->
+  <text x="850" y="125" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">劳动力成本收敛</text>
+
+  <rect x="620" y="155" width="500" height="195" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+
+  <!-- Cost comparison -->
+  <text x="650" y="185" fill="#888888" font-family="sans-serif" font-size="13">时薪对比 (USD)</text>
+
+  <text x="650" y="215" fill="#FFFFFF" font-family="sans-serif" font-size="13">🤖 工业机器人</text>
+  <rect x="860" y="200" width="12" height="22" rx="3" fill="#00BCD4" opacity="0.8"/>
+  <text x="882" y="217" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">$0.75</text>
+
+  <text x="650" y="248" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇧🇩 孟加拉工人</text>
+  <rect x="860" y="233" width="8" height="22" rx="3" fill="#FF9800" opacity="0.6"/>
+  <text x="878" y="250" fill="#FF9800" font-family="sans-serif" font-size="13">$0.50</text>
+
+  <text x="650" y="281" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇻🇳 越南工人</text>
+  <rect x="860" y="266" width="52" height="22" rx="3" fill="#FF9800" opacity="0.7"/>
+  <text x="922" y="283" fill="#FF9800" font-family="sans-serif" font-size="13">$4.30</text>
+
+  <text x="650" y="314" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇺🇸 美国工人</text>
+  <rect x="860" y="299" width="210" height="22" rx="3" fill="#2196F3" opacity="0.6"/>
+  <text x="1080" y="316" fill="#2196F3" font-family="sans-serif" font-size="13">$15-20</text>
+
+  <text x="870" y="345" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">机器人已接近最低工资国家成本 — 廉价劳动力优势消失</text>
+
+  <!-- MIDDLE: Vulnerable Countries -->
+  <text x="600" y="390" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">最脆弱的经济体</text>
+
+  <!-- Bangladesh -->
+  <rect x="80" y="410" width="255" height="90" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="100" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇧🇩 孟加拉国</text>
+  <text x="100" y="458" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">纺织业60%岗位面临自动化</text>
+  <text x="100" y="478" fill="#888888" font-family="sans-serif" font-size="11">服装=80%出口</text>
+  <text x="100" y="493" fill="#888888" font-family="sans-serif" font-size="11">到2030年</text>
+
+  <!-- Philippines -->
+  <rect x="355" y="410" width="255" height="90" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="375" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇵🇭 菲律宾</text>
+  <text x="375" y="458" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">130万BPO工人 89%高风险</text>
+  <text x="375" y="478" fill="#888888" font-family="sans-serif" font-size="11">BPO = 7.4% GDP</text>
+
+  <!-- Kenya -->
+  <rect x="630" y="410" width="255" height="90" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="650" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇰🇪 肯尼亚</text>
+  <text x="650" y="458" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">250万岗位面临AI威胁</text>
+  <text x="650" y="478" fill="#888888" font-family="sans-serif" font-size="11">非洲BPO行业40%岗位 by 2030</text>
+
+  <!-- Vietnam -->
+  <rect x="905" y="410" width="215" height="90" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="925" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇻🇳 越南</text>
+  <text x="925" y="458" fill="#2196F3" font-family="sans-serif" font-size="12" font-weight="bold">电子组装模式受冲击</text>
+  <text x="925" y="478" fill="#888888" font-family="sans-serif" font-size="11">重度依赖FDI组装</text>
+
+  <!-- Historical Parallel -->
+  <rect x="80" y="520" width="1040" height="90" rx="12" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="600" y="548" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">历史先例：工业革命摧毁印度手工业</text>
+  <text x="600" y="573" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="14">1750年印度 = 全球25%制造业产出 → 1900年 = 仅2%（英国机器纺织品价格降到1/10）</text>
+
+  <!-- Bottom: The New Colonial Pattern -->
+  <rect x="80" y="625" width="1040" height="80" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="653" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">AI时代的新殖民模式</text>
+  <text x="600" y="680" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13">美中: AI算力+自动化制造+AI服务平台 → 发展中国家: 数据标注+原材料+被动消费市场</text>
+
+  <!-- Bottom insight -->
+  <text x="600" y="745" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">不需要炮舰——价格本身就是武器。而这次，速度是几年，不是几十年。</text>
+
+  <!-- Sources -->
+  <text x="600" y="793" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: Epoch AI · Reshoring Initiative(2024) · UNCTAD(2025) · ILO · NBER · Inbolt · ODI</text>
+</svg>

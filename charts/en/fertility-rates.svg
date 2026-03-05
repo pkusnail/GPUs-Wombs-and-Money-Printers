@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">Global Total Fertility Rate Comparison</text>
+
+  <!-- Replacement line -->
+  <line x1="310" y1="130" x2="310" y2="700" stroke="#FF9800" stroke-width="1" stroke-dasharray="6,4" opacity="0.6"/>
+  <text x="315" y="125" fill="#FF9800" font-family="sans-serif" font-size="12">Replacement Level 2.1</text>
+
+  <!-- Axis -->
+  <line x1="100" y1="700" x2="1100" y2="700" stroke="#333333" stroke-width="1"/>
+
+  <!-- Scale markers -->
+  <text x="140" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">0</text>
+  <text x="310" y="720" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="11">2.1</text>
+  <text x="480" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">4.0</text>
+  <text x="650" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">5.0</text>
+  <text x="990" y="720" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">7.0</text>
+
+  <!-- Korea 0.72 -->
+  <rect x="140" y="140" width="58" height="40" rx="4" fill="#FF4444" opacity="0.9"/>
+  <text x="120" y="166" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Korea</text>
+  <text x="205" y="166" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">0.72</text>
+  <text x="255" y="166" fill="#FF4444" font-family="sans-serif" font-size="11">Record low</text>
+
+  <!-- China 1.0 -->
+  <rect x="140" y="200" width="81" height="40" rx="4" fill="#FF4444" opacity="0.8"/>
+  <text x="120" y="226" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">China</text>
+  <text x="228" y="226" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">1.0</text>
+
+  <!-- Japan 1.2 -->
+  <rect x="140" y="260" width="97" height="40" rx="4" fill="#FF9800" opacity="0.7"/>
+  <text x="120" y="286" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Japan</text>
+  <text x="244" y="286" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">1.2</text>
+
+  <!-- Italy 1.2 -->
+  <rect x="140" y="320" width="97" height="40" rx="4" fill="#FF9800" opacity="0.7"/>
+  <text x="120" y="346" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Italy</text>
+  <text x="244" y="346" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">1.2</text>
+
+  <!-- USA 1.6 -->
+  <rect x="140" y="380" width="130" height="40" rx="4" fill="#FF9800" opacity="0.6"/>
+  <text x="120" y="406" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">USA</text>
+  <text x="276" y="406" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">1.6</text>
+
+  <!-- France 1.8 -->
+  <rect x="140" y="440" width="146" height="40" rx="4" fill="#2196F3" opacity="0.6"/>
+  <text x="120" y="466" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">France</text>
+  <text x="292" y="466" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">1.8</text>
+
+  <!-- India 2.0 -->
+  <rect x="140" y="500" width="162" height="40" rx="4" fill="#2196F3" opacity="0.6"/>
+  <text x="120" y="526" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">India</text>
+  <text x="308" y="526" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">2.0</text>
+
+  <!-- Global avg 2.3 -->
+  <rect x="140" y="560" width="186" height="40" rx="4" fill="#00BCD4" opacity="0.6"/>
+  <text x="120" y="586" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Global</text>
+  <text x="332" y="586" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">2.3</text>
+  <text x="365" y="586" fill="#888888" font-family="sans-serif" font-size="11">(1950s: 5.0)</text>
+
+  <!-- Niger 6.0+ -->
+  <rect x="140" y="620" width="490" height="40" rx="4" fill="#00BCD4" opacity="0.7"/>
+  <text x="120" y="646" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">Niger</text>
+  <text x="636" y="646" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">6.0+</text>
+
+  <!-- Annotations -->
+  <rect x="700" y="160" width="380" height="110" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
+  <text x="890" y="190" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">Korea spent $280B over 20 years</text>
+  <text x="890" y="215" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12">on fertility incentives</text>
+  <text x="890" y="240" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">74% went to those who would have had kids anyway</text>
+
+  <text x="890" y="340" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">Global population peak ~2084</text>
+  <text x="890" y="365" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">then decline begins</text>
+  <text x="890" y="390" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">UN projects TFR drops to 1.8 by 2100</text>
+
+  <!-- Bottom -->
+  <text x="600" y="770" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13">Root cause: Wealth + education + female independence = lower fertility (human choice, not policy-fixable)</text>
+</svg>

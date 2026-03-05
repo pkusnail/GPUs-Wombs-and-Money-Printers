@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">Autonomous Driving: Manual Driving Will Be as Primitive as Horse Riding</text>
+
+  <!-- TOP: Three Leaders -->
+  <text x="600" y="120" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="20" font-weight="bold">Three Camps</text>
+
+  <!-- Tesla -->
+  <rect x="80" y="140" width="340" height="155" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="100" y="168" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">Tesla FSD</text>
+  <text x="100" y="192" fill="#FFFFFF" font-family="sans-serif" font-size="12">Cumulative: <tspan fill="#FF4444" font-weight="bold">8B+ miles</tspan></text>
+  <text x="100" y="212" fill="#FFFFFF" font-family="sans-serif" font-size="12">2026 first 50 days: 1B miles</text>
+  <text x="100" y="232" fill="#FFFFFF" font-family="sans-serif" font-size="12">Safety: 5.1M miles/serious crash (human avg 0.7M)</text>
+  <text x="100" y="252" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">2026.1: Austin driverless robotaxi launch</text>
+  <text x="100" y="272" fill="#888888" font-family="sans-serif" font-size="11">Pure vision · End-to-end neural network · v13+</text>
+  <text x="100" y="288" fill="#888888" font-family="sans-serif" font-size="11">Cybercab target: 2M units/yr</text>
+
+  <!-- Waymo -->
+  <rect x="440" y="140" width="310" height="155" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1.5"/>
+  <text x="460" y="168" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">Waymo</text>
+  <text x="460" y="192" fill="#FFFFFF" font-family="sans-serif" font-size="12">Weekly rides: <tspan fill="#2196F3" font-weight="bold">450k+</tspan></text>
+  <text x="460" y="212" fill="#FFFFFF" font-family="sans-serif" font-size="12">2026 target: 1M/week</text>
+  <text x="460" y="232" fill="#FFFFFF" font-family="sans-serif" font-size="12">Operating: 6 US cities · 2500+ vehicles</text>
+  <text x="460" y="252" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">Expanding: 20+ cities + Tokyo + London</text>
+  <text x="460" y="272" fill="#888888" font-family="sans-serif" font-size="11">Multi-sensor (LiDAR+radar+cameras)</text>
+  <text x="460" y="288" fill="#888888" font-family="sans-serif" font-size="11">Pure robotaxi, no consumer vehicles</text>
+
+  <!-- China -->
+  <rect x="770" y="140" width="350" height="155" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="790" y="168" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">China Fleet</text>
+  <text x="790" y="192" fill="#FFFFFF" font-family="sans-serif" font-size="12">Baidu Apollo: <tspan fill="#FF9800" font-weight="bold">22+ cities · 17M+ rides</tspan></text>
+  <text x="790" y="212" fill="#FFFFFF" font-family="sans-serif" font-size="12">Pony.ai: Full driverless permits in 4 major cities</text>
+  <text x="790" y="232" fill="#FFFFFF" font-family="sans-serif" font-size="12">WeRide: Guangzhou 24/7 fully driverless ops</text>
+  <text x="790" y="252" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">BYD: Free ADAS standard (incl. $9,500 Seagull)</text>
+  <text x="790" y="272" fill="#888888" font-family="sans-serif" font-size="11">2.3M vehicles equipped · 150M km/day data</text>
+  <text x="790" y="288" fill="#888888" font-family="sans-serif" font-size="11">Huawei ADS · XPeng L3 · Li Auto L3 permit</text>
+
+  <!-- Horse-to-Car Parallel -->
+  <rect x="80" y="315" width="1040" height="85" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="600" y="343" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">Historical Parallel: Horse → Car Transition</text>
+  <text x="100" y="370" fill="#FFFFFF" font-family="sans-serif" font-size="13">1900: 21.5M horses vs 4,192 cars → 1912: NYC cars outnumber horses → 1920: 13,800 carriage makers down to 90 (<tspan fill="#FF4444" font-weight="bold">99.3% eliminated</tspan>)</text>
+  <text x="100" y="393" fill="#888888" font-family="sans-serif" font-size="12">Lost jobs: coachmen, farriers, harness makers, feed dealers · Key disruption period just 10 years (1907-1917) · Often cited as tech replacement causing regional economic shocks</text>
+
+  <!-- Social Impact -->
+  <text x="600" y="435" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">Social Impact</text>
+
+  <!-- Jobs -->
+  <rect x="80" y="455" width="260" height="95" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+  <text x="100" y="478" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">Jobs</text>
+  <text x="100" y="498" fill="#FFFFFF" font-family="sans-serif" font-size="12">Global: <tspan fill="#FF4444" font-weight="bold">~100M</tspan> driving-related jobs</text>
+  <text x="100" y="516" fill="#FFFFFF" font-family="sans-serif" font-size="12">China: ~40M · US: ~5M</text>
+  <text x="100" y="534" fill="#FFFFFF" font-family="sans-serif" font-size="12">EU: ~6M · India: ~15M</text>
+  <text x="100" y="548" fill="#888888" font-family="sans-serif" font-size="10">Goldman Sachs: US full adoption → 25k jobs lost/month</text>
+
+  <!-- Urban -->
+  <rect x="360" y="455" width="260" height="95" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+  <text x="380" y="480" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">Urban Space</text>
+  <text x="380" y="502" fill="#FFFFFF" font-family="sans-serif" font-size="12">Cars parked 95% of the time</text>
+  <text x="380" y="520" fill="#FFFFFF" font-family="sans-serif" font-size="12">1 shared AV ≈ replaces 11 traditional cars</text>
+  <text x="380" y="538" fill="#888888" font-family="sans-serif" font-size="11">14% of LA land is parking lots</text>
+
+  <!-- Safety -->
+  <rect x="640" y="455" width="240" height="95" rx="8" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1"/>
+  <text x="660" y="480" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">Safety</text>
+  <text x="660" y="502" fill="#FFFFFF" font-family="sans-serif" font-size="12">93% of accidents caused by human error</text>
+  <text x="660" y="520" fill="#FFFFFF" font-family="sans-serif" font-size="12">US annual traffic deaths: ~40,000</text>
+  <text x="660" y="538" fill="#888888" font-family="sans-serif" font-size="11">AVs could theoretically eliminate most</text>
+
+  <!-- Accessibility -->
+  <rect x="900" y="455" width="220" height="95" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="920" y="480" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">Access</text>
+  <text x="920" y="502" fill="#FFFFFF" font-family="sans-serif" font-size="12">Elderly/disabled independent travel</text>
+  <text x="920" y="520" fill="#FFFFFF" font-family="sans-serif" font-size="12">+2M job opportunities</text>
+  <text x="920" y="538" fill="#888888" font-family="sans-serif" font-size="11">$19B/yr healthcare savings</text>
+
+  <!-- Timeline -->
+  <text x="600" y="590" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="18" font-weight="bold">Timeline</text>
+
+  <line x1="120" y1="620" x2="1080" y2="620" stroke="#00BCD4" stroke-width="2" opacity="0.4"/>
+
+  <circle cx="200" cy="620" r="8" fill="#00BCD4"/>
+  <text x="200" y="608" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="12" font-weight="bold">2026</text>
+  <text x="200" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">Geofenced robotaxis</text>
+  <text x="200" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Tesla · Waymo · Baidu</text>
+
+  <circle cx="440" cy="620" r="8" fill="#2196F3"/>
+  <text x="440" y="608" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="12" font-weight="bold">2030</text>
+  <text x="440" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">20% new cars with L4</text>
+  <text x="440" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Dozens of cities operating</text>
+
+  <circle cx="680" cy="620" r="8" fill="#FF9800"/>
+  <text x="680" y="608" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">2035</text>
+  <text x="680" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">57% new cars with advanced AV</text>
+  <text x="680" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">China: 1.9M robotaxis</text>
+
+  <circle cx="920" cy="620" r="8" fill="#FF4444"/>
+  <text x="920" y="608" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">2045-2060</text>
+  <text x="920" y="648" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="11">L5 full autonomy mainstream</text>
+  <text x="920" y="663" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">Manual driving = horse riding</text>
+
+  <!-- Bottom insight -->
+  <rect x="80" y="685" width="1040" height="50" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="600" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">The carriage industry was 99.3% eliminated in 10 years. The disruptive decade for driving may be now through 2035.</text>
+
+  <!-- Bottom sub -->
+  <text x="600" y="758" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13">BYD puts advanced ADAS free in a $9,500 car — when tech isn't a luxury, adoption outpaces all forecasts.</text>
+
+  <!-- Sources -->
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">Sources: Tesla · Waymo · CNBC · CleanTechnica · SCMP · McKinsey · NHTSA · Global Policy Solutions</text>
+</svg>

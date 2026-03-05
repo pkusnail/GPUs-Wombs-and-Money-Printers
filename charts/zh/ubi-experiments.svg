@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">UBI实验：给人钱不会让他们变懒</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">UBI Experiments: Giving People Money Doesn't Make Them Lazy</text>
+
+  <!-- 4 experiment cards -->
+
+  <!-- Card 1: Alaska -->
+  <rect x="80" y="120" width="510" height="200" rx="12" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
+  <text x="100" y="152" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">🇺🇸 阿拉斯加 Alaska</text>
+  <text x="100" y="175" fill="#888888" font-family="sans-serif" font-size="13">1982至今 · 40+年运行</text>
+  <rect x="100" y="190" width="120" height="50" rx="8" fill="#0A0A0A" stroke="#00BCD4" stroke-width="1"/>
+  <text x="160" y="215" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="18" font-weight="bold">$1,700</text>
+  <text x="160" y="233" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">/人/年 (2025)</text>
+  <text x="240" y="210" fill="#FFFFFF" font-family="sans-serif" font-size="13">石油收入全民分红</text>
+  <text x="240" y="230" fill="#FFFFFF" font-family="sans-serif" font-size="13">每位居民无条件获得</text>
+  <text x="100" y="265" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">结果:</text>
+  <text x="100" y="285" fill="#FFFFFF" font-family="sans-serif" font-size="13">✓ 就业率没有下降 ✓ 消费增加 ✓ 贫困率降低</text>
+  <text x="100" y="305" fill="#888888" font-family="sans-serif" font-size="11">医疗支出: 每$1分红 → 未来>$1医疗节省</text>
+
+  <!-- Card 2: Finland -->
+  <rect x="610" y="120" width="510" height="200" rx="12" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1.5"/>
+  <text x="630" y="152" fill="#2196F3" font-family="sans-serif" font-size="20" font-weight="bold">🇫🇮 芬兰 Finland</text>
+  <text x="630" y="175" fill="#888888" font-family="sans-serif" font-size="13">2017-2018 · 随机对照实验</text>
+  <rect x="630" y="190" width="120" height="50" rx="8" fill="#0A0A0A" stroke="#2196F3" stroke-width="1"/>
+  <text x="690" y="215" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="18" font-weight="bold">€560</text>
+  <text x="690" y="233" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">/人/月</text>
+  <text x="770" y="210" fill="#FFFFFF" font-family="sans-serif" font-size="13">2000名失业者</text>
+  <text x="770" y="230" fill="#FFFFFF" font-family="sans-serif" font-size="13">无条件每月发放</text>
+  <text x="630" y="265" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">结果:</text>
+  <text x="630" y="285" fill="#FFFFFF" font-family="sans-serif" font-size="13">✓ 就业率=对照组（没变懒）</text>
+  <text x="630" y="305" fill="#FFFFFF" font-family="sans-serif" font-size="13">✓ 幸福感↑ ✓ 信任感↑ ✓ 健康↑ ✓ 抑郁↓</text>
+
+  <!-- Card 3: Stockton -->
+  <rect x="80" y="340" width="510" height="200" rx="12" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="100" y="372" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">🇺🇸 斯托克顿SEED Stockton</text>
+  <text x="100" y="395" fill="#888888" font-family="sans-serif" font-size="13">2019-2021 · 美国加州</text>
+  <rect x="100" y="410" width="120" height="50" rx="8" fill="#0A0A0A" stroke="#FF9800" stroke-width="1"/>
+  <text x="160" y="435" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="18" font-weight="bold">$500</text>
+  <text x="160" y="453" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">/人/月</text>
+  <text x="240" y="430" fill="#FFFFFF" font-family="sans-serif" font-size="13">125名居民</text>
+  <text x="240" y="450" fill="#FFFFFF" font-family="sans-serif" font-size="13">无条件发放两年</text>
+  <text x="100" y="485" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">结果:</text>
+  <text x="100" y="505" fill="#FFFFFF" font-family="sans-serif" font-size="14">全职就业率: <tspan fill="#FF4444">28%</tspan> → <tspan fill="#00BCD4" font-weight="bold">40%</tspan> （+12个百分点）</text>
+  <text x="100" y="525" fill="#FFFFFF" font-family="sans-serif" font-size="13">✓ 拿了钱反而更积极找工作 ✓ 收入波动性↓</text>
+
+  <!-- Card 4: Kenya -->
+  <rect x="610" y="340" width="510" height="200" rx="12" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="630" y="372" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">🇰🇪 肯尼亚 Kenya GiveDirectly</text>
+  <text x="630" y="395" fill="#888888" font-family="sans-serif" font-size="13">2018至今 · 全球最大UBI实验</text>
+  <rect x="630" y="410" width="120" height="50" rx="8" fill="#0A0A0A" stroke="#FF4444" stroke-width="1"/>
+  <text x="690" y="435" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="18" font-weight="bold">$22.50</text>
+  <text x="690" y="453" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">/人/月 (12年)</text>
+  <text x="770" y="430" fill="#FFFFFF" font-family="sans-serif" font-size="13">数千村庄</text>
+  <text x="770" y="450" fill="#FFFFFF" font-family="sans-serif" font-size="13">长期现金转移</text>
+  <text x="630" y="485" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">结果:</text>
+  <text x="630" y="505" fill="#FFFFFF" font-family="sans-serif" font-size="13">✓ 创业率↑ ✓ 营养改善 ✓ 家庭暴力↓</text>
+  <text x="630" y="525" fill="#FFFFFF" font-family="sans-serif" font-size="13">✓ 一次性给付者创业表现更好</text>
+
+  <!-- Cross-study conclusion -->
+  <rect x="80" y="570" width="1040" height="100" rx="12" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="600" y="600" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="18" font-weight="bold">跨实验结论 Cross-Study Conclusion</text>
+  <text x="600" y="628" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14">在芬兰、阿拉斯加、德国、非洲、美国城市的实验中：</text>
+  <text x="600" y="652" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">绝大多数人拿了钱不会辞职。有人减少工时用于照顾家人或学习；有人用安全网去找更好的工作或创业。</text>
+
+  <!-- Bottom -->
+  <text x="600" y="710" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">资金来源路径: 工资税 → 资本/算力/碳组合税 · AI额外GDP增长中分配一小部分即可</text>
+
+  <!-- Sources -->
+  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: Alaska Permanent Fund · Finnish Social Insurance (Kela) · GiveDirectly/IPA · Stockton SEED Program</text>
+</svg>
