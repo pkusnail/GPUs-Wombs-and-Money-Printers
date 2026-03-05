@@ -1,3 +1,5 @@
+**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.0.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.0.pdf)
+
 # GPUs, Wombs, and Money Printers: The Fates of Human Societies in the Age of AI
 
 ---

@@ -1,3 +1,5 @@
+[English](README.md) | **中文** | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.0.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.0.pdf)
+
 # GPU、子宫与印钞机：AI时代人类社会的命运推演
 
 ---
