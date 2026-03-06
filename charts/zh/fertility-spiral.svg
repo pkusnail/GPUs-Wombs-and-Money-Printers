@@ -39,7 +39,7 @@
   <path d="M365,315 Q420,260 545,210" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrFS)"/>
 
   <!-- Center -->
-  <text x="600" y="420" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="22" font-weight="bold">⚠ 没有人会踩刹车</text>
+  <text x="600" y="420" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="22" font-weight="bold">⚠ 没有人能踩住刹车</text>
 
   <!-- Bottom insight -->
   <rect x="250" y="710" width="700" height="60" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
