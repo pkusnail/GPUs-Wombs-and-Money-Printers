@@ -46,12 +46,12 @@
   <text x="890" y="250" fill="#FF9800" font-family="sans-serif" font-size="13">$0.50</text>
 
   <text x="650" y="281" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇻🇳 Vietnam</text>
-  <rect x="860" y="266" width="172" height="22" rx="3" fill="#FF9800" opacity="0.7"/>
-  <text x="1042" y="283" fill="#FF9800" font-family="sans-serif" font-size="13">$4.30</text>
+  <rect x="860" y="266" width="100" height="22" rx="3" fill="#FF9800" opacity="0.7"/>
+  <text x="968" y="283" fill="#FF9800" font-family="sans-serif" font-size="13">$4.30</text>
 
   <text x="650" y="314" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇺🇸 US Worker</text>
-  <rect x="860" y="299" width="400" height="22" rx="3" fill="#2196F3" opacity="0.6"/>
-  <text x="1070" y="316" fill="#2196F3" font-family="sans-serif" font-size="13">$15-20</text>
+  <rect x="860" y="299" width="200" height="22" rx="3" fill="#2196F3" opacity="0.6"/>
+  <text x="1068" y="316" fill="#2196F3" font-family="sans-serif" font-size="13">$15-20</text>
 
   <text x="870" y="345" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">Robots already near cheapest-labor-country costs — cheap labor advantage gone</text>
 
@@ -80,7 +80,7 @@
   <!-- Vietnam -->
   <rect x="905" y="410" width="215" height="90" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
   <text x="925" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🇻🇳 Vietnam</text>
-  <text x="925" y="458" fill="#2196F3" font-family="sans-serif" font-size="12" font-weight="bold">Electronics assembly model under pressure</text>
+  <text x="925" y="458" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">Assembly model under pressure</text>
   <text x="925" y="478" fill="#888888" font-family="sans-serif" font-size="11">Heavy FDI assembly dependence</text>
 
   <!-- Historical Parallel -->
