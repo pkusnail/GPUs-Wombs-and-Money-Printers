@@ -556,6 +556,14 @@ But Xiao Ming's story also hides a thread of hope: he paints not for money, runs
 
 Written by Tony Seah, based on logical extrapolation from public data and research reports. All charts are original hand-drawn SVGs.
 
+## Discussion
+
+Join the Telegram group to discuss the ideas in this article:
+
+![Telegram Group](charts/gwm.jpg)
+
+---
+
 If you found this article valuable, consider supporting the author:
 
 **International:**
