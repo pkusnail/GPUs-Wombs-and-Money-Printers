@@ -1,4 +1,4 @@
-**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.0.1.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.0.1.pdf)
+**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.0.2.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.0.2.pdf)
 
 # GPUs, Wombs, and Money Printers: The Fates of Human Societies in the Age of AI
 
@@ -330,7 +330,19 @@ DoD ultimatum to Anthropic: drop safety or lose $200 M [12][13]. U.S. FY26: **
 
 Internal economic pain + external AI military edge → classic diversionary war pattern [69][72]. Critical minerals (Taiwan chips; China 69% rare earth) become flashpoints [71].
 
-### 7.4 Mechanism of Becoming a “Transitional Species”
+### 7.4 AI-Enabled Weapons of Mass Destruction
+
+The arms race described above is between states. But AI is also lowering the barrier for non-state actors — and this may be the most underestimated existential threat.
+
+**Bioweapons.** OpenAI's o3 model ranks in the 94th percentile among expert human virologists (RAND, April 2025). Within a single year, Anthropic's Claude went from underperforming world-class experts on virology troubleshooting to “comfortably exceeding that baseline” — triggering ASL-3 safety protocols [110]. A RAND Europe assessment found that AI-enabled biological tools released in 2023–2024 nearly equaled the total from the previous four years combined [110]. The International AI Safety Report (2025 Paris Summit) noted that LLM instructions for releasing lethal substances showed “an 80% improvement in 2024 alone” [110]. No AI-enabled bioattack has succeeded yet — but the capability curve is accelerating far faster than governance.
+
+**Genetic weapons.** CRISPR kits are commercially available for under $200. AI dramatically accelerates gene-drive design and pathogen engineering. In April 2024, a U.S. government report warned that North Korea is capable of engineering bioweapons using CRISPR gene-editing [111]. China's Ministry of State Security has publicly warned about “genetic weapons developed to kill targets of a predetermined race” [111]. MIT's Kevin Esvelt estimates that within ~15 years, an accidental gene-drive release with global spread potential could escape lab controls [111]. DARPA invested $65 million in its Safe Genes program specifically to develop tools to “counter and reverse the effects of genome editing” — a defensive acknowledgment that the offensive capability already exists [111].
+
+**Terrorism.** According to Small Wars Journal (December 2025), 2025 saw “a notable rise in incidents where terrorists leveraged AI tools to plan, research, and prepare attacks” — from explosive composition to chemical precursor acquisition [112]. A February 2026 RAND commentary concluded: “AI has collapsed the barriers to engineering devastating bioweapons” [112]. AI has captured the attention of organizations from Al-Qaeda to ISIS to Hezbollah, primarily for propaganda and operational planning [112]. The conversational, step-by-step nature of LLMs is particularly useful for lone wolves lacking formal training.
+
+The implications for the species-level argument are stark: in a world where a single individual with AI assistance can potentially design a targeted pathogen, the question is no longer *whether* a catastrophic biological event will occur, but *when*. This is not the familiar nuclear risk (where fissile materials are hard to obtain). Biological precursors are ubiquitous, CRISPR is cheap, and AI is removing the knowledge barrier. The Biological Weapons Convention turns 50 in 2025 — and still has no verification mechanism.
+
+### 7.5 Mechanism of Becoming a “Transitional Species”
 
 No single bad decision; many rational micro-steps compound into irreversibility.
 
@@ -438,7 +450,34 @@ The following extrapolations are purely logical extensions of current trends—n
 
 ### 9.1 Species Split: Augmented vs Natural
 
-Gene edit, BCIs, nano‑repair could commercialize 2040s. Biological divergence—not ideological.
+**November 30, 2022 — the day ChatGPT launched — may be remembered as the dividing line in the history of the species.** Before that date, Earth was a purely human society. Every institution, every law, every moral framework was built by humans, for humans, in a world where humans were the only intelligent agents. After that date, we entered an era of human-AI coexistence — and there is no going back.
+
+This transition has three phases:
+
+**Phase 1: Pure Human Society** (all of history → November 2022). Homo sapiens as the sole intelligent species. All competition, cooperation, and meaning-making occurs between humans.
+
+**Phase 2: Human-AI Coexistence** (2022 → ~2040s). We are here now. AI is a tool, then a collaborator, then a competitor, then a superior. Humans remain biologically unchanged but increasingly dependent on AI for cognition, decision-making, and eventually physical labor (via humanoid robots). This phase is inherently unstable — a transition, not an equilibrium.
+
+**Phase 3: Divergence** (~2040s →). This is where the species question becomes unavoidable. Two paths, both leading away from "human as we know it":
+
+**Path A: Augmentation.** Gene editing (CRISPR and successors), brain-computer interfaces (Neuralink has implanted 12 people as of September 2025; Blindsight vision-restoration trials begin 2026 [113]), nanomedicine, and epigenetic reprogramming converge to produce beings that are biologically distinct from Homo sapiens. As of February 2025, approximately 250 CRISPR clinical trials are active [113]. Casgevy — the first approved CRISPR medicine — costs $2.2 million per treatment, with 39 patients infused by September 2025 [113]. Cleveland Clinic's 2025 first-in-human CRISPR trial for cholesterol showed "substantial reduction within two weeks" [113]. The technology works. It's scaling. And the line between "therapy" (fixing disease) and "enhancement" (upgrading capability) is philosophically clear but practically nonexistent — once you can edit genes to eliminate Alzheimer's risk, why not also boost IQ?
+
+A 2024 paper in *Bioethics* (Wiley) by Rueda argues that radical genetic enhancements "may accelerate conversion into a novel species" — genetic modifications could create reproductive barriers, making augmented humans biologically incompatible with natural humans [114]. Speciation through technology, not evolution. Kurzweil (2024) predicts a "millionfold intelligence increase by 2045 through brain-computer interfaces using nanobots" [114]. Harari's *Homo Deus* warned of a "biological caste system" where enhanced elites diverge from unaugmented masses [114].
+
+75 of 96 countries currently prohibit heritable genome editing [113]. But prohibition only works if everyone complies. He Jiankui edited three human embryos in 2018, served three years in prison, and by July 2024 had relocated to Hainan (China's medical tourism hub), received funding from a U.S. crypto entrepreneur, and was proposing new CRISPR embryo editing targeting Alzheimer's [113]. The genie is out of the bottle.
+
+**Path B: Extinction of natural humans.** This isn't dramatic sci-fi — it's a logical consequence of multiple converging forces analyzed throughout this article:
+- **Economic obsolescence** (Chapter II): natural humans can't compete with AI in any cognitive task
+- **AI-enabled WMDs** (Section 7.4): bioweapons, genetic weapons, and autonomous weapons systems create existential risks that disproportionately threaten unaugmented populations
+- **Reproductive collapse** (Chapter V): the fertility spiral ensures natural human populations shrink every generation
+- **Longevity divergence** (Section 9.2): augmented humans live to 120+; natural humans stay at 75
+- **Meaning crisis** (Section 8.2): without purpose, natural human populations suffer escalating rates of withdrawal, depression, and self-harm
+
+No single force kills natural humanity. But together, they describe a species being squeezed from every direction simultaneously — economically useless, biologically vulnerable, reproductively declining, and psychologically hollowed out. The "natural human" doesn't go extinct in a dramatic event. It fades — each generation smaller, older, more dependent on AI for survival, until the distinction between "living in an AI-maintained society" and "being a museum exhibit" becomes uncomfortably thin.
+
+**The uncomfortable conclusion: to coexist with AI long-term, humans may have no choice but to become something other than human.** Augmentation isn't a luxury — it's a survival strategy. The alternative isn't remaining "natural" — it's slow-motion irrelevance followed by demographic disappearance.
+
+This is the deepest meaning of Section 7.4's "transitional species" argument: Homo sapiens may be to Homo augmentus what Homo erectus was to us — not a failure, but a predecessor.
 
 ### 9.2 Longevity Paradox: Who Pays the 55-Year Retirement?
 
@@ -613,3 +652,13 @@ Source / Project: [github.com/pkusnail/GPUs-Wombs-and-Money-Printers](https://gi
 [108] Nielsen, "The Gauge: Streaming surpasses 44.8% of US TV viewing," May 2025; NPR, "The Monoculture Myth," 2024. https://www.nielsen.com/insights/2025/the-gauge/
 
 [109] Hubert et al., "GPT-4 outperforms humans on divergent thinking," Scientific Reports / Nature, 2023; Nave & Terwiesch, "AI and Idea Diversity," Wharton, 2024; "Creative scar effect," Technological Forecasting and Social Change, 2025. https://www.nature.com/articles/s41598-023-40858-3
+
+[110] RAND, "Dissecting America's AI Action Plan: A Primer for Biosecurity," 2025 (o3 model 94th percentile virology); Anthropic, "Biorisk Evaluations," 2025 (Claude exceeded expert baseline, ASL-3 triggered); RAND Europe, "Global Risk Index for AI-enabled Biological Tools," 2024; CIGI, "AI Is Reviving Fears Around Bioterrorism," 2025 (Paris Summit: 80% improvement in lethal substance instructions). https://www.rand.org/pubs/commentary/2025/08/dissecting-americas-ai-action-plan-a-primer-for-biosecurity.html
+
+[111] NK News, "North Korea can use gene-editing tech to craft military bioweapons, US warns," April 2024; China Ministry of State Security warning on ethnic genetic weapons, October 2023; MIT Kevin Esvelt gene-drive risk estimates; DARPA Safe Genes Program ($65M); AI & Society (Springer), "Synthetic biology/AI convergence security threats," 2025. https://link.springer.com/article/10.1007/s00146-025-02576-4
+
+[112] Small Wars Journal (Arizona State), "AI Use in Terrorist Plots Surges in 2025," December 2025; RAND, "The WMD AI Security Gap," February 2026; War on the Rocks, "AI and the New Blueprint of Terrorism," March 2026; MEMRI, "AI and the New Era of Terrorism," 2025. https://smallwarsjournal.com/2025/12/24/ai-use-in-terrorist-plots-and-attacks-surges-in-2025/
+
+[113] IGI, "CRISPR Clinical Trials 2025 Update" (~250 trials, 150+ active); Casgevy: $2.2M/treatment, 39 patients infused Sept 2025; Cleveland Clinic first-in-human CRISPR cholesterol trial, 2025; Neuralink: 12 implant recipients Sept 2025, Blindsight trial 2026; He Jiankui: relocated Hainan July 2024, new CRISPR embryo proposal funded; Genetic Literacy Project, Global Gene Editing Regulation Tracker (75/96 countries prohibit). https://innovativegenomics.org/news/crispr-clinical-trials-2025/
+
+[114] Rueda, "Genetic enhancement, human extinction, and the best interests of posthumanity," Bioethics (Wiley), 2024; Kurzweil, The Singularity Is Nearer, 2024 (AGI 2029, millionfold intelligence by 2045); Harari, Homo Deus, 2016 (biological caste system). https://onlinelibrary.wiley.com/doi/10.1111/bioe.13085
