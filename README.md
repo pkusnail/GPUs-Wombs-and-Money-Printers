@@ -316,6 +316,14 @@ U.S. mortgages $13 T [1]; borrowers prime. 2008 was bad loans day one; now loa
 
 We add a quick stress framework: inputs (home price YoY, unemployment, bank CRE/resi share, LTV, rate); shock x% price drop, +y% unemployment; estimate bank capital gap & property‑tax base shrink. Gap >3pp and tax base −10% → high de‑urbanization risk.
 
+But the above only covers the U.S. Zoom out — this is a **$27 trillion** global problem.
+
+**Global mortgage panorama**: U.S. $13T + EU €8.2T ($8.9T) + China ¥37.4T ($5.2T) = roughly **$27T** in the three major blocs alone. The U.S. crisis is still a projection. **China's is already in its fifth year.**
+
+**China: the crisis is present tense, not future.** Evergrande (>$300B debt, liquidation ordered Jan 2024, delisted Aug 2025), Country Garden ($14B offshore default), Vanke (selective default, $21B short-term debt vs $8B cash) — systemic developer collapse [118]. China's pre-sale system let developers spend buyers' money before building; an estimated **20 million units** sold but left unbuilt [119]. Government pledged ¥4T in loan quotas; experts say the real cost is ¥3.5–7T. Nationwide new-home prices fell **3.2% YoY** (Feb 2026); secondary markets worse — Beijing **−8.5%**, Guangzhou **−7.8%**, Shenzhen **−5.5%** [120]. Vacancy: **65–80 million** empty homes nationwide; tier-2/3 vacancy rates 25–40% [20]. Households are deleveraging: mortgage balance has **declined three consecutive years**; ¥4.7T in prepayments in 2022 alone [121]. Household debt-to-GDP peaked at **62.3%** (Mar 2024), now falling — classic balance-sheet recession behavior, mirroring Japan in the 1990s.
+
+**Now layer on AI.** China's current crisis is developer leverage + demographic peak. Per our earlier chapters, the 2028–2030 AI white-collar displacement wave adds a **third layer**: (1) existing structural crisis (unfinished projects, developer defaults, falling prices), (2) accelerating demographic decline (population shrinking since 2022), (3) AI employment shock (middle-class income loss → mortgage defaults). The U.S. faces "good loans in a bad world" — a hypothetical. China faces "structural flaws meet demographic collapse meet AI displacement" — already happening, about to get worse.
+
 ### 6.2 Middle-Class Defaults → Bank Crisis → De‑urbanization
 
 $1 T CRE loans due 2026 [16]; 20% offices; SF office vacancy 34% [15]. Regionals concentrated; 2008 subprime redo but with prime, larger balances.
