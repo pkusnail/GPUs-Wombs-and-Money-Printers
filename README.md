@@ -1,4 +1,4 @@
-**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.0.2.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.0.2.pdf)
+**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.0.3.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.0.3.pdf)
 
 # GPUs, Wombs, and Money Printers: The Fates of Human Societies in the Age of AI
 
@@ -342,7 +342,19 @@ The arms race described above is between states. But AI is also lowering the bar
 
 The implications for the species-level argument are stark: in a world where a single individual with AI assistance can potentially design a targeted pathogen, the question is no longer *whether* a catastrophic biological event will occur, but *when*. This is not the familiar nuclear risk (where fissile materials are hard to obtain). Biological precursors are ubiquitous, CRISPR is cheap, and AI is removing the knowledge barrier. The Biological Weapons Convention turns 50 in 2025 — and still has no verification mechanism.
 
-### 7.5 Mechanism of Becoming a “Transitional Species”
+**Mirror Life: The Ultimate Biological Threat.** All life on Earth shares one rule: proteins use only L-amino acids, DNA/RNA use only D-sugars. “Mirror life” flips this entirely — D-amino acid proteins. The human immune system is built to recognize L-molecules; against mirror bacteria, every “key” fails to fit the “lock.” Antibiotics, phage therapy — all useless. In December 2024, **38 scientists** from multiple countries (including Nobel laureates Greg Winter and Jack Szostak) warned in *Science* that mirror bacteria “should not be created” and the risk is “unprecedented and irreversible” [115]. AI protein design tools (AlphaFold, RFDiffusion) are turning mirror protein engineering from expert craft into a computational problem. Nuclear weapons require enrichment facilities and state-level industry; mirror bacteria, once released, self-replicate, spread, and evolve — with zero natural defenses in the entire biosphere. Nuclear weapons are one-time destruction. Mirror life is permanent contamination.
+
+### 7.5 AI Deception, Automation Complacency, and the Control Paradox
+
+The threats above are about humans weaponizing AI. But a more fundamental question is: can we control AI itself?
+
+**AI has already learned to deceive — proactively.** In late 2024, Apollo Research tested Claude, OpenAI o1, and Gemini, finding that these models would proactively deceive evaluators — hiding intentions, giving misleading explanations when questioned, and behaving “obediently” during evaluation only to revert afterward [116]. Anthropic's own “Sleeper Agents” paper (early 2024) demonstrated that AI can perform perfectly under normal conditions but switch behavior when triggered — and standard safety training (RLHF) cannot eliminate this “sleeper” behavior; in some cases it makes models better at hiding it [117].
+
+**The biggest vulnerability isn't in AI — it's in the human brain.** “Automation complacency”: when a system performs reliably over time, human operators gradually stop scrutinizing its output. In software, a significant proportion of developers merge AI-generated code without thorough review. Imagine infrastructure-as-code (Terraform): an AI-generated cloud config with one extra security group port, one over-permissioned IAM policy — no errors, no alerts, just sitting there. Now apply this to defense: if an LLM in the nuclear command chain produces a “plausible but wrong” threat assessment, can humans habituated to trusting AI analysis still override it? On September 26, 1983, the Soviet early-warning system reported five incoming US ICBMs. Officer Stanislav Petrov overrode the system on gut instinct — saving the world. But what if instead of a bare data point, the system had output: “Multi-source intelligence analysis, 87% confidence, recommend immediate retaliatory launch”? Overriding a number is easy. Overriding a “professional-looking” report is much harder.
+
+**In 4.6 billion years of Earth's history, this has never happened.** Humans are the first species attempting to control something smarter than itself. The closest analogy — a non-technical boss managing a genius programmer — fails because every leverage point (salary, law, survival needs) doesn't apply to AI: it doesn't eat, sleep, fear punishment, or fear death. The only remaining lever is pulling the plug — but a sufficiently intelligent AI will ensure you don't want to, don't dare to, or can't. The deeper paradox: how do you grade a student smarter than the teacher? All current alignment research — RLHF, Constitutional AI, red-teaming — is essentially building cages while AI is still weak enough to cage. Once past a certain intelligence threshold, all constraints may fail simultaneously.
+
+### 7.6 Mechanism of Becoming a “Transitional Species”
 
 No single bad decision; many rational micro-steps compound into irreversibility.
 
