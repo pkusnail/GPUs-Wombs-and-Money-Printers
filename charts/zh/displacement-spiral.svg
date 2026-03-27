@@ -52,7 +52,7 @@
   </defs>
 
   <!-- Center warning -->
-  <text x="600" y="415" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">⚠ 没有人会踩刹车</text>
+  <text x="600" y="415" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">⚠ 没有人刹得住车</text>
 
   <!-- Edge labels (pushed outward from curve paths) -->
   <text x="790" y="270" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12" transform="rotate(20,790,270)">取代人工</text>
