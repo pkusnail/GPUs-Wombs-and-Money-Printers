@@ -2,7 +2,7 @@
   <rect width="1400" height="600" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="700" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">AI重塑人的一生：从摇篮到坟墓</text>
+  <text x="700" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">AI重塑人的一生：从摇篮到坟墓</text>
 
   <!-- Timeline axis -->
   <line x1="80" y1="300" x2="1320" y2="300" stroke="#444444" stroke-width="2"/>
@@ -11,55 +11,55 @@
 
   <!-- Stage 1: 0-5 AI保姆 -->
   <rect x="90" y="140" width="150" height="130" rx="12" fill="#E91E63" fill-opacity="0.1" stroke="#E91E63" stroke-width="1.5"/>
-  <text x="165" y="170" text-anchor="middle" fill="#E91E63" font-family="sans-serif" font-size="16" font-weight="bold">0-5岁</text>
-  <text x="165" y="195" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI保姆/导师</text>
-  <text x="165" y="240" text-anchor="middle" fill="#E91E63" font-family="sans-serif" font-size="11">永远耐心</text>
+  <text x="165" y="170" text-anchor="middle" fill="#E91E63" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">0-5岁</text>
+  <text x="165" y="195" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">AI保姆/导师</text>
+  <text x="165" y="240" text-anchor="middle" fill="#E91E63" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">永远耐心</text>
   <circle cx="165" cy="300" r="6" fill="#E91E63"/>
 
   <!-- Stage 2: 6-18 AI教育 -->
   <rect x="260" y="140" width="150" height="130" rx="12" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.5"/>
-  <text x="335" y="170" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">6-18岁</text>
-  <text x="335" y="195" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI个性化教育</text>
-  <text x="335" y="240" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="11">学位贬值</text>
+  <text x="335" y="170" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">6-18岁</text>
+  <text x="335" y="195" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">AI个性化教育</text>
+  <text x="335" y="240" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">学位贬值</text>
   <circle cx="335" cy="300" r="6" fill="#FF9800"/>
 
   <!-- Stage 3: 18-25 微证书 -->
   <rect x="430" y="140" width="150" height="130" rx="12" fill="#FFC107" fill-opacity="0.1" stroke="#FFC107" stroke-width="1.5"/>
-  <text x="505" y="170" text-anchor="middle" fill="#FFC107" font-family="sans-serif" font-size="16" font-weight="bold">18-25岁</text>
-  <text x="505" y="195" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">微证书堆叠</text>
-  <text x="505" y="240" text-anchor="middle" fill="#FFC107" font-family="sans-serif" font-size="11">终身学习开始</text>
+  <text x="505" y="170" text-anchor="middle" fill="#FFC107" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">18-25岁</text>
+  <text x="505" y="195" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">微证书堆叠</text>
+  <text x="505" y="240" text-anchor="middle" fill="#FFC107" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">终身学习开始</text>
   <circle cx="505" cy="300" r="6" fill="#FFC107"/>
 
   <!-- Stage 4: 25-40 频繁转型 -->
   <rect x="600" y="140" width="150" height="130" rx="12" fill="#4CAF50" fill-opacity="0.1" stroke="#4CAF50" stroke-width="1.5"/>
-  <text x="675" y="170" text-anchor="middle" fill="#4CAF50" font-family="sans-serif" font-size="16" font-weight="bold">25-40岁</text>
-  <text x="675" y="195" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">频繁转型+AI伴侣</text>
-  <text x="675" y="240" text-anchor="middle" fill="#4CAF50" font-family="sans-serif" font-size="11">意义危机</text>
+  <text x="675" y="170" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">25-40岁</text>
+  <text x="675" y="195" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">频繁转型+AI伴侣</text>
+  <text x="675" y="240" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">意义危机</text>
   <circle cx="675" cy="300" r="6" fill="#4CAF50"/>
 
   <!-- Stage 5: 40-65 工作可选 -->
   <rect x="770" y="140" width="150" height="130" rx="12" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1.5"/>
-  <text x="845" y="170" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">40-65岁</text>
-  <text x="845" y="195" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">工作可选</text>
-  <text x="845" y="240" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="11">创造力悖论</text>
+  <text x="845" y="170" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">40-65岁</text>
+  <text x="845" y="195" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">工作可选</text>
+  <text x="845" y="240" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">创造力悖论</text>
   <circle cx="845" cy="300" r="6" fill="#2196F3"/>
 
-  <!-- Stage 6: 65-120 AI医疗续命 -->
+  <!-- Stage 6: 60-150 AI医疗续命 -->
   <rect x="940" y="140" width="150" height="130" rx="12" fill="#9C27B0" fill-opacity="0.1" stroke="#9C27B0" stroke-width="1.5"/>
-  <text x="1015" y="170" text-anchor="middle" fill="#9C27B0" font-family="sans-serif" font-size="16" font-weight="bold">65-120岁</text>
-  <text x="1015" y="195" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI医疗续命</text>
-  <text x="1015" y="240" text-anchor="middle" fill="#9C27B0" font-family="sans-serif" font-size="11">健康分化</text>
+  <text x="1015" y="170" text-anchor="middle" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">60-150岁</text>
+  <text x="1015" y="195" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">AI医疗续命</text>
+  <text x="1015" y="240" text-anchor="middle" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">健康分化</text>
   <circle cx="1015" cy="300" r="6" fill="#9C27B0"/>
 
   <!-- Stage 7: 死后 数字来世 -->
   <rect x="1110" y="140" width="150" height="130" rx="12" fill="#607D8B" fill-opacity="0.1" stroke="#607D8B" stroke-width="1.5"/>
-  <text x="1185" y="170" text-anchor="middle" fill="#607D8B" font-family="sans-serif" font-size="16" font-weight="bold">死后</text>
-  <text x="1185" y="215" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">数字来世</text>
-  <text x="1185" y="255" text-anchor="middle" fill="#607D8B" font-family="sans-serif" font-size="11">死亡重定义</text>
+  <text x="1185" y="170" text-anchor="middle" fill="#607D8B" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">死后</text>
+  <text x="1185" y="215" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">数字来世</text>
+  <text x="1185" y="255" text-anchor="middle" fill="#607D8B" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">死亡重定义</text>
   <circle cx="1185" cy="300" r="6" fill="#607D8B"/>
 
   <!-- Bottom: AI渗透程度 gradient bar -->
-  <text x="700" y="370" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">AI渗透深度</text>
+  <text x="700" y="370" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">AI渗透深度</text>
   <defs>
     <linearGradient id="penetration" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#E91E63" stop-opacity="0.3"/>
@@ -68,10 +68,10 @@
     </linearGradient>
   </defs>
   <rect x="90" y="390" width="1230" height="20" rx="10" fill="url(#penetration)"/>
-  <text x="90" y="430" fill="#888888" font-family="sans-serif" font-size="12">辅助</text>
-  <text x="1230" y="430" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="12">全面接管</text>
+  <text x="90" y="430" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">辅助</text>
+  <text x="1230" y="430" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">全面接管</text>
 
   <!-- Key insight -->
   <rect x="200" y="460" width="1000" height="70" rx="12" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1" stroke-dasharray="6,4"/>
-  <text x="700" y="490" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">每个阶段的核心矛盾：AI让生活更便利，但让生命更空洞</text>
+  <text x="700" y="490" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">每个阶段的核心矛盾：AI让生活更便利，但让生命更空洞</text>
 </svg>
