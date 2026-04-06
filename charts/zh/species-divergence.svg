@@ -8,16 +8,16 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">物种分化</text>
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">物种分化</text>
 
   <!-- Timeline axis -->
   <line x1="150" y1="400" x2="300" y2="400" stroke="#FFFFFF" stroke-width="3"/>
-  <text x="150" y="430" fill="#888888" font-family="sans-serif" font-size="13">2026</text>
-  <text x="280" y="430" fill="#888888" font-family="sans-serif" font-size="13">2035</text>
+  <text x="150" y="430" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">2026</text>
+  <text x="280" y="430" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">2035</text>
 
   <!-- Starting point: Homo Sapiens -->
   <circle cx="150" cy="400" r="12" fill="#FFFFFF"/>
-  <text x="150" y="460" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14">智人</text>
+  <text x="150" y="460" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">智人</text>
 
   <!-- Fork point -->
   <circle cx="350" cy="400" r="8" fill="#FF9800"/>
@@ -25,30 +25,30 @@
   <!-- Branch 1: 增强人类 (top) -->
   <path d="M358,395 Q500,250 700,180" stroke="#00BCD4" stroke-width="3" fill="none"/>
   <rect x="700" y="130" width="380" height="120" rx="16" fill="#00BCD4" fill-opacity="0.12" stroke="#00BCD4" stroke-width="2"/>
-  <text x="890" y="165" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="22" font-weight="bold">后人类增强体</text>
-  <text x="890" y="218" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">CRISPR · 脑机接口 · 纳米机器人 · 寿命数百年</text>
+  <text x="890" y="165" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">后人类增强体</text>
+  <text x="890" y="218" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">CRISPR · 脑机接口 · 纳米机器人 · 寿命数百年</text>
 
   <!-- Branch 2: 自然人类 (middle) -->
   <path d="M358,400 Q500,400 700,400" stroke="#FF9800" stroke-width="3" fill="none"/>
   <rect x="700" y="345" width="380" height="120" rx="16" fill="#FF9800" fill-opacity="0.12" stroke="#FF9800" stroke-width="2"/>
-  <text x="890" y="380" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="22" font-weight="bold">自然人类</text>
-  <text x="890" y="433" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">拒绝增强 · 生活在AI维护的保留区</text>
+  <text x="890" y="380" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">自然人类</text>
+  <text x="890" y="433" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">拒绝增强 · 生活在AI维护的保留区</text>
 
   <!-- Branch 3: 纯AI (bottom) -->
   <path d="M358,405 Q500,550 700,620" stroke="#2196F3" stroke-width="3" fill="none"/>
   <rect x="700" y="565" width="380" height="120" rx="16" fill="#2196F3" fill-opacity="0.12" stroke="#2196F3" stroke-width="2" filter="url(#glow6)"/>
-  <text x="890" y="600" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="22" font-weight="bold">纯AI / 机器人</text>
-  <text x="890" y="653" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">最强"物种" · 星际文明真正建设者</text>
+  <text x="890" y="600" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">纯AI / 机器人</text>
+  <text x="890" y="653" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">最强"物种" · 星际文明真正建设者</text>
 
   <!-- Power labels on the right -->
-  <text x="1100" y="195" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">权力 ●●●●</text>
-  <text x="1100" y="410" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">权力 ●○○○</text>
-  <text x="1100" y="630" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">权力 ●●●●●</text>
+  <text x="1100" y="195" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">权力 ●●●●</text>
+  <text x="1100" y="410" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">权力 ●○○○</text>
+  <text x="1100" y="630" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">权力 ●●●●●</text>
 
   <!-- Key insight -->
-  <text x="450" y="280" fill="#FF4444" font-family="sans-serif" font-size="13">首次在生物层面分裂</text>
-  <text x="450" y="520" fill="#FF9800" font-family="sans-serif" font-size="13">安全、舒适、但无权</text>
+  <text x="450" y="280" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">首次在生物层面分裂</text>
+  <text x="450" y="520" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">安全、舒适、但无权</text>
 
   <!-- Bottom -->
-  <text x="600" y="755" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">不可逆 · 类似物种形成</text>
+  <text x="600" y="755" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">不可逆 · 类似物种形成</text>
 </svg>

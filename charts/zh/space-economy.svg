@@ -2,87 +2,87 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">太空经济：一个人的帝国</text>
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">太空经济：一个人的帝国</text>
 
   <!-- LEFT: Starship Cost Revolution -->
-  <text x="300" y="125" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="20" font-weight="bold">发射成本革命</text>
+  <text x="300" y="125" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">发射成本革命</text>
 
   <!-- Cost bars -->
-  <text x="100" y="175" fill="#FFFFFF" font-family="sans-serif" font-size="13">航天飞机 Shuttle (2011)</text>
+  <text x="100" y="175" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">航天飞机 Shuttle (2011)</text>
   <rect x="300" y="160" width="280" height="24" rx="4" fill="#FF4444" opacity="0.5"/>
-  <text x="590" y="178" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">$54,500/kg</text>
+  <text x="590" y="178" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">$54,500/kg</text>
 
-  <text x="100" y="210" fill="#FFFFFF" font-family="sans-serif" font-size="13">Falcon 9 (2024)</text>
+  <text x="100" y="210" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">Falcon 9 (2024)</text>
   <rect x="300" y="195" width="22" height="24" rx="4" fill="#FF9800" opacity="0.7"/>
-  <text x="332" y="213" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">$2,720/kg</text>
+  <text x="332" y="213" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">$2,720/kg</text>
 
-  <text x="100" y="245" fill="#FFFFFF" font-family="sans-serif" font-size="13">Starship 当前 (2026)</text>
+  <text x="100" y="245" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">Starship 当前 (2026)</text>
   <rect x="300" y="230" width="6" height="24" rx="3" fill="#2196F3" opacity="0.8"/>
-  <text x="316" y="248" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">$78-94/kg</text>
+  <text x="316" y="248" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">$78-94/kg</text>
 
-  <text x="100" y="280" fill="#FFFFFF" font-family="sans-serif" font-size="13">Starship 目标 (2030)</text>
+  <text x="100" y="280" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">Starship 目标 (2030)</text>
   <rect x="300" y="265" width="2" height="24" rx="1" fill="#00BCD4" opacity="0.9"/>
-  <text x="312" y="283" fill="#00BCD4" font-family="sans-serif" font-size="13" font-weight="bold">$10-20/kg</text>
+  <text x="312" y="283" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">$10-20/kg</text>
 
-  <text x="300" y="318" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">降幅: 99.97% · 从航天飞机到Starship目标</text>
-  <text x="300" y="338" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">Starship: 11次试飞 · 150吨有效载荷 · 完全可复用</text>
+  <text x="300" y="318" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">降幅: 99.97% · 从航天飞机到Starship目标</text>
+  <text x="300" y="338" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Starship: 11次试飞 · 150吨有效载荷 · 完全可复用</text>
 
   <!-- RIGHT: Musk's Empire -->
-  <text x="870" y="125" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">马斯克的基础设施帝国</text>
+  <text x="870" y="125" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">马斯克的基础设施帝国</text>
 
   <rect x="640" y="150" width="460" height="200" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
 
-  <text x="665" y="180" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">🚀 SpaceX</text>
-  <text x="825" y="180" fill="#888888" font-family="sans-serif" font-size="12">全球60%+发射份额 · 估值$350B</text>
+  <text x="665" y="180" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">🚀 SpaceX</text>
+  <text x="825" y="180" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">全球60%+发射份额 · 估值$350B</text>
 
-  <text x="665" y="208" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">📡 Starlink</text>
-  <text x="825" y="208" fill="#888888" font-family="sans-serif" font-size="12">9400+卫星 · 1000万+用户 · 65%活跃卫星</text>
+  <text x="665" y="208" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">📡 Starlink</text>
+  <text x="825" y="208" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">9400+卫星 · 1000万+用户 · 65%活跃卫星</text>
 
-  <text x="665" y="236" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">🤖 xAI (Grok)</text>
-  <text x="825" y="236" fill="#888888" font-family="sans-serif" font-size="12">与SpaceX合并 · 合并后$1.25万亿</text>
+  <text x="665" y="236" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">🤖 xAI (Grok)</text>
+  <text x="825" y="236" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">与SpaceX合并 · 合并后$1.25万亿</text>
 
-  <text x="665" y="264" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">🚗 Tesla</text>
-  <text x="825" y="264" fill="#888888" font-family="sans-serif" font-size="12">电动车+FSD+Optimus机器人</text>
+  <text x="665" y="264" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">🚗 Tesla</text>
+  <text x="825" y="264" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">电动车+FSD+Optimus机器人</text>
 
-  <text x="665" y="292" fill="#888888" font-family="sans-serif" font-size="14" font-weight="bold">➕ 其他</text>
-  <text x="825" y="292" fill="#888888" font-family="sans-serif" font-size="12">Neuralink · Boring Company · X(Twitter)</text>
+  <text x="665" y="292" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">➕ 其他</text>
+  <text x="825" y="292" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">Neuralink · Boring Company · X(Twitter)</text>
 
-  <text x="870" y="340" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">一个人控制: 火箭+卫星+AI+电车+脑机接口+社交媒体</text>
+  <text x="870" y="340" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">一个人控制: 火箭+卫星+AI+电车+脑机接口+社交媒体</text>
 
   <!-- MIDDLE: Space Data Centers -->
-  <text x="600" y="390" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">太空数据中心</text>
+  <text x="600" y="390" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">太空数据中心</text>
 
   <rect x="80" y="410" width="340" height="95" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
-  <text x="100" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">☁️ Starcloud (Lumen Orbit)</text>
-  <text x="100" y="460" fill="#2196F3" font-family="sans-serif" font-size="12">2025年11月: 首个H100 GPU送入轨道</text>
-  <text x="100" y="480" fill="#888888" font-family="sans-serif" font-size="11">太空散热优势 · 太阳能无限供电</text>
-  <text x="100" y="498" fill="#888888" font-family="sans-serif" font-size="11">SpaceX Transporter-12发射</text>
+  <text x="100" y="438" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">☁️ Starcloud (Lumen Orbit)</text>
+  <text x="100" y="460" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2025年11月: 首个H100 GPU送入轨道</text>
+  <text x="100" y="480" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">太空散热优势 · 太阳能无限供电</text>
+  <text x="100" y="498" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">SpaceX Transporter-12发射</text>
 
   <rect x="440" y="410" width="340" height="95" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
-  <text x="460" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">☀️ Google Suncatcher</text>
-  <text x="460" y="460" fill="#FF9800" font-family="sans-serif" font-size="12">2027年计划: 太空太阳能 → 微波传输回地球</text>
-  <text x="460" y="480" fill="#888888" font-family="sans-serif" font-size="11">解决地面AI电力瓶颈</text>
-  <text x="460" y="498" fill="#888888" font-family="sans-serif" font-size="11">与Starship合作发射</text>
+  <text x="460" y="438" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">☀️ Google Suncatcher</text>
+  <text x="460" y="460" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2027年计划: 太空太阳能 → 微波传输回地球</text>
+  <text x="460" y="480" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">解决地面AI电力瓶颈</text>
+  <text x="460" y="498" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">与Starship合作发射</text>
 
   <rect x="800" y="410" width="320" height="95" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
-  <text x="820" y="438" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">🔗 SpaceX × xAI 合并</text>
-  <text x="820" y="460" fill="#FF4444" font-family="sans-serif" font-size="12">2026年2月: $1.25万亿合并</text>
-  <text x="820" y="480" fill="#888888" font-family="sans-serif" font-size="11">目标: 轨道AI数据中心</text>
-  <text x="820" y="498" fill="#888888" font-family="sans-serif" font-size="11">火箭+AI+卫星 = 太空算力平台</text>
+  <text x="820" y="438" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">🔗 SpaceX × xAI 合并</text>
+  <text x="820" y="460" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2026年2月: $1.25万亿合并</text>
+  <text x="820" y="480" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">目标: 轨道AI数据中心</text>
+  <text x="820" y="498" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">火箭+AI+卫星 = 太空算力平台</text>
 
   <!-- Why Space? -->
   <rect x="80" y="525" width="1040" height="70" rx="10" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1"/>
-  <text x="600" y="553" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">为什么把数据中心送上太空？</text>
-  <text x="600" y="578" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">❄️ 太空自然散热(无需冷却水) · ☀️ 24/7太阳能(无电网限制) · 🌍 无土地/环保限制 · ⚡ 解决134GW电力缺口</text>
+  <text x="600" y="553" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">为什么把数据中心送上太空？</text>
+  <text x="600" y="578" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">❄️ 太空自然散热(无需冷却水) · ☀️ 24/7太阳能(无电网限制) · 🌍 无土地/环保限制 · ⚡ 解决134GW电力缺口</text>
 
   <!-- Bottom: Historical comparison -->
   <rect x="80" y="615" width="1040" height="90" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
-  <text x="600" y="643" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">历史类比：比东印度公司更大的权力集中</text>
-  <text x="600" y="670" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13">东印度公司: 贸易+军队+领土。马斯克: 火箭+AI+全球通信+能源+脑机接口+社交平台</text>
+  <text x="600" y="643" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">历史类比：比东印度公司更大的权力集中</text>
+  <text x="600" y="670" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">东印度公司: 贸易+军队+领土。马斯克: 火箭+AI+全球通信+能源+脑机接口+社交平台</text>
 
   <!-- Bottom insight -->
-  <text x="600" y="745" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">当一个人同时控制通往太空的唯一经济路径和最强AI，"地球村村长"不是比喻。</text>
+  <text x="600" y="745" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">当一个人同时控制通往太空的唯一经济路径和最强AI，"地球村村长"不是比喻。</text>
 
   <!-- Sources -->
-  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: SpaceX · TechCrunch · Payload Space · Google · Lumen Orbit · Space.com · Financial Times</text>
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: SpaceX · TechCrunch · Payload Space · Google · Lumen Orbit · Space.com · Financial Times</text>
 </svg>

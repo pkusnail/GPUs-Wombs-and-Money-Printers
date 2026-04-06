@@ -8,57 +8,57 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">旧金山：双速城市</text>
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">旧金山：双速城市</text>
 
   <!-- Divider -->
   <line x1="600" y1="120" x2="600" y2="720" stroke="#333333" stroke-width="2" stroke-dasharray="8,4"/>
 
   <!-- LEFT: 旧经济 Old Economy -->
-  <text x="300" y="150" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="22" font-weight="bold">旧经济区</text>
+  <text x="300" y="150" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">旧经济区</text>
 
   <!-- Big vacancy number -->
-  <text x="300" y="290" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="100" font-weight="bold" filter="url(#glow4)">34%</text>
-  <text x="300" y="330" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18">办公空置率</text>
+  <text x="300" y="290" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="100" font-weight="bold" filter="url(#glow4)">34%</text>
+  <text x="300" y="330" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18">办公空置率</text>
 
   <!-- Decay indicators -->
   <rect x="160" y="400" width="280" height="45" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="300" y="428" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">房价 ↓11%</text>
+  <text x="300" y="428" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">房价 ↓11%</text>
 
   <rect x="160" y="460" width="280" height="45" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="300" y="488" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">零售关店潮</text>
+  <text x="300" y="488" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">零售关店潮</text>
 
   <rect x="160" y="520" width="280" height="45" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="300" y="548" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">税收 ↓</text>
+  <text x="300" y="548" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">税收 ↓</text>
 
   <!-- Ghost building illustration -->
   <rect x="220" y="600" width="40" height="80" rx="2" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
   <rect x="270" y="580" width="60" height="100" rx="2" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
   <rect x="340" y="610" width="40" height="70" rx="2" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
-  <text x="300" y="710" text-anchor="middle" fill="#555555" font-family="sans-serif" font-size="12">空楼林立</text>
+  <text x="300" y="710" text-anchor="middle" fill="#555555" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">空楼林立</text>
 
   <!-- RIGHT: AI经济 New Economy -->
-  <text x="900" y="150" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="22" font-weight="bold">AI经济区</text>
+  <text x="900" y="150" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">AI经济区</text>
 
   <!-- Mission Bay number -->
-  <text x="900" y="290" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="100" font-weight="bold" filter="url(#glow4)">&lt;9%</text>
-  <text x="900" y="330" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18">Mission Bay 空置率</text>
+  <text x="900" y="290" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="100" font-weight="bold" filter="url(#glow4)">&lt;9%</text>
+  <text x="900" y="330" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18">Mission Bay 空置率</text>
 
   <!-- Growth indicators -->
   <rect x="760" y="400" width="280" height="45" rx="8" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
-  <text x="900" y="428" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">OpenAI 总部</text>
+  <text x="900" y="428" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">OpenAI 总部</text>
 
   <rect x="760" y="460" width="280" height="45" rx="8" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
-  <text x="900" y="488" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">AI公司租100万+sqft</text>
+  <text x="900" y="488" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">AI公司租100万+sqft</text>
 
   <rect x="760" y="520" width="280" height="45" rx="8" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
-  <text x="900" y="548" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">人均GDP ↑</text>
+  <text x="900" y="548" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">人均GDP ↑</text>
 
   <!-- Lit building illustration -->
   <rect x="820" y="600" width="40" height="80" rx="2" fill="#00BCD4" fill-opacity="0.2" stroke="#00BCD4" stroke-width="1"/>
   <rect x="870" y="580" width="60" height="100" rx="2" fill="#00BCD4" fill-opacity="0.3" stroke="#00BCD4" stroke-width="1"/>
   <rect x="940" y="610" width="40" height="70" rx="2" fill="#00BCD4" fill-opacity="0.2" stroke="#00BCD4" stroke-width="1"/>
-  <text x="900" y="710" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="12">灯火通明</text>
+  <text x="900" y="710" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">灯火通明</text>
 
   <!-- Bottom quote -->
-  <text x="600" y="765" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15" font-style="italic">"心脏还在跳，但四肢已经冰冷"</text>
+  <text x="600" y="765" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-style="italic">"心脏还在跳，但四肢已经冰冷"</text>
 </svg>

@@ -2,83 +2,83 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">AI通缩红利：服务成本暴跌</text>
-  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">AI Deflation Dividend: Service Costs Plummeting</text>
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">AI通缩红利：服务成本暴跌</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">AI Deflation Dividend: Service Costs Plummeting</text>
 
   <!-- Subtitle -->
-  <text x="600" y="115" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">名义工资可能下降，但购买力可能上升——因为AI让一切变便宜</text>
+  <text x="600" y="115" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">名义工资可能下降，但购买力可能上升——因为AI让一切变便宜</text>
 
   <!-- Legend -->
   <rect x="380" y="135" width="16" height="16" rx="3" fill="#FF4444" opacity="0.8"/>
-  <text x="402" y="148" fill="#888888" font-family="sans-serif" font-size="12">传统成本 Traditional</text>
+  <text x="402" y="148" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">传统成本 Traditional</text>
   <rect x="550" y="135" width="16" height="16" rx="3" fill="#00BCD4" opacity="0.8"/>
-  <text x="572" y="148" fill="#888888" font-family="sans-serif" font-size="12">AI成本 AI-enabled</text>
+  <text x="572" y="148" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">AI成本 AI-enabled</text>
   <rect x="710" y="135" width="16" height="16" rx="3" fill="#2196F3" opacity="0.8"/>
-  <text x="732" y="148" fill="#888888" font-family="sans-serif" font-size="12">降幅 Reduction</text>
+  <text x="732" y="148" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">降幅 Reduction</text>
 
   <!-- Y axis -->
   <line x1="140" y1="180" x2="140" y2="620" stroke="#333333" stroke-width="1"/>
 
   <!-- Category 1: Legal consultation -->
-  <text x="130" y="230" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">法律咨询</text>
-  <text x="130" y="248" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">Legal Consultation</text>
+  <text x="130" y="230" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">法律咨询</text>
+  <text x="130" y="248" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Legal Consultation</text>
   <!-- Traditional bar -->
   <rect x="160" y="215" width="700" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
-  <text x="870" y="232" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">$500/小时</text>
+  <text x="870" y="232" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$500/小时</text>
   <!-- AI bar -->
   <rect x="160" y="242" width="7" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
-  <text x="175" y="259" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">$5/次</text>
-  <text x="350" y="259" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">↓ 99%</text>
+  <text x="175" y="259" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$5/次</text>
+  <text x="350" y="259" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">↓ 99%</text>
 
   <!-- Category 2: Translation -->
-  <text x="130" y="320" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">翻译服务</text>
-  <text x="130" y="338" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">Translation</text>
+  <text x="130" y="320" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">翻译服务</text>
+  <text x="130" y="338" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Translation</text>
   <!-- Traditional bar -->
   <rect x="160" y="305" width="525" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
-  <text x="695" y="322" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">$0.15/词</text>
+  <text x="695" y="322" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$0.15/词</text>
   <!-- AI bar -->
   <rect x="160" y="332" width="70" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
-  <text x="240" y="349" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">$0.02/词</text>
-  <text x="400" y="349" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">↓ 87%</text>
+  <text x="240" y="349" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$0.02/词</text>
+  <text x="400" y="349" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">↓ 87%</text>
 
   <!-- Category 3: Medical diagnosis -->
-  <text x="130" y="410" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">医疗诊断</text>
-  <text x="130" y="428" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">Medical Diagnosis</text>
+  <text x="130" y="410" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">医疗诊断</text>
+  <text x="130" y="428" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Medical Diagnosis</text>
   <!-- Traditional bar -->
   <rect x="160" y="395" width="280" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
-  <text x="450" y="412" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">$200/次</text>
+  <text x="450" y="412" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$200/次</text>
   <!-- AI bar -->
   <rect x="160" y="422" width="3" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
-  <text x="175" y="439" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">$2/次</text>
-  <text x="350" y="439" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">↓ 99%</text>
+  <text x="175" y="439" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$2/次</text>
+  <text x="350" y="439" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">↓ 99%</text>
 
   <!-- Category 4: Education tutoring -->
-  <text x="130" y="500" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">教育辅导</text>
-  <text x="130" y="518" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">Tutoring</text>
+  <text x="130" y="500" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">教育辅导</text>
+  <text x="130" y="518" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Tutoring</text>
   <!-- Traditional bar -->
   <rect x="160" y="485" width="350" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
-  <text x="520" y="502" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">$50-100/小时</text>
+  <text x="520" y="502" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$50-100/小时</text>
   <!-- AI bar -->
   <rect x="160" y="512" width="14" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
-  <text x="182" y="529" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">$0-4/月</text>
-  <text x="350" y="529" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">↓ 95%+</text>
+  <text x="182" y="529" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">$0-4/月</text>
+  <text x="350" y="529" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">↓ 95%+</text>
 
   <!-- Category 5: Drug discovery timeline -->
-  <text x="130" y="590" text-anchor="end" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="bold">药物研发</text>
-  <text x="130" y="608" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">Drug Discovery</text>
+  <text x="130" y="590" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">药物研发</text>
+  <text x="130" y="608" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Drug Discovery</text>
   <!-- Traditional bar -->
   <rect x="160" y="575" width="630" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
-  <text x="800" y="592" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">4-5年/$26亿</text>
+  <text x="800" y="592" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">4-5年/$26亿</text>
   <!-- AI bar -->
   <rect x="160" y="602" width="252" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
-  <text x="420" y="619" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">1-2年/成本↓</text>
-  <text x="600" y="619" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">↓ 60%时间</text>
+  <text x="420" y="619" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">1-2年/成本↓</text>
+  <text x="600" y="619" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">↓ 60%时间</text>
 
   <!-- Bottom insight -->
   <rect x="80" y="660" width="1040" height="60" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
-  <text x="600" y="688" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">当$500的律师咨询变成$5，十亿级人口第一次能获得这些服务</text>
-  <text x="600" y="710" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">AI deflation is the poor's best friend. When a $500 consultation becomes $5, billions gain access for the first time.</text>
+  <text x="600" y="688" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">当$500的律师咨询变成$5，十亿级人口第一次能获得这些服务</text>
+  <text x="600" y="710" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">AI deflation is the poor's best friend. When a $500 consultation becomes $5, billions gain access for the first time.</text>
 
   <!-- Sources -->
-  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: Harvard/McKinsey · Forrester · Khan Academy · DeepMind/Isomorphic Labs · Yale Law Journal</text>
+  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: Harvard/McKinsey · Forrester · Khan Academy · DeepMind/Isomorphic Labs · Yale Law Journal</text>
 </svg>

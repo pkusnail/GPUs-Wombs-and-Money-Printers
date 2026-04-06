@@ -2,89 +2,89 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">中国可复用火箭竞赛：追赶SpaceX</text>
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">中国可复用火箭竞赛：追赶SpaceX</text>
 
   <!-- Reference: SpaceX -->
   <rect x="80" y="105" width="1040" height="50" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1.5"/>
-  <text x="100" y="135" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">🇺🇸 SpaceX Falcon 9 参照</text>
-  <text x="500" y="135" fill="#888888" font-family="sans-serif" font-size="13">22.8t LEO · 2015年首次回收 · 单枚复用25+次 · 2025年300+次发射 · $2,720/kg</text>
+  <text x="100" y="135" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">🇺🇸 SpaceX Falcon 9 参照</text>
+  <text x="500" y="135" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">22.8t LEO · 2015年首次回收 · 单枚复用25+次 · 2025年300+次发射 · $2,720/kg</text>
 
   <!-- Company cards -->
   <!-- LandSpace -->
   <rect x="80" y="175" width="340" height="145" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
-  <text x="100" y="200" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">蓝箭航天 LandSpace</text>
-  <text x="100" y="222" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">朱雀三号 Zhuque-3</text>
-  <text x="100" y="244" fill="#FFFFFF" font-family="sans-serif" font-size="12">载荷: 21.3t LEO (≈Falcon 9)</text>
-  <text x="100" y="264" fill="#FF9800" font-family="sans-serif" font-size="12">2025.12: 入轨成功 ✓ 回收失败 ✗</text>
-  <text x="100" y="284" fill="#888888" font-family="sans-serif" font-size="11">下次回收: 2026 Q2 · 复飞目标: Q4</text>
+  <text x="100" y="200" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">蓝箭航天 LandSpace</text>
+  <text x="100" y="222" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">朱雀三号 Zhuque-3</text>
+  <text x="100" y="244" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">载荷: 21.3t LEO (≈Falcon 9)</text>
+  <text x="100" y="264" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2025.12: 入轨成功 ✓ 回收失败 ✗</text>
+  <text x="100" y="284" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">下次回收: 2026 Q2 · 复飞目标: Q4</text>
   <rect x="340" y="195" width="60" height="20" rx="4" fill="#FF9800" opacity="0.8"/>
-  <text x="370" y="209" text-anchor="middle" fill="#0A0A0A" font-family="sans-serif" font-size="10" font-weight="bold">最接近</text>
+  <text x="370" y="209" text-anchor="middle" fill="#0A0A0A" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">最接近</text>
 
   <!-- Space Pioneer -->
   <rect x="440" y="175" width="340" height="145" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
-  <text x="460" y="200" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">天兵科技 Space Pioneer</text>
-  <text x="460" y="222" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">天龙三号 Tianlong-3</text>
-  <text x="460" y="244" fill="#FFFFFF" font-family="sans-serif" font-size="12">72m高 · 9台发动机 · 17-18t LEO</text>
-  <text x="460" y="264" fill="#FF9800" font-family="sans-serif" font-size="12">不锈钢箭体(同Starship) · 设计复用10次</text>
-  <text x="460" y="284" fill="#888888" font-family="sans-serif" font-size="11">已在酒泉就位 · 首飞: ~2026.3</text>
-  <text x="460" y="308" fill="#2196F3" font-family="sans-serif" font-size="11" font-weight="bold">融资: $3.5亿 · 年产能目标: 30枚</text>
+  <text x="460" y="200" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">天兵科技 Space Pioneer</text>
+  <text x="460" y="222" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">天龙三号 Tianlong-3</text>
+  <text x="460" y="244" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">72m高 · 9台发动机 · 17-18t LEO</text>
+  <text x="460" y="264" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">不锈钢箭体(同Starship) · 设计复用10次</text>
+  <text x="460" y="284" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">已在酒泉就位 · 首飞: ~2026.3</text>
+  <text x="460" y="308" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">融资: $3.5亿 · 年产能目标: 30枚</text>
 
   <!-- iSpace -->
   <rect x="800" y="175" width="320" height="145" rx="10" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1"/>
-  <text x="820" y="200" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">星际荣耀 iSpace</text>
-  <text x="820" y="222" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">双曲线三号 Hyperbola-3</text>
-  <text x="820" y="244" fill="#FFFFFF" font-family="sans-serif" font-size="12">69m高 · 8.5t LEO(复用模式)</text>
-  <text x="820" y="264" fill="#00BCD4" font-family="sans-serif" font-size="12">2023年已完成2次垂直起降测试</text>
-  <text x="820" y="284" fill="#888888" font-family="sans-serif" font-size="11">海上回收准备中 · 2026年首次轨道飞行</text>
+  <text x="820" y="200" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">星际荣耀 iSpace</text>
+  <text x="820" y="222" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">双曲线三号 Hyperbola-3</text>
+  <text x="820" y="244" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">69m高 · 8.5t LEO(复用模式)</text>
+  <text x="820" y="264" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2023年已完成2次垂直起降测试</text>
+  <text x="820" y="284" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">海上回收准备中 · 2026年首次轨道飞行</text>
 
   <!-- Galactic Energy -->
   <rect x="80" y="340" width="340" height="125" rx="10" fill="#888888" fill-opacity="0.06" stroke="#888888" stroke-width="1"/>
-  <text x="100" y="365" fill="#888888" font-family="sans-serif" font-size="16" font-weight="bold">星河动力 Galactic Energy</text>
-  <text x="100" y="387" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">智神星一号 Pallas-1</text>
-  <text x="100" y="407" fill="#FFFFFF" font-family="sans-serif" font-size="12">7t LEO · 设计复用25次</text>
-  <text x="100" y="427" fill="#FF4444" font-family="sans-serif" font-size="12">2026.1.17: 首飞失败 ✗</text>
-  <text x="100" y="447" fill="#888888" font-family="sans-serif" font-size="11">融资: $3.36亿 · 需从失败中恢复</text>
+  <text x="100" y="365" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">星河动力 Galactic Energy</text>
+  <text x="100" y="387" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">智神星一号 Pallas-1</text>
+  <text x="100" y="407" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">7t LEO · 设计复用25次</text>
+  <text x="100" y="427" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2026.1.17: 首飞失败 ✗</text>
+  <text x="100" y="447" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">融资: $3.36亿 · 需从失败中恢复</text>
 
   <!-- Long March 10 -->
   <rect x="440" y="340" width="340" height="125" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
-  <text x="460" y="365" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">🏛️ 国家队 State-Owned</text>
-  <text x="460" y="387" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">长征十号衍生可复用版</text>
-  <text x="460" y="407" fill="#FFFFFF" font-family="sans-serif" font-size="12">5米直径 · 国家资源支撑</text>
-  <text x="460" y="427" fill="#FF9800" font-family="sans-serif" font-size="12">2026.2: 低空演示飞行成功 ✓</text>
-  <text x="460" y="447" fill="#888888" font-family="sans-serif" font-size="11">目标: 2026 H1首飞</text>
+  <text x="460" y="365" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">🏛️ 国家队 State-Owned</text>
+  <text x="460" y="387" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">长征十号衍生可复用版</text>
+  <text x="460" y="407" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">5米直径 · 国家资源支撑</text>
+  <text x="460" y="427" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2026.2: 低空演示飞行成功 ✓</text>
+  <text x="460" y="447" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">目标: 2026 H1首飞</text>
 
   <!-- Deep Blue + Orienspace -->
   <rect x="800" y="340" width="320" height="125" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
-  <text x="820" y="365" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">更多竞争者 More Players</text>
-  <text x="820" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="12">深蓝航天 · 星云一号 · 多次悬停测试</text>
-  <text x="820" y="410" fill="#FFFFFF" font-family="sans-serif" font-size="12">东方空间 · 引力二号 · 25+t LEO</text>
-  <text x="820" y="430" fill="#FFFFFF" font-family="sans-serif" font-size="12">中科宇航 · 力箭二号 · 12t LEO</text>
-  <text x="820" y="452" fill="#888888" font-family="sans-serif" font-size="11">共计11+个可复用火箭项目同时推进</text>
+  <text x="820" y="365" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">更多竞争者 More Players</text>
+  <text x="820" y="390" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">深蓝航天 · 星云一号 · 多次悬停测试</text>
+  <text x="820" y="410" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">东方空间 · 引力二号 · 25+t LEO</text>
+  <text x="820" y="430" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">中科宇航 · 力箭二号 · 12t LEO</text>
+  <text x="820" y="452" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">共计11+个可复用火箭项目同时推进</text>
 
   <!-- Funding -->
   <rect x="80" y="485" width="1040" height="60" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
-  <text x="600" y="510" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">2025年融资: 266亿元($38亿) · 137轮 · 科创板为火箭企业开IPO快速通道</text>
+  <text x="600" y="510" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">2025年融资: 266亿元($38亿) · 137轮 · 科创板为火箭企业开IPO快速通道</text>
 
   <!-- Gap Analysis -->
-  <text x="600" y="580" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">差距有多大？</text>
+  <text x="600" y="580" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">差距有多大？</text>
 
   <rect x="80" y="600" width="500" height="55" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
-  <text x="100" y="623" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">SpaceX (2025)</text>
-  <text x="100" y="643" fill="#888888" font-family="sans-serif" font-size="12">300+次发射 · 单枚复用25+次 · $2,720/kg · 全球60%份额</text>
+  <text x="100" y="623" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">SpaceX (2025)</text>
+  <text x="100" y="643" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">300+次发射 · 单枚复用25+次 · $2,720/kg · 全球60%份额</text>
 
-  <text x="595" y="628" fill="#FF9800" font-family="sans-serif" font-size="20">vs</text>
+  <text x="595" y="628" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20">vs</text>
 
   <rect x="620" y="600" width="500" height="55" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
-  <text x="640" y="623" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">中国商业 (2025)</text>
-  <text x="640" y="643" fill="#888888" font-family="sans-serif" font-size="12">&lt;30次轨道发射(总计) · 0次成功回收 · 约落后10年</text>
+  <text x="640" y="623" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">中国商业 (2025)</text>
+  <text x="640" y="643" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">&lt;30次轨道发射(总计) · 0次成功回收 · 约落后10年</text>
 
   <!-- Bottom Insight -->
   <rect x="80" y="675" width="1040" height="50" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
-  <text x="600" y="705" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14" font-weight="bold">中国不需要"赢"SpaceX——只需要有自主能力，不被卡脖子。太空准入是继芯片之后的下一个战略高地。</text>
+  <text x="600" y="705" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">中国不需要"赢"SpaceX——只需要有自主能力，不被卡脖子。太空准入是继芯片之后的下一个战略高地。</text>
 
   <!-- Bottom insight -->
-  <text x="600" y="755" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="13">万颗卫星星座(国网+千帆)创造发射需求 · 人海战术+政策倾斜 · 落后≠没有机会</text>
+  <text x="600" y="755" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">万颗卫星星座(国网+千帆)创造发射需求 · 人海战术+政策倾斜 · 落后≠没有机会</text>
 
   <!-- Sources -->
-  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: SpaceNews · NASASpaceFlight · CNBC · SpaceWatch Global · The Wire China · SCMP</text>
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: SpaceNews · NASASpaceFlight · CNBC · SpaceWatch Global · The Wire China · SCMP</text>
 </svg>

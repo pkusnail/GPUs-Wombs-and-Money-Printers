@@ -7,71 +7,71 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">政策杠杆与时间轴</text>
-  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">Policy Levers &amp; Timeline: Stabilize → Restructure → Safeguard</text>
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">政策杠杆与时间轴</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Policy Levers &amp; Timeline: Stabilize → Restructure → Safeguard</text>
 
   <!-- Three action lines -->
-  <text x="600" y="125" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">三条行动主线 Three Action Lines</text>
+  <text x="600" y="125" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">三条行动主线 Three Action Lines</text>
 
   <rect x="80" y="150" width="340" height="70" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
-  <text x="250" y="182" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">分配红利</text>
-  <text x="250" y="205" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Distribute Dividends: productivity → universal income</text>
+  <text x="250" y="182" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">分配红利</text>
+  <text x="250" y="205" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">Distribute Dividends: productivity → universal income</text>
 
   <rect x="440" y="150" width="320" height="70" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
-  <text x="600" y="182" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">托底过渡</text>
-  <text x="600" y="205" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Cushion Transition: fiscal + market tools for the gap</text>
+  <text x="600" y="182" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">托底过渡</text>
+  <text x="600" y="205" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">Cushion Transition: fiscal + market tools for the gap</text>
 
   <rect x="780" y="150" width="340" height="70" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.5"/>
-  <text x="950" y="182" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="16" font-weight="bold">再造人机分工</text>
-  <text x="950" y="205" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Rebuild Human-AI Division: trust, physical, creative moats</text>
+  <text x="950" y="182" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">再造人机分工</text>
+  <text x="950" y="205" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">Rebuild Human-AI Division: trust, physical, creative moats</text>
 
   <!-- Timeline axis -->
   <line x1="100" y1="290" x2="1100" y2="290" stroke="#333333" stroke-width="2"/>
 
   <!-- Phase 1: 0-5 years -->
   <rect x="100" y="310" width="300" height="240" rx="12" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
-  <text x="250" y="340" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">0-5年 Near-term</text>
-  <text x="250" y="362" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14">争取时间 Buy Time</text>
+  <text x="250" y="340" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">0-5年 Near-term</text>
+  <text x="250" y="362" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">争取时间 Buy Time</text>
 
-  <text x="120" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 负所得税/工资补贴 20-40%加成</text>
-  <text x="120" y="412" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 转型基金 + 再就业保险(6-12月)</text>
-  <text x="120" y="434" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 算力红利试点（小比例附加税）</text>
-  <text x="120" y="456" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 青年保障: 岗/学/训三选一</text>
-  <text x="120" y="478" fill="#FFFFFF" font-family="sans-serif" font-size="13">• AI安全: 强制日志+人工熔断</text>
-  <text x="120" y="500" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 公共数字底座: 低成本GPU时段</text>
-  <text x="120" y="522" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 地方韧性: 电网/储能/养老基建</text>
+  <text x="120" y="390" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 负所得税/工资补贴 20-40%加成</text>
+  <text x="120" y="412" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 转型基金 + 再就业保险(6-12月)</text>
+  <text x="120" y="434" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 算力红利试点（小比例附加税）</text>
+  <text x="120" y="456" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 青年保障: 岗/学/训三选一</text>
+  <text x="120" y="478" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• AI安全: 强制日志+人工熔断</text>
+  <text x="120" y="500" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 公共数字底座: 低成本GPU时段</text>
+  <text x="120" y="522" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 地方韧性: 电网/储能/养老基建</text>
 
   <!-- Arrow 1→2 -->
   <line x1="400" y1="430" x2="450" y2="430" stroke="#888888" stroke-width="2" marker-end="url(#arrow)"/>
 
   <!-- Phase 2: 5-15 years -->
   <rect x="450" y="310" width="300" height="240" rx="12" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
-  <text x="600" y="340" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">5-15年 Mid-term</text>
-  <text x="600" y="362" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="14">重写分配与教育 Restructure</text>
+  <text x="600" y="340" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">5-15年 Mid-term</text>
+  <text x="600" y="362" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">重写分配与教育 Restructure</text>
 
-  <text x="470" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 税基重构: 工资税→资本/算力/碳</text>
-  <text x="470" y="412" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 主权算力 + 开源生态 + 公共GPU券</text>
-  <text x="470" y="434" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 终身学习账户(学习点+税抵)</text>
-  <text x="470" y="456" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 养老护理: 机器人+人协同标准化</text>
-  <text x="470" y="478" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 城市再设计: 停车场→混合居住</text>
-  <text x="470" y="500" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 国际: 算力互换/数据主权协定</text>
+  <text x="470" y="390" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 税基重构: 工资税→资本/算力/碳</text>
+  <text x="470" y="412" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 主权算力 + 开源生态 + 公共GPU券</text>
+  <text x="470" y="434" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 终身学习账户(学习点+税抵)</text>
+  <text x="470" y="456" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 养老护理: 机器人+人协同标准化</text>
+  <text x="470" y="478" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 城市再设计: 停车场→混合居住</text>
+  <text x="470" y="500" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 国际: 算力互换/数据主权协定</text>
 
   <!-- Arrow 2→3 -->
   <line x1="750" y1="430" x2="800" y2="430" stroke="#888888" stroke-width="2" marker-end="url(#arrow)"/>
 
   <!-- Phase 3: 15-100 years -->
   <rect x="800" y="310" width="300" height="240" rx="12" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
-  <text x="950" y="340" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">15-100年 Long-term</text>
-  <text x="950" y="362" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="14">承认未知，保留选项 Safeguard</text>
+  <text x="950" y="340" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">15-100年 Long-term</text>
+  <text x="950" y="362" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">承认未知，保留选项 Safeguard</text>
 
-  <text x="820" y="390" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 生物增强+具身AI共存协议</text>
-  <text x="820" y="412" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 行星级备用方案(太空算力等)</text>
-  <text x="820" y="434" fill="#FFFFFF" font-family="sans-serif" font-size="13">• 代际公平基金(主权财富/信托)</text>
-  <text x="820" y="456" fill="#888888" font-family="sans-serif" font-size="13">越早建立伦理与责任框架，</text>
-  <text x="820" y="476" fill="#888888" font-family="sans-serif" font-size="13">越能在技术成熟时守住边界。</text>
+  <text x="820" y="390" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 生物增强+具身AI共存协议</text>
+  <text x="820" y="412" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 行星级备用方案(太空算力等)</text>
+  <text x="820" y="434" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">• 代际公平基金(主权财富/信托)</text>
+  <text x="820" y="456" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">越早建立伦理与责任框架，</text>
+  <text x="820" y="476" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">越能在技术成熟时守住边界。</text>
 
   <!-- Bottom insight -->
   <rect x="80" y="580" width="1040" height="55" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
-  <text x="600" y="608" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">乐观不是天真，而是把最坏风险拆成可操作的任务，再用时间、分配和制度去买选项</text>
-  <text x="600" y="630" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Optimism isn't naivety — it's breaking worst-case risks into actionable tasks and buying options with time, distribution, and institutions.</text>
+  <text x="600" y="608" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">乐观不是天真，而是把最坏风险拆成可操作的任务，再用时间、分配和制度去买选项</text>
+  <text x="600" y="630" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">Optimism isn't naivety — it's breaking worst-case risks into actionable tasks and buying options with time, distribution, and institutions.</text>
 </svg>

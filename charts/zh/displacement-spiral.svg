@@ -8,25 +8,25 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">智能替代螺旋</text>
+  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">智能替代螺旋</text>
 
   <!-- Circular flow - 4 nodes -->
   <!-- Node 1: AI更强 (top) -->
   <circle cx="600" cy="220" r="75" fill="none" stroke="#00BCD4" stroke-width="3" filter="url(#glow2)"/>
-  <text x="600" y="210" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">AI 更强</text>
+  <text x="600" y="210" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">AI 更强</text>
 
   <!-- Node 2: 企业裁员 (right) -->
   <circle cx="870" cy="430" r="75" fill="none" stroke="#FF9800" stroke-width="3"/>
-  <text x="870" y="420" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">企业裁员</text>
+  <text x="870" y="420" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">企业裁员</text>
 
   <!-- Node 3: 省下的钱买更多AI (bottom) -->
   <circle cx="600" cy="620" r="75" fill="none" stroke="#2196F3" stroke-width="3"/>
-  <text x="600" y="605" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">节省资金</text>
-  <text x="600" y="625" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold">投入更多AI</text>
+  <text x="600" y="605" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">节省资金</text>
+  <text x="600" y="625" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">投入更多AI</text>
 
   <!-- Node 4: 成本更低 (left) -->
   <circle cx="330" cy="430" r="75" fill="none" stroke="#00BCD4" stroke-width="3"/>
-  <text x="330" y="420" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">成本更低</text>
+  <text x="330" y="420" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">成本更低</text>
 
   <!-- Arrows connecting nodes (clockwise) -->
   <!-- Top → Right -->
@@ -52,11 +52,11 @@
   </defs>
 
   <!-- Center warning -->
-  <text x="600" y="415" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">⚠ 没有人刹得住车</text>
+  <text x="600" y="415" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">⚠ 没有人刹得住车</text>
 
   <!-- Edge labels (pushed outward from curve paths) -->
-  <text x="790" y="270" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12" transform="rotate(20,790,270)">取代人工</text>
-  <text x="790" y="590" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12" transform="rotate(-20,790,590)">资金释放</text>
-  <text x="410" y="590" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12" transform="rotate(20,410,590)">扩大采购</text>
-  <text x="410" y="270" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12" transform="rotate(-20,410,270)">能力跃升</text>
+  <text x="790" y="270" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" transform="rotate(20,790,270)">取代人工</text>
+  <text x="790" y="590" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" transform="rotate(-20,790,590)">资金释放</text>
+  <text x="410" y="590" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" transform="rotate(20,410,590)">扩大采购</text>
+  <text x="410" y="270" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" transform="rotate(-20,410,270)">能力跃升</text>
 </svg>

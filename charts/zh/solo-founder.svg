@@ -2,53 +2,53 @@
   <rect width="1200" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">创业门槛暴跌：一个人的公司</text>
-  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="15">Startup Barriers Collapsing: The One-Person Company Era</text>
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">创业门槛暴跌：一个人的公司</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Startup Barriers Collapsing: The One-Person Company Era</text>
 
   <!-- LEFT: AI vs Traditional Unicorn comparison -->
-  <text x="340" y="130" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="20" font-weight="bold">独角兽对比 Unicorn Comparison</text>
+  <text x="340" y="130" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">独角兽对比 Unicorn Comparison</text>
 
   <!-- Divider -->
   <line x1="340" y1="145" x2="340" y2="430" stroke="#333333" stroke-width="2" stroke-dasharray="8,4"/>
 
   <!-- AI Unicorn -->
-  <text x="170" y="175" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="18" font-weight="bold">AI独角兽 (2024)</text>
+  <text x="170" y="175" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">AI独角兽 (2024)</text>
 
   <rect x="90" y="195" width="160" height="80" rx="10" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
-  <text x="170" y="225" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="28" font-weight="bold">~200</text>
-  <text x="170" y="248" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">人 employees</text>
+  <text x="170" y="225" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">~200</text>
+  <text x="170" y="248" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">人 employees</text>
 
   <rect x="90" y="290" width="160" height="80" rx="10" fill="#00BCD4" fill-opacity="0.1" stroke="#00BCD4" stroke-width="1"/>
-  <text x="170" y="320" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="28" font-weight="bold">~2年</text>
-  <text x="170" y="343" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">达到$1B to $1B</text>
+  <text x="170" y="320" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">~2年</text>
+  <text x="170" y="343" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">达到$1B to $1B</text>
 
   <!-- Traditional Unicorn -->
-  <text x="510" y="175" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="18" font-weight="bold">传统独角兽</text>
+  <text x="510" y="175" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">传统独角兽</text>
 
   <rect x="430" y="195" width="160" height="80" rx="10" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="510" y="225" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="28" font-weight="bold">~400</text>
-  <text x="510" y="248" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">人 employees</text>
+  <text x="510" y="225" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">~400</text>
+  <text x="510" y="248" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">人 employees</text>
 
   <rect x="430" y="290" width="160" height="80" rx="10" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="510" y="320" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="28" font-weight="bold">~9年</text>
-  <text x="510" y="343" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">达到$1B to $1B</text>
+  <text x="510" y="320" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">~9年</text>
+  <text x="510" y="343" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">达到$1B to $1B</text>
 
   <!-- Multipliers -->
-  <text x="340" y="240" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">2×</text>
-  <text x="340" y="335" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">4.5×</text>
+  <text x="340" y="240" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">2×</text>
+  <text x="340" y="335" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">4.5×</text>
 
   <!-- RIGHT: Solo founder trend -->
-  <text x="880" y="130" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">独立创始人占比 Solo Founders</text>
+  <text x="880" y="130" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">独立创始人占比 Solo Founders</text>
 
   <!-- Bar chart: solo founder % -->
   <line x1="700" y1="430" x2="1060" y2="430" stroke="#333333" stroke-width="1"/>
   <line x1="700" y1="160" x2="700" y2="430" stroke="#333333" stroke-width="1"/>
 
   <!-- Y axis -->
-  <text x="690" y="170" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">40%</text>
-  <text x="690" y="237" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">30%</text>
-  <text x="690" y="304" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">20%</text>
-  <text x="690" y="371" text-anchor="end" fill="#888888" font-family="sans-serif" font-size="11">10%</text>
+  <text x="690" y="170" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">40%</text>
+  <text x="690" y="237" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">30%</text>
+  <text x="690" y="304" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">20%</text>
+  <text x="690" y="371" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">10%</text>
 
   <!-- Grid -->
   <line x1="700" y1="165" x2="1060" y2="165" stroke="#1a1a1a" stroke-width="1"/>
@@ -58,35 +58,35 @@
   <!-- Bars: 2015: 22.2%, 2020: 28%, 2024: 38%, 2025: 36.3% -->
   <!-- 40%=165, 0%=430. 1%=6.625px -->
   <rect x="730" y="283" width="60" height="147" rx="4" fill="#2196F3" opacity="0.6"/>
-  <text x="760" y="277" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">22%</text>
-  <text x="760" y="450" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">2015</text>
+  <text x="760" y="277" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">22%</text>
+  <text x="760" y="450" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">2015</text>
 
   <rect x="810" y="244" width="60" height="186" rx="4" fill="#2196F3" opacity="0.7"/>
-  <text x="840" y="238" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">28%</text>
-  <text x="840" y="450" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">2020</text>
+  <text x="840" y="238" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">28%</text>
+  <text x="840" y="450" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">2020</text>
 
   <rect x="890" y="178" width="60" height="252" rx="4" fill="#FF9800" opacity="0.8"/>
-  <text x="920" y="172" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">38%</text>
-  <text x="920" y="450" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">2024</text>
+  <text x="920" y="172" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">38%</text>
+  <text x="920" y="450" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">2024</text>
 
   <rect x="970" y="189" width="60" height="241" rx="4" fill="#FF9800" opacity="0.9"/>
-  <text x="1000" y="183" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="15" font-weight="bold">36.3%</text>
-  <text x="1000" y="450" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">2025</text>
+  <text x="1000" y="183" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">36.3%</text>
+  <text x="1000" y="450" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">2025</text>
 
   <!-- Historical parallel -->
   <rect x="80" y="480" width="1040" height="110" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
-  <text x="600" y="510" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">历史类比：每次门槛降低都带来爆发 Historical Parallel</text>
-  <text x="160" y="540" fill="#FFFFFF" font-family="sans-serif" font-size="13">1990s 网页 → 电商爆发</text>
-  <text x="410" y="540" fill="#FFFFFF" font-family="sans-serif" font-size="13">2007 iPhone → 移动经济</text>
-  <text x="660" y="540" fill="#FFFFFF" font-family="sans-serif" font-size="13">2010s 云计算 → SaaS爆发</text>
-  <text x="910" y="540" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">2025 AI → Solo创业</text>
-  <text x="600" y="575" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">YC Winter 2025: 聚合增长率10%/周 — CEO Garry Tan称为YC历史上增长最快的批次</text>
+  <text x="600" y="510" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">历史类比：每次门槛降低都带来爆发 Historical Parallel</text>
+  <text x="160" y="540" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">1990s 网页 → 电商爆发</text>
+  <text x="410" y="540" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">2007 iPhone → 移动经济</text>
+  <text x="660" y="540" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">2010s 云计算 → SaaS爆发</text>
+  <text x="910" y="540" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">2025 AI → Solo创业</text>
+  <text x="600" y="575" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">YC Winter 2025: 聚合增长率10%/周 — CEO Garry Tan称为YC历史上增长最快的批次</text>
 
   <!-- Bottom insight -->
   <rect x="80" y="620" width="1040" height="55" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
-  <text x="600" y="648" text-anchor="middle" fill="#00BCD4" font-family="sans-serif" font-size="15" font-weight="bold">被大公司裁掉的人 ≠ 只能降档开Uber · 经验+AI = 过去20人团队的产出</text>
-  <text x="600" y="668" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">Getting laid off ≠ downgrading to Uber. Experience + AI = the output of a 20-person team.</text>
+  <text x="600" y="648" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">被大公司裁掉的人 ≠ 只能降档开Uber · 经验+AI = 过去20人团队的产出</text>
+  <text x="600" y="668" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">Getting laid off ≠ downgrading to Uber. Experience + AI = the output of a 20-person team.</text>
 
   <!-- Sources -->
-  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: SoloFounders.com · CNBC/Y Combinator · Quartz · Shopify CEO memo (Fast Company)</text>
+  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: SoloFounders.com · CNBC/Y Combinator · Quartz · Shopify CEO memo (Fast Company)</text>
 </svg>

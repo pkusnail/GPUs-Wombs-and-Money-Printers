@@ -2,72 +2,72 @@
   <rect width="1400" height="800" fill="#0A0A0A"/>
 
   <!-- Title -->
-  <text x="700" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">双视角：一个人的一生 vs 八十亿人的命运</text>
+  <text x="700" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">双视角：一个人的一生 vs 八十亿人的命运</text>
 
   <!-- Divider line -->
   <line x1="700" y1="100" x2="700" y2="760" stroke="#333333" stroke-width="2" stroke-dasharray="8,4"/>
 
   <!-- LEFT: 个体视角 -->
-  <text x="350" y="130" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="22" font-weight="bold">个体视角：小明的一生</text>
+  <text x="350" y="130" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">个体视角：小明的一生</text>
 
   <!-- Individual timeline items -->
   <rect x="60" y="180" width="580" height="50" rx="8" fill="#E91E63" fill-opacity="0.08" stroke="#E91E63" stroke-width="1"/>
-  <text x="80" y="200" fill="#E91E63" font-family="sans-serif" font-size="13" font-weight="bold">0-5岁</text>
-  <text x="160" y="200" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI保姆陪伴成长，父母双职工</text>
+  <text x="80" y="200" fill="#E91E63" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">0-5岁</text>
+  <text x="160" y="200" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">AI保姆陪伴成长，父母双职工</text>
 
   <rect x="60" y="240" width="580" height="50" rx="8" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
-  <text x="80" y="260" fill="#FF9800" font-family="sans-serif" font-size="13" font-weight="bold">6-18岁</text>
-  <text x="160" y="260" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI导师1对1教学，学校变社交场</text>
+  <text x="80" y="260" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">6-18岁</text>
+  <text x="160" y="260" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">AI导师1对1教学，学校变社交场</text>
 
   <rect x="60" y="300" width="580" height="50" rx="8" fill="#FFC107" fill-opacity="0.08" stroke="#FFC107" stroke-width="1"/>
-  <text x="80" y="320" fill="#FFC107" font-family="sans-serif" font-size="13" font-weight="bold">18-22岁</text>
-  <text x="160" y="320" fill="#FFFFFF" font-family="sans-serif" font-size="13">微证书堆叠替代四年学位</text>
+  <text x="80" y="320" fill="#FFC107" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">18-22岁</text>
+  <text x="160" y="320" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">微证书堆叠替代四年学位</text>
 
   <rect x="60" y="360" width="580" height="50" rx="8" fill="#4CAF50" fill-opacity="0.08" stroke="#4CAF50" stroke-width="1"/>
-  <text x="80" y="380" fill="#4CAF50" font-family="sans-serif" font-size="13" font-weight="bold">22-35岁</text>
-  <text x="160" y="380" fill="#FFFFFF" font-family="sans-serif" font-size="13">每2年转型一次，AI伴侣填补孤独</text>
+  <text x="80" y="380" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">22-35岁</text>
+  <text x="160" y="380" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">每2年转型一次，AI伴侣填补孤独</text>
 
   <rect x="60" y="420" width="580" height="50" rx="8" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="1"/>
-  <text x="80" y="440" fill="#2196F3" font-family="sans-serif" font-size="13" font-weight="bold">35-60岁</text>
-  <text x="160" y="440" fill="#FFFFFF" font-family="sans-serif" font-size="13">工作变为可选，寻找"意义"成为主业</text>
+  <text x="80" y="440" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">35-60岁</text>
+  <text x="160" y="440" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">工作变为可选，寻找"意义"成为主业</text>
 
   <rect x="60" y="480" width="580" height="50" rx="8" fill="#9C27B0" fill-opacity="0.08" stroke="#9C27B0" stroke-width="1"/>
-  <text x="80" y="500" fill="#9C27B0" font-family="sans-serif" font-size="13" font-weight="bold">60-120岁</text>
-  <text x="160" y="500" fill="#FFFFFF" font-family="sans-serif" font-size="13">AI医疗延寿，养老金早已耗尽</text>
+  <text x="80" y="500" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">60-120岁</text>
+  <text x="160" y="500" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">AI医疗延寿，养老金早已耗尽</text>
 
   <rect x="60" y="540" width="580" height="50" rx="8" fill="#607D8B" fill-opacity="0.08" stroke="#607D8B" stroke-width="1"/>
-  <text x="80" y="560" fill="#607D8B" font-family="sans-serif" font-size="13" font-weight="bold">死后</text>
-  <text x="160" y="560" fill="#FFFFFF" font-family="sans-serif" font-size="13">数字来世——AI版的小明继续"活着"</text>
+  <text x="80" y="560" fill="#607D8B" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">死后</text>
+  <text x="160" y="560" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">数字来世——AI版的小明继续"活着"</text>
 
   <!-- RIGHT: 群体视角 -->
-  <text x="1050" y="130" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="22" font-weight="bold">群体视角：社会结构变迁</text>
+  <text x="1050" y="130" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">群体视角：社会结构变迁</text>
 
   <!-- Society transformation items -->
   <rect x="760" y="180" width="580" height="70" rx="8" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="1"/>
-  <text x="780" y="205" fill="#2196F3" font-family="sans-serif" font-size="14" font-weight="bold">就业 Employment</text>
-  <text x="780" y="228" fill="#FFFFFF" font-family="sans-serif" font-size="13">"必须工作" → "选择工作"</text>
+  <text x="780" y="205" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">就业 Employment</text>
+  <text x="780" y="228" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">"必须工作" → "选择工作"</text>
 
   <rect x="760" y="260" width="580" height="70" rx="8" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
-  <text x="780" y="285" fill="#FF9800" font-family="sans-serif" font-size="14" font-weight="bold">教育 Education</text>
-  <text x="780" y="308" fill="#FFFFFF" font-family="sans-serif" font-size="13">"一次性学位" → "终身订阅"</text>
+  <text x="780" y="285" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">教育 Education</text>
+  <text x="780" y="308" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">"一次性学位" → "终身订阅"</text>
 
   <rect x="760" y="340" width="580" height="70" rx="8" fill="#4CAF50" fill-opacity="0.08" stroke="#4CAF50" stroke-width="1"/>
-  <text x="780" y="365" fill="#4CAF50" font-family="sans-serif" font-size="14" font-weight="bold">家庭 Family</text>
-  <text x="780" y="388" fill="#FFFFFF" font-family="sans-serif" font-size="13">"经济单位" → "情感选择"</text>
+  <text x="780" y="365" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">家庭 Family</text>
+  <text x="780" y="388" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">"经济单位" → "情感选择"</text>
 
   <rect x="760" y="420" width="580" height="70" rx="8" fill="#9C27B0" fill-opacity="0.08" stroke="#9C27B0" stroke-width="1"/>
-  <text x="780" y="445" fill="#9C27B0" font-family="sans-serif" font-size="14" font-weight="bold">城市 Cities</text>
-  <text x="780" y="468" fill="#FFFFFF" font-family="sans-serif" font-size="13">"工作聚集地" → "体验聚集地"</text>
+  <text x="780" y="445" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">城市 Cities</text>
+  <text x="780" y="468" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">"工作聚集地" → "体验聚集地"</text>
 
   <rect x="760" y="500" width="580" height="70" rx="8" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1"/>
-  <text x="780" y="525" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">国家 Nations</text>
-  <text x="780" y="548" fill="#FFFFFF" font-family="sans-serif" font-size="13">"劳动力竞争" → "算力竞争"</text>
+  <text x="780" y="525" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">国家 Nations</text>
+  <text x="780" y="548" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">"劳动力竞争" → "算力竞争"</text>
 
   <rect x="760" y="580" width="580" height="70" rx="8" fill="#E91E63" fill-opacity="0.08" stroke="#E91E63" stroke-width="1"/>
-  <text x="780" y="605" fill="#E91E63" font-family="sans-serif" font-size="14" font-weight="bold">物种 Species</text>
-  <text x="780" y="628" fill="#FFFFFF" font-family="sans-serif" font-size="13">"单一人类" → 增强人 / 自然人 / AI 共存</text>
+  <text x="780" y="605" fill="#E91E63" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">物种 Species</text>
+  <text x="780" y="628" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">"单一人类" → 增强人 / 自然人 / AI 共存</text>
 
   <!-- Bottom insight -->
   <rect x="200" y="690" width="1000" height="70" rx="12" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1" stroke-dasharray="6,4"/>
-  <text x="700" y="718" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="15" font-weight="bold">个体体验的空洞化 × 社会结构的根本重组 = 人类文明的相变</text>
+  <text x="700" y="718" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">个体体验的空洞化 × 社会结构的根本重组 = 人类文明的相变</text>
 </svg>
