@@ -1,43 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880">
-  <rect width="1200" height="880" fill="#0A0A0A"/>
+ <rect width="1200" height="880" fill="#0A0A0A"/>
 
-  <!-- Title -->
-  <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">公地悲剧三层</text>
+ <!-- Title -->
+ <text x="600" y="55" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="28" font-weight="bold">公地悲剧三层</text>
 
-  <!-- Layer 1: 企业竞争 (outermost) -->
-  <rect x="80" y="120" width="1040" height="180" rx="16" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="2"/>
-  <text x="120" y="155" fill="#2196F3" font-family="sans-serif" font-size="20" font-weight="bold">第一层：企业竞争</text>
+ <!-- Layer 1: 企业竞争 (outermost) -->
+ <rect x="80" y="120" width="1040" height="180" rx="16" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="2"/>
+ <text x="120" y="155" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">第一层：企业竞争</text>
 
-  <text x="600" y="220" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16">"不用AI = 被淘汰" → 所有企业疯狂部署 → 集体消灭客户</text>
+ <text x="600" y="220" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16">"不用AI = 被淘汰" → 所有企业疯狂部署 → 集体消灭客户</text>
 
-  <!-- Prisoner's Dilemma mini grid -->
-  <rect x="700" y="155" width="140" height="40" rx="4" fill="#2196F3" fill-opacity="0.15"/>
-  <text x="770" y="180" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="12">囚徒困境</text>
-  <text x="600" y="280" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="12">每家理性 → 整体灾难</text>
+ <!-- Prisoner's Dilemma mini grid -->
+ <rect x="700" y="155" width="140" height="40" rx="4" fill="#2196F3" fill-opacity="0.15"/>
+ <text x="770" y="180" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">囚徒困境</text>
+ <text x="600" y="280" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">每家理性 → 整体灾难</text>
 
-  <!-- Connecting arrow 1→2 -->
-  <text x="600" y="340" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="20">⬇ 放大 ⬇</text>
+ <!-- Connecting arrow 1→2 -->
+ <text x="600" y="340" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20">▼ 放大 ▼</text>
 
-  <!-- Layer 2: 国家军备 (middle) -->
-  <rect x="80" y="370" width="1040" height="180" rx="16" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="2"/>
-  <text x="120" y="405" fill="#FF9800" font-family="sans-serif" font-size="20" font-weight="bold">第二层：国家军备竞赛</text>
+ <!-- Layer 2: 国家军备 (middle) -->
+ <rect x="80" y="370" width="1040" height="180" rx="16" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="2"/>
+ <text x="120" y="405" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">第二层：国家安全竞争</text>
 
-  <text x="600" y="470" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16">"机器人税？AI产出税？" → 资本逃往不征税国家</text>
-  <text x="600" y="530" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="12">谁都想征税，谁都不敢先动</text>
+ <text x="600" y="470" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16">"我一停，对方照跑" → 各国利益不对齐 → 协调几乎不可能</text>
+ <text x="600" y="530" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">食物链位置不同 · 冲击烈度不同 · 制度基因不同</text>
 
-  <!-- Flags -->
-  <text x="750" y="410" fill="#FF9800" font-family="sans-serif" font-size="14">🇺🇸 vs 🇨🇳 vs 🇪🇺</text>
+ <!-- Flags -->
+ <text x="750" y="410" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">生产者 · 消费者 · 旁观者</text>
 
-  <!-- Connecting arrow 2→3 -->
-  <text x="600" y="590" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20">⬇ 放大 ⬇</text>
+ <!-- Connecting arrow 2→3 -->
+ <text x="600" y="590" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20">▼ 放大 ▼</text>
 
-  <!-- Layer 3: 人类命运 (innermost, darkest) -->
-  <rect x="80" y="620" width="1040" height="180" rx="16" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="2"/>
-  <text x="120" y="655" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">第三层：人类命运</text>
+ <!-- Layer 3: 人类命运 (innermost, darkest) -->
+ <rect x="80" y="620" width="1040" height="180" rx="16" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="2"/>
+ <text x="120" y="655" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">第三层：人类命运</text>
 
-  <text x="600" y="720" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16">"停止AI = 输给对手" → 没有实体敢减速 → 人类整体被动</text>
-  <text x="600" y="780" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="14" font-weight="bold">反馈循环里没有人会主动停下</text>
+ <text x="600" y="720" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16">"停止AI = 输给对手" → 没有实体敢减速 → 人类整体被动</text>
+ <text x="600" y="780" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">反馈循环里没有人会主动停下</text>
 
-  <!-- Bottom -->
-  <text x="600" y="845" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">赢家 = 谁先建立"后就业社会"框架</text>
+ <!-- Bottom -->
+ <text x="600" y="845" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">赢家 = 谁先建立"后就业社会"框架</text>
 </svg>

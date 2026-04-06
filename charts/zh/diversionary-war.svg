@@ -1,86 +1,86 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
-  <rect width="1200" height="800" fill="#0A0A0A"/>
+ <rect width="1200" height="800" fill="#0A0A0A"/>
 
-  <!-- Title -->
-  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="26" font-weight="bold">转嫁矛盾：内部危机 → 外部冲突</text>
+ <!-- Title -->
+ <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">转嫁矛盾：内部危机 → 外部冲突</text>
 
-  <!-- Historical Cases -->
-  <text x="600" y="125" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">历史先例</text>
+ <!-- Historical Cases -->
+ <text x="600" y="125" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">历史先例</text>
 
-  <!-- Britain -->
-  <rect x="80" y="150" width="520" height="80" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
-  <text x="100" y="178" fill="#2196F3" font-family="sans-serif" font-size="16" font-weight="bold">🇬🇧 英国 1873-1914</text>
-  <text x="100" y="200" fill="#FFFFFF" font-family="sans-serif" font-size="12">内部: 长期萧条(1873-1896)，工人运动</text>
-  <text x="100" y="218" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">外部: "瓜分非洲" → 控制全球1/4领土</text>
+ <!-- Britain -->
+ <rect x="80" y="150" width="520" height="80" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+ <text x="100" y="178" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold"> 英国 1873-1914</text>
+ <text x="100" y="200" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">内部: 长期萧条(1873-1896)，工人运动</text>
+ <text x="100" y="218" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">外部: "瓜分非洲" → 控制全球1/4领土</text>
 
-  <!-- Japan -->
-  <rect x="620" y="150" width="500" height="80" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
-  <text x="640" y="178" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">🇯🇵 日本 1930s</text>
-  <text x="640" y="200" fill="#FFFFFF" font-family="sans-serif" font-size="12">内部: 大萧条重创出口经济，资源依赖</text>
-  <text x="640" y="218" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">外部: "大东亚共荣圈" → 太平洋战争</text>
+ <!-- Japan -->
+ <rect x="620" y="150" width="500" height="80" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+ <text x="640" y="178" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold"> 日本 1930s</text>
+ <text x="640" y="200" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">内部: 大萧条重创出口经济，资源依赖</text>
+ <text x="640" y="218" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">外部: "大东亚共荣圈" → 太平洋战争</text>
 
-  <!-- Argentina -->
-  <rect x="80" y="245" width="520" height="80" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
-  <text x="100" y="273" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">🇦🇷 阿根廷 1982</text>
-  <text x="100" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="12">内部: 三位数通胀，GDP暴跌，军政府危机</text>
-  <text x="100" y="313" fill="#FF9800" font-family="sans-serif" font-size="12" font-weight="bold">外部: 入侵马岛 → 失败 → 军政府垮台</text>
+ <!-- Argentina -->
+ <rect x="80" y="245" width="520" height="80" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+ <text x="100" y="273" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold"> 阿根廷 1982</text>
+ <text x="100" y="295" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">内部: 三位数通胀，GDP暴跌，军政府危机</text>
+ <text x="100" y="313" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">外部: 入侵马岛 → 失败 → 军政府垮台</text>
 
-  <!-- Russia -->
-  <rect x="620" y="245" width="500" height="80" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
-  <text x="640" y="273" fill="#FF4444" font-family="sans-serif" font-size="16" font-weight="bold">🇷🇺 俄罗斯 2022-</text>
-  <text x="640" y="295" fill="#FFFFFF" font-family="sans-serif" font-size="12">内部: 经济停滞，人口萎缩</text>
-  <text x="640" y="313" fill="#FF4444" font-family="sans-serif" font-size="12" font-weight="bold">外部: 侵乌 → 被困战争经济(30-40%预算)</text>
+ <!-- 2022 conflict -->
+ <rect x="620" y="245" width="500" height="80" rx="10" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+ <text x="640" y="273" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">2022年至今 · 东欧冲突</text>
+ <text x="640" y="295" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">内部: 经济承压，人口萎缩</text>
+ <text x="640" y="313" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">经济高度依赖国防部门，停战本身也成难题</text>
 
-  <!-- The Pattern -->
-  <rect x="80" y="345" width="1040" height="60" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
-  <text x="600" y="380" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">模式: 经济危机 + 军事优势 + 政治压力 = 对外冲突</text>
+ <!-- The Pattern -->
+ <rect x="80" y="345" width="1040" height="60" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+ <text x="600" y="380" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">模式: 经济危机 + 军事优势 + 政治压力 = 对外冲突</text>
 
-  <!-- AI Era Scenario -->
-  <text x="600" y="440" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="20" font-weight="bold">AI时代的转嫁场景</text>
+ <!-- AI Era Scenario -->
+ <text x="600" y="440" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">AI时代的转嫁场景</text>
 
-  <!-- Flow chart -->
-  <rect x="80" y="465" width="200" height="65" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="180" y="493" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">AI大规模裁员</text>
+ <!-- Flow chart -->
+ <rect x="80" y="465" width="200" height="65" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+ <text x="180" y="493" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">AI大规模裁员</text>
 
-  <text x="285" y="498" fill="#FF9800" font-family="sans-serif" font-size="20">→</text>
+ <text x="285" y="498" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20">→</text>
 
-  <rect x="310" y="465" width="200" height="65" rx="8" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1"/>
-  <text x="410" y="493" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">内部矛盾爆发</text>
+ <rect x="310" y="465" width="200" height="65" rx="8" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1"/>
+ <text x="410" y="493" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">内部矛盾爆发</text>
 
-  <text x="515" y="498" fill="#FF9800" font-family="sans-serif" font-size="20">→</text>
+ <text x="515" y="498" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20">→</text>
 
-  <rect x="540" y="465" width="200" height="65" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
-  <text x="640" y="493" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">AI军事力量空前</text>
+ <rect x="540" y="465" width="200" height="65" rx="8" fill="#FF4444" fill-opacity="0.1" stroke="#FF4444" stroke-width="1"/>
+ <text x="640" y="493" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">AI军事力量空前</text>
 
-  <text x="745" y="498" fill="#FF9800" font-family="sans-serif" font-size="20">→</text>
+ <text x="745" y="498" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20">→</text>
 
-  <rect x="770" y="465" width="350" height="65" rx="8" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
-  <text x="945" y="493" text-anchor="middle" fill="#FF4444" font-family="sans-serif" font-size="13" font-weight="bold">对外掠夺资源缓解内部压力</text>
+ <rect x="770" y="465" width="350" height="65" rx="8" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2"/>
+ <text x="945" y="493" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">对外掠夺资源缓解内部压力</text>
 
-  <!-- Thucydides Trap -->
-  <rect x="80" y="555" width="1040" height="90" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
-  <text x="600" y="583" text-anchor="middle" fill="#2196F3" font-family="sans-serif" font-size="18" font-weight="bold">修昔底德陷阱 Thucydides Trap (Graham Allison, Harvard)</text>
-  <text x="600" y="610" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14">16个"崛起大国 vs 守成大国"历史案例中，<tspan fill="#FF4444" font-weight="bold">12个以战争告终 (75%)</tspan></text>
-  <text x="600" y="635" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="12">AI加速每一个要素: 技术差距↑ · 资源竞争↑ · 国内压力↑ · 军事门槛↓</text>
+ <!-- Thucydides Trap -->
+ <rect x="80" y="555" width="1040" height="90" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+ <text x="600" y="583" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">修昔底德陷阱 Thucydides Trap (Graham Allison, Harvard)</text>
+ <text x="600" y="610" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">16个"崛起大国 vs 守成大国"历史案例中，<tspan fill="#FF4444" font-weight="bold">12个以战争告终 (75%)</tspan></text>
+ <text x="600" y="635" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">AI加速每一个要素: 技术差距↑ · 资源竞争↑ · 国内压力↑ · 军事门槛↓</text>
 
-  <!-- Key Resources -->
-  <text x="600" y="680" text-anchor="middle" fill="#FF9800" font-family="sans-serif" font-size="16" font-weight="bold">AI时代的战略资源争夺点</text>
+ <!-- Key Resources -->
+ <text x="600" y="680" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">AI时代的战略资源争夺点</text>
 
-  <text x="160" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇹🇼 台湾</text>
-  <text x="160" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">70%先进芯片</text>
+ <text x="160" y="715" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13"> 台湾</text>
+ <text x="160" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">70%先进芯片</text>
 
-  <text x="380" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇨🇳 中国稀土</text>
-  <text x="380" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">全球69%开采+加工</text>
+ <text x="380" y="715" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13"> 中国稀土</text>
+ <text x="380" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">全球69%开采+加工</text>
 
-  <text x="600" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">🇨🇩 刚果钴锂</text>
-  <text x="600" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">美已获优先准入权</text>
+ <text x="600" y="715" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13"> 刚果钴锂</text>
+ <text x="600" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">美已获优先准入权</text>
 
-  <text x="820" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">🏔️ 格陵兰矿产</text>
-  <text x="820" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">"AI竞赛的诱人目标"</text>
+ <text x="820" y="715" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13"> 格陵兰矿产</text>
+ <text x="820" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">"AI竞赛的诱人目标"</text>
 
-  <text x="1020" y="715" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="13">🌊 北极</text>
-  <text x="1020" y="735" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="11">稀土+能源</text>
+ <text x="1020" y="715" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13"> 北极</text>
+ <text x="1020" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">稀土+能源</text>
 
-  <!-- Sources -->
-  <text x="600" y="790" text-anchor="middle" fill="#444444" font-family="sans-serif" font-size="10">数据来源: Harvard Belfer Center · Maplecroft(2026) · OMFIF · Foreign Policy Analytics · NBC News · CFR Education</text>
+ <!-- Sources -->
+ <text x="600" y="790" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: Harvard Belfer Center · Maplecroft(2026) · OMFIF · Foreign Policy Analytics · NBC News · CFR Education</text>
 </svg>
