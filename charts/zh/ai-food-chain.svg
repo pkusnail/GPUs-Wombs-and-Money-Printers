@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
+ <rect width="1200" height="500" fill="#0A0A0A"/>
+
+ <!-- Title -->
+ <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">AI食物链：谁在造，谁在用，谁在看</text>
+
+ <!-- Arrow backbone -->
+ <line x1="100" y1="250" x2="1100" y2="250" stroke="#333333" stroke-width="2"/>
+ <polygon points="1100,240 1120,250 1100,260" fill="#333333"/>
+
+ <!-- Zone 1: Producers -->
+ <rect x="80" y="100" width="300" height="300" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+ <text x="230" y="135" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">AI生产者</text>
+ <text x="230" y="158" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">造前沿大模型</text>
+
+ <text x="130" y="200" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14"> 美国</text>
+ <text x="130" y="222" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">OpenAI · Anthropic · Google · Meta</text>
+
+ <text x="130" y="260" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14"> 中国</text>
+ <text x="130" y="282" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">字节 · 阿里 · DeepSeek · 百度</text>
+
+ <text x="130" y="320" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" fill-opacity="0.6"> 英国 (DeepMind)</text>
+ <text x="130" y="342" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" fill-opacity="0.6"> 法国 (Mistral)</text>
+ <text x="130" y="364" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">第二梯队，规模远小于美中</text>
+
+ <!-- Zone 2: Consumers -->
+ <rect x="420" y="100" width="300" height="300" rx="12" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+ <text x="570" y="135" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">AI消费者</text>
+ <text x="570" y="158" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">用别人造的模型</text>
+
+ <text x="450" y="200" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">日本 · 韩国 · 德国</text>
+ <text x="450" y="225" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">加拿大 · 澳洲 · 以色列</text>
+ <text x="450" y="250" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">北欧 · 新加坡</text>
+
+ <text x="450" y="290" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">特殊角色：</text>
+ <text x="450" y="312" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">台积电 — 硬件生产者但非模型生产者</text>
+ <text x="450" y="332" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">UAE/沙特 — 消费者正在投资转型</text>
+
+ <!-- Zone 3: Bystanders -->
+ <rect x="760" y="100" width="320" height="300" rx="12" fill="#888888" fill-opacity="0.08" stroke="#555555" stroke-width="1.5"/>
+ <text x="920" y="135" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">AI旁观者</text>
+ <text x="920" y="158" text-anchor="middle" fill="#555555" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">被动等待或无力参与</text>
+
+ <text x="790" y="200" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" fill-opacity="0.7">非洲大部分 · 中亚</text>
+ <text x="790" y="225" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" fill-opacity="0.7">部分东南亚 · 太平洋岛国</text>
+ <text x="790" y="250" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" fill-opacity="0.7">部分拉美</text>
+
+ <text x="790" y="300" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">风险：当经济核心从劳动转向算力，</text>
+ <text x="790" y="320" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">没有AI能力 = 没有参与资格</text>
+
+ <!-- Bottom insight -->
+ <rect x="100" y="420" width="1000" height="50" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+ <text x="600" y="450" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">生产者想保持领先 · 消费者想获得准入 · 旁观者怕被甩开 — 利益从第一秒就对不上</text>
+
+ <text x="600" y="490" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: Oxford AI Readiness Index 2025 · IMD Digital Competitiveness 2024</text>
+</svg>

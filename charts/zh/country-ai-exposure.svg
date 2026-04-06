@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+ <rect width="1200" height="800" fill="#0A0A0A"/>
+
+ <!-- Title -->
+ <text x="600" y="45" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="24" font-weight="bold">各国AI冲击全景：替代风险 vs 吸收力</text>
+ <text x="600" y="68" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">注：位置为趋势方向，不是精确定位。各国内部的分化往往比国家之间更大。</text>
+
+ <!-- Axes -->
+ <line x1="150" y1="400" x2="1100" y2="400" stroke="#444" stroke-width="1.5"/>
+ <line x1="600" y1="100" x2="600" y2="720" stroke="#444" stroke-width="1.5"/>
+
+ <!-- Axis labels -->
+ <text x="1090" y="390" text-anchor="end" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">AI替代风险 高 →</text>
+ <text x="170" y="390" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">← 低</text>
+ <text x="610" y="115" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13" font-weight="bold">↑ 吸收力 强</text>
+ <text x="610" y="710" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">↓ 吸收力 弱</text>
+
+ <!-- Quadrant labels -->
+ <text x="370" y="160" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold" opacity="0.4">稳中求变</text>
+ <text x="870" y="160" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold" opacity="0.4">先痛后甜</text>
+ <text x="370" y="640" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold" opacity="0.4">暂时旁观</text>
+ <text x="870" y="640" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold" opacity="0.4">首当其冲</text>
+
+ <!-- Country dots -->
+ <!-- Nordic cluster (upper right) -->
+ <circle cx="790" cy="170" r="18" fill="#00BCD4" fill-opacity="0.6"/>
+ <text x="790" y="175" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">芬兰</text>
+ <circle cx="840" cy="200" r="16" fill="#00BCD4" fill-opacity="0.5"/>
+ <text x="840" y="205" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">丹麦</text>
+ <circle cx="750" cy="210" r="16" fill="#00BCD4" fill-opacity="0.5"/>
+ <text x="750" y="215" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">瑞典</text>
+
+ <!-- Singapore (upper right, special) -->
+ <circle cx="880" cy="230" r="16" fill="#00BCD4" fill-opacity="0.5"/>
+ <text x="880" y="235" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">新加坡</text>
+ <text x="880" y="250" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">CPF≈37%工资</text>
+
+ <!-- Germany, France, Canada, Australia (upper left) -->
+ <circle cx="430" cy="220" r="18" fill="#2196F3" fill-opacity="0.5"/>
+ <text x="430" y="225" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">德国</text>
+ <circle cx="370" cy="250" r="16" fill="#2196F3" fill-opacity="0.4"/>
+ <text x="370" y="255" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">法国</text>
+ <circle cx="480" cy="270" r="14" fill="#2196F3" fill-opacity="0.4"/>
+ <text x="480" y="275" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">加拿大</text>
+ <circle cx="420" cy="300" r="14" fill="#2196F3" fill-opacity="0.4"/>
+ <text x="420" y="305" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">澳洲</text>
+
+ <!-- US, UK (right, middle Y) -->
+ <circle cx="920" cy="310" r="22" fill="#FF9800" fill-opacity="0.5"/>
+ <text x="920" y="315" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">美国</text>
+ <text x="920" y="330" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">灵活但安全网薄</text>
+ <circle cx="840" cy="340" r="16" fill="#FF9800" fill-opacity="0.4"/>
+ <text x="840" y="345" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">英国</text>
+
+ <!-- Japan, Korea (right, near boundary) -->
+ <circle cx="800" cy="380" r="18" fill="#FF9800" fill-opacity="0.4"/>
+ <text x="800" y="372" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">日本</text>
+ <text x="800" y="392" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">安全网OK/市场僵化</text>
+ <circle cx="870" cy="430" r="16" fill="#FF4444" fill-opacity="0.4"/>
+ <text x="870" y="435" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11" font-weight="bold">韩国</text>
+ <text x="870" y="450" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">OECD安全网垫底</text>
+
+ <!-- China (right-ish, below boundary) -->
+ <circle cx="760" cy="480" r="24" fill="#FF4444" fill-opacity="0.5"/>
+ <text x="760" y="475" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">天朝</text>
+ <text x="760" y="495" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">决策快/财政紧</text>
+
+ <!-- India IT (right lower) -->
+ <circle cx="850" cy="560" r="14" fill="#FF4444" fill-opacity="0.4"/>
+ <text x="850" y="556" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">印度IT</text>
+ <text x="850" y="572" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">500万人直接暴露</text>
+
+ <!-- India overall (left lower) -->
+ <circle cx="400" cy="580" r="16" fill="#888888" fill-opacity="0.4"/>
+ <text x="400" y="576" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">印度整体</text>
+ <text x="400" y="592" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">5亿劳动力多在农业</text>
+
+ <!-- Brazil (left lower) -->
+ <circle cx="340" cy="510" r="14" fill="#888888" fill-opacity="0.4"/>
+ <text x="340" y="515" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">巴西</text>
+
+ <!-- Indonesia, Africa (far left lower) -->
+ <circle cx="250" cy="570" r="14" fill="#888888" fill-opacity="0.3"/>
+ <text x="250" y="575" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" fill-opacity="0.7">印尼</text>
+ <circle cx="210" cy="620" r="14" fill="#888888" fill-opacity="0.2"/>
+ <text x="210" y="625" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" fill-opacity="0.5">非洲</text>
+
+ <!-- UAE/Saudi (left lower, with arrow pointing right) -->
+ <circle cx="300" cy="460" r="14" fill="#FF9800" fill-opacity="0.4"/>
+ <text x="300" y="456" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10" font-weight="bold">UAE</text>
+ <text x="300" y="472" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="8">正在主动右移→</text>
+ <line x1="318" y1="460" x2="360" y2="460" stroke="#FF9800" stroke-width="1" stroke-dasharray="4,3"/>
+ <polygon points="358,455 368,460 358,465" fill="#FF9800" opacity="0.5"/>
+
+ <!-- Legend -->
+ <rect x="80" y="730" width="1040" height="55" rx="8" fill="#FFFFFF" fill-opacity="0.03"/>
+ <text x="120" y="755" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">数据支撑：</text>
+ <text x="220" y="755" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">X轴 — IMF AI岗位暴露度 + 知识经济就业占比</text>
+ <text x="620" y="755" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">Y轴 — OECD社会支出/GDP + 劳动力流动性 + 财政空间</text>
+ <text x="120" y="775" fill="#555555" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">来源: IMF(2024) · OECD SOCX(2024) · Oxford AI Readiness Index(2025) · IMD Digital Competitiveness(2024)</text>
+</svg>
