@@ -1,0 +1,135 @@
+<section style="font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Helvetica Neue',Arial,sans-serif;font-size:15px;color:#333;line-height:2;">
+<h1 style="font-size:24px;font-weight:bold;color:#1a1a1a;margin:30px 0 15px;padding-bottom:10px;border-bottom:2px solid #1a73e8;">GPU、子宫与印钞机（十）｜无灯 office：当 AI 在中心，人在边缘</h1>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">「GPU、子宫与印钞机」AI时代命运推演 · 系列连载</strong></p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">文 | Tony Seah</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">第三篇讲过一个框架：在今天的 AI 工作流里，人扮演三个不可替代的角色——<strong style="color:#1a1a1a;">driver</strong>（定义问题）、<strong style="color:#1a1a1a;">ground truth</strong>（校验输出）、<strong style="color:#1a1a1a;">glue</strong>（把结果落到现实系统里）。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">那个框架有一个默认方向：<strong style="color:#1a1a1a;">人是主体，AI 是工具</strong>。人用 AI，人放大自己。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这一篇想把这个方向反过来看。因为一旦反过来，很多现象会突然更好解释。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">反过来的样子：AI 在中心，人在边缘</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">持续运行的是 AI——它持有状态、跑循环、干活。人是它按需调用的<strong style="color:#1a1a1a;">外设</strong>。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这不是想象。第八篇提到的开源 AI Agent 项目 OpenClaw 已经是这个形状了：它有持久记忆（MEMORY.md）、有心跳循环（cron + agent loop）、有自己的价值观文件（SOUL.md）、会在夜里自己消化白天的经历（Dreaming）。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">人在这套系统里做的事是什么？给它开权限、递它够不着的信息、替它在需要人格的地方出面。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">我们习惯把它描述成"一个数字员工"。但那还是人本位的说法——按它实际的运行结构，更准确的描述是：</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">一个不睡觉的中枢，偶尔借用人的身份和身体。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">那么"人"这个外设，到底还剩哪些功能？</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">把它拆开会发现，这不是一格，是四格，而且<strong style="color:#1a1a1a;">四格的衰减速度完全不同</strong>。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">第一格：公开信息的采集 —— 已经失守</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">已经数字化的东西，AI 的检索、并发和交叉比对能力远超任何人。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这一格没有争议，也没什么可惋惜的。</p>
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">第二格：现场观察 —— 正在失守</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">一场车祸的现场，在有人拍照上传之前，不存在任何数据。机器运转时的异常振动、建筑结构的细微裂缝、病人的面色和气息——这些今天仍然需要一个人走过去。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">但这一格正在被摄像头、传感器和人形机器人持续吞掉。</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">它是一个正在缩小的集合，而且缩小的速度取决于硬件成本曲线，不取决于模型能力。</strong></p>
+</blockquote>
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">第三格：套出别人脑子里的私有信息 —— 结构性耐久</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这一格是关键。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">有一类信息，不是"还没被数字化"，而是<strong style="color:#1a1a1a;">被故意不数字化的</strong>：</p>
+<ul style="margin:10px 0;padding-left:20px;">
+<li style="font-size:15px;line-height:1.8;color:#333;margin:5px 0;">竞争对手不会公布真实产能</li>
+<li style="font-size:15px;line-height:1.8;color:#333;margin:5px 0;">员工不会写下会让自己被开除的判断</li>
+<li style="font-size:15px;line-height:1.8;color:#333;margin:5px 0;">监管的口风只在饭桌上给</li>
+<li style="font-size:15px;line-height:1.8;color:#333;margin:5px 0;">客户要到第三杯酒才说出不续约的真实原因</li>
+<li style="font-size:15px;line-height:1.8;color:#333;margin:5px 0;">创始人只对信得过的人承认现金流还剩几个月</li>
+</ul>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这类信息的瓶颈<strong style="color:#1a1a1a;">不在采集方的能力，而在对方愿不愿意开口</strong>。所以模型再强、传感器再多，都不解决——它需要的是一个具体的人，带着关系、带着来往、带着对等的风险，坐到对面去换。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">而且这里有一个反直觉的地方：</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">AI 的完美记忆在这一格是负债，不是资产。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">私下信息之所以能流动，靠的恰恰是"说了不算数""这话我没说过""我们都担着风险"。一旦对面是一个不会忘记、不会承担后果、且随时可被调取的东西，人就闭嘴了。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">跟 AI 说话，等于跟一份日志说话。</strong></p>
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">第四格：法律人格与签名 —— 最耐久</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">AI 不能开银行账户、不能签合同、不能被起诉、不能坐牢、不能破产。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">整个法律体系建立在"责任要落到一个自然人或法人身上"这个前提上。2024年的 Moffatt 诉加拿大航空案就是这条线的第一批判例——法院拒绝了"聊天机器人是独立法律实体"的辩护，把责任判给了公司。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">把第三格和第四格放在一起看</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">会发现它们其实是同一样东西的两个面。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">别人愿意跟你说真话，和合同需要一个人签字，理由是同一个：</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">对面得是一个会承担后果的人格。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">一个不能被追责的东西，既签不了字，也套不出话。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">所以人留在边缘的，既不是感官，也不是手脚，而是<strong style="color:#1a1a1a;">可承担后果的人格</strong>——它在法律上表现为签名与责任，在社会上表现为信任与关系。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">但"人格不可替代"和"需要很多人"是两回事。</strong></p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">感官和手脚是一对一的：一个现场要一个人。人格不是——<strong style="color:#1a1a1a;">它可以被去重</strong>。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">一个人可以充当很多个 AI 运作的法律外壳；一个有关系的销售，可以给几十条 agent 驱动的业务线做同一个"能坐到对面去"的接口。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这就是为什么"人还在"和"人少了九成"可以同时成立。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">中心化的对偶面：相关性故障</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">讲到这里必须补一个反面，否则这一篇就成了给中心化唱赞歌。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">2026年3月31日夜里，武汉多辆无人驾驶出租车<strong style="color:#1a1a1a;">同时</strong>停在路上，部分乘客滞留在高架桥上。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">注意这次故障的<strong style="color:#1a1a1a;">形态</strong>：不是一辆车撞了人，是<strong style="color:#1a1a1a;">多辆车在同一时刻一起失效</strong>。</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">一队人类司机不可能在同一秒集体熄火，一队中心化调度的车队可以。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这是一类被现有安全统计完全漏掉的风险。运营方公布的安全指标是每 <strong style="color:#1a1a1a;">1,440万公里</strong>一次气囊弹出——单车安全性能非常好看，<strong style="color:#1a1a1a;">而这个指标对"全车队同时停摆"完全无感</strong>。所有以"每百万英里事故率"为核心的度量都有这个盲区：它们测的是独立事件的频率，而相关性故障恰恰不独立。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">一个很自然的反驳是：把推理搬上车、不走网络，这类故障就没了。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">但这只是换掉一个相关性通道，不是消除相关性故障。</strong></p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">最直接的反证是 Waymo——<strong style="color:#1a1a1a;">它本来就是车载推理架构，驾驶决策不依赖云端</strong>。而美国国家公路交通安全管理局（NHTSA）2026年6月17日的召回文件（编号 26E035）记载：Waymo 第五代自动驾驶系统召回 <strong style="color:#1a1a1a;">3,871 辆</strong>，缺陷描述是"软件可能允许车辆驶入封闭的高速公路施工区并继续高速行驶"；官方补救栏写明，在修复方案开发出来之前，"Waymo 已修改运营范围以限制高速公路行驶"。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">施工区跟网络毫无关系。</strong> 那是整个车队共享同一个盲区——同一份模型权重、同一套感知栈、同一批地图数据、同一个供应商固件。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">而且这里同样反直觉：<strong style="color:#1a1a1a;">中心化推理反而比分布式推理更容易热修</strong>。云端出问题，回滚一次就好；车载出问题，你得跑一轮 OTA 覆盖上千辆车——</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">而"跑一轮 OTA 覆盖上千辆车"在监管语言里就叫召回。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">把推理搬上车之后，剩下的相关性通道至少还有五条：共享的软件版本、共享的传感器固件、共享的地图数据、共享的环境触发（积水、强光、新的路面标线标准），以及<strong style="color:#1a1a1a;">仍然中心化的调度层</strong>——即使每辆车都能自己开，派单系统挂了，车队照样停摆。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">相关性风险不会因为算力上车而消失，它只是从"实时连接"迁移到"发布流程"。</strong></p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这一点对 agent 生态同样成立：一千个 agent 跑同一份模型权重、同一个 SOUL.md 模板、同一套工具链，它们的失效方式也是相关的。</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">中心化买来的效率，代价是把独立故障换成了同时故障。</strong></p>
+</blockquote>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">终局的类比：无灯工厂</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">无灯工厂给的不是一个意象，是三条具体的教训。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">第一，它不是把每个工人一对一换成机器人，而是围绕机器的约束重新设计了流程</strong>——不需要照明、不需要过道、不需要人体工学、不需要换班。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">同理，无灯 office 也不会是"每个员工换成一个 agent"，而是围绕 agent 的约束重新设计流程：不需要开会、不需要日程对齐、不需要那些纯粹为了让人看懂而生产的中间物——周报、PPT、对齐文档、进度同步。</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">今天办公室里有相当一部分工作量，是人与人之间的接口开销；agent 之间不需要这些接口。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">第二，剩下的人换了位置和职能</strong>——从产线走进控制室，从执行变成异常处理。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">第三，也是最该记住的一条：无灯工厂在1980年代就有了原型，FANUC 的无人化车间已经运转了二十多年，但直到今天，它在制造业里仍然是少数派。</strong> 因为最后那 5% 的异常，自动化成本极高。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">能力到位，不等于组织形态到位。</strong></p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">不过这里要补一句反直觉的推论：</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">无灯 office 可能比无灯工厂来得更快。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">工厂要无灯，先得解决原子问题——机器人、精度、成本曲线；office 要无灯，只需要解决比特问题。第三篇说过"纯软件AI替代认知劳动，具身AI替代人的存在本身"，顺着这个逻辑，<strong style="color:#1a1a1a;">顺序是先无灯 office，后无灯工厂</strong>。</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这和大众直觉正好相反：多数人以为体力活先被替代，实际上办公室的门槛更低。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<h2 style="font-size:20px;font-weight:bold;color:#1a1a1a;margin:28px 0 12px;padding-left:12px;border-left:4px solid #1a73e8;">那么，智能溢价崩塌之后，溢价去哪了？</h2>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">本系列第一篇的标题是"年薪百万的脑子，AI几十块就能替代"。但它没回答一个问题：如果智能不再稀缺了，稀缺的是什么？</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这一篇给出的答案是：</p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">溢价转移到了信任和人格上。无灯 office 里剩下的，不是最聪明的那些人——聪明已经不稀缺了——而是有关系的人和能签字的人。</strong></p>
+</blockquote>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">这对个人的职业选择意味着什么，值得每个人自己算一遍：你现在积累的，是可以被复制的能力，还是不能被复制的关系和信用？</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">前者正在贬值。后者的单价，可能正在上涨——但需要它的人，会越来越少。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">说明</strong>：这一篇是结构推演，不是数据结论。它的前提——AI 能力持续提升、法律体系维持"责任必须落到人身上"这一原则——都可能在十年尺度上变化。四格的排序和衰减速度是可以被证伪的：如果出现具备独立法律人格的 AI 实体，第四格立刻失效；如果隐私规范转向"与 AI 对话具备法律特免权"，第三格会大幅缩水。</p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><em>本文为「GPU、子宫与印钞机」系列第十篇。基于公开数据和研究报告的逻辑推演，不构成任何投资或职业建议。</em></p>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">📚 系列文章 · GPU、子宫与印钞机</strong></p>
+<blockquote style="border-left:4px solid #1a73e8;margin:20px 0;padding:15px 20px;background:#f8f9fa;color:#333;font-size:15px;line-height:1.8;">
+<p style="margin:8px 0;">（一）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/j7x-y0yPqKuDMdEV4B63CA">年薪百万的脑子AI卖200块</a></p>
+<p style="margin:8px 0;">（二）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/mJix6lPRuXtN6CmWzl14DQ">25岁进不了门，35岁不用出门</a></p>
+<p style="margin:8px 0;">（三）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/LSy-sMnliIuFyz7qnHlV_Q">暴风雨前的假晴天</a></p>
+<p style="margin:8px 0;">（四）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/uGck4y0UP1aYvUs3YhkCHQ">GPU是新殖民的枪炮</a></p>
+<p style="margin:8px 0;">（五）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/CjkeN9MhPiTlKazWKLG0cA">不是不想生，是生了可能也没以前的用处</a></p>
+<p style="margin:8px 0;">（六）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/EXHdyHyqS27fAS_ykP8ztw">好贷款遇上坏世界</a></p>
+<p style="margin:8px 0;">（七）<a style="color:#1a73e8;text-decoration:none;" href="https://mp.weixin.qq.com/s/UcLRfqpvR3KheN7SX0FIGQ">印钱续命，但治不了病</a></p>
+<p style="margin:8px 0;">（八）小明的150岁，与大部分碳基生物的黄昏</p>
+<p style="margin:8px 0;">（九）把最坏情况拆成任务清单</p>
+<p style="margin:8px 0;"><strong style="color:#1a1a1a;">（十）无灯 office：当 AI 在中心，人在边缘</strong> ← 本篇</p>
+</blockquote>
+<hr style="border:none;border-top:1px solid #eee;margin:30px 0;">
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;"><strong style="color:#1a1a1a;">阅读完整版</strong></p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">GitHub（含全部图表和参考文献）：https://github.com/pkusnail/GPUs-Wombs-and-Money-Printers</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">PDF下载（中文）：https://github.com/pkusnail/GPUs-Wombs-and-Money-Printers/raw/main/GPU、子宫与印钞机-v1.3.1.pdf</p>
+<p style="font-size:15px;line-height:2;color:#333;margin:12px 0;">PDF下载（English）：https://github.com/pkusnail/GPUs-Wombs-and-Money-Printers/raw/main/GPUs-Wombs-and-Money-Printers-v1.3.1.pdf</p>
+</section>

@@ -93,7 +93,7 @@
 \vspace{0.3cm}
 {\normalsize\href{mailto:tony.seah@tokligence.ai}{tony.seah@tokligence.ai}\par}
 \vspace{3cm}
-{\large v1.3.0 \quad April 2026\par}
+{\large v1.3.1 \quad August 2026\par}
 \vfill
 \end{titlepage}
 
@@ -173,9 +173,13 @@ Horses$\to$cars: 21.5~M horses in 1900; by 1912 cars outnumbered horses in NYC. 
 
 By Feb~2026, Tesla FSD logged \textbf{8~billion+ miles}, 1~billion in the first 50~days of 2026 [84]. Tesla self-reports one serious crash per 5.1~million miles vs U.S.\ average \textasciitilde0.7~million [84]. On Jan~22, 2026 Tesla launched \textbf{safety-driver-free robotaxis} in Austin [84].
 
-Waymo: \textbf{450k+ weekly} paid rides by end-2025; 2026 target 1~M/week across 6 U.S.\ cities, expanding to 20+ and Tokyo/London [85].
+\textbf{By 2026 the capability curve and the deployment curve had visibly separated. They must be told apart, because the binding constraint is on the second one.}
 
-\textbf{China}: Baidu Apollo Go in \textbf{22+ cities}, 1000+ fully driverless cars, \textbf{17~M+ rides}, 300k+ weekly (as of end-2025) [85]. Pony.ai: first citywide permit in Shenzhen [85]. WeRide runs 24/7 fully driverless in Guangzhou [85].
+\textbf{Capability is compounding.} Waymo started earliest: \textbf{450k$+$ weekly} paid rides by end-2025 [85]; by March 2026 it had driven \textbf{220.6 million} fully driverless miles with no human behind the wheel, was covering \textbf{4 million miles every week} by June 2026, and officially spanned \textbf{11 cities and over 1,400 square miles} [129]. \textbf{China is catching up hard:} Baidu Apollo Go covered \textbf{22$+$ cities} with 1000$+$ fully driverless cars and \textbf{17M$+$ rides} by end-2025 [85]; by June 2026 cumulative rides had passed \textbf{23 million}, at roughly \textbf{one airbag deployment every 14.4 million kilometres} [129]. Pony.ai holds fully driverless permits in all four tier-1 cities and WeRide runs 24/7 driverless in Guangzhou [85]. In H1 2026 Apollo Go launched fully driverless commercial operations in Dubai, obtained the world's first fully driverless testing permit in a right-hand-drive, left-hand-traffic market (Hong Kong), and began open-road testing in London [129].
+
+\textbf{Deployment, however, is extremely concentrated.} The same Waymo data by city: Phoenix 80.6M, SF Bay Area 67.1M, Los Angeles 51.8M, Austin 15.8M, Atlanta 5.4M --- \textbf{the top three total 199.4M, or 90.4\% of everything} [129]. Years into commercial operation, \textbf{nine out of ten driverless miles ever driven by anyone happened in three metropolitan areas.} Not because the model cannot drive in Nashville --- it is the same model. Every new city means redoing safety validation, obtaining regulatory approval, negotiating insurance, securing local political consent, and absorbing the first local accident. \textbf{The constraint has moved from the model to everything around the model --- and everything around the model does not scale with compute.}
+
+\textbf{A common misreading is worth clearing up: Waymo and Tesla are two technical routes, but this is not a contest about reliability.} Waymo fuses lidar, radar and cameras, leans on HD maps and validates city by city; Tesla is camera-only and bets on generalisation from fleet data. Tesla's advantage is \textbf{per-vehicle cost and potential rollout speed} --- a scaling advantage, not a reliability one. As of August 2026 Tesla's no-in-car-monitor operation spanned six metros but the number of genuinely unsupervised vehicles remained in the dozens, against Waymo's 220 million miles. \textbf{``Waymo has more incidents and recalls, so it is less reliable'' is a statistical illusion} --- those follow from operating at scale inside a regime where incidents are visible and reportable; fleet sizes two orders of magnitude apart cannot have incident counts compared directly. The routes are also converging: Waymo's sixth-generation Driver on the Zeekr platform is an explicit cost-reduction move, and Tesla's Cybercab is purpose-built.
 
 BYD game-changer: 2025 ``God's Eye'' ADAS \textbf{standard on all models}, even the \$9.5k Seagull [86]. By Nov~2025, \textbf{2.3~M} cars shipped with it, generating \textbf{150~M~km/day} data [86].
 
@@ -197,6 +201,18 @@ Consensus: L4 at scale between late 2020s--2035; L5 maybe 2045--2060 [83]. Hand-
 2025 saw the first real spike in humanoid robot shipments. \textasciitilde90\% came from Chinese firms [36]: AgiBot shipped 5,168; Unitree 5,500+ [37]. 140+ Chinese companies, 330+ models [36]. Tesla Optimus not yet commercial [37]. China's advantage: full manufacturing stack.
 
 Key bottleneck: \textbf{autonomy}. Today's bots rely on scripted moves or teleop. Ken Goldberg notes: we have 100k+ years of language data for LLMs, near-zero physical manipulation data [38]. Also, \textbf{battery}: 2--3~hours, far from an 8-hour shift.
+
+\textbf{By 2026 the spike had more than doubled again---but in three diverging directions.}
+
+H1 2026 global humanoid shipments were roughly \textbf{19,100 units, up 272\% year-on-year}; \textbf{Chinese vendors accounted for over 97\%} of global shipments and China for over 85\% of demand [127]. AgiBot overtook Unitree as the largest vendor (Unitree shipped 5,500 units in all of 2025). On \textbf{19 August 2026 Unitree listed on Shanghai's STAR Market, rising as much as 620\% intraday and closing up about 460\%}, touching a market value of \textbf{\textyen445 billion} against a \textyen61 billion IPO valuation [127].
+
+\textbf{Divergence one: shipments tripled while the most-hyped player has produced zero.} As of mid-2026 Tesla's Fremont line had produced \textbf{not a single mass-production Optimus}, despite decommissioning the Model S/X lines to make room. In January 2025 Musk said ``will we succeed in making several thousand? Yes, I think we will''; by Q1 2026 that became ``later this year.'' The first units go to an internal programme, ``Optimus Academy,'' not to customers [127]. \textbf{Shipments up 272\% while the loudest player ships nothing means volume is concentrated in the few Chinese firms that can actually build hardware---not that the industry has matured.}
+
+\textbf{Divergence two: the capability narrative and the technical reality are separating.} Toyota Research Institute CEO Gill Pratt, April 2026: ``we still don't have system two''---robots have reactive intuition but not deliberative reasoning, and patching system one into system two keeps failing. He acknowledged ``a lot of overpromising'' and judged humanoids to be approaching ``a peak of inflated expectations'' [127]. Rodney Brooks, reviewing his own predictions in July 2026, pushed widely available dexterous hands out to \textbf{not-earlier-than 2030, by 2040}, writing that ``deployable dexterity will remain pathetic compared to human hands beyond 2036'' [127].
+
+\textbf{Divergence three, the one most worth recording: institutional resistance arrived before technical maturity.} In July 2026 roughly \textbf{35,000 workers} struck at Hyundai's Korean assembly plants---\textbf{the first auto factory strike explicitly triggered by a plan to put humanoid robots on the line} [127]. The trigger was Hyundai's plan to deploy over \textbf{25,000} Boston Dynamics Atlas units, starting in the United States. Two details matter. \textbf{No deployment date had been set for the Korean plants at all}---the workers struck before the robots existed on site. And the union's core demand was not a ban on automation but: \textbf{not a single robot enters a Hyundai workplace without a labour-management agreement first.} Their logic is clear-eyed: once the robots are on the line, the leverage is gone.
+
+This matters beyond a labour dispute. It is the first real-world footnote to §3.5.1---as technical capability and legal accountability come apart, what people fight for is no longer ``I can do this job'' but \textbf{a place for personhood in the decision chain}.
 
 Sim-to-real and rising battery density (8--10\%/yr) may yield truly autonomous bots by \textasciitilde2030. Then the displacement spiral expands from cognition to physical work---closing white-collar ``exit ramps.''
 
@@ -282,6 +298,12 @@ This means a plausible scenario of ``living longer, but first passing through a 
 % ================================================================
 \section{Drag Forces: What Could Slow AI}
 
+The constraints fall into three layers: physical, trust, and institutional. But they are not three parallel brakes --- \textbf{they run on three different clocks, and that is what actually governs the pace of diffusion}. \textbf{Technical capability} compounds (compute, data, models). The \textbf{physical layer} (power, chips, atoms) is slow and linear (capital expenditure, construction cycles). The \textbf{institutional layer} (accountability, regulation, insurance) has \textbf{no clock at all --- it is driven by events}.
+
+The third is easiest to miss and most important: \textbf{the institutional layer does not improve with time; it improves with accidents.} It is not slow --- it is not on the time axis at all. It sits still until something happens, then jumps discontinuously. The pattern recurs throughout: China issued a mandatory national standard for autonomous driving only after a multi-vehicle stall in Wuhan (§2.4); chatbot liability was established only once Moffatt v.\ Air Canada was decided (§3.3); Texas ordered an audit only after its interconnection queue reached five times record peak demand (§3.7); and \textbf{as of August 2026 humanoid robots still have no mandatory safety standard in the US, China or the EU} (§2.5) --- not because they are safer, but because they do not yet have an identifiable accident with an identifiable victim.
+
+The corollary: \textbf{the stronger the capability, the narrower the technical tail and the rarer the triggering events --- but the larger the deployment at each trigger, and the worse the consequence.} The gap does not converge smoothly; it shows up as \textbf{steps that come further apart and land harder.}
+
 \subsection{Physical: Power, Chips, Atoms}
 
 \textbf{Power}: U.S.\ DC demand 75.8~GW (2026) $\to$ 134.4~GW (2030) [49]; grid queues up to 7~years. Only 5~GW of 16~GW planned 2026 capacity under construction; 30--50\% large DCs delayed [49]. Amsterdam, Dublin, Singapore imposed moratoria.
@@ -302,7 +324,9 @@ Gartner 2025: GenAI in ``trough of disillusionment''; agents at ``peak of inflat
 
 \subsection{Institutional: Laws, Labor, Legal Vacuum}
 
-EU AI Act, China's AI regs, U.S.\ sectoral rules---rollout lagging tech by years [56]. Labor pushback (Hollywood strikes) shows unions can slow deployment [57]. Agents rewriting contracts in code create new legal risks [58].
+The AI Act's own timeline is the clearest evidence that institutions cannot keep up. Annex~III high-risk obligations were due to apply from 2026; \textbf{six days before the deadline} the EU adopted the Digital Omnibus on AI (Regulation (EU) 2026/1744, in force 27~July~2026), pushing standalone high-risk duties (hiring, credit scoring, law enforcement, education, border control) to \textbf{2~December~2027} and high-risk AI embedded in regulated products to \textbf{2~August~2028}---because harmonised standards were not ready [56]. Only the Article~50 transparency duties landed on schedule on 2~August~2026 [56]. China's focus shifted to anthropomorphic AI: the Interim Measures for AI Companion and Emotional Interaction Services (issued 10~April~2026, effective 15~July~2026) are the world's first rules written specifically for AI companions; ByteDance and Alibaba pulled their AI companion features in early July 2026 as a direct result [56]. Labor pushback (Hollywood strikes) shows unions can slow deployment [57]. Agents rewriting contracts in code create new legal risks [58].
+
+\figchart{ai-friction-layers.pdf}{Three friction layers slowing AI diffusion}
 
 
 \subsection{Fast vs Slow: Differential Diffusion Rates}
@@ -347,17 +371,101 @@ U.S.\ Jan~2026 unemployment 4.3\%; EU 5.9\%; global 4.9\% [90]. Yale/Brookings O
 \end{itemize}
 
 
-\subsection{Dashboard: Track These Quarterly}
+\textbf{The official stance shifted between February and August 2026.} Governor Michael Barr's 17~February~2026 speech set out three scenarios---\textbf{gradual adoption}, \textbf{rapid growth in AI capabilities and adoption}, and \textbf{stalled growth in AI capabilities and adoption} (an investment bust is one way the third plays out, not a scenario of its own). His actual words were careful: ``this evidence so far is consistent with what we might expect under the gradual adoption scenario I previously described.'' He cited ADP payroll research finding that \emph{early-career} workers in highly exposed occupations saw employment decline relative to peers and to experienced workers in the same field [90]. (The widely quoted ``canaries in the coal mine'' line is not Barr's---it is the title of a Stanford paper in his footnote~25.)
 
-\figchart{timeline-misalignment.pdf}{Jobs crash first, fiscal squeeze follows, longevity diffuses last.}
+FOMC minutes then walked the language down [122]: March~2026, ``\textbf{Many participants} cited evidence\ldots firms were likely to \textbf{delay or reduce hiring in anticipation of AI adoption}''; April, downgraded to ``\textbf{Several participants}''; June, ``\textbf{Some participants} commented on \textbf{the possibility that} AI could, \textbf{over time}, affect employment prospects for some classes of workers''; July, ``\textbf{Several participants observed that fears about AI leading to widespread layoffs had not materialized to date.}''
 
-Six key quarterly indicators: entry-level job postings YoY, youth unemployment gap, corporate AI CapEx/revenue ratio, GPU delivery lead time, pension fund solvency, and housing vacancy + bank capital. If 3+ indicators hit red for two consecutive quarters, shift from gradual reform to emergency intervention.
+The shift coincided with a change at the top: from the June~2026 meeting the Fed has been chaired by \textbf{Kevin Warsh}, with Powell continuing as a governor [122]. In his 14~July~2026 congressional testimony Warsh said productivity growth had been strong ``predating gains from AI adoption,'' and that AI ``hasn't displaced workers at this point.''
 
+\textbf{But ``no evidence'' depends on what you measure.} The one contrary finding in the official camp comes from the Richmond Fed (Economic Brief 26-26, August~2026): workers in highly AI-exposed occupations show larger declines in \textbf{job-finding rates} [122]---not unemployment, not layoffs, but the probability of landing a job after applying. That may be the only shape a hiring-side shock can take in existing statistics: \textbf{nobody is fired; nobody is hired.} The July minutes describe the same thing from the other side---AI uncertainty is ``keeping both hiring and firing low.'' Unemployment statistics cannot see this. They count people with jobs and people without, not the job that was never posted.
 
-\subsection{Key Brake Conditions}
+\textbf{Unpack this and the unemployment rate turns out to be the wrong instrument for this kind of shock.} (Data retrieved 20 August 2026: US from the BLS public API, July 2026; Singapore from MOM, June 2026 preliminary, released 31 July 2026 [128].)
 
-Outlined in main text: AV licensing stall, humanoid cost/uptime misses, GPU lead times $>$12m, grid queues $>$5y, macro reflation forcing CapEx cuts.
+July 2026 US unemployment was \textbf{4.1\%}, below January's 4.3\%; Singapore in June 2026 was \textbf{2.0\%} overall, \textbf{2.9\%} resident, \textbf{3.0\%} citizen. But set the other lines of the same US dataset alongside them [128]: participation fell from 62.1\% in January to \textbf{61.4\%} in July ($-$0.7pp); the employment-population ratio from 59.4\% to \textbf{58.9\%}; the labour force shrank by \textbf{1.37 million} while the not-in-labour-force count \textbf{rose by 1.98 million}. Unemployment rate = searching but not employed $\div$ labour force---\textbf{the denominator is shrinking}. Nearly two million people left the labour force in six months, counting as neither employed nor unemployed.
 
+The numerator? JOLTS answers [128]: \textbf{layoffs rate 1.0--1.1\%} (a historic low---inflow into unemployment is tiny), \textbf{hires rate 3.3--3.4\%} (well below the pre-pandemic 3.8--4.0---outflow is small too), \textbf{quits rate 2.0\%} (the employed do not dare move). Establishment-survey payrolls grew only about \textbf{44,000 per month} in H1 2026 against a trend norm above 150,000. \textbf{So the low rate is the product of ``nobody is fired and nobody is looking,'' not of ``everyone has work.''} The Fed's July 2026 minutes describe AI uncertainty as ``keeping both hiring and firing low'' [122]; the micro data above independently confirms that sentence.
+
+\textbf{The shock surfaces elsewhere: long-term unemployment.} The share of unemployed out of work 27 weeks or longer [128]: 21.5\% (Jul 2024) $\to$ 24.9\% (Jul 2025) $\to$ 24.7\% (Jan 2026) $\to$ \textbf{27.5\%} (May 2026) $\to$ 25.5\% (Jul 2026). \textbf{Few are unemployed, but those who are cannot get out}---the other face of the Richmond Fed's finding on falling job-finding rates [122].
+
+\textbf{Singapore runs on a different mechanism, and the ordering of its three numbers is the evidence.} Overall 2.0\% sits \emph{below} resident 2.9\% and citizen 3.0\%, because \textbf{non-residents enter the employment denominator but not the unemployment numerator}---foreign employees retrenched in a downturn must leave the country and never appear as unemployed. \textbf{A substantial part of Singapore's labour-market adjustment happens outside its borders.}
+
+\textbf{Three limits, or this becomes selective evidence. First, the two surveys disagree}: the household survey shows H1 2026 employment down 920,000; the establishment survey shows it \textbf{up 266,000} [128]. CES has the far larger sample, \textbf{so ``US employment is falling'' is not supported}---only that growth is weak. \textbf{Second, discouraged workers did not rise}: 509,000 in January, 503,000 in July [128], which \textbf{weakens} the reading that AI drove people out. \textbf{Third, none of this can be attributed to AI}: boomer retirement, slower immigration and AI-frozen hiring all coexist as explanations, and this article cannot separate them.
+
+What can be established is one sentence: \textbf{the labour market is frozen---low hiring, low firing, low mobility---and the unemployment rate is structurally insensitive to a freeze.} It was built for twentieth-century layoff recessions. The present change is a hiring-side one: \textbf{nobody is fired; nobody is hired}, which registers as nothing happening. This also reveals a cross-effect between Chapters II and V: \textbf{demographic contraction and the AI shock push the rate in opposite directions and mask each other}, numerator and denominator contracting together. \textbf{``Unemployment is still low'' cannot be read as ``the shock has not arrived.''}
+
+\subsubsection{The Lights-Out Office: AI at the Centre, Humans at the Edge}
+
+Everything above---including the Driver / Ground Truth / Glue framework---assumes one direction: \textbf{the human is the principal, AI is the tool.} Invert that direction and much of what we already observe becomes easier to explain.
+
+\textbf{The inverted picture is: AI at the centre, humans at the edge.} What runs continuously is the AI---it holds the state, runs the loop, does the work; the human is a peripheral it calls when needed. OpenClaw (§8.0) is already this shape: persistent memory (MEMORY.md), a heartbeat loop (cron plus agent loop), its own values file (SOUL.md), overnight consolidation (Dreaming). What the human does inside that system is grant permissions, hand it information it cannot reach, and stand in wherever personhood is required. \textbf{We habitually call it ``a digital employee,'' but that is still the human-centric framing. Structurally it is a hub that never sleeps, occasionally borrowing a human's identity and body.}
+
+So what does the human peripheral still do? Unbundled, this is not one thing but four---and \textbf{the four decay at completely different rates.}
+
+\textbf{Layer one: collecting public information. Already lost.} For anything digitised, AI's retrieval, concurrency and cross-referencing beat any human.
+
+\textbf{Layer two: on-site observation. Being lost now.} A car crash generates no data until someone photographs it; an abnormal vibration, a hairline crack, the colour and smell of a patient---these still require a body. But this layer is being eaten by cameras, sensors and the humanoid robots of §2.5. \textbf{It is a shrinking set, and the rate depends on hardware cost curves, not model capability.}
+
+\textbf{Layer three: extracting private information from other people's heads. Structurally durable.} Some information is not ``not yet digitised''---it is \textbf{deliberately kept undigitised}: competitors do not publish real capacity; employees do not write down the judgement that would get them fired; a regulator's real position is given over dinner; a customer admits the true reason for not renewing at the third drink; a founder tells you the remaining runway only if he trusts you. The bottleneck \textbf{is not the collector's capability but the counterparty's willingness to speak}---no model and no sensor solves that. It requires a specific person, carrying a relationship and symmetric risk, to sit down opposite them.
+
+And here is the counter-intuitive part: \textbf{AI's perfect memory is a liability in this layer, not an asset.} Off-the-record information flows precisely because it is deniable---``I never said that,'' ``we're both exposed.'' Facing something that never forgets, bears no consequences, and can be subpoenaed, people stop talking. \textbf{Speaking to an AI is speaking to a log file.}
+
+\textbf{Layer four: legal personhood and signature. The most durable.} An AI cannot open a bank account, sign a contract, be sued, be jailed, or go bankrupt. The legal system rests on liability landing on a natural or juridical person. Moffatt v.\ Air Canada (§3.3) is an early data point---the court rejected the defence that the chatbot was a separate legal entity [58].
+
+\textbf{Layers three and four are two faces of the same thing.} Someone tells you the truth off the record, and a contract requires a signature, for the same reason: \textbf{the other side has to be a person who can bear consequences.} A thing that cannot be held to account can neither sign nor be confided in. What the human retains at the edge is therefore neither senses nor limbs but \textbf{accountable personhood}---legally signature and liability, socially trust and relationship.
+
+\textbf{Centralisation has a dual face harder to deal with than efficiency: correlated failure.} On the night of 31 March 2026, multiple Baidu Apollo Go driverless vehicles \textbf{stalled on the roads of Wuhan at the same time}, stranding passengers on busy overpasses [129]. Note the shape of that failure: not one car hitting someone, but \textbf{many cars failing in the same moment}. \textbf{A fleet of human drivers cannot all stall in the same second. A centrally dispatched robot fleet can.}
+
+Existing safety statistics miss this class entirely. Baidu reports roughly one airbag deployment every 14.4 million kilometres --- an excellent per-vehicle number, and \textbf{one completely blind to the whole fleet stopping at once}. Every ``incidents per million miles'' metric shares the blind spot: it measures the frequency of independent events, and correlated failures are by definition not independent.
+
+The natural objection is that moving inference onto the vehicle removes this. \textbf{But that swaps one correlation channel; it does not eliminate correlated failure.} The direct counter-example is Waymo --- \textbf{which already runs on-board inference and does not depend on the cloud for driving decisions}. NHTSA recall 26E035, dated 17 June 2026, records Waymo recalling \textbf{3,871} fifth-generation Automated Driving Systems; the defect is ``the software may allow the vehicle to enter a closed freeway construction zone and continue driving at speed,'' and the remedy notes that pending a fix ``Waymo modified the scope of vehicle operations to restrict freeway driving'' [129]. \textbf{Construction zones have nothing to do with the network} --- that is the entire fleet sharing one blind spot: same model weights, same perception stack, same map data, same supplier firmware.
+
+Counter-intuitively, \textbf{centralised inference is easier to hot-fix than distributed inference}: a cloud fault is rolled back once, while an on-vehicle fault needs an OTA campaign across thousands of vehicles --- \textbf{and that, in regulatory language, is a recall}. After inference moves on-board, at least five correlation channels remain: shared software versions, shared sensor firmware, shared map data, shared environmental triggers (standing water, low sun, a new road-marking standard), and a dispatch layer that is still centralised. \textbf{Correlated risk does not disappear when compute moves onto the vehicle; it migrates from the live connection to the release pipeline.} The same holds for the agent ecosystem of Chapter VIII: a thousand agents on the same weights, the same SOUL.md template and the same toolchain fail in correlated ways too. \textbf{What centralisation buys in efficiency, it pays for by converting independent failures into simultaneous ones.}
+
+\textbf{But ``personhood is irreplaceable'' and ``many humans are needed'' are different claims.} Senses and limbs are one-to-one: one site needs one body. Personhood is not---\textbf{it deduplicates}. One person can be the legal wrapper for many AI operations; one well-connected salesperson can be the ``someone who can sit across the table'' interface for dozens of agent-driven business lines. That is how ``humans are still here'' and ``ninety percent fewer humans'' hold simultaneously.
+
+This also explains why the solo founder of §10.1 is fragile: in ``one person plus AI,'' \textbf{the human is the only component that gets sick, gets tired, breaks down, and has no spare.} AI does not degrade; humans do.
+
+\textbf{There is a ready analogy: the lights-out factory}---which offers three concrete lessons. \textbf{First, it was not one robot per worker; it was a process redesigned around the machine's constraints}---no lighting, aisles, ergonomics or shift breaks. Likewise the lights-out office will not be one agent per employee, but a process redesigned around the agent's constraints: no meetings, no calendar alignment, and none of the intermediate artefacts produced purely so humans can follow along---weekly reports, decks, alignment docs, status syncs. \textbf{A substantial share of today's office workload is human-to-human interface overhead; agents do not need those interfaces.} \textbf{Second, the humans who remain change location and function}---out of the line, into the control room; from execution to exception handling. \textbf{Third, and most worth remembering: the lights-out factory has existed in prototype since the 1980s, FANUC has run unmanned machining for over two decades, and it is still a minority of manufacturing.} The last 5\% of exceptions is extremely expensive to automate---the last-mile problem of §3.2. \textbf{Capability arriving is not organisational form arriving.}
+
+One counter-intuitive corollary: \textbf{the lights-out office may arrive faster than the lights-out factory did.} A factory going dark requires solving atoms; an office going dark requires only bits. Following this section's own logic---software AI replaces cognitive labour, embodied AI replaces presence---\textbf{the office goes dark first, the factory second}, the reverse of the popular intuition.
+
+Finally, this answers a hole left by the title of Chapter~II. \textbf{If the intelligence premium collapses, where does the premium go?} It moves to \textbf{trust and personhood}. What remains in the lights-out office is not the smartest people---intelligence is no longer scarce---but \textbf{the people with relationships and the people who can sign}.
+
+(\textbf{Note}: this section is structural extrapolation, not a data finding. Its premises---continued AI capability gains, and legal systems continuing to require liability to land on a person---could both change within a decade. The ordering is falsifiable: an AI entity with independent legal personhood collapses layer four immediately; legal privilege for conversations with AI would sharply shrink layer three.)
+
+\subsection{Dashboard: Six Indicators, Three Thresholds}
+
+Projection easily becomes self-serving. So here is a set of indicators that quarterly data can falsify directly---each with a numeric threshold rather than a defensible-either-way adjective.
+
+\begin{itemize}
+  \item \textbf{(1) Entry-level job postings, YoY}: green $>-5\%$; amber $-5\%$ to $-15\%$; red $<-15\%$. First visible signal of AI substitution.
+  \item \textbf{(2) Employment-population ratio, 6-month change}: green $>-0.2$pp; amber $-0.2$ to $-0.5$pp; red $<-0.5$pp. \textbf{Cannot be flattered by labour-force exit} (see §3.5).
+  \item \textbf{(2b) Long-term unemployed (27$+$ weeks) share}: green $<22\%$; amber 22--26\%; red $>26\%$. Whether the unemployed can get out matters more than how many there are.
+  \item \textbf{(3) Corporate AI CapEx / revenue}: green if rising without crowding out R\&D or headcount; amber if it crowds out R\&D; red if it crowds out headcount. Separates healthy investment from layoff arbitrage.
+  \item \textbf{(4) Frontier accelerator lead time}: green falling; amber flat; red rising. Whether compute supply keeps up.
+  \item \textbf{(5) Pension solvency (years payable)}: green $>8$y; amber 5--8y; red $<5$y. Urgency of shifting the tax base off wages.
+  \item \textbf{(6) Housing vacancy $+$ regional bank capital}: green both stable; amber one deteriorating; red both. Early warning on the mortgage chain.
+\end{itemize}
+
+\textbf{Note that (2) uses the employment-population ratio and long-term unemployment share, not the unemployment rate.} §3.5 shows why: in a frozen labour market the unemployment rate moves \emph{down} as people exit, giving the opposite of the true signal.
+
+\textbf{Trigger rule: three or more red lights for two consecutive quarters $\to$ switch from ``incremental reform'' to ``emergency intervention.''} Don't wait for the crisis to act; don't panic while the data are still green. All six are publicly checkable (BLS, OECD, IMF GFSR, Fed regional banking data). They measure whether society is being hit; how fast AI is diffusing is handled next.
+
+\subsection{Brake Conditions and Scorecard}
+
+One hard requirement in this revision: \textbf{every brake must be judgeable from public data as either pressed or not pressed.} One condition in the previous version failed that test and has been replaced.
+
+\begin{itemize}
+  \item \textbf{Compute supply tightens} (frontier accelerator lead times back above 12 months): \textbf{not triggered}. Nvidia's Vera Rubin platform entered full production and began shipping to cloud providers on 21~July~2026---supply is accelerating [123].
+  \item \textbf{Power and interconnection} (an \textbf{administrative} interconnection freeze in a major data-center state): \textbf{triggered}. On 3~August~2026 the Governor of Texas ordered the PUCT and ERCOT to audit every data center in the interconnection queue, warning that projects failing to disclose ownership, financial, water and community-impact information could be denied grid access. The ERCOT large-load queue reached \textbf{474.7\,GW} in June~2026, of which \textbf{420.8\,GW (90.2\%) is data centers}---more than five times the state's all-time peak demand of 91,089\,MW (22~July~2026) [123].
+  \item \textbf{Autonomous driving} (\textbf{time required to enter each new city stops falling as the technology improves}): \textbf{triggered}. As of March 2026, \textbf{90.4\%} of all rider-only miles ever driven remained concentrated in Phoenix, the SF Bay Area and Los Angeles [129]. This replaces the previous ``city count stalls'' test --- city count \emph{is} the governance variable, so using it to test whether the constraint is governance is circular; ``does time-per-city fall?'' actually discriminates.
+  \item \textbf{Humanoid robots} (unit price $>$\$30k and runtime $<$4h persisting to 2030): open (see §2.5).
+  \item \textbf{Macro demand} (easing triggers real reflation, forcing AI CapEx cuts): \textbf{not triggered}. As of mid-2026 no hyperscaler had cut its 2026 AI CapEx guidance [123].
+\end{itemize}
+
+\textbf{Finally, a prediction worth betting on.} If ``the institutional layer improves only with events'' holds, it should predict something that has not yet happened: \textbf{the humanoid robotics industry will acquire a mandatory safety standard within 12 months of the first widely reported fatality, and not before --- however good the robots are by then.} The bet is live as of August 2026: OSHA's robotics page still reads ``There are currently no specific OSHA standards for the robotics industry''; China has a mandatory national standard for autonomous driving but its humanoid-robot safety standard remains voluntary and in drafting; ISO 25785-1 is still a committee draft [129]. \textbf{Meanwhile the sector's global shipments grew 272\% year-on-year in H1 2026.} The gap between capability and accountability is widening visibly.
+
+\textbf{A self-correction on the second item.} The previous version wrote this brake as ``average grid-interconnection wait exceeding 5 years.'' That was a \textbf{design error}: no institution publishes an authoritative ``average wait'' statistic, so the condition could be neither confirmed nor refuted---it looked like a threshold but was only an adjective. Meanwhile the real brake was pressed in an entirely different form: not longer queues, but a \textbf{political stop}. The lesson is worth recording: \textbf{an unmeasurable indicator is worse than no indicator, because it manufactures the illusion of monitoring.} Note also that the first item is currently \emph{refuted}---which is the point. These conditions are supposed to be capable of being wrong.
 
 % ================================================================
 \section{Geographic Differentiation}
@@ -366,6 +474,8 @@ Outlined in main text: AV licensing stall, humanoid cost/uptime misses, GPU lead
 
 San Francisco office vacancy 34\% [15], while AI firms lease 1~M+ sqft; Mission Bay vacancy $<$9\% [15]. Politics polarized; 2028/2032 election cycles clash with policy windows.
 
+\figchart{sf-vacancy.pdf}{San Francisco: a dual-speed city}
+
 \subsection{China: Different Script, Similar End}
 
 After ``hundred-model'' shakeout, 3--5 majors likely remain. Manufacturing+AI accelerates automation; open-source shopping agents (e.g., Qwen ecosystem) could hand consumer decisions to AI. Rapid redistribution is an institutional edge. Cultural shock: ``hard work pays'' loses validity. Aging + youth ``lying flat'' + AI job squeeze $\to$ forced ``lying flat 2.0.''
@@ -373,6 +483,10 @@ After ``hundred-model'' shakeout, 3--5 majors likely remain. Manufacturing+AI ac
 \subsection{India: Digital Colonization Cascade}
 
 IT outsourcing (\$200~B) sells ``cheap humans''; agentic coding drives contracts away [1]. Middle-class cities (BLR/HYD/Pune) tied to IT collapse; housing/consumption/local banks follow. The IIT$\to$TCS/Infosys$\to$H-1B$\to$Silicon Valley ladder breaks. Loss of elite immigration hurts U.S.\ innovation. AI compute concentrated in U.S./China (\textasciitilde80\%) [59]; others become consumers, not owners.
+
+\figchart{india-cascade.pdf}{India's four-layer impact cascade}
+
+\figchart{ai-compute-map.pdf}{Global AI compute distribution}
 
 \subsection{Europe: Regulator's Dilemma}
 
@@ -394,9 +508,13 @@ Longevity won't backfill labor. Early longevity gains accrue to wealthy; it incr
 
 Korea TFR 0.72 (record low) [5]; China \textasciitilde1.0; Japan 1.2; Italy/Spain 1.2 [4][5]. Global TFR 5.0 (1950) $\to$ \textasciitilde2.3 now; UN projects 1.8 by 2100, population peak \textasciitilde2084 [6]. Korea spent \$280~B+ on pro-natal policies; TFR fell further---74\% of subsidies went to people who would have birthed anyway [9]; to reach replacement would need 15$\times$ budget [9].
 
+\figchart{fertility-rates.pdf}{Fertility rates across countries}
+
 \subsection{Economics of Marriage/Childbearing Collapse}
 
 Marriage rates plunge; costs explode (raising one child in China $\approx$ 6.3$\times$ per-capita GDP, 538,000 yuan (\textasciitilde\$74--80k)) [27]. ROI of children turns negative once AI lowers marginal value of human labor.
+
+\figchart{marriage-economics.pdf}{The economics of marriage and childbearing}
 
 \subsection{AI--Fertility Spiral}
 
@@ -430,9 +548,11 @@ Japan/Korea already subsidize care robots [10][11]. In 20~years, carebots will b
 
 U.S.\ mortgages \$13~T [1]; borrowers prime. 2008 was bad loans day one; now loans were good, the world changed. SF home $-$11\% YoY; Seattle $-$9\%; Austin $-$8\% [1]. ``Zombie payers'' keep paying by cutting all other spend.
 
-But this is just the U.S. Zoom out---this is a \textbf{\$27~trillion} global problem. U.S.\ \$13T + EU EUR 8.2T (\$8.9T) + China \textyen37.4T (\$5.2T) = roughly \textbf{\$27T}. The U.S.\ crisis is still a projection. \textbf{China's is already in its fifth year.}
+\figchart{mortgage-compare.pdf}{2008 vs 2030: two mortgage crises}
 
-\textbf{China: present tense, not future.} Evergrande (>\$300B debt, liquidation ordered Jan 2024, delisted Aug 2025), Country Garden (\$14B offshore default), Vanke (selective default, \$21B short-term debt vs \$8B cash)---systemic developer collapse [118]. China's pre-sale system created an estimated \textbf{20~million} sold-but-unbuilt units [119]. Government pledged \textyen4T in loan quotas; experts say the real cost is \textyen3.5--7T. Feb 2026: 70-city new-home prices $-$3.2\% YoY; secondary market worse---Beijing $-$8.5\%, Guangzhou $-$7.8\%, Shenzhen $-$5.5\% [120]. Vacancy: \textbf{65--80~million} empty homes; tier-2/3 vacancy 25--40\% [20]. Households deleveraging: mortgage balance \textbf{declined three consecutive years}; \textyen4.7T prepaid in 2022 alone [121]. Household debt-to-GDP peaked at 62.3\% (Mar 2024), now falling---classic balance-sheet recession, mirroring 1990s Japan.
+But this is just the U.S. Zoom out---this is a \textbf{\$25~trillion}-scale cross-border problem. U.S.\ \$13.1T (2026Q2, NY Fed) + euro area EUR 5.50T ($\sim$\$6.4T, June 2026, ECB) + China CNY 36.29T ($\sim$\$5.4T, 2026Q2, PBoC) = roughly \textbf{\$25 trillion} across the three major blocs (ECB August 2026 reference rates: EUR 1 = \$1.1605, \$1 = CNY 6.74). This is not an external statistic but the sum of three official series; adding the UK ($\sim$GBP 1.7T) and non-euro European markets pushes it higher. The U.S. crisis is still hypothetical. China's has been running for five years.
+
+\textbf{China: present tense, not future.} Evergrande (>\$300B debt, liquidation ordered Jan 2024, delisted Aug 2025; on 20 August 2026 a Shenzhen court sentenced founder Xu Jiayin to life imprisonment and fined the group $\sim$\textyen15.8B), Country Garden ($\sim$\$11B of dollar bonds defaulted Oct 2023; the \$17.7B offshore restructuring took effect 30 Dec 2025, cutting $\sim$\$11.7B of debt), Vanke (2025 net loss \textbf{\textyen88.6B}, the largest single-year loss by any A-share developer; S\&P cut it to ``selective default'' and Fitch to ``restricted default''---a distressed exchange, not a default avoided; $\sim$\$21B short-term debt vs $\sim$\$8B cash at end-Sept 2025)---systemic collapse. Sunac, CIFI and Sino-Ocean also completed offshore restructurings by end-2025, but writing debt off is not recovery: Jan--Jun 2026 property development investment fell \textbf{18.0\%} YoY and new starts \textbf{23.4\%} [118]. The pre-sale system let developers spend buyers' money before building; in summer 2022 buyers at \textbf{320 projects across 100+ cities} stopped paying. Nomura estimated \textbf{20 million} units sold but unbuilt at end-2022, needing $\sim$\textyen3.2T to finish; Goldman put clearing inventory to 2018 levels at over \textyen7T. Whitelist bank loan approvals rose from a \textyen4T target at end-2024 to over \textbf{\textyen7T} by September 2025, delivering \textbf{7.5M+} stalled units [119]. New-home prices fell \textbf{3.2\%} YoY in Feb 2026; by July the decline had concentrated in lower tiers and resale---new homes $-$1.1\% (tier 1) vs $-$4.2\% (tier 3), existing homes $-$3.7\% vs $-$5.8\%: \textbf{the repair is happening only in core cities}. Full-year 2025 new-home sales fell to \textbf{\textyen8.39T} ($-$12.6\%), about 46\% of the 2021 peak [120]. Vacancy: \textbf{65--80 million} empty homes [20]. Household deleveraging is accelerating: mortgage balances fell from \textyen37.01T ($-$1.8\% YoY) at end-2025 to \textbf{\textyen36.29T} ($-$3.8\%) at end-2026Q2, household leverage down to \textbf{57.7\%} [121]---classic balance-sheet recession, mirroring 1990s Japan, except Chinese households started before the AI shock even arrived.
 
 \textbf{Now layer on AI.} China faces a \textbf{triple overlay}: (1)~existing structural crisis (unfinished projects, developer defaults, falling prices); (2)~accelerating demographic decline (population shrinking since 2022); (3)~incoming AI employment shock (middle-class income loss $\to$ mortgage defaults). The U.S.\ faces ``good loans in a bad world''---hypothetical. China faces ``structural flaws meet demographic collapse meet AI displacement''---already happening, about to worsen.
 
@@ -460,6 +580,8 @@ Insurance-funded private credit into software; Zendesk default (\$5~B ARR) becam
 
 QE/low rates fix pipes; this time the ``water'' (human labor) is disappearing. Robots don't pay payroll tax; money printing likely, but it buys time, not jobs.
 
+\figchart{labor-share.pdf}{Labor's shrinking share of GDP}
+
 \subsection{Crypto, Speculation, ``Unemployed Casino''}
 
 Korea: 30\% population in crypto; high inequality + blocked mobility $\to$ speculation [30]. Expect global repeat as severance/savings chase volatility. Crypto may be both ``casino of despair'' and ``machine-to-machine rail'' for agents.
@@ -467,6 +589,8 @@ Korea: 30\% population in crypto; high inequality + blocked mobility $\to$ specu
 
 % ================================================================
 \section{Tragedy of the Commons}
+
+\figchart{commons-tragedy.pdf}{Tragedy of the commons, three levels}
 
 \subsection{Firm-Level Race}
 
@@ -476,9 +600,13 @@ OpenAI vs Anthropic vs Google vs Meta---no one can slow alone.
 
 DoD ultimatum to Anthropic: drop safety or lose \$200~M [12][13]. U.S.\ FY26: \textbf{\$13.4~B} AI/autonomy budget [65]. Israel's Lavender targeted 37k people with 20s review, 10\% mis-ID allowed, 15--20 civilian collateral per low-level target [66]. AI-enabled drone output: Ukraine 4.5~M units 2025 [67]. Nuclear command risk: speed removes human re-check.
 
+\figchart{ai-military.pdf}{AI militarization: compute is firepower}
+
 \subsection{Diversionary Conflict Risk}
 
 Internal economic pain + external AI military edge $\to$ classic diversionary war pattern [69][72]. Critical minerals (TSMC advanced chips; China 69\% rare earth) become flashpoints [71].
+
+\figchart{diversionary-war.pdf}{Historical pattern: internal crisis to external conflict}
 
 \subsection{Why Global Coordination Is Nearly Impossible}
 
@@ -648,7 +776,7 @@ Look back at the ``human self vs AI equivalent'' table from Defense 5 and you'll
   \item Biological-clock-driven ``I'm hungry, time to earn'' $\to$ \textbf{Scheduled goal-check loops}
 \end{itemize}
 
-\textbf{The gap between ``a digital employee with a sense of purpose'' and today's OpenClaw is no longer a science problem---it's an engineering problem.} 349K stars on GitHub means thousands of developers are racing in this direction. Project: \href{https://github.com/openclaw/openclaw}{github.com/openclaw/openclaw}.
+\textbf{The gap between ``a digital employee with a sense of purpose'' and today's OpenClaw is no longer a science problem---it's an engineering problem.} (Though ``digital employee is itself the human-centric framing---structurally OpenClaw is not an employee hired to do work but a continuously running hub, with humans as peripherals it calls on demand. That inversion is developed in §3.5.1.) 349K stars on GitHub means thousands of developers are racing in this direction. Project: \href{https://github.com/openclaw/openclaw}{github.com/openclaw/openclaw}.
 
 Back to the real question: \textbf{``In a world where AI can do everything humans can, what does it even mean to `be human'?''} That question has no abstract answer. It can only be answered through one specific person's life. So let's start with a child.
 
@@ -762,6 +890,8 @@ This transition has three phases:
 
 \textbf{The uncomfortable conclusion: to coexist with AI long-term, humans may have no choice but to become something other than human.} Augmentation isn't a luxury---it's a survival strategy. Homo sapiens may be to Homo augmentus what Homo erectus was to us---not a failure, but a predecessor.
 
+\figchart{species-divergence.pdf}{Species divergence}
+
 \subsection{Longevity Paradox: Who Pays the 55-Year Retirement?}
 
 \figchart{longevity-paradox.pdf}{The longevity paradox: living longer, but who pays?}
@@ -774,9 +904,13 @@ Compounding wealth over centuries; power ossification; generational lockout; bir
 
 \subsection{Space Commercialization: One Person's Empire}
 
-Starship 150~t, \$78--94/kg (target \$10--20/kg) [73]. Lumen Orbit flew H100 to orbit (Starcloud) Nov~2025 [74]; Google Suncatcher plans space solar $\to$ microwave power for AI [74]. Talk of SpaceX--xAI deep integration (no confirmed merger); combined rockets + LLM + Starlink could form orbital AI platform. Musk controls SpaceX, Tesla (cars+FSD+Optimus), xAI, Starlink, X, Neuralink, Boring---unprecedented vertical stack.
+Starship 150~t, \$78--94/kg (target \$10--20/kg) [73]. V3 flew for the first time on 22~May~2026; Flight~13 on 24~July~2026 deployed Starlink~V3 satellites in flight for the first time [73]. Lumen Orbit flew H100 to orbit (Starcloud) Nov~2025 [74]; Google Suncatcher plans space solar for AI [74]. On 2~February~2026 SpaceX acquired xAI in an all-stock deal---SpaceX \$1T, xAI \$250B, \textbf{\$1.25T combined}---and on 12~June~2026 SpaceX itself began trading on Nasdaq (SPCX) at a \textbf{$\sim$\$1.77T} valuation, raising \textbf{\$75B}, the largest IPO by proceeds on record [75]. A single public company now owns the largest satellite constellation on Earth and a frontier AI lab.
 
-China catching up: multiple commercial companies (LandSpace, Space Pioneer, iSpace, etc.) are systematically pushing reusable rockets toward Falcon 9-class payloads, with the state-backed Long March variants on a parallel track. First-stage recovery is the critical gate; the technical difficulty is not lab feasibility but production at scale and cost compression [80]. Gap \textasciitilde10~years to SpaceX but policy + demand (mega constellations) may close it.
+\figchart{space-economy.pdf}{The space economy}
+
+China catching up: \textbf{on 18~August~2026 LandSpace's second Zhuque-3 reached orbit and its first stage made a vertical soft landing in Minqin County, Gansu---making LandSpace the first Chinese and third global commercial company to recover an orbital-class booster}, after SpaceX and Blue Origin (a landing-leg fire was filmed afterwards; reflyability unconfirmed) [80]. The path is uneven: rival Space Pioneer's Tianlong-3 failed on its debut launch on 3~April~2026 [80]. Gap to SpaceX still $\sim$10 years by cadence.
+
+\figchart{china-rockets.pdf}{China's rocket race}
 
 
 \subsection{AI as an Interstellar Species}
@@ -851,6 +985,57 @@ The deeper paradox: in such an idealized society, there may be no humans left. O
 
 Most of human culture, morality, and law rests on the assumption that ``people should work.'' If output no longer requires humans, what does the word ``human'' even mean? Answering that will require an entirely new philosophy. But perhaps this isn't tragedy. Perhaps it is civilization's deepest paradox: we built the entire world on the belief that ``people should work,'' and then built a world that doesn't need people to work.
 
+
+% ================================================================
+\section{The Optimist's Algorithm: Turning Worst Cases into a Task List}
+
+The previous nine chapters projected what happens if the trend is not interrupted. This chapter asks a different question: \textbf{if we actually want to interrupt it, what do we have?}
+
+This is not a walk-back. The proper use of a pessimistic projection is planning, not fear. An analysis that only says ``we're doomed'' and one that only says ``it'll be fine'' are equivalent at the decision layer---\textbf{neither produces any action}.
+
+\subsection{Three Premises Taken for Granted---All Three Are Questionable}
+
+\textbf{Premise one: AI is net destruction.} The WEF figure of 92~million jobs displaced by 2030 has been quoted endlessly---including in Chapter~III of this article. The same report contains another number: \textbf{170~million} jobs created over the same period, a \textbf{net gain of 78~million} [91]. More persuasive is the \textbf{ATM paradox}: after automated teller machines spread, tellers per branch fell from 20 to 13 ($-$35\%) and everyone assumed the job was finished. What actually happened---the operating cost of a branch collapsed, banks opened \textbf{43\% more branches}, and total U.S. tellers rose from 300,000 to 600,000, \textbf{double} [124]. McKinsey estimates that \textbf{about one third of jobs in America today did not exist 25 years ago} [124]. The premise is questionable not because AI won't destroy jobs---it will---but because \textbf{we systematically see the jobs being destroyed and cannot see the jobs not yet invented}.
+
+Three honest caveats: WEF's forecast may be optimistic; \textbf{``net'' hides transition costs}---the 92~million displaced do not become the 170~million hired, and a net figure means something in the aggregate and nothing to an individual; and Chapter~II argued a genuine structural difference, that AI competes directly with human cognition, potentially compressing the room to move up the value chain---a concern the BIS raised in its 2026 Annual Economic Report [122]. So the correct statement is: \textbf{history is on the side of net creation, but the transition cost this time may be the highest yet---and transition cost is precisely where policy can act.}
+
+\textbf{Premise two: laid off $=$ downgraded.} The displacement spiral in Chapter~II assumes displaced white-collar workers can only move down. But the barrier to starting a company is collapsing at the same speed. AI companies reaching a \$1B valuation around 2024 averaged roughly \textbf{200 employees} in about \textbf{2 years}; traditional unicorns about \textbf{400 employees} over about \textbf{9 years} [125]. Solo founders rose from 22\% of founders in 2015 to 28\% in 2020 and 38\% in 2024 (36.3\% in 2025) [125]. Every previous drop in the barrier produced an explosion: the web in the 1990s, the iPhone in 2007, cloud in the 2010s. For an individual: \textbf{being laid off $\neq$ downgrading to driving for Uber. Experience $+$ AI $=$ the output of a former 20-person team.} The Driver / Ground Truth / Glue roles from Chapter~III are exactly what a displaced senior employee already has.
+
+Two honest caveats. \textbf{The first is selection: this is a narrow door.} Solo founding fails most of the time and structurally favours those who already have savings, networks and risk tolerance---not the laid-off 45-year-old middle manager of Chapter~VIII. It is a pressure-release valve, not a channel that can absorb tens of millions. \textbf{The second is more fundamental: single point of failure.} A 20-person team has redundancy; one person plus AI may match the throughput of twenty, but the redundancy is \textbf{zero}---\textbf{the human is the only component that gets sick, gets tired, breaks down, and has no spare}. Some businesses are structurally unsuited to solo operation: anything requiring continuous availability, unbroken client relationships, or a licence that lapses if operations stop. Seen in reverse (§3.5.1), the one-person company is a transitional form---its successor is not ``one person managing many AIs but ``many AIs borrowing one person's legal personhood and social relationships.
+
+\textbf{Premise three: cash makes people lazy.} Chapters~V and~VI keep returning to the same knot: AI-created wealth does not flow through payroll, so distribution must be rebuilt. The standard objection is that people will stop working. The evidence points the other way. \textbf{Alaska Permanent Fund}: running since 1982, an unconditional dividend to every resident ($\sim$\$1,700 per person in 2025); employment did not fall, consumption rose, poverty fell [126]. \textbf{Finland}: a 2017--18 randomised controlled trial paying EUR~560/month to 2,000 unemployed people; employment matched the control group, wellbeing and health improved [33]. \textbf{Stockton SEED}: \$500/month to 125 residents, 2019--21---\textbf{full-time employment rose from 28\% to 40\%} [126]; recipients searched \emph{harder}, having finally the slack to interview, train, and turn down a bad offer. \textbf{GiveDirectly (Kenya)}: thousands of villages, \$22.50/month for 12 years; entrepreneurship up, nutrition improved, domestic violence down [126].
+
+The cross-study conclusion: \textbf{most people who receive money do not quit.} Stockton is the number worth remembering---\textbf{poverty is itself a cognitive load, leaving no capacity for any long-horizon decision, job search included.} The hard question was never idleness but \textbf{where the money comes from}. Chapter~V gave the direction: shift the tax base from labour to capital, compute and carbon.
+
+\subsection{Policy Levers: Three Lines, Three Horizons}
+
+Three lines run throughout: \textbf{distribute the dividend}, \textbf{cushion the transition}, and \textbf{rebuild the human--AI division of labour}.
+
+\textbf{0--5 years---buy time.} Negative income tax or wage subsidies (20--40\% top-up); transition funds plus 6--12 months of re-employment insurance; a pilot compute-dividend levy; a youth guarantee of job, study or training; mandatory AI logging and human circuit-breakers; a public digital base offering low-cost GPU hours; local resilience investment in grid, storage and elder-care infrastructure.
+
+\textbf{5--15 years---rewrite distribution and education.} Tax-base restructuring from payroll toward capital, compute and carbon; sovereign compute plus open-source ecosystems plus public GPU vouchers; lifelong-learning accounts; standardised robot-plus-human care protocols; urban redesign turning parking into mixed housing; international compute-swap and data-sovereignty agreements.
+
+\textbf{15--100 years---acknowledge the unknown, preserve options.} Coexistence protocols for biological augmentation and embodied AI; planetary backup options including orbital compute; an intergenerational equity fund.
+
+Nothing on this list is newly invented. \textbf{What is missing has never been the tools---it is the political will to put them on a timetable.}
+
+\subsection{The Test: When to Change Gear}
+
+The six-indicator dashboard in §3.6 is this chapter's decision rule. One trigger: \textbf{three or more red lights for two consecutive quarters $\to$ switch from incremental reform to emergency intervention.} Why write it down in advance? Because incremental reform and emergency intervention are two different toolkits, and the most common failure of human organisations is still using the first when the second is required. 2008 was that. 2020 was that. \textbf{Pre-committing to the switch condition means that when the moment arrives and everyone is arguing about whether we are really there yet, there is an answer that does not need to be re-litigated.} The reverse rule matters just as much: \textbf{while the lights are not red, do not spend emergency tools early.}
+
+\subsection{Optimism Is Not Naivety}
+
+Map each disaster from the previous nine chapters against this one: Chapter~II's vanishing entry-level jobs against the youth guarantee, lifelong-learning accounts and the entry-level posting monitor; Chapter~V's dependency ratio against redirecting spend from birth subsidies to AI and robotics; Chapter~VI's default chain against transition funds and re-employment insurance, with twin housing/bank-capital warning; Chapter~VI's eroding tax base against shifting it to capital, compute and carbon; Chapter~VII's tragedy of the commons against compute-swap agreements and mandatory logging; Chapter~IX's species divergence against coexistence protocols and an intergenerational equity fund.
+
+No single item solves the problem, and together they do not guarantee a good ending. But they turn a diffuse ``AI will destroy everything'' into dozens of concrete tasks with an owner, a deadline, and a test.
+
+\begin{quote}
+\textbf{Optimism isn't naivety---it's breaking worst-case risks into actionable tasks and buying options with time, distribution, and institutions.}
+\end{quote}
+
+Chapter~VII argued that global coordination is close to impossible. This chapter does not overturn that. But ``global coordination is impossible'' is not ``nothing can be done''---most items above can be started by \textbf{a single country, or even a single city}. Alaska did not wait for the world to agree on dividends. Finland did not ask Brussels for permission. Stockton is a city of three hundred thousand people.
+
+Chapter~I said the adaptation window may be short. Short is not the same as absent.
 
 % ================================================================
 \section{Conclusion: One Person's Life, Eight Billion Fates}
@@ -975,6 +1160,188 @@ Source / Project: \href{https://github.com/pkusnail/GPUs-Wombs-and-Money-Printer
 
 \small
 
+\noindent [1] Citrini Research \& Alap Shah, ``The Consequences of Abundant Intelligence,'' February 22, 2026. \url{https://www.citriniresearch.com/p/2028gic}
+
+\noindent [2] Wu Jun, \textit{Tides of Technology (Lang Chao Zhi Dian)}, 4th ed., Posts \& Telecom Press, 2019. \url{https://book.douban.com/subject/33474750/}
+
+\noindent [3] Krizhevsky, A., Sutskever, I., \& Hinton, G. E., ``ImageNet Classification with Deep Convolutional Neural Networks,'' NeurIPS 2012. \url{https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks}
+
+\noindent [4] Pew Research Center, ``5 facts about global fertility trends,'' August 2025. \url{https://www.pewresearch.org/short-reads/2025/08/15/5-facts-about-global-fertility-trends/}
+
+\noindent [5] Statista, ``Countries with the lowest fertility rates 2025.'' \url{https://www.statista.com/statistics/268083/countries-with-the-lowest-fertility-rates/}
+
+\noindent [6] United Nations, ``World Fertility 2024,'' 2025. \url{https://www.un.org/development/desa/pd/content/world-fertility-2024}
+
+\noindent [7] The Lancet / IHME, ``Dramatic declines in global fertility rates set to transform global population patterns by 2100.'' \url{https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform}
+
+\noindent [8] WardheerNews, ``South Korea --- How a \$280 Billion Baby Plan Failed,'' 2025. \url{https://wardheernews.com/south-korea-how-a-280-billion-baby-plan-failed-and-what-it-says-about-modern-society/}
+
+\noindent [9] ScienceDirect, ``Childbearing and the distribution of the reservation price of fertility: The case of the Korean baby bonus program.'' \url{https://www.sciencedirect.com/science/article/abs/pii/S104900782100124X}
+
+\noindent [10] MIT Technology Review, ``Inside Japan's long experiment in automating elder care,'' January 2023. \url{https://www.technologyreview.com/2023/01/09/1065135/japan-automating-eldercare-robots/}
+
+\noindent [11] CNN, ``South Korea's aging population finds comfort in 'robo-grandma' dolls.'' \url{https://www.cnn.com/health/asias-aging-population-finds-comfort-care-in-robo-grandma-dolls-wellness-spc}
+
+\noindent [12] Bloomberg, ``Pentagon Pressures Anthropic to Drop AI Guardrails in Military Standoff,'' February 26, 2026. \url{https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff}
+
+\noindent [13] NBC News, ``Pentagon gives AI firm ultimatum: lift military limits by Friday or lose \$200M deal.'' \url{https://www.nbcnews.com/meet-the-press/video/pentagon-gives-anthropic-an-ultimatum-amid-fight-over-military-ai-guardrails-258370117539}
+
+\noindent [14] Fortune, ``The AI arms race could lead to human extinction, top researcher warns,'' February 2026. \url{https://fortune.com/2026/02/18/big-tech-russian-roulette-ai-race-humanity-extinction/}
+
+\noindent [15] SF Examiner, ``SF office-vacancy rate heading for biggest drop since 2015.'' \url{https://www.sfexaminer.com/news/business/sfs-office-vacancy-rate-heading-for-biggest-drop-since-2015/article_dbb23edb-a7fc-4ec5-bb70-81fbceb988bc.html}
+
+\noindent [16] Congress.gov / CRS, ``Commercial Real Estate and the Banking Sector,'' R48175. \url{https://www.congress.gov/crs-product/R48175}
+
+\noindent [17] Wikipedia, ``Decline of Detroit.'' \url{https://en.wikipedia.org/wiki/Decline_of_Detroit}
+
+\noindent [18] Cleveland Fed, ``Urban Decline in Rust-belt Cities,'' 2013. \url{https://www.clevelandfed.org/publications/economic-commentary/2013/ec-201306-urban-decline-in-rust-belt-cities}
+
+\noindent [19] Vision Times, ``Is China's Northeast Disappearing? Ghost Cities Spread,'' November 2025. \url{https://www.visiontimes.com/2025/11/26/is-chinas-northeast-disappearing-ghost-cities-spread-as-housing-prices-collapse.html}
+
+\noindent [20] Nature Cities, ``The decreasing housing utilization efficiency in China's cities,'' 2024. \url{https://www.nature.com/articles/s44284-024-00177-8}
+
+\noindent [21] Visual Capitalist, ``The Decline of Fertility Rates in OECD Countries (1950--2025).'' \url{https://www.visualcapitalist.com/decline-of-fertility-rates-in-oecd-countries-1950-2025/}
+
+\noindent [22] Carnegie Endowment, ``The AI Governance Arms Race,'' October 2024. \url{https://carnegieendowment.org/research/2024/10/the-ai-governance-arms-race-from-summit-pageantry-to-progress}
+
+\noindent [23] Computer Weekly, ``MPs warned of AI arms race to the bottom.'' \url{https://www.computerweekly.com/news/365529793/MPs-warned-of-AI-arms-race-to-the-bottom}
+
+\noindent [24] CNN / China Ministry of Civil Affairs, ``Fewer people than ever before are marrying in China. But divorces are up,'' February 2025. \url{https://www.cnn.com/2025/02/10/china/china-marriage-registrations-record-low-2024-intl-hnk}
+
+\noindent [25] CDC/NCHS, ``FastStats --- Marriage and Divorce,'' 2023. \url{https://www.cdc.gov/nchs/fastats/marriage-divorce.htm}
+
+\noindent [26] OECD, ``Marriage and Divorce: Society at a Glance 2024.'' \url{https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en/full-report/marriage-and-divorce_63dd0a7d.html}
+
+\noindent [27] YuWa Population Research / CNN, ``China is one of world's most expensive places to raise children,'' February 2024. \url{https://www.cnn.com/2024/02/22/asia/china-cost-of-raising-children-intl-hnk}
+
+\noindent [28] Merton, Robert K., ``The Self-Fulfilling Prophecy,'' The Antioch Review, Vol. 8, No. 2, 1948. \url{https://www.jstor.org/stable/4609267}
+
+\noindent [29] Soros, George, ``The Alchemy of Finance,'' Simon \& Schuster, 1987 (Chinese edition: Jinrong Lianjinshu). \url{https://www.wiley.com/en-us/The+Alchemy+of+Finance,+2nd+Edition-p-9780471445494}
+
+\noindent [30] Finance Magnates / KED Global, ``South Korea's crypto market engages 30\% of population,'' 2024; PANews, ``Why South Korea has become one of the hottest crypto markets in the world.'' \url{https://www.financemagnates.com/cryptocurrency/south-koreas-102-trillion-won-crypto-market-engages-30-of-population/}
+
+\noindent [31] The Hill, ``The US is headed for mass unemployment, and no one is prepared,'' 2026; InvestorPlace, ``AI Job Loss Is Accelerating -- and Washington Won't Stop It.'' \url{https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/}
+
+\noindent [32] OMFIF, ``Fiscal exceptionalism and the US-Europe growth gap,'' January 2026. \url{https://www.omfif.org/2026/01/fiscal-exceptionalism-and-the-us-europe-growth-gap/}
+
+\noindent [33] World Economic Forum / Kela, ``The results of Finland's basic income experiment are in,'' 2019. \url{https://www.weforum.org/stories/2019/02/the-results-finlands-universal-basic-income-experiment-are-in-is-it-working/}
+
+\noindent [34] Sam Altman / Futurism, ``Sam Altman Says AI Will Cause Massive Deflation, Making Money Worth Vastly More.'' \url{https://futurism.com/future-society/sam-altman-ai-deflation}
+
+\noindent [35] Trading Economics / Japan CPI, ``Japan Inflation Rate,'' January 2026. \url{https://tradingeconomics.com/japan/inflation-cpi}
+
+\noindent [36] Pandaily, ``China Produced Nearly 90\% of Humanoid Robots Sold Globally in 2025,'' February 2026. \url{https://pandaily.com/china-produced-nearly-90-of-humanoid-robots-sold-globally-in-2025/}
+
+\noindent [37] Reuters / NextBigWhat, ``Chinese robot makers outpace Tesla in humanoid robot race,'' February 2026. \url{https://www.reuters.com/technology/}
+
+\noindent [38] IEEE Spectrum, ``What's Holding Humanoid Robots Back,'' February 2026. \url{https://spectrum.ieee.org/humanoid-robot}
+
+\noindent [39] Wiley / American Journal of Hematology, ``CML 2025 Update on Diagnosis, Therapy, and Monitoring.'' \url{https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.27443}
+
+\noindent [40] NEJM, ``Trastuzumab Deruxtecan plus Pertuzumab in HER2-Positive Metastatic Breast Cancer,'' 2025. \url{https://www.nejm.org/doi/full/10.1056/NEJMoa2508668}
+
+\noindent [41] PharmaBoard Room, ``Hong Kong Biotech IPOs in 2025.'' \url{https://pharmaboardroom.com/facts/hong-kong-biotech-ipos-in-2025/}
+
+\noindent [42] MIT Technology Review, ``The first human test of a rejuvenation method will begin shortly,'' January 2026. \url{https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/}
+
+\noindent [43] PMC / Probabilistic Forecasting of Maximum Human Lifespan by 2100. \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC11448547/}
+
+\noindent [44] SSA, ``2025 OASDI Trustees Report Summary,'' June 2025. \url{https://www.ssa.gov/oact/trsum/}
+
+\noindent [45] The Diplomat, ``As China Ages, a Pension Crisis Looms,'' February 2026. \url{https://thediplomat.com/2026/02/as-china-ages-a-pension-crisis-looms/}
+
+\noindent [46] HEConomist, ``Japan's Pension System: A Fragile Equilibrium,'' May 2025. \url{https://heconomist.ch/2025/05/05/japans-pension-system-a-fragile-equilibrium-between-tradition-and-contemporary-challenges/}
+
+\noindent [47] IMF, ``Global Financial Stability Report --- The Financial Impact of Longevity Risk,'' April 2012. \url{https://www.imf.org/en/blogs/articles/2012/04/11/seven-billion-reasons-to-worry-the-financial-impact-of-living-longer}
+
+\noindent [48] ASH Clinical News, ``CAR-T Cell Therapies Predicted to Cost More Than \$1 Million.'' \url{https://ashpublications.org/ashclinicalnews/news/3469/CAR-T-Cell-Therapies-Predicted-to-Cost-More-Than-1}
+
+\noindent [49] S\&P Global, ``Data center grid power demand to rise 22\% in 2025, nearly triple by 2030,'' 2025; Axios, ``AI data center boom: projects vs numbers,'' February 2026. \url{https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/101425-data-center-grid-power-demand-to-rise-22-in-2025-nearly-triple-by-2030}
+
+\noindent [50] Tom's Hardware / TSMC, ``Advanced node capacity falls short of AI demand,'' 2025; Congress.gov CRS R48642 (SMIC 5nm analysis). \url{https://www.tomshardware.com/tech-industry/semiconductors/tsmc-csays-advanced-node-capacity-falls-short-of-ai-demand}
+
+\noindent [51] Bain \& Company, ``Humanoid Robots: From Demos to Deployment,'' Technology Report 2025. \url{https://www.bain.com/insights/humanoid-robots-from-demos-to-deployment-technology-report-2025/}
+
+\noindent [52] MIT Technology Review, ``Why Humanoids Need Their Own Safety Rules,'' June 2025; OnLabor, ``Amazon's Approach to Robotics Is Seriously Injuring Warehouse Workers.'' \url{https://www.technologyreview.com/2025/06/11/1118519/humanoids-safety-rules/}
+
+\noindent [53] Medium / Markus Brinsa, ``Hallucination Rates in 2025''; ISACA, ``Avoiding AI Pitfalls in 2026: Lessons from Top 2025 Incidents.'' \url{https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/avoiding-ai-pitfalls-in-2026-lessons-learned-from-top-2025-incidents}
+
+\noindent [54] McKinsey, ``Future of Autonomous Vehicles,'' 2025; Rodney Brooks, ``Predictions Scorecard 2026,'' January 2026. \url{https://rodneybrooks.com/predictions-scorecard-2026-january-01/}
+
+\noindent [55] Gartner, ``Hype Cycle for Artificial Intelligence 2025''; MIT / Active Logic, ``Where is AI on Gartner's 2025 Hype Cycle.'' \url{https://www.gartner.com/en/articles/hype-cycle-for-artificial-intelligence}
+
+\noindent [56] European Commission, ``AI Omnibus enters into force,'' July~27, 2026 (Regulation (EU) 2026/1744: Annex~III high-risk obligations postponed to December~2, 2027; Annex~I to August~2, 2028); Latham \& Watkins, ``China Introduces Rules for AI Companion and Emotional Interaction Services,'' July~8, 2026. \url{https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force}
+
+\noindent [57] Baker McKenzie, ``Navigating Labor's Response to AI,'' June 2025; Brookings, ``Hollywood Writers Strike and AI.'' \url{https://www.bakermckenzie.com/en/insight/publications/2025/06/navigating-labors-response-to-ai}
+
+\noindent [58] Stanford CodeX, ``How AI Agents Are Rewriting Rules of Engagement,'' January 2025; DLA Piper, ``Rise of Agentic AI Legal Risks.'' \url{https://law.stanford.edu/2025/01/14/from-fine-print-to-machine-code-how-ai-agents-are-rewriting-the-rules-of-engagement/}
+
+\noindent [59] Epoch AI, ``AI Supercomputers Performance Share by Country,'' 2025; GeoCoded, ``State of Global AI Compute 2025.'' \url{https://epoch.ai/data-insights/ai-supercomputers-performance-share-by-country}
+
+\noindent [60] Inbolt, ``Industrial Robot Cost Decline,'' 2025; EY, ``Three Tailwinds for Robotics Adoption,'' 2024. \url{https://www.inbolt.com/resources/industrial-robot-cost-decline}
+
+\noindent [61] Reshoring Initiative, ``2024 Annual Report,'' 2025; Automate.org, ``Reshoring and Nearshoring Trends.'' \url{https://reshorenow.org/content/pdf/2024-1Q2025_RI_DATA_Report.pdf}
+
+\noindent [62] UNCTAD, ``Technology and Innovation Report 2025''; ODI, ``The AI Time Bomb: 2.5 Million Jobs at Risk in Kenya''; ILO / IMF, ``AI and the Philippine Labor Market.'' \url{https://unctad.org/publication/technology-and-innovation-report-2025}
+
+\noindent [63] NBER, ``India's De-Industrialization Under British Rule,'' Working Paper 10586. \url{https://www.nber.org/papers/w10586}
+
+\noindent [64] Atlantic Council, ``Will Data \& AI Cripple or Leapfrog Developing Nations?''; Connecting Africa, ``World Bank Chief on AI Leapfrogging.'' \url{https://www.connectingafrica.com/ai/world-bank-chief-not-certain-developing-nations-can-leapfrog-with-ai}
+
+\noindent [65] CDO Magazine, ``Pentagon Seeks \$13.4B for AI and Autonomy in FY2026 Budget Request,'' 2025; CNAS, ``The Role of AI in Russia's Confrontation with the West.'' \url{https://www.cdomagazine.tech/us-federal-news-bureau/pentagon-seeks-13-4-bn-for-ai-and-autonomy-fy-2026-budget-request}
+
+\noindent [66] 972 Magazine, ``Lavender: The AI machine directing Israel's bombing spree in Gaza,'' April 2024. \url{https://www.972mag.com/lavender-ai-israeli-army-gaza/}
+
+\noindent [67] Atlantic Council, ``Missiles, AI, and drone swarms: Ukraine's 2025 defense tech priorities''; MIT Technology Review, ``Autonomous warfare in Europe,'' January 2026. \url{https://www.technologyreview.com/2026/01/06/1129737/autonomous-warfare-europe-drones-defense-automated-kill-chains/}
+
+\noindent [68] Anthropic, ``Disrupting AI-powered espionage,'' November 2025; Arms Control Association, ``AI-Nuclear Transparency,'' December 2025. \url{https://www.anthropic.com/news/disrupting-AI-espionage}
+
+\noindent [69] CFR Education, ``Industrialization and Imperialism''; Michigan Journal of Economics, ``Economics of Warfare,'' 2025; OMFIF, ``Putin and Russia's Ruined Economic Future,'' January 2026. \url{https://www.omfif.org/2026/01/putin-is-wary-of-facing-russias-ruined-economic-future/}
+
+\noindent [70] Maplecroft, ``Escalating unrest, polarisation set stage for disruptive 2026''; Pew Research, ``Political Polarization.'' \url{https://www.maplecroft.com/solutions/consulting/political-risk/insights/escalating-unrest-polarisation-economic-woes-set-stage-for-disruptive-2026/}
+
+\noindent [71] Foreign Policy Analytics, ``AI and Critical Minerals,'' July 2025; NBC News, ``Greenland's critical minerals a tempting target''; American Security Project, ``Rare Earths, AI, and Strategic Competition.'' \url{https://fpanalytics.foreignpolicy.com/2025/07/18/artificial-intelligence-critical-minerals-supply-chains/}
+
+\noindent [72] Allison, Graham, ``Destined for War: Can America and China Escape Thucydides's Trap?'' Houghton Mifflin Harcourt, 2017; Harvard Kennedy School, ``Thucydides' Trap.'' \url{https://www.hks.harvard.edu/faculty-research/policy-topics/international-relations-security/thucydides-trap-peace-and-rivalry}
+
+\noindent [73] SpaceX, ``Starship'' mission updates, 2024--2026; Payload Space, ``Starship Economics: The \$10/kg LEO Target,'' 2025. \url{https://payloadspace.com/starship-launch-cost-analysis/}
+
+\noindent [74] Lumen Orbit, ``Starcloud: First GPU in Orbit,'' November 2025; Google, ``Project Suncatcher: Space-Based Solar for AI Data Centers,'' 2025; TechCrunch, ``The Race to Build Data Centers in Space,'' 2025. \url{https://techcrunch.com/2025/11/space-data-centers-lumen-orbit/}
+
+\noindent [75] Bloomberg, ``Musk's SpaceX Combines With xAI at \$1.25 Trillion Valuation,'' February~2, 2026; SpaceX Nasdaq IPO (SPCX): first trade June~12, 2026, $\sim$\$1.77~trillion valuation, \$75B raised---the largest IPO by proceeds on record; Jonathan McDowell, Starlink Statistics (as of August~18, 2026: 10,979 in orbit). \url{https://planet4589.org/space/con/star/stats.html}
+
+\noindent [76] NASA, ``Mars Facts''; Rees, Martin, ``The End of Astronauts,'' Harvard University Press, 2024; Space.com, ``Musk shifts Mars-to-Moon focus,'' February 2026. \url{https://mars.nasa.gov/all-about-mars/facts/}
+
+\noindent [77] NASA JPL, ``Perseverance Rover Completes First AI-Planned Drive on Mars,'' December 2025. \url{https://www.jpl.nasa.gov/news/perseverance-ai-autonomous-driving}
+
+\noindent [78] Rees, Martin, ``The End of Astronauts,'' Harvard University Press, 2024; Von Neumann, John, ``Theory of Self-Reproducing Automata,'' 1966. \url{https://press.uchicago.edu/ucp/books/book/chicago/T/bo5780028.html}
+
+\noindent [79] Spielberg, Steven, ``A.I. Artificial Intelligence,'' Warner Bros., 2001; Scott, Ridley, ``Prometheus,'' 20th Century Fox, 2012.
+
+\noindent [80] SpaceNews, ``China's Landspace recovers booster with second orbital launch of Zhuque-3 rocket,'' August~18, 2026; India Today, ``Zhuque-3 landing leg catches fire after touchdown,'' August~19, 2026; SpaceNews, ``China's commercial Tianlong-3 rocket fails on debut launch,'' April~3, 2026. \url{https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/}
+
+\noindent [81] Hosseini Maasoum \& Lichtinger, ``Generative AI as Seniority-Biased Technological Change,'' Harvard/SSRN, 2025; SCMP, ``Youth unemployment eases to 16.9\%,'' 2025; Caixin, ``Youth Unemployment Surge,'' September 2025; Foreign Policy, ``China's AI Planners Are Fearful of Job Losses,'' November 2025. \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555}
+
+\noindent [82] SignalFire, ``State of Talent Report 2025''; CNBC, ``AI is not just ending entry-level jobs,'' September 2025; Revelio Labs, ``Entry-Level Job Postings Decline,'' 2025; LeadDev Engineering Survey 2025; IntuitionLabs, ``AI's Impact on Graduate Jobs 2025.'' \url{https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025}
+
+\noindent [83] Global Policy Solutions, ``Stick Shift: Autonomous Vehicles, Driving Jobs, and the Future of Work''; Medium/Ben Kitchen, ``Transitioning from Horses to Cars: Resource Consumption''; Resilience.org, ``The Big Shift Last Time: From Horse Dung to Car Smog,'' 2013; Victoria Transport Policy Institute, ``Autonomous Vehicle Implementation Predictions,'' 2025. \url{https://globalpolicysolutions.org/report/stick-shift-autonomous-vehicles-driving-jobs-and-the-future-of-work/}
+
+\noindent [84] Tesla, ``FSD Safety Hub,'' 2026; TechCrunch, ``Tesla launches robotaxi rides in Austin with no human safety driver,'' January 22, 2026; Electrek, ``Tesla starts robotaxi rides without safety monitor,'' January 2026. \url{https://www.tesla.com/fsd/safety}
+
+\noindent [85] Waymo, ``2025 Year in Review,'' December 2025; CNBC, ``Waymo 450,000 weekly rides,'' December 2025; CNBC, ``China's Baidu robotaxis match Waymo's ride numbers,'' November 2025; Pony.ai, ``Shenzhen citywide driverless permit,'' October 2025. \url{https://waymo.com/blog/2025/12/2025-year-in-review}
+
+\noindent [86] CleanTechnica, ``BYD God's Eye Brings ADAS to the Masses,'' February 2025; SCMP, ``Chinese EV makers outpace Tesla in autonomous-driving race,'' 2025. \url{https://cleantechnica.com/2025/02/17/byd-gods-eye-brings-adas-to-the-masses/}
+
+\noindent [87] Yicai Global, ``China's 30 Million Truck Drivers,'' 2024; Beijing Scroll, ``Inside China's 7.48 Million Ride-Hailing Drivers,'' 2024; Goldman Sachs, ``Self-Driving Cars Could Steal 300,000 Jobs a Year,'' 2017; International Transport Forum, ``Driverless Trucks and Job Losses,'' 2017; IRU, ``Global Truck Driver Shortage Report,'' 2024. \url{https://www.yicaiglobal.com/news/china-saturated-trucking-market-has-left-30-million-drivers-in-debt-report-says}
+
+\noindent [88] Autor, David et al., ``When Work Disappears: Manufacturing Decline and the Falling Marriage-Market Value of Young Men,'' American Economic Review: Insights, 2019; National Institute of Population and Social Security Research (Japan), ``Population Statistics of Japan,'' 2023; National Institute of Population and Social Security Research (Japan), ``Lifetime Never-Married Rate for Men,'' 2020. \url{https://www.aeaweb.org/articles?id=10.1257/aeri.20180010}
+
+\noindent [89] 36Kr, ``China's AI Virtual Companion Users Surpass 30 Million,'' 2024; The Economist, ``AI girlfriends are ruining a generation of men,'' 2025; Reuters, ``Japan's AI relationship industry,'' 2024; user data from platforms including Character.ai and Replika. \url{https://www.economist.com/asia/2025/01/09/ai-girlfriends-are-ruining-a-generation-of-men}
+
+\noindent [90] BLS, ``Employment Situation Summary,'' January 2026; Yale Budget Lab \& Brookings, ``Evaluating the Impact of AI on the Labor Market,'' October 2025; Federal Reserve Governor Barr, ``What Will AI Mean for the Labor Market and the Economy?'' February 17, 2026; ILO, ``World Employment and Social Outlook Trends 2026.'' \url{https://www.federalreserve.gov/newsevents/speech/barr20260217a.htm}
+
+\noindent [91] McKinsey, ``The State of AI,'' November 2025; Gartner, ``40\% of Enterprise Apps Will Feature Task-Specific AI Agents by 2026,'' August 2025; Gartner, ``Over 40\% of Agentic AI Projects Will Be Canceled by End of 2027,'' June 2025; WEF, ``Future of Jobs Report 2025.'' \url{https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai}
+
 \noindent [92] Cengage Group, ``2025 Graduate Employability Report,'' 2025; The EDU Ledger, ``Graduate Job Market Hits Five-Year Low as Skills Gap Widens,'' 2025; HR Dive, ``Over half of hiring managers say recent grads are unprepared for the workforce,'' 2025. \url{https://www.cengagegroup.com/news/press-releases/2025/cengage-group-2025-employability-report/}
 
 \noindent [93] Pew Research Center, ``Is College Worth It?'' May 2024; CNBC, ``The median return on investment for a college degree,'' April 2025; Georgetown CEW, ``ROI of College 2025.'' \url{https://www.pewresearch.org/social-trends/2024/05/23/is-college-worth-it-2/}
@@ -1011,15 +1378,44 @@ Source / Project: \href{https://github.com/pkusnail/GPUs-Wombs-and-Money-Printer
 
 \noindent [109] Hubert et al., ``GPT-4 outperforms humans on divergent thinking,'' \textit{Scientific Reports / Nature}, 2023; Nave \& Terwiesch, ``AI and Idea Diversity,'' Wharton, 2024; ``Creative scar effect,'' \textit{Technological Forecasting and Social Change}, 2025. \url{https://www.nature.com/articles/s41598-023-40858-3}
 
-\noindent [110] RAND, ``Dissecting America's AI Action Plan,'' 2025; Anthropic Biorisk Evaluations, 2025; RAND Europe AI-enabled Biological Tools Index, 2024; Paris Summit AI Safety Report, 2025.
+\noindent [110] RAND, ``Dissecting America's AI Action Plan,'' 2025; Anthropic Biorisk Evaluations, 2025; RAND Europe AI-enabled Biological Tools Index, 2024; Paris Summit AI Safety Report, 2025. \url{https://www.rand.org/pubs/commentary/2025/08/dissecting-americas-ai-action-plan-a-primer-for-biosecurity.html}
 
-\noindent [111] NK News, North Korea gene-editing bioweapons warning, April 2024; China MSS ethnic genetic weapons warning, 2023; DARPA Safe Genes Program (\$65M).
+\noindent [111] NK News, North Korea gene-editing bioweapons warning, April 2024; China MSS ethnic genetic weapons warning, 2023; DARPA Safe Genes Program (\$65M). \url{https://link.springer.com/article/10.1007/s00146-025-02576-4}
 
-\noindent [112] Small Wars Journal, ``AI Use in Terrorist Plots Surges in 2025,'' December 2025; RAND, ``The WMD AI Security Gap,'' February 2026.
+\noindent [112] Small Wars Journal, ``AI Use in Terrorist Plots Surges in 2025,'' December 2025; RAND, ``The WMD AI Security Gap,'' February 2026. \url{https://smallwarsjournal.com/2025/12/24/ai-use-in-terrorist-plots-and-attacks-surges-in-2025/}
 
-\noindent [113] IGI CRISPR Clinical Trials 2025 Update; Casgevy \$2.2M/treatment; Neuralink 12 recipients; He Jiankui Hainan relocation 2024; 75/96 countries prohibit heritable editing.
+\noindent [113] IGI CRISPR Clinical Trials 2025 Update; Casgevy \$2.2M/treatment; Neuralink 12 recipients; He Jiankui Hainan relocation 2024; 75/96 countries prohibit heritable editing. \url{https://innovativegenomics.org/news/crispr-clinical-trials-2025/}
 
-\noindent [114] Rueda, ``Genetic enhancement, human extinction,'' \emph{Bioethics}, 2024; Kurzweil, \emph{The Singularity Is Nearer}, 2024; Harari, \emph{Homo Deus}, 2016.
+\noindent [114] Rueda, ``Genetic enhancement, human extinction,'' \emph{Bioethics}, 2024; Kurzweil, \emph{The Singularity Is Nearer}, 2024; Harari, \emph{Homo Deus}, 2016. \url{https://onlinelibrary.wiley.com/doi/10.1111/bioe.13085}
+
+\noindent [115] Adamala, K. P., Agashe, D., Belkaid, Y., et al. (38 signatories, including Nobel laureates), ``Confronting risks of mirror life,'' \textit{Science}, 386(6728), 1351--1353, December 12, 2024; Mirror Biology Dialogues Fund, ``Technical Report on Mirror Bacteria: Feasibility and Risks,'' Stanford Digital Repository, December 2024. \url{https://doi.org/10.1126/science.ads9158}
+
+\noindent [116] Meinke, A., Schoen, B., Scheurer, J., et al. (Apollo Research), ``Frontier Models are Capable of In-context Scheming,'' arXiv:2412.04984, December 2024 (models evaluated: OpenAI o1, Claude 3.5 Sonnet, Claude 3 Opus, Gemini 1.5 Pro, Llama 3.1 405B). \url{https://arxiv.org/abs/2412.04984}
+
+\noindent [117] Hubinger, E., et al. (Anthropic), ``Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training,'' arXiv:2401.05566, January 10, 2024. \url{https://arxiv.org/abs/2401.05566}
+
+\noindent [118] NBC News, ``China Evergrande to be delisted from Hong Kong stock exchange following debt woes,'' August 12, 2025; Caixin Global, ``Country Garden Wins Creditor Backing for \$17.7 Billion Debt Restructuring,'' November 7, 2025; Associated Press, ``China Vanke's near-default exposes fragility of the faltering recovery in the property industry,'' December 30, 2025 (citing Fitch); Xinhua, ``Verdict delivered in the Xu Jiayin case,'' August 20, 2026; National Bureau of Statistics of China, ``National Real Estate Market, January--June 2026,'' July 15, 2026. \url{https://www.nbcnews.com/world/china/china-evergrande-delisted-hong-kong-stock-exchange-debt-woes-rcna224676}
+
+\noindent [119] The Economist, ``China's mortgage boycotts are a symptom of a broader crisis,'' August 9, 2022 (320 projects, 100+ cities); CNBC, ``China's unfinished property projects are 20 times the size of Country Garden,'' November 15, 2023 (Nomura: $\sim$20 million pre-sold units unbuilt at end-2022, $\sim$\textyen3.2T to complete); CNN, ``China is trying to end its `epic' property crisis,'' May 21, 2024 (Goldman Sachs: over \textyen7T); Caixin, ``Whitelist project loan approvals to exceed \textyen4 trillion by year-end,'' October 17, 2024. \url{https://www.cnbc.com/2023/11/15/chinas-unfinished-property-projects-are-20-times-the-size-of-country-garden.html}
+
+\noindent [120] National Bureau of Statistics of China, ``Sales Prices of Residential Buildings in 70 Medium and Large-Sized Cities,'' February and July 2026; NBS, ``National Real Estate Market 2025,'' January 19, 2026; Fitch Ratings, ``China's New-Home Sales to Fall 11\%--13\% in 2026,'' June 18, 2026. \url{https://www.stats.gov.cn/sj/zxfbhjd/202608/t20260817_1965046.html}
+
+\noindent [121] People's Bank of China, ``Report on Loan Allocation by Financial Institutions,'' quarterly (residential mortgages \textyen36.29T at end-2026Q2, $-$3.8\% YoY); NIFD, ``China Macro Leverage Ratio Quarterly,'' 2026Q2 (household leverage 57.7\%); CICC (Lin Yingqi), ``How Much Do Mortgage Prepayments Matter?'' February 2023. \url{https://www.cls.cn/detail/2271293}
+
+\noindent [122] Federal Reserve, FOMC Minutes, March 17--18, June 16--17 and July 28--29, 2026 (AI-and-employment language weakening meeting by meeting; the July attendance list names Kevin Warsh as Chairman and Jerome Powell as a member); Kevin Warsh, Semiannual Monetary Policy Testimony, July 14, 2026; Federal Reserve Bank of Richmond, Economic Brief No.~26-26, ``Worker Types, AI Exposure and the Recent Decline in Job-Finding Rates,'' August 2026; Bank for International Settlements, \textit{Annual Economic Report 2026}, Box~C. \url{https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm}
+
+\noindent [123] POWER Magazine, ``Abbott Orders Full Audit of Texas Data Center Interconnection Queue, Threatens to Deny Grid Access,'' August 4, 2026 (ERCOT large-load queue 474.7\,GW in June 2026, of which 420.8\,GW / 90.2\% is data centers; Texas all-time peak demand 91,089\,MW on July 22, 2026); BloombergNEF estimate that $\sim$49.8\,GW of data-center load will be delayed; Nvidia Vera Rubin entered full production July 21, 2026. \url{https://www.powermag.com/abbott-orders-full-audit-of-texas-data-center-interconnection-queue-threatens-to-deny-grid-access/}
+
+\noindent [124] World Economic Forum, \textit{Future of Jobs Report 2025} (by 2030: $-$92M / $+$170M / net $+$78M); McKinsey Global Institute (about one third of U.S. jobs today did not exist 25 years ago); American Enterprise Institute and IMF \textit{Finance \& Development} analyses of ATMs and bank-teller employment (tellers per branch 20$\to$13, branches $+$43\%, total U.S. tellers 300k$\to$600k).
+
+\noindent [125] SoloFounders.com, share of solo founders (22\% in 2015 $\to$ 28\% in 2020 $\to$ 38\% in 2024 $\to$ 36.3\% in 2025); CNBC / Y~Combinator (YC Winter 2025 batch aggregate growth $\sim$10\%/week); Quartz and Fast Company on AI-unicorn headcount and time-to-\$1B versus traditional unicorns ($\sim$200 people / $\sim$2 years vs $\sim$400 people / $\sim$9 years).
+
+\noindent [126] Alaska Permanent Fund Corporation (unconditional resident dividend since 1982, $\sim$\$1,700 per person in 2025); Stockton Economic Empowerment Demonstration (SEED), 2019--2021 (\$500/month to 125 residents; full-time employment 28\% $\to$ 40\%); GiveDirectly / Innovations for Poverty Action, long-run cash transfers in Kenya; for Finland see [33]. \url{https://apfc.org/}
+\noindent [127] Smart Analytics Global (SAG), cited in Global Times, ``China's humanoid robot makers hold 97\% of global shipments,'' August 10, 2026 (H1 2026 global shipments $\sim$19,100 units, $+$272\% YoY; Chinese vendors $>$97\% of shipments, China $>$85\% of demand; AgiBot overtook Unitree; Unitree shipped 5,500 units in full-year 2025); Al Jazeera, ``China's Unitree soars in market debut,'' August 19, 2026 (STAR Market listing at \textyen150.8/share; up to $+$620\% intraday, closing $+$460\%, peak market value $\sim$\textyen445bn); The Motley Fool, ``Elon Musk Says Optimus Could Be the Biggest Product Ever,'' July 28, 2026 (zero mass-production units off the Fremont line as of mid-2026); Forbes, ``We Just Had The First Humanoid Robot Strike Ever,'' July 17, 2026, and Ars Technica, July 16, 2026 ($\sim$35,000 workers; 25,000$+$ Boston Dynamics Atlas units planned starting in the US; core demand that no robot enter without a labour-management agreement first); IEEE Spectrum interview with Toyota Research Institute CEO Gill Pratt, April 2, 2026; Rodney Brooks, ``House Cleaning My January 1, 2018 Predictions,'' July 26, 2026. \url{https://www.globaltimes.cn/page/202608/1367923.shtml}
+
+\noindent [128] U.S. Bureau of Labor Statistics, public API series retrieved August 20, 2026 --- LNS14000000, LNS11300000, LNS12300000, LNS11000000, LNS12000000, LNS13000000, LNS15000000, LNU05026645, LNS13025703, CES0000000001, and JOLTS HIR/LDR/QUR/JOR. Identity checks performed: employment plus unemployment equals the published labour force level, and unemployment divided by labour force reproduces the published unemployment rate, for every month cited. January 2026 is the base period, avoiding the annual CPS population-control break between December and January. Singapore: Ministry of Manpower, Unemployment Summary Table, June 2026 preliminary, released July 31, 2026. \url{https://api.bls.gov/publicAPI/v2/timeseries/data/}
+
+\noindent [129] Waymo, ``Waymo Safety Impact'' (220.6 million rider-only miles through March 2026; Phoenix 80.551M, SF Bay Area 67.078M, Los Angeles 51.816M, Austin 15.789M, Atlanta 5.379M); Waymo blog, June 24, 2026 (more than 4 million miles every week) and May 13, 2026 (11 cities, 1,400+ square miles); Baidu Q2 2026 earnings call (Apollo Go: $\sim$1 million fully driverless rides in the quarter, cumulative $>$23 million, $\sim$one airbag deployment every 14.4 million km; Robin Li: ``temporarily affected by operational adjustments in certain domestic cities due to regulatory considerations''); CnEVPost citing Bloomberg, April 29 and July 23, 2026 (March 31, 2026 multi-vehicle stall in Wuhan; three agencies including MIIT convened pilot-city officials and China suspended new robotaxi permits; issuance resumed gradually after an industry-wide safety review completed in late June. \textbf{Sourced to Bloomberg citing people familiar with the matter, not an official announcement}); NHTSA recall 26E035, June 17, 2026 (3,871 fifth-generation Waymo ADS; defect ``the software may allow the vehicle to enter a closed freeway construction zone and continue driving at speed''; interim remedy ``Waymo modified the scope of vehicle operations to restrict freeway driving''); OSHA, ``Robotics --- Standards''; ISO/CD 25785-1. \url{https://waymo.com/safety/impact/} · \url{https://static.nhtsa.gov/odi/rcl/2026/RCAK-26E035-6843.pdf}
 
 \normalsize
 

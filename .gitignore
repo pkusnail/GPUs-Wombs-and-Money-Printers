@@ -4,3 +4,7 @@
 *.out
 *.toc
 tmp/
+.gstack/
+charts/zh/png/
+__pycache__/
+wechat-articles/tmp-*

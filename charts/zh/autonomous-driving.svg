@@ -20,17 +20,17 @@
   <!-- Waymo -->
   <rect x="440" y="140" width="310" height="155" rx="10" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1.5"/>
   <text x="460" y="168" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">Waymo</text>
-  <text x="460" y="192" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">每周载客: <tspan fill="#2196F3" font-weight="bold">45万+次</tspan></text>
-  <text x="460" y="212" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">2026目标: 100万次/周</text>
-  <text x="460" y="232" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">运营: 美国6城 · 2500+辆</text>
-  <text x="460" y="252" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">扩展: 20+城市 + 东京 + 伦敦</text>
+  <text x="460" y="192" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">累计无人里程: <tspan fill="#2196F3" font-weight="bold">2.206亿英里</tspan></text>
+  <text x="460" y="212" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">每周行驶: 400万英里 (2026.6)</text>
+  <text x="460" y="232" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">运营: 11城 · 1,400平方英里</text>
+  <text x="460" y="252" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">90%里程集中在凤凰城/湾区/洛杉矶</text>
   <text x="460" y="272" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">多传感器融合(LiDAR+雷达+摄像头)</text>
   <text x="460" y="288" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11">纯robotaxi模式，不卖消费者车辆</text>
 
   <!-- China -->
   <rect x="770" y="140" width="350" height="155" rx="10" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
   <text x="790" y="168" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">🇨🇳 中国军团</text>
-  <text x="790" y="192" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">百度Apollo: <tspan fill="#FF9800" font-weight="bold">22+城市 · 1700万+次载客</tspan></text>
+  <text x="790" y="192" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">百度Apollo: <tspan fill="#FF9800" font-weight="bold">累计超2300万次 (2026.6)</tspan></text>
   <text x="790" y="212" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">小马智行: 北上广深全无人驾驶许可</text>
   <text x="790" y="232" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">文远知行: 广州24/7全无人运营</text>
   <text x="790" y="252" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12" font-weight="bold">比亚迪: 智驾免费标配(含$9500海鸥)</text>
@@ -108,5 +108,5 @@
   <text x="600" y="758" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">比亚迪把高级智驾免费塞进$9500的车——当技术不再是奢侈品，普及速度将超出所有预测。</text>
 
   <!-- Sources -->
-  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据来源: Tesla · Waymo · CNBC · CleanTechnica · SCMP · McKinsey · NHTSA · Global Policy Solutions</text>
+  <text x="600" y="795" text-anchor="middle" fill="#444444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="10">数据截至 2026年8月 · 来源: Waymo Safety Impact · 百度2026Q2财报 · NHTSA · Tesla · CNBC · CleanTechnica · McKinsey</text>
 </svg>
