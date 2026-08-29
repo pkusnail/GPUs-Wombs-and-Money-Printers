@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
 <rect width="1200" height="800" fill="#0A0A0A"/>
 <text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">Anatomy of Anxiety: One Formula, Two Levers</text>
-<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">焦虑 = 重要性 × 不确定性</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Anxiety = Importance × Uncertainty</text>
 <rect x="300" y="118" width="600" height="92" rx="10" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.5"/>
 <text x="600" y="175" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="34" font-weight="bold">Anxiety = Importance × Uncertainty</text>
 <text x="600" y="236" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Multiplication, not addition — zero either term and the anxiety goes to zero. Which means two independent places to act</text>

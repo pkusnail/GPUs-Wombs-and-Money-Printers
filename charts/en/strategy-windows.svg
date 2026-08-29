@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
 <rect width="1200" height="800" fill="#0A0A0A"/>
 <text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">Three Windows, Three Playbooks</text>
-<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">不同窗口期的策略不同</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Different windows require different strategies</text>
 <rect x="70" y="130" width="290" height="560" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.5"/>
 <text x="215" y="172" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">2026–2030</text>
 <text x="215" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">AI augments humans</text>

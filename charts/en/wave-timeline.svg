@@ -85,5 +85,5 @@
   <text x="600" y="775" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="14">Cat recognition → Bar exam: 10 yrs · ChatGPT → Autonomous coding agents: 3 yrs</text>
 
   <!-- Source -->
-  <text x="1100" y="795" text-anchor="end" fill="#444444" font-family="sans-serif" font-size="10">参考《浪潮之巅》第四版 吴军 ISBN 9787115514226 book.douban.com/subject/33474750</text>
+  <text x="1100" y="795" text-anchor="end" fill="#444444" font-family="sans-serif" font-size="10">Source: Wu Jun, Tides of Technology (Lang Chao Zhi Dian), 4th ed., ISBN 9787115514226</text>
 </svg>

@@ -14,7 +14,7 @@ This book has two volumes. They do not answer the same question.
 
 The two volumes speak differently, and that is deliberate.
 
-Volume I avoids "you," because an extrapolation has to set individual circumstance aside — its credibility comes from accommodating no one. Volume II puts "you" back at the centre, because advice only means something once it lands on a specific person.
+Volume I rarely addresses you directly, because an extrapolation has to set individual circumstance aside — its credibility comes from accommodating no one. Volume II puts "you" back at the centre, because advice only means something once it lands on a specific person. The difference is measurable: **"you" appears more than four times as densely in Volume II as in Volume I.**
 
 **Why the two must sit together.**
 
@@ -23,8 +23,6 @@ Volume I alone is a diagnosis with nowhere to put it. Volume II alone is advice 
 **A map and a pair of feet. Neither one gets you down the road alone.**
 
 If you are short on time: to understand what is happening, read Volume I; if you already understand and need to know what to do, start at Chapter XI. The load-bearing judgments in Volume II name the trend, the risk chain, or the class of outside evidence they rest on.
-
----
 
 ---
 
@@ -428,7 +426,7 @@ It moves to **trust and personhood**. What remains in the lights-out office is n
 
 (**Note**: this section is structural extrapolation, not a data finding. Its premises — that AI capability keeps improving, and that legal systems keep requiring liability to land on a person — could both change on a ten-year horizon. The ordering of the four layers is falsifiable: if an AI entity with independent legal personhood appears, layer four collapses immediately; if privacy norms shift so that conversations with AI acquire legal privilege, layer three shrinks sharply.)
 
-### 3.5.2 Three Gaps: Asking the Question From the Other Side
+#### 3.5.2 Three Gaps: Asking the Question From the Other Side
 
 Section 3.5.1 counted from the human side — which four boxes are left. **Counting the same thing from the AI side yields a version with more explanatory power: what does the AI still lack?**
 
@@ -448,7 +446,7 @@ Today's large model is **a thing that is only a brain**. Its reasoning is alread
 |---|---|
 | All three open | People are the subject, AI is the tool — the overwhelming majority of companies today |
 | Senses closed | **The one-person company**: one human feeds it information, holds the authority, and runs the errands |
-| Senses ＋ authority closed | **AI at the centre, humans at the edge**: the human is left with signing and showing up |
+| Senses + authority closed | **AI at the centre, humans at the edge**: the human is left with signing and showing up |
 | All three closed | **The lights-out office** |
 
 Chapter XI, 11.2 discussed the fragility of the one-person company: the human is the only component in that structure that gets sick, gets tired, and has no spare. **Placed on this table it becomes clear — the one-person company is fragile because it is a halfway state with only one gap closed, and the remaining two are loaded onto the same single person.** It is not a destination. It is what the list looks like half-crossed-off.
@@ -578,6 +576,86 @@ Marriage rates plunge; costs explode (raising one child in China ≈ 6.3× per�
 
 ![The economics of marriage and childbearing](charts/en/marriage-economics.svg)
 
+#### 5.2.1 The Unbundling of Marriage: Four Things Were Tied Together, Then Loosened One by One
+
+The cost-benefit arithmetic above explains "why people are not having children." It does not explain the other half -- **why people are not getting married at all.** To answer that, you first have to take the word "marriage" apart.
+
+In the old structure, this single status carried four things at once: **economics, love, sex, reproduction.** The single label "wife" or "husband" referred to four merged roles. **But these four things are entirely different in nature and follow entirely different laws** -- bundling them was an arrangement suited to specific conditions of production, not a law of nature.
+
+**First, economics. Marriage is above all an economic institution.** It is a long-term cooperation contract: pooled expenses, shared risk, division of labor in production. Under conditions where one party (usually the woman) could not readily earn an independent income, that contract was rational for both sides. In many traditional societies the primary premise of marriage was not romantic love in the modern sense, but an arrangement over lineage, property, labor, and childbearing.
+
+**Second, love. Here two different things have to be separated: passion and attachment.** Passion is a chemical storm, and it has a shelf life -- even for two well-matched people, the state of being in love rarely survives past three to five years. The phrase "the seven-year itch" endures because it describes the norm, not the exception. **What follows is not necessarily the end of the relationship, but its replacement by something else: attachment, commitment, the cooperative work of a shared life** -- what many people describe as "like family," "like comrades," "like roommates." **The point is not that love dies, but this: marriage cannot lock in passion. What it actually rests on is whatever remains after passion recedes.**
+
+**Third, sex.** It is more complicated than the first two, but its direction is clear: **it detached from the exclusive arrangement of marriage relatively early and relatively visibly**, and it has market and quasi-market substitutes.
+
+**Fourth, reproduction. It requires long-term cooperation and a large commitment of resources**, its cost keeps rising with development, and its returns grow steadily more uncertain -- exactly the arithmetic run at the start of this section.
+
+**Once the four are separated, everything that has happened over the past few decades reduces to one sentence: they have been coming unbundled, one at a time.**
+
+Once women could earn independent incomes, **the strongest layer of economic dependence inside marriage weakened** -- for many women, marriage stopped being an institution required for survival. Passion never needed marriage to begin with, and marriage never locked it in. The availability of sex kept rising. **Of the four, the one still strongly bound to a long-term contract is mainly reproduction.**
+
+**And that remaining one happens to be the most expensive of the four, with the least certain return.**
+
+> **When the least substitutable part of an institution's value is reduced to its most expensive function, demand for it stops being inelastic.**
+
+Three things have to be said honestly. **First, this does not mean marriage is "useless"** -- it still supplies default legal rights, arrangements for property and inheritance, a kinship network, social recognition, and the institutional force that binds down responsibility for raising children. None of these are among the four above, and none of them have come unbundled. **Second, what this framework therefore supports is "declining exclusivity and declining inelastic demand," not "marriage will disappear."** **Third, there are competing explanations for falling marriage rates** -- housing prices, employment insecurity, later marriage and childbearing driven by longer schooling. The mechanism in this section does not exclude them; it only offers one thread they cannot explain: **why it is the more educated and more economically independent groups who exit most completely.**
+
+The framework incidentally explains several things that would otherwise each need their own explanation. **Why phrases like "a child is the crystallization of love" stop working** -- they assume the four things are one thing; once separated, the sentence fails to line up on any layer's timescale (passion runs in years, reproduction in decades). **Why marriage rates fall as women's education rises** -- the layer she loosens first is precisely economic dependence.
+
+**And what AI does inside all this.** Here the word "economics" has to be split into two layers, or the argument contradicts itself: one layer is **dependence on a spouse's provision**, the other is **the real cooperative work of two people carrying housing, childrearing, care, and risk together.** **What AI can accelerate the replacement of is companionship and emotion, plus part of sex. It cannot replace that second layer of real-world cooperation, and it cannot replace reproduction.** So AI does not stop people from marrying. It **narrows the remaining reasons for marriage further down onto reproduction and real-world cooperation** -- which happen to be the two heaviest and most expensive.
+
+#### 5.2.2 Equality Is a Companion of Development, and So Is the Tension
+
+The unbundling was nobody's choice. It is a result of development.
+
+**Economic development is generally accompanied by an expansion of women's education and their opportunities for labor force participation**, and on the education dimension the reversal is complete: OECD data for 2024 show tertiary attainment among 25-34 year-olds at **55% for women and 42% for men, a 13-percentage-point gap in women's favor** [142], and this is the shared direction across the large majority of member states, with Mexico among the few exceptions.
+
+**Be precise here: an education reversal is not equality across the board.** Income gaps, the motherhood penalty, the division of housework, bargaining position inside a marriage -- none of these have reversed in step, and some have barely moved. **What this section claims is narrower: on the two dimensions of education and economic independence, women's position has shifted enough to change the marriage market.**
+
+Cross-national evidence supports this. Esteve et al., studying 420 samples across 120 countries from 1960 to 2011, found that as women's educational advantage rose, matches in which the wife is more educated than the husband rose in step -- **men's upward-matching advantage on the education dimension has already ended in many countries** [143]. An analysis of 27 European countries across seven birth cohorts points the same way: upward matching declines by cohort and downward matching rises [144].
+
+**The result is an internal tension: the marriage-and-childbearing structure premised on "man provides, woman does the domestic labor" cannot easily retain its old stability alongside the continued rise of women's education and income.**
+
+Note the qualifier in that sentence. It does not say "equality and childbearing cannot coexist" -- there have always been multiple versions of the childbearing structure: male-breadwinner, dual-earner, state-childcare, grandparent-supported. **It says that one particular version is losing the conditions it ran on.**
+
+There is a popular explanation to deal with here: **"only half-equal"** -- the public sphere (education, employment) equalized, the domestic sphere (housework, childcare) did not keep up, so fertility collapsed; and the Nordic countries, being relatively equal inside the home too, held their fertility. **That explanation looked right in the 2010s, but its strong version has been overturned in the past decade: total fertility rates across the Nordic countries have all fallen to historic lows, and the gap with East Asia has narrowed sharply.**
+
+**But state precisely what that overturns and what it does not.** It overturns the **strong version**: that domestic equality alone is enough to hold fertility up. It does **not** overturn the weak version: unequal domestic divisions of labor do depress fertility. **Both can be true at once -- domestic equality can cushion the decline without being a sufficient condition.**
+
+So what is the rest of it? **Once marriage and childbearing shift from a condition of survival to an optional arrangement, individuals reprice them using opportunity cost, relationship quality, and future risk**; when expected returns fail to cover the cost, entry rates fall. **This is not a change in morality. It is a change in the pricing benchmark.**
+
+#### 5.2.3 The Chinese Version: Urbanization Made the Structural Mismatch Spatial
+
+The same mechanism in China has an extra layer on top of it -- **extremely fast urbanization.**
+
+China's urban share of population rose from **19.39%** in 1980 to **67.9%** at the end of 2025 [145]. This is one of the largest and fastest population migrations in human history, and it was not gender-neutral.
+
+**The distribution of fallback resources back home is asymmetric.** In law, Article 1126 of the Civil Code provides for equal inheritance rights regardless of sex, and Article 6 of the Rural Land Contracting Law provides women equal contracting rights with men. **But there is a substantial gap at the level of enforcement**: the Third Survey on the Social Status of Women in China (2010) found 21% of rural women without land against 11% of rural men; in national surveys of the same period, 92.4% of men reported contracted land held in their own name against 81.2% of women, while the share who lost land due to a change in marital status was 8.1% for women and 1.1% for men [146]. **The accurate statement is: men are on average more likely to retain some portion of their fallback resources back home, and women are more easily excluded from land and village entitlements** -- this is a difference of degree, not a binary of "has" versus "has not." Whether there is a way back also depends on the parents' housing, homestead eligibility, local employment, family acceptance, and village rules; land is only one item among these.
+
+That asymmetry leaves a clear trace in the marriage data:
+
+- **Never-married older men are far more concentrated in rural areas than in cities.** The 2020 census recorded 8.82 million never-married rural men aged 35 and over, **5.7%** of that group, against **3.62%** in cities. Among never-married men aged 50 and over, rural areas exceeded cities by **2.03 million** [147].
+- **Marriage probability drops sharply for highly educated urban women.** Research based on the Chinese General Social Survey and the China Family Panel Studies found that among urban women over 27, a university degree lowers the probability of marriage by **2.88%-3.6%**, and a postgraduate degree lowers it a further **8.4%-10.4%** [148].
+- **And marriage migration runs one way.** A study framed around "bride drain" found that the outflow of rural women significantly lowers rural men's probability of marrying and amplifies the effect of the sex-ratio imbalance -- **the study found no corresponding "groom drain"** [149].
+
+Be careful not to flatten this into a static opposition between two groups: **large numbers of less-educated women are also in urban service work, and large numbers of highly educated men are also concentrated in big cities.** What is being described is not the absolute distribution of the population but the **relative mismatch in the marriage market** -- unmarried men in counties and rural areas are relatively weak on education and income, while urban highly educated women's search radius, income expectations, and way of life run past them.
+
+**The substance of the mismatch is educational structure; urbanization made it spatial.** A 2026 study estimates that between 1999 and 2019 the probability of a single person in China marrying **fell to half its 1999 level**, and that **changes in the supply structure of the educated population explain roughly half of that decline** [150]. Note what this evidence points at: **an educational-structure mismatch.** The geographic dimension is how that mismatch shows up in space; the two are not the same thing and should not stand in for each other.
+
+**What has to be said at the same time: this cannot be read as "so leave the property to the son."**
+
+**First, put the strongest version of the opposing case on the table:** under a system where the man carries the burden of the marital apartment and the bride price, a family concentrating resources on the son **may well be rational at the level of that single family** -- it raises the son's relative competitiveness in the marriage market. That micro-level judgment probably has empirical support, and this section does not deny it.
+
+**But it does not scale to a macro conclusion.** There is no evidence that generalizing the strategy raises the rate of successful matching across society; on the contrary, generalizing it reinforces son preference. At one point China had roughly 32 million more males than females under the age of 20, and the marriage market was made worse by that collective behavior itself [151]. And in a market where women are scarce, the chance of entering marriage concentrates among higher-income men and compounds with stratification by income, housing, and education -- **the result is not better matching overall, it is sharper stratification.** Evidence in the opposite direction exists too: after China's 2001 divorce reform strengthened women's property rights, families whose first child was a girl were **8.1 percentage points** less likely to go on to have a boy [152].
+
+**So the conclusion of this section is not "son preference has a point." It is the opposite:** a marriage-and-childbearing contract premised on a gendered division of labor and on women forgoing opportunity **cannot hold up in the face of development** -- you can neither stop women from being educated and earning, nor, once they have the ability to survive independently, expect them to keep signing that contract on the old terms.
+
+**It also has to be clear where this chain stops.** Falling fertility is not a phenomenon that any single policy failure explains; it is the joint product of development, women's independence, the cost of marriage and childrearing, and institutional mismatch. **Policy can change the slope; it can rarely restore the old structure** -- the failed pro-natalist cases in section 5.1 of this chapter are the evidence.
+
+**And what it supports in Chapter IX is limited: population decline by itself does not imply a silicon-based succession.** What it can do is weaken one default premise -- that human numbers will keep expanding. The species divergence and non-carbon continuation that Chapter IX takes up require a separate argument; this section supplies demographic background, not a conclusion.
+
+**(Falsification condition)** The mechanism in this section can be overturned. **If, in a society with high female education, high female income, a relatively equal domestic division of labor, and sharply reduced housing and childcare costs, the total fertility rate returns durably to near replacement level and the marriage rate recovers in step, then the mechanism "marriage and childbearing becoming optional causes low fertility" needs to be rewritten.** Conversely, if fertility rises only slightly after all those conditions improve and cannot return to old levels, that indicates the main driver really is post-development opportunity cost and the unbundling of marriage from childbearing, rather than the degree of equality itself. This is a criterion testable against the next ten to twenty years of data from the Nordic countries, East Asia, and parts of Central Europe.
+
 ### 5.3 AI–Fertility Spiral
 
 **AI job loss → income instability → no kids → population falls → society more AI‑dependent → more job loss.**
@@ -643,21 +721,81 @@ Households are deleveraging, and the pace is picking up. Outstanding mortgages h
 
 **Now layer on AI.** China's current crisis is developer leverage + demographic peak. Per our earlier chapters, the 2028–2030 AI white-collar displacement wave adds a **third layer**: (1) existing structural crisis (unfinished projects, developer defaults, falling prices), (2) accelerating demographic decline (population shrinking since 2022), (3) AI employment shock (middle-class income loss → mortgage defaults). The U.S. faces "good loans in a bad world" — a hypothetical. China faces "structural flaws meet demographic collapse meet AI displacement" — already happening, about to get worse.
 
-### 6.2 Middle-Class Defaults → Bank Crisis → De‑urbanization
+### 6.2 From Income Repricing to Municipal Finance: Three Different Paths
 
-$1 T CRE loans due 2026 [16]; 20% offices; SF office vacancy 34% [15]. Regionals concentrated; 2008 subprime redo but with prime, larger balances.
+**The minimum claim of this section and the next, stated first — every qualification that follows narrows it rather than retreats from it:**
 
-![Domino chain](charts/en/domino-chain.svg)
+> **AI will not empty out cities in general. It raises the financial fragility of one class of city — high housing costs, high white-collar exposure, high household leverage, municipal finances dependent on property and land — which may show up first as mortgage stress, consumption contraction, an eroding tax base, and a change in the occupational mix.**
+
+The first link is easy to skip past: **in that particular class of city, the kind of labour income AI reprices first overlaps heavily with the kind of labour income that services large mortgages.**
+
+They are not the same set. High-mortgage households also include doctors, civil servants, contractors and business owners; many people with high AI exposure are young renters with no mortgage at all. But in high-cost cities concentrated in tech, finance, law, consulting and back-office operations, the two sets overlap substantially. Note also that plenty of the "stable cash flow" banks prefer carries **low** AI exposure — doctors, nurses, teachers, public employees, utilities. The genuine overlap is narrower: a fixed employer, verifiable income, a predictable raise curve, **and** work composed mainly of standardizable cognitive tasks.
+
+**One precondition has to come first, or the whole chain is empty: high exposure does not mean net harm.** AI can substitute for a role or complement it. The same "high exposure" can end in redundancy or in doubled output and higher pay. **The chain below only starts if the substitution effect exceeds the complementarity effect and produces observable income discounts or employment instability.** That cannot be settled in advance; it can only be observed.
+
+Given that, the steps from "an occupation is repriced" to "a bank is in trouble" cannot be skipped: **rising exposure → greater income volatility, shorter layoff cycles, wage discounts on re-employment → cash-flow gaps in highly leveraged households → default.** The concentrated risk is not "all white-collar workers" but **households with high leverage, a single income, or both earners in the same affected industry.**
+
+The 2008 subprime problem was "these loans should never have been written." This time the problem is "the loans were correct when written, and the borrowers' occupational category is being repriced."
+
+**"Bank crisis" needs to be unpacked, because three risks travel along different paths.**
+
+**First, commercial real estate — and note that this is a parallel pressure, not a direct consequence of an AI income shock.** Nearly $1T of U.S. commercial real estate loans mature in 2026 [16], a fifth of it offices, priced on the assumption that offices would always be occupied; San Francisco office vacancy is 34% [15]. **But be precise about causes: office vacancy comes mainly from normalized remote work, higher rates and valuation repricing — all of which preceded any large-scale AI displacement of white-collar work.** Charging it to AI's account overstates AI's explanatory power. It belongs in this section for a different reason: **it lands on the same banks' balance sheets as the AI income shock**, and of the three it is the one that hits regional bank capital most directly, because local development and commercial loans are concentrated there.
+
+**Second, residential mortgages** — a less direct transmission, and one where national mortgage design sends the same shock down completely different paths. U.S. residential lending is dominated by 30-year fixed rates, so "rate reset lifts the payment" is not the American mechanism: **in the U.S. the pressure can essentially only come from the income side.** In floating-rate or short-reset markets (the UK, Australia, China, Hong Kong) rates and income are two independent triggers that can stack. **This section is about the income channel; conflating mortgage regimes produces the wrong timetable.** Note too that U.S. residential mortgages are largely absorbed by government-sponsored entities and securitization, so residential default hits house prices, local consumption and the tax base before it hits bank capital.
+
+**Third, regional banks' concentration itself.** Several thousand U.S. regional banks hold assets concentrated in local mortgages and commercial property. When a city's anchor industry is hit, both asset classes deteriorate at once — a concentration problem, not a single-loan problem.
+
+![Middle-class default chain reaction](charts/en/domino-chain.svg)
+
+**One common analogy has to be ruled out.** Silicon Valley Bank failed in 2023 through duration mismatch, unrealized bond losses and a concentrated deposit run [16] — **not** local mortgage or commercial-property credit. It shows that a regional bank with concentrated exposure can destabilize fast under a confidence shock; it is **not** a rehearsal for the mortgage chain.
+
+**From banks to cities there is a fiscal step in between.** A bank failure does not by itself leave roads unrepaired — municipal maintenance is funded by local revenue, bonds and utility charges. The full chain is: **defaults and vacancy → falling prices and assessed values → falling local revenue → higher financing costs → deferred services and maintenance.** But that middle link runs on two different machines: **in the U.S. it is a shrinking property-tax base plus widening municipal-bond spreads; in China it is falling land-sale revenue, tighter refinancing for local government financing vehicles, and greater dependence on transfers from above.** Both end at deferred public services, but the thresholds, buffers and political constraints are not the same. The FDIC's role also needs stating precisely: it can resolve failed institutions, **but it cannot by itself restore collateral values or local credit demand.**
+
+**For some cities this may be where de-urbanization pressure begins** — every qualifier there is doing work: only for cities meeting the conditions above, only pressure rather than outcome, and only if it also passes through the mechanisms discussed next.
 
 ### 6.3 Dual-Speed Cities
 
+**First, the strongest objection in this field.** Every technology that made distance cheaper — telegraph, telephone, rail, air travel, the internet — was predicted to kill cities, and every time cities grew larger and more concentrated. *The Death of Distance* (1997) predicted knowledge work would disperse; the two decades that followed were the most urban-concentrating in a century, **precisely in the most information-intensive industries.**
+
+**So why would AI differ?** Without a difference mechanism this section is simply fighting the history of technology without noticing. **The internet lowered the cost of transmitting information while raising the returns to collaboration** — which made being where the ideas are more valuable, not less. **AI lowers the marginal cost of the cognitive task itself**, and what it compresses is precisely the urban wage premium on junior and mid-level knowledge work: if a model can substitute for much of the output, paying core-city rent to do that work stops making sense.
+
+**But the opposite possibility is equally live and has to be stated: AI may also concentrate top-tier cities further.** Models, capital, clients, regulatory liability and high-end services are all pooling into a small number of places. These two are not mutually exclusive — they act on different populations.
+
+**This is also why the COVID experiment cannot be extrapolated directly.** COVID was the largest remote-work trial in history, and the result was not metro collapse but **redistribution inside metros** — hollowed central business districts, gaining suburbs, and a substantial partial reversal after 2023. San Francisco office vacancy is 34% [15], but its population decline was far smaller. **The decisive difference: COVID was a shock to where people work, with income intact; AI is a shock to income and job structure.** Only if that difference holds does the mortgage chain in 6.2 hold — **if AI merely changes where people work without compressing income, none of that chain is needed.**
+
+**So the claim here is not that cities empty out, but that the people left in them may change.**
+
+Section 3.5.1 argued that what humans still hold in an AI system is trust, accountable legal personhood, and being physically present. **A meaningful share of that will keep favouring co-location** — especially high-stakes decisions, financing, governance, client relationships and high-end in-person services. But trust and accountability do not inherently require the same city; high-trust organizations have long operated across cities and borders, and "being present" may mean locally present rather than present in a core city.
+
+**A reasonable hypothesis, then, is compositional replacement rather than halving**: the remotable middle layer declines as a share of population or of income weight, while **high-end relationship roles are relatively more likely to stay.** In-person services are not an independent stable end — **they are derived**: a shrinking middle layer directly weakens local service demand, so whether services stay depends on whether high-end demand is large enough to carry them. **The accurate statement is "one end relatively stable, the other contingent on it," not "both ends stay."**
+
 ![Dual speed city](charts/en/dual-speed-city.svg)
 
-Single-industry cities crater fast; core hubs shrink population but keep GDP via AI elites + services. China’s 3–4th tier cities risk becoming “Hegang” equivalents.
+The interface with the financial problem is this: **it is not that urban decline causes defaults, but that the same population's impaired ability to pay shows up simultaneously as mortgage risk and as a change in the city's composition.** Competing explanations must keep their place: defaults and compositional change can share other causes — rate resets, stretched valuations, commercial-property repricing, industry relocation, taxes, public safety. **If rising defaults are explained mainly by rate resets, price declines or the local industrial cycle rather than by wage discounts in AI-exposed occupations, this section's mechanism does not hold.**
 
-**Where do people go?** Not back to farms — to lower-cost places that still have basic infrastructure. In the U.S., California/New York residents are already flooding into Texas, Tennessee, and Idaho secondary cities. Remote work enables this. In China, “fleeing Beijing/Shanghai” has been a decade-long trend, but if provincial capitals themselves have no jobs, it becomes moving from one hopeless place to a cheaper hopeless place. Japan shows the opposite — Tokyo is siphoning the entire country’s population while other cities wither. Europe sees two-way flows: southern Europeans heading north for jobs, northern remote workers heading to Portugal/Greece for low costs.
+**Differentiation is real, but not as crude as "core lives, ordinary dies."** A more useful framing is a **risk screen** on three checkable variables: (1) the share of local employment in remotable, standardizable white-collar work — intensity of the shock; (2) household leverage — whether the same income decline becomes default; (3) municipal dependence on land and property revenue — whether default propagates into service contraction.
 
-**Not a normal downturn.** AI displacement may be permanent, not cyclical. Previous recessions (2001, 2008) were temporary — the economy recovered, jobs came back. AI replaces the cognitive task itself, not just a specific role. A displaced legal assistant isn’t waiting for recovery — that job is gone forever. For those who cannot retrain, the trajectory is: savings → austerity → early retirement withdrawals → government dependence → identity crisis. The U.S. Rust Belt experienced this over 20–30 years with blue-collar workers. AI could compress the same arc into 5–10 years for white-collar workers — who carry larger mortgages and higher living costs.
+**These three are probably collinear** — they tend to co-occur in the same high-cost, high-income cities, so ranking alone cannot isolate which one drives the outcome. A real test must simultaneously control for rate structure, the fixed/floating mix, price declines, industrial concentration, housing supply elasticity and fiscal transfers. **It is a screening framework, not a model you can run causality through.** Cities low on all three are simply **unlikely to fail first through this particular chain** — they may still come under pressure through demographics, industry or fiscal transfers.
+
+**The Rust Belt is a reference, not a precedent.** Detroit fell from 1.85M to 680k over 65 years [17]; the Cleveland Fed documented the decline trajectory of American Rust Belt cities in detail [18]. The mechanism differs: Rust Belt decline was **the disappearance of a single industry**, and a large share of the population moved to suburbs within the same metro rather than leaving the region. **So it cannot be used to predict the speed of an AI shock — but it shows accurately how public services degrade once the tax base shrinks.**
+
+**For ordinary cities, two mechanisms must be kept apart, or AI's explanatory power gets overstated.**
+
+**The first has nothing to do with AI.** Young people do not return to China's Northeast; apartments in Hegang sell for the price of a used car [19]; national vacant housing is estimated at 65-80 million units [20]. **The main causes are resource depletion, single-industry dependence, regional opportunity distribution and housing supply-demand — not AI.** Chapter V supplies the long-run demographic floor; it does not explain Hegang's prices or the Northeast's outflow.
+
+**The second is the layer AI adds on top**, and it only applies to ordinary cities with a relatively high share of remotable white-collar employment and relatively high household leverage. **For the many small and mid-sized cities built on agriculture, resources, tourism or local services, this chain largely does not apply** — their problems come from elsewhere.
+
+**Where do people go?** Cities contract, but people do not vanish — and they do not return to farms either, which have no jobs, hospitals or schools. The logic is migration **toward lower cost of living that still has basic infrastructure**. Californians and New Yorkers are already moving to secondary cities in Texas, Tennessee and Idaho — **this is not evidence of an AI effect**; it is driven more by taxes, housing costs, the pandemic, retirement and corporate relocation. It shows only that the direction of migration is not back to the countryside but a rematch between cost and infrastructure. China's path is more complex; Japan's Tokyo is siphoning the rest of the country; Europe shows two-way flows.
+
+**Finally, and this is where the weight of the section sits: this may not be an ordinary business cycle.** In past recessions — 2001, 2008 — a substantial share of jobs returned with demand, though structural losses, career scarring and regional decline were real too. **The AI risk is that the structural share may be higher**: what it reprices first are standardizable, verifiable, decomposable cognitive tasks, **and some of those jobs will not return in their former number or wage structure.** For someone unemployed long-term the trajectory may be: savings for a few months, then reduced spending, a move somewhere cheaper, early retirement withdrawals, and eventually public assistance. **But turning that individual trajectory into macro pressure still requires conditions** — a high enough local employment share in those occupations, high enough household leverage, and a large enough re-employment wage discount.
+
+**(Falsification conditions.)** The two claims here carry different confidence and different tests.
+
+**"Compositional replacement" is a structural hypothesis.** It fails if AI-exposed middle white-collar workers show no relatively greater income discount, out-migration or housing-cost distress, and if core-city occupational structure does not tilt toward high-end relationship and must-be-present roles.
+
+**"The three-variable screen" is testable, but the test has to reach causation, not stop at correlation.** Seeing "high-exposure cities do worse" is not enough — housing bubbles, commercial-property repricing, fiscal governance and industrial cycles all produce the same correlation. Supporting this mechanism requires seeing four things at once: the harmed population is concentrated in AI-exposed occupations; those people show measurable wage discounts or employment instability; the discount then transmits into mortgage delinquency, out-migration or reduced consumption; and the differences survive controls for rate structure, price declines and the industrial cycle. **Absent any one of the four, this section's transmission mechanism should be abandoned.**
+
+**(Interface with Chapter X.)** Chapter X notes that "cities unable to offer distinctive experience will shrink." That "distinctive experience" is not a fourth variable alongside the three above — it is a **buffer term**, affecting population retention and how densely high-end relationship roles cluster. The three variables here explain the **ranking of financial transmission risk**. The two are not measuring the same thing.
 
 ### 6.4 Private Credit Landmine
 
@@ -1074,6 +1212,8 @@ This transition has three phases:
 
 **Phase 2: Human-AI Coexistence** (2022 → ~2040s). We are here now. AI is a tool, then a collaborator, then a competitor, then a superior. Humans remain biologically unchanged but increasingly dependent on AI for cognition, decision-making, and eventually physical labor (via humanoid robots). This phase is inherently unstable — a transition, not an equilibrium.
 
+**Before moving into divergence, connect the demographic link.** Chapter V, section 5.2 argued that once marriage and childbearing shift from a condition of survival to an optional arrangement, individuals reprice them using opportunity cost and future risk, and entry rates fall accordingly -- **policy can change the slope; it can rarely restore the old structure.** What that chain gives this chapter is background, not a conclusion: **before discussing "what humans will become," you first have to drop the default premise that human numbers will keep expanding.** Whether demographic contraction leads to a non-carbon continuation requires the separate argument that follows in this chapter; demography by itself does not get you there.
+
 **Phase 3: Divergence** (~2040s →). This is where the species question becomes unavoidable. Two paths, both leading away from "human as we know it":
 
 **Path A: Augmentation.** Gene editing (CRISPR and successors), brain-computer interfaces (Neuralink has implanted 12 people as of September 2025; Blindsight vision-restoration trials begin 2026 [113]), nanomedicine, and epigenetic reprogramming converge to produce beings that are biologically distinct from Homo sapiens. As of February 2025, approximately 250 CRISPR clinical trials are active [113]. Casgevy — the first approved CRISPR medicine — costs $2.2 million per treatment, with 39 patients infused by September 2025 [113]. Cleveland Clinic's 2025 first-in-human CRISPR trial for cholesterol showed "substantial reduction within two weeks" [113]. The technology works. It's scaling. And the line between "therapy" (fixing disease) and "enhancement" (upgrading capability) is philosophically clear but practically nonexistent — once you can edit genes to eliminate Alzheimer's risk, why not also boost IQ?
@@ -1379,7 +1519,11 @@ The answer on the production side is already clear -- AI and robotics. The distr
 
 Following the chain of reasoning from Volume I to its logical end, we arrive at a seemingly paradoxical conclusion:
 
-The combined productivity of AI + robotics may deliver radical material abundance. The production costs of food, clothing, housing, healthcare, and education could approach zero. Sam Altman predicts "massive deflation" -- AI usage costs falling tenfold every year [34]. Marx's vision of communism -- material abundance, distribution according to need, free human development -- may actually be realized, not through proletarian revolution, but through a fleet of machines that never need to eat.
+The combined productivity of AI + robotics may deliver radical material abundance for humanity. The production costs of food, clothing, housing, healthcare, and education could approach zero.
+
+**That sentence needs a timestamp, or it will fight with the rest of this book.** It describes the **endgame after socialized mass production has fully played out** -- the post-scarcity society of Volume I, section 9.6, a state already close to "distribution according to need." Whereas the distribution crisis, the pension gap, and the mortgage collapse that Volume I spent six chapters working through describe **the transition between now and that endgame**.
+
+**Both statements hold, because they sit at different points on the timeline.** The endgame is costs approaching zero; the transition is distribution failing -- and this volume, from beginning to end, deals only with the transition. Read the two together and you end up thinking "if everything is free, what is there to be anxious about?" -- **that is using a conclusion from several decades out to console yourself about this year.** Sam Altman predicts "massive deflation" -- AI usage costs falling tenfold every year [34]. Marx's vision of communism -- material abundance, distribution according to need, free human development -- may actually be realized, not through proletarian revolution, but through a fleet of machines that never need to eat.
 
 Standing in 2050 and looking back, you might say: "That stretch was rough, but the outcome was not bad."
 
@@ -1394,11 +1538,11 @@ Between now and that "abundant endgame" lies a transition of perhaps 10-20 years
 
 The time lag between production and distribution is the ordinary person's nightmare.
 
-GDP is growing, but you just got laid off. Prices are falling, but your mortgage hasn't. AI is making everything cheaper, but you can't afford even the cheap stuff -- because you have no income. This is the "ghost GDP" described in Volume I: statistics paint a rosy picture while ordinary people see only ruin.
+GDP is growing, but you just got laid off. Prices are falling, but your mortgage hasn't. AI is making everything cheaper, but you can't afford even the cheap stuff -- because you have no income. This is the "ghost GDP" of Volume I, section 2.3: statistics paint a rosy picture while ordinary people see only ruin.
 
 **The core contradiction of the transition: technology advances far faster than institutions can adapt.**
 
-Self-driving cars could reach mass deployment within five years, but retraining taxi drivers takes ten. AI could replace most entry-level programming jobs within a year, but university curriculum reform takes five. Robots could take over warehouses within three years, but reforming the social safety net may require a generation of political struggle.
+Some AI systems can spread to industry scale within five years -- customer service, translation, entry-level programming, and content production are already there -- but retraining people out of the corresponding jobs takes ten. (Self-driving cars are deliberately not used as the example here: Volume I, section 3.2 already argued that they are stuck on the "last mile" and still operate only inside geofenced areas. They are precisely the counterexample -- **the technical capability arrived, and deployment ran far slower than expected.**) AI could replace most entry-level programming jobs within a year, but university curriculum reform takes five. Robots could take over warehouses within three years, but reforming the social safety net may require a generation of political struggle.
 
 **In the gap between technology arriving and institutions catching up, ordinary people are exposed.** This volume is about helping you get through that gap with as little damage as possible.
 
@@ -1410,7 +1554,7 @@ The British Industrial Revolution (1760-1840): The endgame was a several-fold in
 
 The American Gilded Age (1870-1900): The endgame was America becoming the world's largest economy. But the transition -- railroad barons monopolizing everything, workers toiling 16-hour days, no minimum wage, no social insurance, no workers' compensation. It took the New Deal of the 1930s to build a social safety net.
 
-**Every technological revolution follows this pattern: the endgame is prosperity, but the transition is blood and tears.** The difference lies in how long the transition lasts, how painful it is, and whether institutions can keep pace.
+**Many large technological revolutions show up as prosperity in the winning countries and in the long-run statistics, but the transition is blood and tears -- and the gains do not get distributed automatically.** The fruits of the Industrial Revolution and the Gilded Age were eventually shared out through unions, legislation, and political struggle, not through the technology itself. The regions and groups that got left behind usually do not appear in the "endgame prosperity" narrative. The difference lies in how long the transition lasts, how painful it is, and whether institutions can keep pace.
 
 What makes the AI revolution unique: **the speed is an order of magnitude faster.** The Industrial Revolution took 60 years to put textile workers out of jobs; AI may take 6 years to do the same to programmers. The transition is compressed -- meaning the pain is more concentrated and the window for institutional adaptation is shorter.
 
@@ -1442,9 +1586,9 @@ Viewed through Maslow's hierarchy of needs, AI does not strike from the bottom (
 | Safety | "Can't make mortgage payments; pension falls short" | Delayed onset |
 | Physiological | "Can't afford food" | Last (unlikely in developed nations) |
 
-**Most people don't break down when they can't eat -- they break down when they feel useless.**
+**But this order does not hold for everyone, and saying "most people" would be over-generalizing.** For white-collar and middle-class people **with some savings and a tight bond between career and identity**, the shock usually starts at the identity layer -- they break when they feel useless, not when they cannot eat. But for the highly indebted, the low-savings, the informally employed, and immigrant households, **a cash-flow rupture may punch straight through the safety layer and even the physiological layer**, and the identity crisis never gets its turn. Chapter XV, section 15.4 breaks this difference down group by group.
 
-Data from the Great Depression: Between 1928 and 1932, the U.S. suicide rate surged **22.8%**, from 18.0 to 22.1 per 100,000 -- the highest in American history. The sharpest rise was not among the poorest but among **working-age adults aged 25-64** -- the group with the strongest "career = identity" bond. They did not starve. There was no mass famine in 1930s America. They were stripped of purpose.
+The U.S. suicide rate rose markedly during the Great Depression and touched the highest level on record in the United States in the early 1930s. What is worth noting is where the rise concentrated: not among the poorest, but among **working-age adults** -- the group with the tightest "career = identity" bond. They did not starve. There was no mass famine in 1930s America. They were stripped of purpose.
 
 ### 13.2 A Lifetime of Accumulation, Wiped Out: How Deep That Pain Goes
 
@@ -1464,21 +1608,21 @@ What's crueler still: learning something new may not even help. You spend a year
 
 This is not a politically correct discussion -- it is a data-driven one.
 
-Virtually every culture places a core expectation on men: **economic provider**. "Providing for the family" is not just a responsibility; it is the central pillar of male identity.
-
-This section rests on Volume I, 5.3 and Chapter VIII, where the data was already laid out. Its only job here is to translate that into something you can use.
+In many societies, men are bound more tightly to the role of **economic provider**. "Providing for the family" is not just a responsibility; it is the central pillar of male identity.
 
 When that pillar is pulled away:
-- Depression among unemployed men runs **1.5-2x the rate among unemployed women** [88] -- note this is not a claim that men are more prone to depression overall (lifetime prevalence is higher in women). It is that **the same job loss does more damage to a man**. The difference is not in the event; it is in what the event hits
+This section rests on Volume I, section 5.3 and Chapter VIII, where the data was already laid out. Its only job here is to translate that into something you can use.
+
+- Depression among unemployed men runs **1.5-2x the rate among unemployed women** [88] -- note this is not a claim that men are more prone to depression overall (overall prevalence is higher in women). It is that **the same job loss does more damage to a man**. The difference is not in the event; it is in what the event hits
 - For every 1-percentage-point rise in male unemployment, the marriage rate drops about **1.5-2%** [88]
 - Thirty years of economic stagnation in Japan: the lifetime non-marriage rate for men rose from **5% to 28%** [88] -- "herbivore men" was never a cultural preference; it was the product of economic despair
 - In China, "owning a car and a home" is the price of entry to the marriage market -- AI-driven layoffs lock more men out
 
-Women are equally affected by AI (customer service, admin, accounting, HR -- white-collar roles with high female representation are hit first), but men lose something additional: their core identity. **Middle-aged men may be the highest-risk group for mental health in the AI era.**
+This does not mean women are hit more lightly -- customer service, admin, accounting, and HR, white-collar roles with high female representation, are hit first, and women absorb a compound blow to income, caregiving load, and professional identity at once. The point here is that **the blow lands in a different place**: for people bound more tightly to the provider role, job loss more easily strikes identity directly. **Middle-aged men may be the highest-risk group for mental health in the AI era.**
 
 ### 13.4 Create Your Own "Luck" -- Evidence From a Decade of Scientific Research
 
-British psychologist Richard Wiseman spent ten years tracking hundreds of self-described "lucky" and "unlucky" people, publishing his findings in *The Luck Factor* [130]. His central discovery: **luck is not random -- "lucky people" and "unlucky people" exhibit entirely different psychological and behavioral patterns.** And these patterns can be learned -- when he taught "unlucky" people to adopt "lucky" thinking, their lives genuinely improved.
+British psychologist Richard Wiseman spent ten years tracking hundreds of self-described "lucky" and "unlucky" people, publishing his findings in *The Luck Factor* [130]. His central discovery has to be stated precisely: **randomness itself cannot be eliminated, but a person can change how they get exposed to opportunity, how they recognize it, and how they absorb bad outcomes** -- and on those three things, "lucky people" and "unlucky people" show entirely different psychological and behavioral patterns. And these patterns can be learned -- when he taught "unlucky" people to adopt "lucky" thinking, their lives genuinely improved.
 
 This is highly relevant to surviving the AI era, because the years ahead are full of uncertainty -- and Wiseman's research is precisely about "how to find good outcomes amid uncertainty."
 
@@ -1494,7 +1638,7 @@ In the AI era, your next opportunity will most likely not come from your existin
 
 Wiseman ran a classic experiment: he asked subjects to count the number of photos in a newspaper. On the second page, in large print, it said: "Stop counting -- there are 43 photos in this newspaper." The lucky people noticed it and finished in seconds. The unlucky people were so focused on counting photos that they missed it entirely.
 
-**Anxiety narrows your field of vision. Relaxation lets you see opportunities.**
+**Intense, sustained anxiety narrows attention; relaxation lets you see opportunities.** (A moderate level of alertness is useful -- what is meant here is long-term overload, not all tension.)
 
 The biggest trap of the AI era is anxiety -- it locks your attention on "what you've lost" while blinding you to "what's emerging." Staying relaxed does not mean not caring -- it means paying attention to problems while preserving the bandwidth to notice new possibilities.
 
@@ -1535,21 +1679,29 @@ But the formula also gives you two clear levers: **reduce the uncertainty** or *
 You cannot eliminate uncertainty (no one can predict the precise speed of AI development), but you can **increase your tolerance for it**:
 
 - **Break big questions into small ones.** "What do I do for the next 20 years?" -- that question has 100% uncertainty and will crush anyone. But "what three things will I do in the next six months?" -- much less uncertain. Pull the focus of your anxiety from "the long-term big picture" back to "near-term actionable steps."
-- **Build a worst-case plan.** The most tormenting thing about uncertainty is "not knowing what will happen." But if you have already thought through the worst case and have a contingency ("If I get laid off, I have X months of savings; Plan B is XX"), the destructive power of uncertainty drops dramatically -- because it becomes "certainty about something bad," and a certain bad outcome is far easier to handle than an uncertain one.
+- **Build a worst-case plan.** The most tormenting thing about uncertainty is "not knowing what will happen." But if you have already thought through the worst case and have a contingency ("If I get laid off, I have X months of savings; Plan B is XX"), the destructive power of uncertainty drops dramatically -- because it becomes "certainty about something bad," and a certain bad outcome is far easier to handle than an uncertain good one.
 - **Control your information intake.** Reading ten "AI will replace everyone" articles a day only amplifies anxiety. This does not mean burying your head in the sand -- it means distinguishing between "useful information" and "anxiety-generating noise." Recommendation: catch up on AI developments once a week rather than being bombarded by push notifications every day.
-- **Wiseman's relaxed awareness:** As mentioned earlier -- anxiety narrows your vision; relaxation lets you see opportunity. Deliberately practice "attention in a relaxed state" -- good ideas come more easily during a walk, while cooking, or while exercising than while anxiously scrolling your phone.
+- **Wiseman's relaxed awareness:** As section 13.4 said -- anxiety narrows your vision; relaxation lets you see opportunity. Deliberately practice "attention in a relaxed state" -- good ideas come more easily during a walk, while cooking, or while exercising than while anxiously scrolling your phone.
 
 #### Reducing Importance -- The More Subversive Move
 
 Many things making you anxious are **not actually as important as you think they are**. But you have never questioned their importance, because all of society keeps telling you "this matters."
 
-**Work.** "Losing my job" is what most people worry about most. But ask yourself: what exactly are you anxious about? If it is "losing income" -- then the core issue is financial security, not "the job" itself. After cutting expenses and building a buffer, "losing this particular job" becomes less critical. If it is "losing identity" -- then the issue is that you have tied too much self-worth to your job title (see Strategy 1 in section 2.6: decouple identity).
+**Work.** "Losing my job" is what most people worry about most. But ask yourself: what exactly are you anxious about? If it is "losing income" -- then the core issue is financial security, not "the job" itself. After cutting expenses and building a buffer, "losing this particular job" becomes less important. If it is "losing identity" -- then the issue is that you have tied too much self-worth to your job title (see section 13.6, Strategy 1: decouple identity).
 
-**Your child's grades.** If you accept the idea that "winning exams doesn't matter in the AI era" (see Chapter XVI), half your anxiety about grades evaporates instantly. What you are really anxious about is not the grades themselves, but the causal chain: "bad grades -> can't get into a good university -> can't get a good job -> life is ruined." When that chain itself is breaking, the "importance" of grades drops sharply.
+**Your child's grades.** If you accept the idea that "winning exams doesn't matter in the AI era" (see Chapter XVI), a large block of grade anxiety comes loose -- but **do not slide into "grades don't matter"**: education still performs selection, social stratification, transferable-skill training, and credentialed access, and none of that has disappeared. What should actually change is the object of the anxiety: **from ranking to capability structure.** What you are really anxious about is not the grades themselves, but the causal chain: "bad grades -> can't get into a good university -> can't get a good job -> life is ruined." When that chain itself is breaking, the "importance" of grades drops sharply.
 
 **Face.** "What will people think if I get laid off?" "What will relatives say if I take a pay cut?" -- social comparison is a massive source of anxiety. But in an era of mass structural unemployment, getting laid off is not a reflection of personal ability; it is the tide. When the people around you are going through the same thing, "what others think of me" naturally fades -- because everyone is too busy dealing with their own situation.
 
-**Your home.** "What if property prices drop?" -- If your home is where you live, what does the price have to do with your daily life? You still live in the same place. The price only "matters" when you plan to sell. Cross "property value" off your anxiety list (unless you actually need to sell), and your anxiety drops a notch.
+**Your home.** This is the easiest one to get wrong, so it has to be split into three layers.
+
+**Layer one: the price really does not affect daily life -- but the reason is not "you still live in the same place," it is something harder than that: for a person who owns exactly one home and lives in it, whether the price goes to the moon or to the floor, it cannot be turned into cash.** You cannot sell the living room to eat better. This is the only place where "house prices have nothing to do with you" genuinely holds.
+
+**Layer two: but saying it is entirely irrelevant is dishonest -- it affects your state of mind.** It is registered in your name, after all, and a shrinking paper value really does weigh a person down, which in turn affects whether they dare to change jobs, dare to have a child, dare to take any risk at all. Mental accounting is not an illusion; it changes behavior.
+
+**Layer three, and this is the one to actually manage: leverage risk is not a paper problem, and it depends heavily on which country you are in and which stage you are at.** The collapse chain in Volume I, Chapter VI starts precisely with the home you live in -- pay cut, missed payments, negative equity, refinancing failure, unable to sell when you need to move cities for work. But how tight that chain is pulled varies enormously by place: **in markets with ample land supply, high inventory, and large price swings (China is the classic case), defaulting on the home you live in is a real risk, and it is already happening; in markets with high ownership rates, constrained supply, and poor rent-versus-buy substitutability (Singapore is the extreme example -- if you do not live in this unit, where do you live), both the room and the willingness for prices to fall are smaller, because "sell it for cash" is simply not an option for the overwhelming majority of households.** The same piece of advice means completely different things in those two markets.
+
+So the right move is not to cross "property value" off the anxiety list wholesale, but to **cross off price anxiety and keep leverage management**: what you should actually watch is not the price of your home, it is your debt ratio and your cash-flow buffer.
 
 **One-line summary: Examine your anxiety list and ask yourself, "Does this actually matter, or am I being held hostage by social inertia?"** You will find that many "important things" can actually be let go. Let go of one, and your anxiety drops by one degree.
 
@@ -1565,7 +1717,7 @@ Goal: Make at least half of your self-concept independent of work -- "I am a run
 
 **Strategy 2: Build sources of fulfillment that AI cannot replace**
 
-AI can paint better pictures than you, write better articles, and write better code. But AI cannot replace your **experience of the process**.
+On a growing share of standardized output, AI will beat the ordinary person on efficiency or on quality. But AI cannot replace your **experience of the process**.
 
 Running is not about being faster than a car. Playing guitar is not about outperforming an AI musician. Cooking is not about being more efficient than a robot. **The process is the purpose.**
 
@@ -1608,11 +1760,13 @@ Recommended practices:
 
 ### 13.7 If You Are Already in Crisis
 
+What follows is not asking you to solve structural problems on your own. When institutions are absent, the job of these items is to **bring the damage down first**.
+
 - **Losing your job is not your fault.** This is structural change. Just as a horse-carriage driver in 1900 did not lose his job because he was not working hard enough -- the automobile arrived.
 - **Seeking professional help is not weakness.** If you have felt hopeless, sleepless, or unable to concentrate for more than two weeks straight -- see a doctor. It is as normal as seeing a doctor for a cold.
 - **Downshifting is not defeat.** A former high earner delivering food is not failing -- it is being pragmatic. Being alive matters more than saving face.
 - **Do not carry it alone.** Tell someone you trust what you are going through. Shame loses its power the moment you speak it.
-- **Crisis hotlines:** China 24-hour mental health hotline 400-161-9995; Beijing Psychological Crisis Research and Intervention Center 010-82951332
+- **Crisis hotlines:** Contact the emergency services or the local crisis line **where you are** first. In mainland China you can call the 24-hour mental health hotline 400-161-9995, or the Beijing Psychological Crisis Research and Intervention Center at 010-82951332 (the Chinese numbers are listed because most readers of the Chinese edition are in a Chinese-language context; they are not meant as the only route out)
 
 ### 13.8 For the People Around You: Someone You Know May Be Struggling
 
@@ -1648,9 +1802,9 @@ In 2025, Andrej Karpathy introduced "vibe coding" -- describe what you want, and
 
 Claude Code, Cursor, and Replit Agent already enable a mid-level developer to replicate the core functionality of a medium-sized SaaS product in a matter of weeks.
 
-**The core paradigm of software engineering has been upended.** For the past 50 years, the industry pursued DRY (Don't Repeat Yourself), modularity, reusability, and scalability -- because writing code was expensive. But when AI can generate full features in minutes, the economic rationale for "reuse" vanishes. **Code shifts from "asset" to "consumable"** -- use it, discard it, regenerate when needed.
+**The core paradigm of software engineering has been upended.** For the past 50 years, the industry pursued DRY (Don't Repeat Yourself), modularity, reusability, and scalability -- because writing code was expensive. But when AI can generate full features in minutes, the economic rationale for "reuse" vanishes. **Code shifts from "asset" to "consumable"** -- use it, discard it, regenerate when needed [134].
 
-This is "disposable software" [134]. You no longer need to subscribe to a project management SaaS -- AI generates a custom version tailored to your needs in 10 minutes. Free, perfectly fitted, no monthly fee.
+This is "disposable software." A person no longer necessarily has to subscribe to a lightweight project-management SaaS -- AI can generate a good-enough custom version from a description in minutes. **But "can generate the core functionality" is not the same as "enterprises no longer need a subscription":** what SaaS sells is not only code, but stable operations, permission management, collaboration and data migration, audit logs, integration ecosystems, security and compliance, liability, and long-term maintenance. **What is actually getting squeezed is purely functional tools with no data, no embedding in workflow, no collaboration network, and no compliance liability -- not all SaaS.** Rather than "the death of SaaS," call it **a repricing of the SaaS profit pool**.
 
 **Which SaaS companies can survive?** Only those whose moat lies not in "code" but in:
 - **Data**: unique, non-replicable data (e.g., Bloomberg Terminal)
@@ -1661,7 +1815,7 @@ Everything else -- project management, CRM, forms, basic analytics -- is a pseud
 
 ### 14.3 What This Means for You Personally
 
-The same logic applies to your career and income:
+The same logic **can be borrowed** for your career and your income -- but it has to be said up front that this is a metaphor, not an isomorphism: a company owns the title to the refinery, while an individual usually only sells hours of labor, and "asset safety" is not the same thing as "income safety." So the real question for an individual is not "do I look like a heavy asset," but: **what scarcity is my income attached to -- title to a real asset, an institutional license to practice, a situation that requires physical presence, or a trust relationship that is hard to replicate?**
 
 **Ask yourself: Is my value "HALO-type" or "SaaS-type"?**
 
@@ -1681,11 +1835,10 @@ This framework is far more useful than "learn AI."
 - Real estate in core cities (location cannot be replicated)
 - Energy and infrastructure investments
 - Physical gold
-- Your own health and skills (the ultimate "heavy asset")
+- Your own health, judgment, trust relationships, and transferable capabilities (**the most important "low-obsolescence capital" at the individual level** -- note it is not called a heavy asset, because skills are exactly the thing that can go obsolete, and health is not a title deed either)
 
 **High risk ("bit world" assets):**
-- Tech stocks (especially pure software companies)
-- Anything tied to SaaS companies
+- Software companies whose revenue comes mainly from quickly replicable standardized functionality, with no data, network, compliance, or workflow embedding (**note this is not "tech stocks" as a whole** -- companies holding compute, chips, cloud infrastructure, distribution channels, or deep embedding in business processes are in a completely different position)
 - Commercial real estate dependent on white-collar spending
 - Cryptocurrency (highly volatile, but may become the payment infrastructure of the AI economy)
 
@@ -1707,7 +1860,7 @@ Time for some cold water: **most "passive income" sources are themselves under t
 - Content creation? AI can produce unlimited content
 - Rent? Depends on the city
 
-The only truly AI-resistant passive income comes from: **returns on scarce, non-replicable resources in the "atom world."** Prime urban locations, energy interests, trusted positions within specific communities.
+More AI-resistant income usually comes from three kinds of scarcity: **title to real assets** (prime urban locations, energy interests), **institutional access rights** (licenses, credentials, compliance standing), and **trust networks that are hard to replicate**. Note that the third one, strictly speaking, is not passive income -- it requires continuous maintenance, and it decays if you stop showing up.
 
 For most ordinary people, rather than chasing "passive income," pursue **"low burn rate"** -- reduce fixed expenses so you can hold on even when income drops.
 
@@ -1737,15 +1890,9 @@ The prompt engineering you learn in 2025 may be useless by 2027. Claude Code its
 
 - **2025-2028**: Use AI tools to amplify your existing skills -- the highest-ROI window
 - **2028-2032**: Physical skills appreciate; judgment and trust relationships become core assets
-- **2032-2040**: Humanoid robots mature, closing the physical-skills window too; value may reside solely in "humanness" -- trust, companionship, emotional connection
+- **From the late 2030s (timing highly uncertain)**: if humanoid robots achieve low-cost scale, the window for **some standardized physical skills** will narrow; but complex on-site work, accountability-bearing situations, and trust-based services may last considerably longer. Value concentrates further into "humanness" -- trust, companionship, showing up, signing your name
 
 **The greatest danger is applying last phase's strategy to the next phase.**
-
----
-
----
-
----
 
 ## XV. Time and Circumstance: Different Windows, Different Groups
 
@@ -1757,7 +1904,7 @@ The prompt engineering you learn in 2025 may be useless by 2027. Claude Code its
 
 **What you can do:**
 - Use AI to amplify your existing capabilities -- not "learn AI," but "use AI to do what you already do, faster and better"
-- This is your highest-earning window -- save what you earn, reduce leverage
+- For white-collar workers and founders who **still have monetizable skills and can raise their output with AI quickly**, this may be the best earning window of the next decade or so -- save what you earn, cut leverage (this does not apply to students, low earners, public-sector workers, or the already retired)
 - Expand your social network -- in an economic crisis, connections are more valuable than resumes
 - Cultivate at least one "HALO-type" skill or income source
 
@@ -1804,7 +1951,7 @@ This phase is too distant for specific strategies to matter much. The only certa
 
 #### 15.4.3 Manual Laborers and Low-Income Groups (Bottom 30%)
 
-**Paradoxically, safer than white-collar workers in the short term** -- AI replaces cognitive labor first. Humanoid robots are still 5-10 years out.
+**Paradoxically, some of them are safer than white-collar workers in the short term** -- AI replaces cognitive labor first, and humanoid robots are still 5-10 years out. **But the "bottom 30%" is not a homogeneous group**: the ones who are safer in the short term hold blue-collar jobs with steady demand, on-site necessity, and a skill barrier (plumbing, welding, pipefitting, electrical work). Low-skill service work, platform gig work, and standardizable back-office jobs are as fragile as white-collar work -- and often have even less cushion.
 
 **What you can do:** Use the window to learn trade skills that are in high demand and short supply. Protect your body. Build community mutual-aid networks.
 **What you need (but cannot achieve alone):** Government retraining programs, a social safety net that catches you, distribution reform.
@@ -1825,7 +1972,7 @@ But this is not bad news. **This is liberation.**
 
 Think about it: you push your child to cram, attend tutoring classes, chase grades -- for what? So they can "get a good job and earn good money." But if the endgame of the AI era is radical material abundance and humans do not need to work to survive, the entire premise of that logic chain ceases to exist.
 
-**You are forcing your child to prepare for an exam that will never take place.**
+**You may be forcing your child to prepare for an exam whose rules are being rewritten.** (Saying "an exam that will never happen" is claiming too much -- if institutions fail to catch up, competition will not disappear. It may get more brutal, only screening for different things.)
 
 This does not mean education is unimportant. It means the purpose of education needs to be fundamentally redefined: not "beat everyone else," but **"become a whole person capable of enjoying life."**
 
@@ -1835,7 +1982,7 @@ This does not mean education is unimportant. It means the purpose of education n
 
 **Curiosity.** Not "studying for the exam" curiosity, but "this is fascinating and I want to figure it out" curiosity. The only "skill" that will never become obsolete in the AI era is the impulse to learn something new.
 
-**Social skills and empathy.** Real human connection -- trust, friendship, love -- is the scarcest resource in the AI era. A child with three or five close friends will fare far better in the future than one with a 4.0 GPA but no friends.
+**Social skills and empathy.** Real human connection -- trust, friendship, love -- is the scarcest resource in the AI era. High scores are no substitute for stable relationships, emotional capacity, and the ability to cooperate in the real world -- and the two were never opposed to begin with. Education in the future should not optimize only for grades; it should also leave children room to develop friendships, interests, and self-regulation.
 
 **Physical fitness.** A healthy body is the prerequisite for all options. And bodily sensations -- the exhilaration of running, the feel of water against skin while swimming -- are things AI can never experience, nor replace your experience of.
 
@@ -1850,9 +1997,9 @@ This does not mean education is unimportant. It means the purpose of education n
 
 ### 16.4 A Different Perspective
 
-Your child may be the first generation in human history that **does not need to work to survive.**
+Your child **may** be the first generation in human history that does not need to work to survive -- **that is a conditional, not a promise**: it holds only if the distribution system is fixed before then. If it is not, what they face may be weaker labor bargaining power and a longer competition. So the correct move is **double preparation**: do not compress the purpose of education down to exams and employment, but do not assume employment competition will disappear either -- preserve basic cognitive ability, the ability to express themselves, and numeracy and scientific literacy, while dropping the obsession with any single path.
 
-What does that mean? It means they can spend their entire lives doing what they truly want to do. Painting, exploring, studying dinosaurs, learning to bake bread, making friends, falling in love, seeing the world -- not "endure decades of work to earn money and then maybe enjoy retirement," but **living the life they want from the very start.**
+If that condition does hold, what does it mean? It means they can spend their entire lives doing what they truly want to do. Painting, exploring, studying dinosaurs, learning to bake bread, making friends, falling in love, seeing the world -- not "endure decades of work to earn money and then maybe enjoy retirement," but **living the life they want from the very start.**
 
 The ones who land on Mars and travel between stars will most likely be robots and AI, not your child. And that is fine. Your child does not need to land on Mars -- they need to be happy on Earth.
 
@@ -1866,7 +2013,7 @@ The ones who land on Mars and travel between stars will most likely be robots an
 
 ## XVII. The Good Things AI Brings: This Chapter May Be Longer Than You Expect
 
-The first eight chapters focused on defense. But an article that only talks about threats and not opportunities would be dishonest. Because while AI is dismantling the old world, it is simultaneously creating a wealth of things that were never before possible.
+The preceding chapters said a great deal about defense. But a volume that only talks about threats and never about opportunities would be dishonest. Because while AI is dismantling the old world, it is simultaneously creating a wealth of things that were never before possible.
 
 ### 17.1 Healthcare: For the First Time, the Poor Can Afford a Good Doctor
 
@@ -1875,21 +2022,21 @@ This may be the most direct benefit AI offers ordinary people.
 **AI is democratizing diagnosis.** Getting a top doctor's opinion used to require booking a specialist months in advance or flying to a major city's best hospital. Now an AI-assisted diagnostic tool can deliver near-expert-level analysis in minutes.
 
 Specific advances:
-- Across a range of imaging-screening tasks, AI-assisted reading has measurably raised early cancer detection rates — for a patient the difference is finding it sooner, with a wider window to intervene
-- An AI blood test in clinical trials in the UK can detect **12 types of cancer** from just **10 drops of blood** with accuracy as high as **99%**
+- Across a range of imaging-screening tasks, AI-assisted reading has measurably raised early cancer detection rates -- for a patient the difference is finding it sooner, with a wider window to intervene
+- Multi-cancer early detection (MCED) blood tests are in clinical trials -- the route of screening for multiple cancers from a single blood draw has been demonstrated, but **it is not yet in routine clinical use, and the high accuracy figures in the reports come from trial conditions and do not equal population-screening performance**
 - Mental health chatbots are already providing 24/7 emotional support -- for those who cannot get a counseling appointment, this is something where there was previously nothing
 - AI medical tools support real-time multilingual translation -- rural elderly who do not speak Mandarin, immigrants who do not speak the local language, can access medical information without barriers for the first time
 
-**AI is also accelerating drug development.** The figures usually quoted in the industry are that taking a new drug from scratch to market runs **over a decade** and costs on the order of **billions of dollars** (that number amortises failed programmes, and definitions vary widely). AI is expected to compress the front end sharply — **note that this is an expectation, not a delivered average**:
-- Insilico Medicine used an AI platform to design drug candidates targeting the cancer target KRAS (notoriously "undruggable"), screening at a scale no wet-lab campaign could reach
+**AI is also accelerating drug development.** The figures usually quoted in the industry are that taking a new drug from scratch to market runs **over a decade** and costs on the order of **billions of dollars** (that number amortises failed programmes, and definitions vary widely). AI is expected to compress the front end sharply -- **note that this is an expectation, not a delivered average**:
+- Insilico Medicine used an AI platform to design candidate molecules against KRAS, a target long regarded as "undruggable," screening at a scale no wet-lab campaign could reach
 - Google DeepMind used AI to discover a previously unknown protein interaction critical to cancer cell survival -- something traditional methods would have been virtually incapable of finding
 - 2025 saw the largest number of AI-originated molecules entering clinical trials, concentrated in oncology, fibrosis, autoimmune diseases, and rare diseases
 
-**One case from August 2026 is worth taking apart on its own — because it shows both the power of this route and its limits at the same time.**
+**One case from August 2026 is worth taking apart on its own -- because it shows both the power of this route and its limits at the same time.**
 
-On 19 August 2026, Merck and Moderna released topline results from INTerpath-001, the Phase 3 trial of the individualised cancer vaccine intismeran autogene (mRNA-4157): **1,137 patients** with completely resected stage IIB-IV cutaneous melanoma, randomised 2:1, with the primary endpoint of recurrence-free survival (RFS) and the key secondary endpoint of distant metastasis-free survival (DMFS) **both statistically significant and clinically meaningful**. Moderna closed that day at $174.38 against a prior close of $62.96 — **+176.97% in a single session** [140].
+On 19 August 2026, Merck and Moderna released topline results from INTerpath-001, the Phase 3 trial of the individualised cancer vaccine intismeran autogene (mRNA-4157): **1,137 patients** with completely resected stage IIB-IV cutaneous melanoma, randomised 2:1, with the primary endpoint of recurrence-free survival (RFS) and the key secondary endpoint of distant metastasis-free survival (DMFS) **both statistically significant and clinically meaningful**. Moderna closed that day at $174.38 against a prior close of $62.96 -- **+176.97% in a single session** [140].
 
-The technical point here is specific: this is not one drug given to every patient. It sequences **each patient's own tumour**, uses an algorithm to select and rank the neoantigens from that mutation profile most likely to be recognised by the immune system, and then synthesises an mRNA construct belonging to that one person — encoding up to **34 neoantigens** per dose. **"Algorithmic target selection" is not an assistive tool here; it is the precondition for the route existing at all**: without automated neoantigen selection and ranking, "make a separate vaccine for every individual" simply does not run as an engineering proposition [141].
+The technical point here is specific: this is not one drug given to every patient. It sequences **each patient's own tumour**, uses an algorithm to select and rank the neoantigens from that mutation profile most likely to be recognised by the immune system, and then synthesises an mRNA construct belonging to that one person -- encoding up to **34 neoantigens** per dose. **"Algorithmic target selection" is not an assistive tool here; it is the precondition for the route existing at all**: without automated neoantigen selection and ranking, "make a separate vaccine for every individual" simply does not run as an engineering proposition [141].
 
 **But two things have to be kept apart, or this becomes hype:**
 
@@ -1898,7 +2045,7 @@ The technical point here is specific: this is not one drug given to every patien
 
 Even discounted heavily, this remains the hardest single example supporting this section's argument: **once the marginal cost of screening and design falls far enough, "making one drug for one person" moves from economically impossible to economically possible.** Which is exactly what the next paragraph is about.
 
-**Rare disease patients may be the biggest beneficiaries.** The figure usually cited for rare-disease patients worldwide is around 300 million (definitions differ between bodies, and estimates vary accordingly); most conditions attract no pharmaceutical investment because patient populations are too small and markets too limited. AI dramatically lowers R&D costs -- niche diseases that were previously not worth pursuing may now become viable.
+**Rare disease patients may be the biggest beneficiaries.** The figure usually cited for rare-disease patients worldwide is around 300 million (definitions differ between bodies, and estimates vary accordingly); most of these conditions attract no pharmaceutical investment because patient populations are too small and markets too limited. AI may lower the cost of target discovery and candidate screening, making it easier for some rare-disease programmes to **start**. Whether they actually reach market, and whether patients can afford them, still turns on trial recruitment, endpoints, regulatory approval, manufacturing cost, and payer reimbursement -- **falling R&D cost is a necessary condition, not a sufficient one.**
 
 ### 17.2 Accessibility: The World Is Opening Up for People With Disabilities and the Elderly
 
@@ -1912,11 +2059,11 @@ This is a severely underestimated area.
 
 **For those with cognitive impairments/the elderly:** AI companion robots can chat with dementia patients, conduct cognitive training, monitor mood changes, and remind them to take medication. South Korea has already deployed more than **5,400** AI companion robots across 115 local governments.
 
-**For these groups, AI is not "replacement" -- it is "empowerment."** It grants them independence and dignity they never had before. This may be the purest benefit of AI, free of any negative controversy.
+**For these groups, AI is not "replacement" -- it is "empowerment."** It grants them independence and dignity they never had before. This is one of the least contested applications of AI, with the clearest positive externalities -- but it is not free of cost either: privacy and surveillance, algorithmic misjudgment, machine companionship displacing human contact, device dependence, data security, and "the service exists but you cannot afford it" are all still open problems.
 
 ### 17.3 Education: The Best Tutor in History, for Free
 
-AI may be the greatest equalizer in education.
+AI may be the most powerful equalizer yet for access to educational resources.
 
 What used to be required to access top-tier educational resources? A house in the right school district (millions of yuan), international school tuition (hundreds of thousands per year), one-on-one tutoring (hundreds per hour). Poor children and rich children were never on the same track from the starting line.
 
@@ -1934,9 +2081,9 @@ In the 2024-2025 school year, **60%** of U.S. K-12 teachers were using AI tools,
 
 This is AI's greatest gift to people with initiative.
 
-**Sam Altman predicts that the first "one-person billion-dollar company" will emerge between 2026 and 2028.** Anthropic CEO Dario Amodei believes there is a **70-80%** probability of this happening by 2026.
+**Sam Altman has publicly predicted the arrival of the first "one-person billion-dollar company."** Whether that comes with a firm timetable is arguable, but the direction it points to is clear: once the capacity a single person can command is no longer bounded by headcount, "company size" and "output size" come apart.
 
-This is not hyperbole. Take Midjourney: a private company that discloses no financials, and outside estimates disagree on both headcount and revenue — **but every set of figures lands revenue-per-employee in the millions of dollars a year**, an order of magnitude above a conventional software company. What if you compressed that further to one person?
+This is not hyperbole. Take Midjourney: a private company that discloses no financials, and outside estimates disagree on both headcount and revenue -- **but every set of figures lands revenue-per-employee in the millions of dollars a year**, an order of magnitude above a conventional software company. What if you compressed that further to one person?
 
 AI lets a single individual do what used to require a team:
 - **Programming**: Claude Code lets one person run 4-10 AI coding agents simultaneously, equivalent to a small development team
@@ -1945,7 +2092,7 @@ AI lets a single individual do what used to require a team:
 - **Customer service**: AI handles 90% of routine inquiries; you handle the 10% that are complex
 - **Finance/Legal**: AI handles basic compliance; you make strategic decisions
 
-**What does this mean?** It means entrepreneurship is no longer a game reserved for the wealthy. You do not need funding, employees, or an office. You need a good idea, basic judgment, and a computer with internet access.
+**What does this mean?** It means that building the first version of a product is no longer a game reserved for the wealthy. You do not need funding, employees, or an office. You need a good idea, basic judgment, and a computer with internet access.
 
 The probability of success is still low -- most startups fail, and AI will not change that. But the cost of failure approaches zero. Try an idea; if it doesn't work, discard it and try another. A single attempt used to cost millions; now it costs a few weeks and a few hundred dollars in API fees.
 
@@ -1970,7 +2117,7 @@ Summing up the benefits above, the core cognitive shift is:
 - Your accessibility assistant (if you have any physical limitations)
 - Your translator, secretary, researcher, and designer
 
-**The same AI is a threat to one person ("it can do my job") and a superpower for another ("it can help me do ten times as much").** The difference lies not in AI itself, but in how you see it and how you use it.
+**The same AI is a threat to one person ("it can do my job") and a superpower for another ("it can help me do ten times as much").** Part of the difference lies in how you see it and how you use it -- **but only part.** For people with skills, time, equipment, and room to fail, AI is an amplifier. For people already sitting in a job being replaced, with no cushion and no bargaining power, it is first of all a structural shock, and mindset has nothing to do with it. **How you use it matters, but it is no substitute for institutional protection** -- the line drawn in 15.2 and 15.4.2 of this volume still holds here: some things an individual cannot do, and no amount of "look at it differently" changes that.
 
 One designer worries AI will replace them -- but another uses AI to generate 50 concepts a day, then applies their own aesthetic judgment to pick the best 3. The latter produces 10x more than the former.
 
@@ -1990,7 +2137,9 @@ Many who took their own lives during the Great Depression were not the poorest -
 
 What should the narrative of the AI era be?
 
-**Not "the apocalypse is here." Not "everything will be fine." Rather: "The next few years will be hard, but the hard part has an end. Survive the transition, and what lies beyond is very likely a better world."**
+**Not "the apocalypse is here." Not "everything will be fine." Rather: "The next few years will be hard, and whether the hard part has an end depends on whether institutions catch up."**
+
+Say that precisely. There is exactly one conclusion the technological trend supports: **productive capacity will rise.** It does not imply that ordinary people get a share. If distribution systems, public services, and the social safety net keep up, the world after AI could be markedly better. If they do not, **technological abundance can coexist perfectly well with ordinary poverty.** So what has to be survived is not a technology gap; it is the **period of institutional reconstruction.**
 
 This is not blind optimism. It is a rational assessment based on technological trends:
 - The cost of AI is falling exponentially -- Sam Altman predicts a tenfold drop per year
@@ -2015,15 +2164,7 @@ As analyzed in Volume I, 9.2–9.3: age-reversal technology and AI medicine may 
 - Adequate sleep (7-8 hours)
 - Weight management
 - Regular health checkups
-- Maintaining social connections -- the health damage of loneliness is equivalent to smoking 15 cigarettes a day
-
----
-
----
-
----
-
----
+- Maintaining social connections -- and this one has hard data behind it: a meta-analysis covering 148 studies and 308,849 participants found that people with stronger social relationships had a **50%** greater likelihood of survival (OR = 1.50), an effect size in the same league as smoking, obesity, and other established mortality risk factors [137]
 
 # Conclusion · Crossing the Transition
 
@@ -2375,3 +2516,14 @@ Source / Project: [github.com/pkusnail/GPUs-Wombs-and-Money-Printers](https://gi
 [139] People's Daily, report on the sea net-capture recovery of the Long March 10B first stage, July 2026 (China's first successful controlled recovery of a reusable launch vehicle first stage; performed by net capture on a sea platform, reported as the world's first net-based recovery). https://en.people.cn/n3/2026/0722/c90000-20480453.html
 [140] Merck & Moderna, "Merck and Moderna Announce Phase 3 INTerpath-001 Trial of Intismeran Autogene Plus KEYTRUDA," 19 August 2026 (1,137 patients with completely resected stage IIB-IV cutaneous melanoma, randomised 2:1; primary endpoint RFS and key secondary endpoint DMFS met; the topline release disclosed no HR, confidence interval, p-value, event counts or follow-up duration); MRNA closed at $174.38 vs a prior close of $62.96, +176.97%. https://www.nasdaq.com/press-release/merck-and-moderna-announce-phase-3-interpath-001-trial-intismeran-autogene-plus
 [141] Merck, "Moderna and Merck Present 5-Year Data for Intismeran Autogene in Combination with KEYTRUDA," (Phase 2b KEYNOTE-942: n=157, resected stage III/IV melanoma, median follow-up 60.3 months; RFS risk reduction 49%, HR=0.51, 95% CI 0.294-0.887; DMFS risk reduction 59%, HR=0.411, 95% CI 0.200-0.843; the vaccine comprises algorithmically derived individualised neoantigen sequences encoding up to 34 neoantigens per dose). https://www.merck.com/news/moderna-and-merck-present-5-year-data-for-intismeran-autogene-in-combination-with-keytruda-pembrolizumab-in-patients-with-high-risk-stage-iii-iv-melanoma-following-complete-resection-at-the-20/
+[142] OECD, Education at a Glance 2024 / 2025 (tertiary attainment among 25-34 year-olds: 55% of women against 42% of men, a 13-percentage-point gap in women's favor; Mexico is one of the few member states where young women have not overtaken young men). https://www.oecd.org/en/publications/education-at-a-glance-2024_c00cad36-en/full-report/to-what-level-have-adults-studied_514be7b8.html
+[143] Esteve, A. et al., "The End of Hypergamy: Global Trends and Implications," Population and Development Review, 2016 (120 countries, 1960-2011, 420 samples; the rise in women's educational advantage is matched by a rise in couples where the wife is more educated than the husband). https://pmc.ncbi.nlm.nih.gov/articles/PMC5421994/
+[144] Erát, D., "Educational assortative mating and the decline of hypergamy in 27 European countries," Demographic Research 44(7), 2021 (27 countries, 9 rounds of the European Social Survey, 7 birth cohorts; upward matching declines by cohort while downward matching rises). https://www.demographic-research.org/articles/volume/44/7
+[145] National Bureau of Statistics of China, historical series on the urban share of population (19.39% in 1980; 67.9% at the end of 2025). https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958332.html
+[146] Third Survey on the Social Status of Women in China (2010) and related national surveys (21% of rural women without land against 11% of rural men; 92.4% of men with contracted land held in their own name against 81.2% of women; 8.1% of women lost land due to a change in marital status against 1.1% of men); Civil Code Article 1126, Rural Land Contracting Law Article 6. https://www.npc.gov.cn/zgrdw/npc/lfzt/rlyw/2018-12/28/content_2069481.htm
+[147] Zhang & Li, China Population and Development Studies, 2023 (2020 census: 8.82 million never-married rural men aged 35 and over, 5.7% of the group, against 3.62% in cities; among never-married men aged 50 and over, rural areas exceed cities by 2.03 million). https://link.springer.com/article/10.1007/s42379-023-00143-2
+[148] "Love, life, and 'leftover ladies'," 2021 (CGSS 2008/2010/2011 and CFPS 2010/2012; among urban women over 27, a university education lowers the probability of marriage by 2.88%-3.6%, and a postgraduate degree lowers it a further 8.4%-10.4%). https://www.sciencedirect.com/science/article/pii/S1043951X21000444
+[149] "Bride Drain," Journal of Development Economics, 2019 (the outflow of rural women lowers rural men's probability of marrying and amplifies the effect of the sex-ratio imbalance; no corresponding "groom drain" was found). https://www.sciencedirect.com/science/article/pii/S0927537119300363
+[150] Journal of Development Economics, 2026 (the probability of a single person in China marrying fell to half its 1999 level between 1999 and 2019; changes in the supply structure of the educated population explain roughly half of the decline). https://www.sciencedirect.com/science/article/abs/pii/S0304387825001804
+[151] Research on the sex ratio at birth and the male surplus (China's sex ratio at birth peaked at 121.18 in 2004; at one point there were roughly 32 million more males than females under the age of 20; model estimates of the marriage squeeze). https://pmc.ncbi.nlm.nih.gov/articles/PMC3168620/
+[152] Research on China's 2001 divorce law reform and sex selection (after women's property rights were strengthened, families whose first child was a girl were 8.1 percentage points less likely to go on to have a boy). https://www.sciencedirect.com/science/article/pii/S0304387815001327
