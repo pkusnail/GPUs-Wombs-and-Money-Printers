@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+ <rect width="1200" height="800" fill="#0A0A0A"/>
+
+ <!-- Title -->
+ <text x="600" y="45" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold">AI Shock by Country: Displacement Risk vs Absorption</text>
+ <text x="600" y="68" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Note: positions show direction, not precise coordinates. Divergence within countries often exceeds divergence between them.</text>
+
+ <!-- Axes -->
+ <line x1="150" y1="400" x2="1100" y2="400" stroke="#444" stroke-width="1.5"/>
+ <line x1="600" y1="100" x2="600" y2="720" stroke="#444" stroke-width="1.5"/>
+
+ <!-- Axis labels -->
+ <text x="1090" y="390" text-anchor="end" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Displacement risk high →</text>
+ <text x="170" y="390" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">← low</text>
+ <text x="610" y="115" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">↑ Absorption strong</text>
+ <text x="610" y="710" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">↓ Absorption weak</text>
+
+ <!-- Quadrant labels -->
+ <text x="370" y="160" text-anchor="middle" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" opacity="0.4">Steady change</text>
+ <text x="870" y="160" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" opacity="0.4">Pain, then gain</text>
+ <text x="370" y="640" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" opacity="0.4">Watching for now</text>
+ <text x="870" y="640" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" opacity="0.4">First in line</text>
+
+ <!-- Country dots -->
+ <!-- Nordic cluster (upper right) -->
+ <circle cx="790" cy="170" r="18" fill="#00BCD4" fill-opacity="0.6"/>
+ <text x="790" y="175" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Finland</text>
+ <circle cx="840" cy="200" r="16" fill="#00BCD4" fill-opacity="0.5"/>
+ <text x="840" y="205" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Denmark</text>
+ <circle cx="750" cy="210" r="16" fill="#00BCD4" fill-opacity="0.5"/>
+ <text x="750" y="215" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Sweden</text>
+
+ <!-- Singapore (upper right, special) -->
+ <circle cx="880" cy="230" r="16" fill="#00BCD4" fill-opacity="0.5"/>
+ <text x="880" y="235" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Singapore</text>
+ <text x="880" y="250" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">CPF ≈ 37% of pay</text>
+
+ <!-- Germany, France, Canada, Australia (upper left) -->
+ <circle cx="430" cy="220" r="18" fill="#2196F3" fill-opacity="0.5"/>
+ <text x="430" y="225" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Germany</text>
+ <circle cx="370" cy="250" r="16" fill="#2196F3" fill-opacity="0.4"/>
+ <text x="370" y="255" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">France</text>
+ <circle cx="480" cy="270" r="14" fill="#2196F3" fill-opacity="0.4"/>
+ <text x="480" y="275" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">Canada</text>
+ <circle cx="420" cy="300" r="14" fill="#2196F3" fill-opacity="0.4"/>
+ <text x="420" y="305" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">Australia</text>
+
+ <!-- US, UK (right, middle Y) -->
+ <circle cx="920" cy="310" r="22" fill="#FF9800" fill-opacity="0.5"/>
+ <text x="920" y="315" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">USA</text>
+ <text x="920" y="330" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">Flexible, thin safety net</text>
+ <circle cx="840" cy="340" r="16" fill="#FF9800" fill-opacity="0.4"/>
+ <text x="840" y="345" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">UK</text>
+
+ <!-- Japan, Korea (right, near boundary) -->
+ <circle cx="800" cy="380" r="18" fill="#FF9800" fill-opacity="0.4"/>
+ <text x="800" y="372" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Japan</text>
+ <text x="800" y="392" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">Net OK, rigid market</text>
+ <circle cx="870" cy="430" r="16" fill="#FF4444" fill-opacity="0.4"/>
+ <text x="870" y="435" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold">Korea</text>
+ <text x="870" y="450" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">Weakest net in OECD</text>
+
+ <!-- China (right-ish, below boundary) -->
+ <circle cx="760" cy="480" r="24" fill="#FF4444" fill-opacity="0.5"/>
+ <text x="760" y="475" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">China</text>
+ <text x="760" y="495" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">Fast decisions, tight fiscal</text>
+
+ <!-- India IT (right lower) -->
+ <circle cx="850" cy="560" r="14" fill="#FF4444" fill-opacity="0.4"/>
+ <text x="850" y="556" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">India IT</text>
+ <text x="850" y="572" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">5M directly exposed</text>
+
+ <!-- India overall (left lower) -->
+ <circle cx="400" cy="580" r="16" fill="#888888" fill-opacity="0.4"/>
+ <text x="400" y="576" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">India total</text>
+ <text x="400" y="592" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">500M workers, mostly farming</text>
+
+ <!-- Brazil (left lower) -->
+ <circle cx="340" cy="510" r="14" fill="#888888" fill-opacity="0.4"/>
+ <text x="340" y="515" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">Brazil</text>
+
+ <!-- Indonesia, Africa (far left lower) -->
+ <circle cx="250" cy="570" r="14" fill="#888888" fill-opacity="0.3"/>
+ <text x="250" y="575" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" fill-opacity="0.7">Indonesia</text>
+ <circle cx="210" cy="620" r="14" fill="#888888" fill-opacity="0.2"/>
+ <text x="210" y="625" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" fill-opacity="0.5">Africa</text>
+
+ <!-- UAE/Saudi (left lower, with arrow pointing right) -->
+ <circle cx="300" cy="460" r="14" fill="#FF9800" fill-opacity="0.4"/>
+ <text x="300" y="456" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">UAE</text>
+ <text x="300" y="472" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8">Moving right by choice →</text>
+ <line x1="318" y1="460" x2="360" y2="460" stroke="#FF9800" stroke-width="1" stroke-dasharray="4,3"/>
+ <polygon points="358,455 368,460 358,465" fill="#FF9800" opacity="0.5"/>
+
+ <!-- Legend -->
+ <rect x="80" y="730" width="1040" height="55" rx="8" fill="#FFFFFF" fill-opacity="0.03"/>
+ <text x="120" y="755" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Backed by:</text>
+ <text x="220" y="755" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">X axis — IMF AI job exposure + knowledge-economy share</text>
+ <text x="620" y="755" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Y axis — OECD social spend/GDP + labour mobility + fiscal space</text>
+ <text x="120" y="775" fill="#555555" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10">Source: IMF (2024) · OECD SOCX (2024) · Oxford AI Readiness Index (2025) · IMD Digital Competitiveness (2024)</text>
+</svg>

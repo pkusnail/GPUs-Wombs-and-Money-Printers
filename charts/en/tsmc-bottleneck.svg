@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+ <rect width="1200" height="600" fill="#0A0A0A"/>
+
+ <!-- Title -->
+ <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">Global AI's Single Point of Failure: The Chip Chokepoint</text>
+
+ <!-- Funnel: Top - wide -->
+ <rect x="200" y="90" width="800" height="60" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+ <text x="600" y="125" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16">Global AI compute demand (trillion-dollar market)</text>
+ <line x1="600" y1="150" x2="600" y2="170" stroke="#555" stroke-width="1"/>
+ <polygon points="594,170 606,170 600,178" fill="#555"/>
+
+ <!-- Funnel: Design -->
+ <rect x="280" y="180" width="640" height="60" rx="8" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1"/>
+ <text x="600" y="215" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">AI chip design: NVIDIA · AMD · Google · HiSilicon</text>
+ <line x1="600" y1="240" x2="600" y2="260" stroke="#555" stroke-width="1"/>
+ <polygon points="594,260 606,260 600,268" fill="#555"/>
+
+ <!-- Funnel: TSMC BOTTLENECK - highlighted -->
+ <rect x="350" y="270" width="500" height="100" rx="12" fill="#FF4444" fill-opacity="0.15" stroke="#FF4444" stroke-width="2.5"/>
+
+ <!-- Pulsing glow effect -->
+ <rect x="355" y="275" width="490" height="90" rx="10" fill="none" stroke="#FF4444" stroke-width="1" opacity="0.4"/>
+
+ <text x="600" y="300" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold">TSMC — The Bottleneck</text>
+ <text x="600" y="325" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">67% of global foundry · 90%+ of sub-7nm nodes</text>
+ <text x="600" y="348" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Every major AI chip (H100/B200/MI300/TPU) = one supplier</text>
+
+ <!-- Warning labels on sides -->
+ <text x="330" y="310" text-anchor="end" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22"></text>
+ <text x="870" y="310" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22"></text>
+
+ <line x1="600" y1="370" x2="600" y2="390" stroke="#555" stroke-width="1"/>
+ <polygon points="594,390 606,390 600,398" fill="#555"/>
+
+ <!-- Funnel: Training -->
+ <rect x="280" y="400" width="640" height="60" rx="8" fill="#2196F3" fill-opacity="0.1" stroke="#2196F3" stroke-width="1"/>
+ <text x="600" y="435" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">AI training and inference (global data centers)</text>
+ <line x1="600" y1="460" x2="600" y2="480" stroke="#555" stroke-width="1"/>
+ <polygon points="594,480 606,480 600,488" fill="#555"/>
+
+ <!-- Funnel: Bottom - wide -->
+ <rect x="200" y="490" width="800" height="50" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#333" stroke-width="1"/>
+ <text x="600" y="520" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">AI applications and services (touching everyone's life)</text>
+
+ <!-- Side notes -->
+ <rect x="30" y="270" width="280" height="100" rx="8" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+ <text x="170" y="295" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Challengers</text>
+ <text x="50" y="318" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Samsung 3nm GAA — yields far below TSMC</text>
+ <text x="50" y="338" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Intel 18A — just starting, no AI customers</text>
+ <text x="50" y="358" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">No change in the near term</text>
+
+ <rect x="890" y="270" width="280" height="100" rx="8" fill="#2196F3" fill-opacity="0.06" stroke="#2196F3" stroke-width="1"/>
+ <text x="1030" y="295" text-anchor="middle" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">National responses</text>
+ <text x="910" y="318" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11"> US CHIPS Act — $50B+</text>
+ <text x="910" y="338" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11"> EU Chips Act — €43B</text>
+ <text x="910" y="358" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11"> China self-reliance — ongoing</text>
+
+ <text x="600" y="580" text-anchor="middle" fill="#444444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10">Source: TSMC 2025 Q1 results · SemiWiki · Astute Group</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880">
+<rect width="1200" height="880" fill="#0A0A0A"/>
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">A New Ruler: Redefining Wealth and Status</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Not about refusing to measure — people always measure. It is about changing the source of the reading</text>
+<text x="300" y="120" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Old reading · the number comes from outside</text>
+<text x="900" y="120" text-anchor="middle" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">New reading · the number is not in the market</text>
+<rect x="70" y="146" width="460" height="90" rx="9" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.2"/>
+<text x="102" y="202" text-anchor="start" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold">W</text>
+<text x="160" y="188" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Wealth: how much money, assets, title</text>
+<text x="160" y="214" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Satisfaction comes from how others see me</text>
+<path d="M548,191 L586,191" stroke="#888888" stroke-width="2"/>
+<path d="M586,184 L600,191 L586,198 z" fill="#888888"/>
+<rect x="614" y="146" width="516" height="90" rx="9" fill="#4CAF50" fill-opacity="0.12" stroke="#4CAF50" stroke-width="2"/>
+<text x="646" y="202" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold">W</text>
+<text x="706" y="188" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="bold">Wealth = nothing lacking within</text>
+<text x="706" y="216" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">The reading is internal</text>
+<rect x="70" y="258" width="460" height="90" rx="9" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.2"/>
+<text x="102" y="314" text-anchor="start" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold">S</text>
+<text x="160" y="300" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Status: where other people place you</text>
+<text x="160" y="326" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Satisfaction comes from how others see me</text>
+<path d="M548,303 L586,303" stroke="#888888" stroke-width="2"/>
+<path d="M586,296 L600,303 L586,310 z" fill="#888888"/>
+<rect x="614" y="258" width="516" height="90" rx="9" fill="#00BCD4" fill-opacity="0.12" stroke="#00BCD4" stroke-width="2"/>
+<text x="646" y="314" text-anchor="start" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold">S</text>
+<text x="706" y="300" text-anchor="start" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="bold">Status = being needed by others</text>
+<text x="706" y="328" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">The reading lives in relationships</text>
+<rect x="70" y="376" width="520" height="196" rx="9" fill="#4CAF50" fill-opacity="0.07" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="96" y="408" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Mechanism of Wealth: self-consistency</text>
+<text x="96" y="438" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">No dependence on outside judgement — you read it yourself.</text>
+<text x="96" y="462" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">And no reaching outward — you need both halves.</text>
+<text x="96" y="486" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">With only "no dependence", people still keep asking.</text>
+<line x1="96" y1="522" x2="564" y2="522" stroke="#4CAF50" stroke-width="1" opacity="0.35"/>
+<text x="96" y="546" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Test: for the same act (earning money, say),</text>
+<text x="96" y="566" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">does the satisfaction come from others, or from yourself?</text>
+<rect x="610" y="376" width="520" height="196" rx="9" fill="#00BCD4" fill-opacity="0.07" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="636" y="408" text-anchor="start" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Mechanism of Status: how you treat those near you</text>
+<text x="636" y="438" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">The source isn't inside you; it is in the relationship.</text>
+<text x="636" y="462" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">This blocks the worst pathology of self-consistency —</text>
+<text x="636" y="486" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">self-enclosure. One foot stays outside, in relationships.</text>
+<line x1="636" y1="522" x2="1104" y2="522" stroke="#00BCD4" stroke-width="1" opacity="0.35"/>
+<text x="636" y="546" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">One reading inward, one outward, so you don't shrink,</text>
+<text x="636" y="566" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">and don't fall back into market pricing.</text>
+<rect x="70" y="594" width="520" height="142" rx="9" fill="#2196F3" fill-opacity="0.07" stroke="#2196F3" stroke-width="1.5"/>
+<text x="96" y="626" text-anchor="start" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Precondition: health</text>
+<text x="96" y="656" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">Not a peer item but a precondition — without it neither reads.</text>
+<text x="96" y="686" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">And there is an irony here: chasing big outcomes means</text>
+<text x="96" y="710" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">being busy — you may not live to collect the payout.</text>
+<rect x="610" y="594" width="520" height="142" rx="9" fill="#9C27B0" fill-opacity="0.07" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="636" y="626" text-anchor="start" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Practice: happiness is a skill, not a trait</text>
+<text x="636" y="656" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">If it were a trait, this volume is useless — traits can't be taught.</text>
+<text x="636" y="686" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">And "skill" does extra work: skills can be poor, trained,</text>
+<text x="636" y="710" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">or decay — but a skill isn't virtue. Lacking it isn't a sin.</text>
+<rect x="70" y="758" width="1060" height="96" rx="9" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.8"/>
+<text x="600" y="790" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">The old ruler isn't abolished, nor the words wealth and status — only the source of the reading</text>
+<text x="600" y="818" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">Telling people not to care about wealth or status fails — the desire won't vanish. Redefine what counts, and the desire stays while the measure changes.</text>
+<text x="600" y="840" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">That is the one thing this entire volume does.</text>
+</svg>

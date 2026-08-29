@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" width="1200" height="840">
+<rect width="1200" height="840" fill="#0A0A0A"/>
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">Self-Consistency: Structure, Tests, Two Pathologies</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Not "I think I'm always right", and not "I don't care what anyone thinks"</text>
+<text x="300" y="122" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="bold">Structure: three layers must align</text>
+<rect x="70" y="150" width="460" height="84" rx="9" fill="#00BCD4" fill-opacity="0.09" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="96" y="184" text-anchor="start" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">1. What you see</text>
+<text x="96" y="210" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Your read of the world. Vol. 1 did this layer for you</text>
+<line x1="300" y1="238" x2="300.0" y2="246.0" stroke="#888888" stroke-width="2"/>
+<path d="M293.0,246.0 L300,258 L307.0,246.0 z" fill="#888888"/>
+<rect x="70" y="262" width="460" height="84" rx="9" fill="#2196F3" fill-opacity="0.09" stroke="#2196F3" stroke-width="1.5"/>
+<text x="96" y="296" text-anchor="start" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">2. What you admit</text>
+<text x="96" y="322" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Counting what you see into your own case — most stick here</text>
+<line x1="300" y1="350" x2="300.0" y2="358.0" stroke="#888888" stroke-width="2"/>
+<path d="M293.0,358.0 L300,370 L307.0,358.0 z" fill="#888888"/>
+<rect x="70" y="374" width="460" height="84" rx="9" fill="#9C27B0" fill-opacity="0.09" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="96" y="408" text-anchor="start" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">3. How you'll live with it</text>
+<text x="96" y="434" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">The first two land in actual days. If not, they're talk</text>
+<text x="300" y="508" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Misaligned layers = the source of pain</text>
+<text x="300" y="532" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Much pain comes not from poverty or job loss itself, but from</text>
+<text x="300" y="552" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">knowing the world changed, yet judging yourself by the old ruler</text>
+<text x="860" y="122" text-anchor="middle" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="bold">Tests: how to check the alignment is real</text>
+<rect x="600" y="150" width="520" height="84" rx="9" fill="#4CAF50" fill-opacity="0.09" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="626" y="180" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Test 1 · Consistency of explanation</text>
+<text x="626" y="204" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Same ruler in good times and bad.</text>
+<text x="626" y="224" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Rationalising drifts with outcomes — win = my skill, lose = my environment</text>
+<rect x="600" y="262" width="520" height="84" rx="9" fill="#4CAF50" fill-opacity="0.09" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="626" y="292" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Test 2 · No audience needed</text>
+<text x="626" y="316" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Behaviour is the same when nobody is watching.</text>
+<text x="626" y="336" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">What needs an audience isn't consistency, it's performance</text>
+<rect x="600" y="374" width="520" height="84" rx="9" fill="#4CAF50" fill-opacity="0.09" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="626" y="404" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Test 3 · Can absorb rejection</text>
+<text x="626" y="428" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Criticism can enter as information and correct you,</text>
+<text x="626" y="448" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">but not as a verdict on your right to exist</text>
+<text x="860" y="508" text-anchor="middle" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">All three at once — that is self-consistency</text>
+<text x="860" y="532" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Miss one and one of the two pathologies below follows</text>
+<rect x="70" y="590" width="520" height="154" rx="9" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+<text x="96" y="622" text-anchor="start" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Pathology 1 · Inward collapse</text>
+<text x="96" y="650" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">Test 1 fails. The story follows the outcome,</text>
+<text x="96" y="674" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">so nothing is ever wrong. It looks stable, but</text>
+<text x="96" y="698" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">a story that can never be wrong explains nothing.</text>
+<text x="96" y="726" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Symptom: whatever happens, you explain it instantly</text>
+<rect x="610" y="590" width="520" height="154" rx="9" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+<text x="636" y="622" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Pathology 2 · Outward sealing</text>
+<text x="636" y="650" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">Test 3 fails. To dodge the verdict you shut the</text>
+<text x="636" y="674" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">door entirely. The line is Test 3: the stubborn</text>
+<text x="636" y="698" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">block information along with the verdicts.</text>
+<text x="636" y="726" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Symptom: no feedback gets in, including the useful kind</text>
+<text x="600" y="782" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">Self-consistency handles only level 5 of the ladder — not the first four, and not your cash flow</text>
+<text x="600" y="812" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Someone who can't eat needs food, not self-consistency. That never reverses.</text>
+</svg>

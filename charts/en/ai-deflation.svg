@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">The AI Deflation Dividend</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Service costs are collapsing across the board</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="115" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Nominal wages may fall, but purchasing power can rise — AI makes everything cheaper</text>
+
+  <!-- Legend -->
+  <rect x="380" y="135" width="16" height="16" rx="3" fill="#FF4444" opacity="0.8"/>
+  <text x="402" y="148" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Traditional cost</text>
+  <rect x="550" y="135" width="16" height="16" rx="3" fill="#00BCD4" opacity="0.8"/>
+  <text x="572" y="148" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">AI-enabled cost</text>
+  <rect x="710" y="135" width="16" height="16" rx="3" fill="#2196F3" opacity="0.8"/>
+  <text x="732" y="148" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Reduction</text>
+
+  <!-- Y axis -->
+  <line x1="140" y1="180" x2="140" y2="620" stroke="#333333" stroke-width="1"/>
+
+  <!-- Category 1: Legal consultation -->
+  <text x="130" y="230" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Legal</text>
+  <text x="130" y="248" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Consultation</text>
+  <!-- Traditional bar -->
+  <rect x="160" y="215" width="700" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="870" y="232" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$500/hr</text>
+  <!-- AI bar -->
+  <rect x="160" y="242" width="7" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
+  <text x="175" y="259" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$5/query</text>
+  <text x="350" y="259" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">↓ 99%</text>
+
+  <!-- Category 2: Translation -->
+  <text x="130" y="320" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Translation</text>
+  <text x="130" y="338" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Per word</text>
+  <!-- Traditional bar -->
+  <rect x="160" y="305" width="525" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="695" y="322" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$0.15/word</text>
+  <!-- AI bar -->
+  <rect x="160" y="332" width="70" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
+  <text x="240" y="349" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$0.02/word</text>
+  <text x="400" y="349" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">↓ 87%</text>
+
+  <!-- Category 3: Medical diagnosis -->
+  <text x="130" y="410" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Medical</text>
+  <text x="130" y="428" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Diagnosis</text>
+  <!-- Traditional bar -->
+  <rect x="160" y="395" width="280" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="450" y="412" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$200/visit</text>
+  <!-- AI bar -->
+  <rect x="160" y="422" width="3" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
+  <text x="175" y="439" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$2/scan</text>
+  <text x="350" y="439" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">↓ 99%</text>
+
+  <!-- Category 4: Education tutoring -->
+  <text x="130" y="500" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Education</text>
+  <text x="130" y="518" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Tutoring</text>
+  <!-- Traditional bar -->
+  <rect x="160" y="485" width="350" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="520" y="502" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$50-100/hr</text>
+  <!-- AI bar -->
+  <rect x="160" y="512" width="14" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
+  <text x="182" y="529" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">$0-4/mo</text>
+  <text x="350" y="529" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">↓ 95%+</text>
+
+  <!-- Category 5: Drug discovery timeline -->
+  <text x="130" y="590" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Drug R&amp;D</text>
+  <text x="130" y="608" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Discovery</text>
+  <!-- Traditional bar -->
+  <rect x="160" y="575" width="630" height="22" rx="4" fill="#FF4444" opacity="0.7"/>
+  <text x="800" y="592" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">4-5 yrs / $2.6B</text>
+  <!-- AI bar -->
+  <rect x="160" y="602" width="252" height="22" rx="4" fill="#00BCD4" opacity="0.9"/>
+  <text x="420" y="619" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">1-2 yrs / cost ↓</text>
+  <text x="600" y="619" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">↓ 60% time</text>
+
+  <!-- Bottom insight -->
+  <rect x="80" y="660" width="1040" height="60" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1"/>
+  <text x="600" y="688" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">When a $500 legal consultation becomes $5, billions gain access for the first time</text>
+  <text x="600" y="710" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">AI deflation is the poor's best friend — the largest gains go to those who could never afford these services.</text>
+
+  <!-- Sources -->
+  <text x="600" y="780" text-anchor="middle" fill="#444444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10">Source: Harvard/McKinsey · Forrester · Khan Academy · DeepMind/Isomorphic Labs · Yale Law Journal</text>
+</svg>

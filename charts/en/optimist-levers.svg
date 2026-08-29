@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#888888"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="800" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">Policy Levers and Timeline</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Stabilize → Restructure → Safeguard</text>
+
+  <!-- Three action lines -->
+  <text x="600" y="125" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Three Action Lines</text>
+
+  <rect x="80" y="150" width="340" height="70" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="250" y="182" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Distribute Dividends</text>
+  <text x="250" y="205" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Turn productivity gains into universal income</text>
+
+  <rect x="440" y="150" width="320" height="70" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="600" y="182" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Cushion the Transition</text>
+  <text x="600" y="205" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Fiscal and market tools for the gap years</text>
+
+  <rect x="780" y="150" width="340" height="70" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.5"/>
+  <text x="950" y="182" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Rebuild Human-AI Division</text>
+  <text x="950" y="205" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Trust, physical and creative moats</text>
+
+  <!-- Timeline axis -->
+  <line x1="100" y1="290" x2="1100" y2="290" stroke="#333333" stroke-width="2"/>
+
+  <!-- Phase 1: 0-5 years -->
+  <rect x="100" y="310" width="300" height="240" rx="12" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="250" y="340" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold">0-5 yrs · Near-term</text>
+  <text x="250" y="362" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Buy Time</text>
+
+  <text x="120" y="390" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Negative income tax / 20-40% top-up</text>
+  <text x="120" y="412" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Transition fund + 6-12mo re-hire cover</text>
+  <text x="120" y="434" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Compute dividend pilot (small levy)</text>
+  <text x="120" y="456" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Youth guarantee: job, study or train</text>
+  <text x="120" y="478" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• AI safety: logs + human kill switch</text>
+  <text x="120" y="500" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Public compute: cheap GPU hours</text>
+  <text x="120" y="522" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Local resilience: grid, storage, care</text>
+
+  <!-- Arrow 1→2 -->
+  <line x1="400" y1="430" x2="450" y2="430" stroke="#888888" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Phase 2: 5-15 years -->
+  <rect x="450" y="310" width="300" height="240" rx="12" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1.5"/>
+  <text x="600" y="340" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold">5-15 yrs · Mid-term</text>
+  <text x="600" y="362" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Rewrite Distribution and Schooling</text>
+
+  <text x="470" y="390" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Tax base: wages → capital/compute/CO2</text>
+  <text x="470" y="412" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Sovereign compute, open models, GPU pools</text>
+  <text x="470" y="434" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Lifelong learning accounts + tax credits</text>
+  <text x="470" y="456" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Elder care: robot-human team standards</text>
+  <text x="470" y="478" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• City redesign: car parks → mixed housing</text>
+  <text x="470" y="500" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Intl: compute swaps, data sovereignty</text>
+
+  <!-- Arrow 2→3 -->
+  <line x1="750" y1="430" x2="800" y2="430" stroke="#888888" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Phase 3: 15-100 years -->
+  <rect x="800" y="310" width="300" height="240" rx="12" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
+  <text x="950" y="340" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold">15-100 yrs · Long-term</text>
+  <text x="950" y="362" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Admit the Unknown, Keep Options</text>
+
+  <text x="820" y="390" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Bio-enhancement + embodied AI pacts</text>
+  <text x="820" y="412" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Planetary backups (space compute)</text>
+  <text x="820" y="434" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">• Intergenerational equity funds</text>
+  <text x="820" y="456" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">The earlier the ethics and liability</text>
+  <text x="820" y="476" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">framework, the firmer the limits later.</text>
+
+  <!-- Bottom insight -->
+  <rect x="80" y="580" width="1040" height="55" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
+  <text x="600" y="608" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Optimism isn't naivety — it breaks worst-case risk into tasks, then buys options with time, money and institutions</text>
+  <text x="600" y="630" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Not a prediction that things will turn out fine. A plan for making them less bad, starting now.</text>
+</svg>

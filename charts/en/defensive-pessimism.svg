@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 906" width="1200" height="906">
+<rect width="1200" height="906" fill="#0A0A0A"/>
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">Expectation × Action: Four Ways to Live, One Steady</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Defensive Pessimism — low expectation isn't giving up, and high action isn't optimism</text>
+<line x1="156" y1="132" x2="156" y2="584" stroke="#555555" stroke-width="1.5"/>
+<line x1="156" y1="584" x2="608" y2="584" stroke="#555555" stroke-width="1.5"/>
+<line x1="156" y1="358.0" x2="608" y2="358.0" stroke="#333333" stroke-width="1" stroke-dasharray="4,4"/>
+<line x1="382.0" y1="132" x2="382.0" y2="584" stroke="#333333" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="136" y="352" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Action</text>
+<text x="136" y="372" text-anchor="end" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">level</text>
+<text x="136" y="148" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">High</text>
+<text x="136" y="580" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Low</text>
+<text x="382.0" y="656" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Expectation</text>
+<text x="162" y="656" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Low</text>
+<text x="602" y="656" text-anchor="end" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">High</text>
+<rect x="164" y="140" width="210.0" height="210.0" rx="9" fill="#00BCD4" fill-opacity="0.16" stroke="#00BCD4" stroke-width="2.2"/>
+<text x="182" y="174" text-anchor="start" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="bold">Defensive pessimism</text>
+<text x="182" y="198" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Low expect · high action</text>
+<text x="182" y="220" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Steadiest under uncertainty</text>
+<rect x="390.0" y="140" width="210.0" height="210.0" rx="9" fill="#4CAF50" fill-opacity="0.07" stroke="#4CAF50" stroke-width="1.2"/>
+<text x="408.0" y="174" text-anchor="start" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="bold">Strategic optimism</text>
+<text x="408.0" y="198" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">High expect · high action</text>
+<text x="408.0" y="220" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Most efficient when stable</text>
+<rect x="164" y="366" width="210.0" height="210.0" rx="9" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.2"/>
+<text x="182" y="400" text-anchor="start" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="bold">Depression / apathy</text>
+<text x="182" y="424" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Low expect · low action</text>
+<text x="182" y="446" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">"Nothing works" — action gone</text>
+<rect x="390.0" y="366.0" width="210.0" height="210.0" rx="9" fill="#FF9800" fill-opacity="0.07" stroke="#FF9800" stroke-width="1.2"/>
+<text x="408.0" y="400" text-anchor="start" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="bold">Fantasy / delay</text>
+<text x="408.0" y="424" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">High expect · low action</text>
+<text x="408.0" y="446" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Believes it's fine, doesn't act</text>
+<rect x="648" y="132" width="484" height="222" rx="9" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="674" y="164" text-anchor="start" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Three things it's mistaken for — and isn't</text>
+<circle cx="688" cy="193" r="4" fill="#00BCD4"/>
+<text x="704" y="198" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Not depression</text>
+<text x="704" y="219" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.3">Depression collapses action; here action is absurdly high</text>
+<circle cx="688" cy="247" r="4" fill="#00BCD4"/>
+<text x="704" y="252" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Not modesty</text>
+<text x="704" y="273" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.3">Modesty is social speech; this is a private calculation, then work</text>
+<circle cx="688" cy="301" r="4" fill="#00BCD4"/>
+<text x="704" y="306" text-anchor="start" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Not strategic sandbagging</text>
+<text x="704" y="327" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.3">Sandbagging is low prep too; this is low expectation, extreme prep</text>
+<rect x="648" y="370" width="484" height="214" rx="9" fill="#9C27B0" fill-opacity="0.07" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="674" y="402" text-anchor="start" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Three costs — not naming them is salesmanship</text>
+<text x="674" y="436" text-anchor="start" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="bold">1. Systematically underrates yourself</text>
+<text x="688" y="456" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Failures stay vivid, wins get discounted, and the bar rises too</text>
+<text x="674" y="488" text-anchor="start" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="bold">2. No release even after winning</text>
+<text x="688" y="508" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Driven by "don't let the worst happen" — there's always a next one</text>
+<text x="674" y="540" text-anchor="start" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="bold">3. Life keeps getting postponed</text>
+<text x="688" y="560" text-anchor="start" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">The priciest, least visible cost. "After this round" — it never ends</text>
+<rect x="156" y="650" width="976" height="110" rx="9" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.8"/>
+<text x="644" y="678" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">What needs changing isn't the pessimism but its price — set by two variables</text>
+<rect x="184" y="692" width="440" height="54" rx="9" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+<text x="404" y="714" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">Variable 1: how much you still have to lose</text>
+<text x="404" y="735" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.3">The less you can lose, the more preparation pays</text>
+<rect x="664" y="692" width="440" height="54" rx="9" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+<text x="884" y="714" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">Variable 2: what gets squeezed out</text>
+<text x="884" y="735" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.3">Leisure vs what can't wait — an order of magnitude apart</text>
+<text x="600" y="790" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="bold">So the question isn't "am I too pessimistic" but: repriced at today's rates, is the trade still worth it</text>
+<text x="600" y="814" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Both variables moved, so the answer should move. Some find they are far underprepared; others find they are paying for a situation that expired.</text>
+<text x="600" y="856" text-anchor="middle" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="bold">One empirical note: forcing defensive pessimists to "relax and think positive" makes their performance worse</text>
+<text x="600" y="880" text-anchor="middle" fill="#666666" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.8">The anxiety isn't a fault, it's fuel. (Norem &amp; Cantor 1986 et al.; Norem &amp; Illingworth 1993 also tie over-rehearsal to lower long-run motivation — benefit and cost share a source)</text>
+<line x1="164" y1="358" x2="382" y2="358" stroke="#00BCD4" stroke-width="1" opacity="0.35"/>
+<text x="273" y="352" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Same low expectation —</text>
+<text x="273" y="376" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">anxiety as fuel, or numbing?</text>
+</svg>

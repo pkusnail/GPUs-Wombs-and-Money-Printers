@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 866" width="1200" height="866">
+<rect width="1200" height="866" fill="#0A0A0A"/>
+
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">The Scale Ladder of Attribution</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Zoom out one level and part of what looked like personal failure is handed back to a larger process</text>
+
+<!-- Left axis: direction of zoom -->
+<line x1="72" y1="118" x2="72" y2="620" stroke="#555555" stroke-width="1.5"/>
+<path d="M72,112 L66,124 L78,124 z" fill="#00BCD4"/>
+<path d="M72,626 L66,614 L78,614 z" fill="#FF9800"/>
+<text x="46" y="200" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" transform="rotate(-90 46 200)">Zoom out · pessimism</text>
+<text x="46" y="580" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" transform="rotate(-90 46 580)">Zoom in · action</text>
+
+<!-- Five levels: narrowing width shows the scale closing in -->
+<!-- L1 -->
+<rect x="100" y="118" width="1010" height="86" rx="9" fill="#00BCD4" fill-opacity="0.09" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="126" y="150" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">1 · Substrate</text>
+<text x="126" y="176" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Carbon handing off to silicon is Earth's next step, not a human dereliction</text>
+<text x="126" y="196" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Vol. 1 §9.5 · Epilogue: from carbon-led to silicon-autonomous</text>
+<text x="1086" y="168" text-anchor="end" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Drops: failure to hold ground</text>
+
+<!-- L2 -->
+<rect x="140" y="216" width="930" height="86" rx="9" fill="#2196F3" fill-opacity="0.09" stroke="#2196F3" stroke-width="1.5"/>
+<text x="166" y="248" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">2 · Species</text>
+<text x="166" y="274" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Nobody crosses unchanged — enhanced isn't 'human'; unenhanced faces the same pressure</text>
+<text x="166" y="294" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Vol. 1 §9.1 · Enhancement isn't a luxury, it's a survival strategy</text>
+<text x="1046" y="266" text-anchor="end" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Drops: not making the surviving class</text>
+
+<!-- L3 -->
+<rect x="180" y="314" width="850" height="86" rx="9" fill="#9C27B0" fill-opacity="0.09" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="206" y="346" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">3 · Era</text>
+<text x="206" y="372" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">You live in a period with a name, a start and an end — and it will pass</text>
+<text x="206" y="392" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Vol. 1 throughout · Vol. 2 ch. 12: The Transition</text>
+<text x="1006" y="364" text-anchor="end" fill="#9C27B0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Drops: blaming yourself for the timing</text>
+
+<!-- L4 -->
+<rect x="220" y="412" width="770" height="86" rx="9" fill="#E91E63" fill-opacity="0.09" stroke="#E91E63" stroke-width="1.5"/>
+<text x="246" y="444" fill="#E91E63" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">4 · Generation</text>
+<text x="246" y="470" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Your ruler came from the last world — and that world is vanishing</text>
+<text x="246" y="490" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Vol. 1 ch. 5: Population Decline · ch. 8: AI Reshapes a Life</text>
+<text x="966" y="462" text-anchor="end" fill="#E91E63" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Drops: failing by an old ruler</text>
+
+<!-- L5 residue -->
+<rect x="260" y="510" width="690" height="104" rx="9" fill="#FF9800" fill-opacity="0.14" stroke="#FF9800" stroke-width="2.2"/>
+<text x="286" y="542" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">5 · The Individual — what is left</text>
+<text x="286" y="570" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">What is genuinely yours once the first four are unloaded. Vol. 3 starts here.</text>
+<text x="286" y="596" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Self-consistency handles only this — not the first four levels, and not your cash flow</text>
+
+<!-- Bottom: method -->
+<rect x="100" y="632" width="1010" height="196" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#555555" stroke-width="1.2"/>
+<text x="600" y="660" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold">Method: pessimism is one layer of defence, action is the stronger one</text>
+
+<rect x="126" y="674" width="420" height="62" rx="8" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.2"/>
+<text x="336" y="697" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Pessimism = the first layer</text>
+<text x="336" y="720" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">Lower expectations, gain tolerance for the worst</text>
+
+<path d="M556,705 L588,705" stroke="#888888" stroke-width="2"/>
+<path d="M588,698 L602,705 L588,712 z" fill="#888888"/>
+
+<rect x="612" y="674" width="420" height="62" rx="8" fill="#FF9800" fill-opacity="0.10" stroke="#FF9800" stroke-width="1.6"/>
+<text x="822" y="697" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Action = the stronger layer</text>
+<text x="822" y="720" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5">Act. Action moves more than lowered expectations</text>
+
+<text x="1062" y="719" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">↓</text>
+
+<line x1="126" y1="750" x2="1084" y2="750" stroke="#333333" stroke-width="1"/>
+<text x="600" y="778" text-anchor="middle" fill="#4CAF50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">We have always lived toward death — from day one, one more day lived is one fewer left</text>
+<text x="600" y="802" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">AI did not add an endpoint; it only let you see the one that was always there</text>
+<text x="600" y="824" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="bold">Seeing the end always reads two ways: "so why bother" and "so don't waste it" — same fact</text>
+
+<text x="600" y="855" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5">Zoom out only → paralysis (reading "we all die" as "so why bother" inverts finitude)    Zoom in only → collapse (billing a whole era to yourself)</text>
+</svg>

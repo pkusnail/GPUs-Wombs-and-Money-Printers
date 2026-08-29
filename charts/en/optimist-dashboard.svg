@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 970" width="1200" height="970">
+  <rect width="1200" height="970" fill="#0A0A0A"/>
+  <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">Quarterly Dashboard: Are We on Track?</text>
+  <text x="600" y="80" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15">Seven readings to check before deciding the story has changed</text>
+  <text x="600" y="105" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Three or more reds for two quarters running: switch from gradual reform to emergency intervention</text>
+  <circle cx="400" cy="130" r="8" fill="#00BCD4"/>
+  <text x="415" y="135" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">On Track</text>
+  <circle cx="540" cy="130" r="8" fill="#FF9800"/>
+  <text x="555" y="135" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Watch</text>
+  <circle cx="670" cy="130" r="8" fill="#FF4444"/>
+  <text x="685" y="135" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Intervene</text>
+
+  <!-- 1 Entry-level job postings YoY -->
+  <rect x="80" y="160" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="111" cy="184" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="111" y="188" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">1</text>
+  <text x="130" y="190" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Entry-Level Job Postings, YoY</text>
+  <text x="100" y="210" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Year-on-year change in junior openings</text>
+  <rect x="100" y="230" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="180" y="250" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&gt; -5%</text>
+  <rect x="270" y="230" width="160" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="350" y="250" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">-5% ~ -15%</text>
+  <rect x="440" y="230" width="160" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="520" y="250" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&lt; -15%</text>
+  <text x="100" y="290" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">First visible sign of AI substitution: how fast junior roles vanish</text>
+
+  <!-- 2 Employment-population ratio, 6-month change -->
+  <rect x="630" y="160" width="490" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="661" cy="184" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="661" y="188" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">2</text>
+  <text x="680" y="190" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">E/P Ratio, 6-Month Change</text>
+  <text x="650" y="210" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Share of working-age adults actually employed</text>
+  <rect x="650" y="230" width="140" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="720" y="250" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&gt; -0.2pp</text>
+  <rect x="800" y="230" width="140" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="870" y="250" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">-0.2 ~ -0.5pp</text>
+  <rect x="950" y="230" width="140" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="1020" y="250" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&lt; -0.5pp</text>
+  <text x="650" y="290" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Can't be flattered by people leaving the labour force — the jobless rate can</text>
+
+  <!-- 2b Long-term unemployed share -->
+  <rect x="80" y="330" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="111" cy="354" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="111" y="358" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold">2b</text>
+  <text x="130" y="360" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Long-Term Unemployed (27+ weeks)</text>
+  <text x="100" y="380" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">As a share of all unemployed people</text>
+  <rect x="100" y="400" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="180" y="420" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&lt; 22%</text>
+  <rect x="270" y="400" width="160" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="350" y="420" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">22-26%</text>
+  <rect x="440" y="400" width="160" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="520" y="420" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&gt; 26%</text>
+  <text x="100" y="460" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Whether people get back out says more about a hiring freeze than how many are in</text>
+
+  <!-- 3 Corporate AI capex / revenue -->
+  <rect x="630" y="330" width="490" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="661" cy="354" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="661" y="358" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">3</text>
+  <text x="680" y="360" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">AI Capex as % of Revenue</text>
+  <text x="650" y="380" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">How much of the top line goes into AI buildout</text>
+  <rect x="650" y="400" width="140" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="720" y="420" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">No crowd-out</text>
+  <rect x="800" y="400" width="140" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="870" y="420" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Crowds out R&amp;D</text>
+  <rect x="950" y="400" width="140" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="1020" y="420" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Crowds out staff</text>
+  <text x="650" y="460" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Separates healthy AI investment from using AI as layoff arbitrage</text>
+
+  <!-- 4 Frontier accelerator lead time -->
+  <rect x="80" y="500" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="111" cy="524" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="111" y="528" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">4</text>
+  <text x="130" y="530" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Frontier Accelerator Lead Times</text>
+  <text x="100" y="550" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Wait time for delivery of top-end AI chips</text>
+  <rect x="100" y="570" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="172" y="590" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Falling</text>
+  <polygon points="198,582 206,582 202,591" fill="#00BCD4"/>
+  <rect x="270" y="570" width="160" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="342" y="590" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Flat</text>
+  <polygon points="372,582 381,586 372,590" fill="#FF9800"/>
+  <rect x="440" y="570" width="160" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="512" y="590" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Rising</text>
+  <polygon points="538,590 546,590 542,581" fill="#FF4444"/>
+  <text x="100" y="630" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Whether compute supply keeps up with demand = how fast AI spreads</text>
+
+  <!-- 5 Pension solvency -->
+  <rect x="630" y="500" width="490" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="661" cy="524" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="661" y="528" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">5</text>
+  <text x="680" y="530" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Pension Solvency, Years Payable</text>
+  <text x="650" y="550" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">How long the fund can keep paying out</text>
+  <rect x="650" y="570" width="140" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="720" y="590" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&gt; 8 yrs</text>
+  <rect x="800" y="570" width="140" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="870" y="590" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">5-8 yrs</text>
+  <rect x="950" y="570" width="140" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="1020" y="590" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">&lt; 5 yrs</text>
+  <text x="650" y="630" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">How urgent the tax shift from wages to capital/compute/carbon is</text>
+
+  <!-- 6 Housing vacancy + regional bank capital -->
+  <rect x="80" y="670" width="530" height="150" rx="12" fill="#0A0A0A" stroke="#333333" stroke-width="1"/>
+  <circle cx="111" cy="694" r="11" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="111" y="698" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold">6</text>
+  <text x="130" y="700" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold">Housing Vacancy + Regional Bank Capital</text>
+  <text x="100" y="720" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Two mortgage-stress gauges read together</text>
+  <rect x="100" y="740" width="160" height="30" rx="6" fill="#00BCD4" opacity="0.3"/>
+  <text x="180" y="760" text-anchor="middle" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Both stable</text>
+  <rect x="270" y="740" width="160" height="30" rx="6" fill="#FF9800" opacity="0.3"/>
+  <text x="350" y="760" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">One worsening</text>
+  <rect x="440" y="740" width="160" height="30" rx="6" fill="#FF4444" opacity="0.3"/>
+  <text x="520" y="760" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Both worsening</text>
+  <text x="100" y="800" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Early warning signal for a mortgage crisis</text>
+
+  <!-- Why not the unemployment rate -->
+  <rect x="630" y="670" width="490" height="150" rx="12" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+  <text x="650" y="700" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Why metric 2 isn't the unemployment rate</text>
+  <text x="650" y="722" fill="#AAAAAA" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">In a low-hiring, low-firing market the rate falls because</text>
+  <text x="650" y="740" fill="#AAAAAA" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">people leave the labour force — the opposite signal.</text>
+  <text x="650" y="768" fill="#666666" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">Jan to Jul 2026 (BLS actuals):</text>
+  <text x="650" y="791" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">Unemp.  4.3%</text>
+  <polygon points="737,783 746,787 737,791" fill="#00BCD4"/>
+  <text x="752" y="791" fill="#00BCD4" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">4.1%</text>
+  <text x="830" y="791" fill="#666666" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">(looks better)</text>
+  <text x="650" y="812" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">E/P ratio  59.4%</text>
+  <polygon points="779,804 788,808 779,812" fill="#FF4444"/>
+  <text x="794" y="812" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold">58.9%</text>
+  <text x="880" y="812" fill="#666666" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">(actually worse)</text>
+
+  <rect x="80" y="850" width="1040" height="50" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1"/>
+  <text x="600" y="880" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold">Don't wait for the crisis to act, and don't panic while the data is still green. Check quarterly, act on signals.</text>
+  <text x="600" y="945" text-anchor="middle" fill="#444444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10">Framework compiled from: BLS (incl. JOLTS) · OECD · IMF Financial Stability · Fed Regional Banking Data · thresholds and sources in §3.5–3.6</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
+ <rect width="1200" height="500" fill="#0A0A0A"/>
+
+ <!-- Title -->
+ <text x="600" y="50" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold">The AI Food Chain: Who Builds, Who Uses, Who Watches</text>
+
+ <!-- Arrow backbone -->
+ <line x1="100" y1="250" x2="1100" y2="250" stroke="#333333" stroke-width="2"/>
+ <polygon points="1100,240 1120,250 1100,260" fill="#333333"/>
+
+ <!-- Zone 1: Producers -->
+ <rect x="80" y="100" width="300" height="300" rx="12" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+ <text x="230" y="135" text-anchor="middle" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="bold">AI Producers</text>
+ <text x="230" y="158" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Build frontier models</text>
+
+ <text x="130" y="200" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14"> USA</text>
+ <text x="130" y="222" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">OpenAI · Anthropic · Google · Meta</text>
+
+ <text x="130" y="260" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14"> China</text>
+ <text x="130" y="282" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">ByteDance · Alibaba · DeepSeek · Baidu</text>
+
+ <text x="130" y="320" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill-opacity="0.6"> UK (DeepMind)</text>
+ <text x="130" y="342" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill-opacity="0.6"> France (Mistral)</text>
+ <text x="130" y="364" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10">Second tier, far smaller than US/China</text>
+
+ <!-- Zone 2: Consumers -->
+ <rect x="420" y="100" width="300" height="300" rx="12" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+ <text x="570" y="135" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="bold">AI Consumers</text>
+ <text x="570" y="158" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Use models others built</text>
+
+ <text x="450" y="200" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Japan · Korea · Germany</text>
+ <text x="450" y="225" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Canada · Australia · Israel</text>
+ <text x="450" y="250" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13">Nordics · Singapore</text>
+
+ <text x="450" y="290" fill="#2196F3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Special cases:</text>
+ <text x="450" y="312" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">TSMC — hardware producer, not model maker</text>
+ <text x="450" y="332" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">UAE/Saudi — consumers buying their way up</text>
+
+ <!-- Zone 3: Bystanders -->
+ <rect x="760" y="100" width="320" height="300" rx="12" fill="#888888" fill-opacity="0.08" stroke="#555555" stroke-width="1.5"/>
+ <text x="920" y="135" text-anchor="middle" fill="#888888" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="bold">AI Bystanders</text>
+ <text x="920" y="158" text-anchor="middle" fill="#555555" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Waiting, or unable to join</text>
+
+ <text x="790" y="200" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill-opacity="0.7">Most of Africa · Central Asia</text>
+ <text x="790" y="225" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill-opacity="0.7">Parts of SE Asia · Pacific islands</text>
+ <text x="790" y="250" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill-opacity="0.7">Parts of Latin America</text>
+
+ <text x="790" y="300" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Risk: as value shifts from labour to compute,</text>
+ <text x="790" y="320" fill="#FF4444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">no AI capability = no seat at the table</text>
+
+ <!-- Bottom insight -->
+ <rect x="100" y="420" width="1000" height="50" rx="8" fill="#FF4444" fill-opacity="0.06" stroke="#FF4444" stroke-width="1"/>
+ <text x="600" y="450" text-anchor="middle" fill="#FF9800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Producers want to stay ahead · Consumers want access · Bystanders fear being left behind — misaligned from second one</text>
+
+ <text x="600" y="490" text-anchor="middle" fill="#444444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10">Source: Oxford AI Readiness Index 2025 · IMD Digital Competitiveness 2024</text>
+</svg>
