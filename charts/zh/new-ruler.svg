@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880">
+<rect width="1200" height="880" fill="#0A0A0A"/>
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">换一把尺子：富与贵，重新定义</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">不是不要衡量自己 —— 人一定会衡量，没有尺子会悬空。是换读数源</text>
+<text x="300" y="120" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">旧读法 · 读数来自外部</text>
+<text x="900" y="120" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">新读法 · 读数不在市场里</text>
+<rect x="70" y="146" width="460" height="90" rx="9" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.2"/>
+<text x="102" y="202" text-anchor="start" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="34" font-weight="bold">富</text>
+<text x="160" y="188" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">有多少钱、多少资产、什么头衔</text>
+<text x="160" y="214" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">满足感来自「别人怎么看我」</text>
+<path d="M548,191 L586,191" stroke="#888888" stroke-width="2"/>
+<path d="M586,184 L600,191 L586,198 z" fill="#888888"/>
+<rect x="614" y="146" width="516" height="90" rx="9" fill="#4CAF50" fill-opacity="0.12" stroke="#4CAF50" stroke-width="2"/>
+<text x="646" y="202" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="34" font-weight="bold">富</text>
+<text x="706" y="188" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="19" font-weight="bold">心中无缺</text>
+<text x="706" y="216" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">读数在内部</text>
+<rect x="70" y="258" width="460" height="90" rx="9" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.2"/>
+<text x="102" y="314" text-anchor="start" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="34" font-weight="bold">贵</text>
+<text x="160" y="300" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">什么地位、别人把你排第几</text>
+<text x="160" y="326" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">满足感来自「别人怎么看我」</text>
+<path d="M548,303 L586,303" stroke="#888888" stroke-width="2"/>
+<path d="M586,296 L600,303 L586,310 z" fill="#888888"/>
+<rect x="614" y="258" width="516" height="90" rx="9" fill="#00BCD4" fill-opacity="0.12" stroke="#00BCD4" stroke-width="2"/>
+<text x="646" y="314" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="34" font-weight="bold">贵</text>
+<text x="706" y="300" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="19" font-weight="bold">被人需要</text>
+<text x="706" y="328" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">读数在关系里</text>
+<rect x="70" y="376" width="520" height="196" rx="9" fill="#4CAF50" fill-opacity="0.07" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="96" y="408" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">「富」的机制：自洽</text>
+<text x="96" y="438" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">不依赖外部评判 —— 你自己就能得出读数。</text>
+<text x="96" y="462" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">而且不向外索求 —— 两者缺一不可。</text>
+<text x="96" y="486" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">只做到"不依赖"，人还是会一直向外要。</text>
+<line x1="96" y1="522" x2="564" y2="522" stroke="#4CAF50" stroke-width="1" opacity="0.35"/>
+<text x="96" y="546" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">分辨题：同一件事（比如赚钱），</text>
+<text x="96" y="566" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">满足感是来自别人的肯定，还是自己对自己的肯定？</text>
+<rect x="610" y="376" width="520" height="196" rx="9" fill="#00BCD4" fill-opacity="0.07" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="636" y="408" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">「贵」的机制：你怎么对待身边的人</text>
+<text x="636" y="438" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">读数源不在你自己身上，在关系里。</text>
+<text x="636" y="462" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">这一条防住了自洽最危险的病变 —— 自我封闭。</text>
+<text x="636" y="486" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">它把一只脚留在外面，但留在关系里，不在市场里。</text>
+<line x1="636" y1="522" x2="1104" y2="522" stroke="#00BCD4" stroke-width="1" opacity="0.35"/>
+<text x="636" y="546" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">两把读数一内一外，人才不会越缩越小，</text>
+<text x="636" y="566" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">也不会重新掉回市场定价。</text>
+<rect x="70" y="594" width="520" height="142" rx="9" fill="#2196F3" fill-opacity="0.07" stroke="#2196F3" stroke-width="1.5"/>
+<text x="96" y="626" text-anchor="start" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">前提：健康</text>
+<text x="96" y="656" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">它不是并列项，是前提 —— 没有它，两把尺子都读不出数。</text>
+<text x="96" y="686" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">而且这里有个反讽：追求大结果的人必然忙，</text>
+<text x="96" y="710" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">身体顾不上 —— 他不一定能活到兑现那一天。</text>
+<rect x="610" y="594" width="520" height="142" rx="9" fill="#9C27B0" fill-opacity="0.07" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="636" y="626" text-anchor="start" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">练法：快乐不是一种性格，是一种能力</text>
+<text x="636" y="656" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">如果它是性格，这一整卷就没用 —— 天生的东西教不了。</text>
+<text x="636" y="686" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">而"能力"这个词还多干了一件事：能力可以差、可以练、</text>
+<text x="636" y="710" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">可以退化，但它不是道德品质 —— 能力不足不是道德失败。</text>
+<rect x="70" y="758" width="1060" height="96" rx="9" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.8"/>
+<text x="600" y="790" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">旧尺子没有被废掉，「富」和「贵」这两个字也没有 —— 换掉的只是读数源</text>
+<text x="600" y="818" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">劝人"别在乎富贵"是没用的，那个欲望不会消失。重新定义什么算富、什么算贵，欲望还在，量法换了。</text>
+<text x="600" y="840" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">这就是这一整卷做的唯一一件事。</text>
+</svg>

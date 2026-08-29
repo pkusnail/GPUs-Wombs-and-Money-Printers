@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#0A0A0A"/>
+<text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">Three Windows, Three Playbooks</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">不同窗口期的策略不同</text>
+<rect x="70" y="130" width="290" height="560" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="215" y="172" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">2026–2030</text>
+<text x="215" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">AI augments humans</text>
+<line x1="100" y1="220" x2="330" y2="220" stroke="#00BCD4" stroke-width="1"/>
+<text x="90" y="250" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">Do</text>
+<text x="90" y="276" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Use AI to amplify what you already do</text>
+<text x="90" y="301" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Highest-income window: save</text>
+<text x="90" y="326" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Cut leverage</text>
+<text x="90" y="351" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Widen your network</text>
+<text x="90" y="376" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Grow one HALO-type income source</text>
+<text x="90" y="423" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">Traps</text>
+<text x="90" y="447" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· "My job is still fine"</text>
+<text x="90" y="472" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Going all-in on one specific tool</text>
+<text x="90" y="497" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· "I am senior, so I am safe"</text>
+<rect x="455" y="130" width="290" height="560" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+<text x="600" y="172" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">2030–2040</text>
+<text x="600" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">AI replaces humans</text>
+<line x1="485" y1="220" x2="715" y2="220" stroke="#FF9800" stroke-width="1"/>
+<text x="475" y="250" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">Do</text>
+<text x="475" y="276" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Low leverage — the largest cushion</text>
+<text x="475" y="301" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· No single source of income</text>
+<text x="475" y="326" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Health: live to the medical breakthrough</text>
+<text x="475" y="351" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Mutual-aid community</text>
+<text x="475" y="398" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">Traps</text>
+<text x="475" y="422" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Believing individual effort solves it</text>
+<text x="475" y="447" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· This phase turns mostly on</text>
+<text x="475" y="472" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· distribution policy, not personal effort</text>
+<rect x="840" y="130" width="290" height="560" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+<text x="985" y="172" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">After 2040</text>
+<text x="985" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">Post-human era</text>
+<line x1="870" y1="220" x2="1100" y2="220" stroke="#FF4444" stroke-width="1"/>
+<text x="860" y="250" text-anchor="start" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">Do</text>
+<text x="860" y="276" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Specific strategy means little</text>
+<text x="860" y="301" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· The one certainty:</text>
+<text x="860" y="326" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· being alive then is the precondition</text>
+<text x="860" y="373" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">Traps</text>
+<text x="860" y="397" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· Meeting the next phase</text>
+<text x="860" y="422" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· with the last phase's playbook</text>
+<path d="M378,400 L440,400" stroke="#888888" stroke-width="2"/>
+<path d="M440,393 L454,400 L440,407 z" fill="#888888"/>
+<path d="M763,400 L825,400" stroke="#888888" stroke-width="2"/>
+<path d="M825,393 L839,400 L825,407 z" fill="#888888"/>
+<rect x="70" y="712" width="1060" height="60" rx="10" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.5"/>
+<text x="600" y="740" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">The deadliest error is not having no strategy — it is meeting the next phase with the last phase's playbook</text>
+<text x="600" y="762" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">Windows close. The physical-skills window closes roughly when humanoid robots mature</text>
+</svg>

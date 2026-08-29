@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#0A0A0A"/>
+<text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">HALO：什么在贬值，什么在升值</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Heavy Assets, Low Obsolescence — 难以被数字化复制的东西才有持久价值</text>
+<rect x="70" y="118" width="520" height="600" rx="10" fill="#4CAF50" fill-opacity="0.07" stroke="#4CAF50" stroke-width="1.5"/>
+<rect x="610" y="118" width="520" height="600" rx="10" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.5"/>
+<text x="330" y="158" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">原子世界 · 抗风险</text>
+<text x="330" y="184" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">AI 能复制代码，复制不了一座炼油厂</text>
+<text x="870" y="158" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">比特世界 · 正在被挖空</text>
+<text x="870" y="184" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">生成成本趋零的东西，价格也趋零</text>
+<line x1="90" y1="210" x2="1110" y2="210" stroke="#333333" stroke-width="1"/>
+<text x="600" y="230" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">资产</text>
+<circle cx="105" cy="256" r="3" fill="#4CAF50"/>
+<text x="120" y="261" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">核心城市地段（不可复制）</text>
+<circle cx="105" cy="282" r="3" fill="#4CAF50"/>
+<text x="120" y="287" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">能源与基础设施</text>
+<circle cx="105" cy="308" r="3" fill="#4CAF50"/>
+<text x="120" y="313" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">实物黄金</text>
+<circle cx="105" cy="334" r="3" fill="#4CAF50"/>
+<text x="120" y="339" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">你自己的健康</text>
+<circle cx="645" cy="256" r="3" fill="#FF4444"/>
+<text x="660" y="261" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">纯软件公司股权</text>
+<circle cx="645" cy="282" r="3" fill="#FF4444"/>
+<text x="660" y="287" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">依赖白领消费的商业地产</text>
+<circle cx="645" cy="308" r="3" fill="#FF4444"/>
+<text x="660" y="313" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">三四线城市房产</text>
+<circle cx="645" cy="334" r="3" fill="#FF4444"/>
+<text x="660" y="339" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">"信息中介"型商业模式</text>
+<line x1="90" y1="378" x2="1110" y2="378" stroke="#333333" stroke-width="1"/>
+<text x="600" y="398" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">技能</text>
+<circle cx="105" cy="424" r="3" fill="#4CAF50"/>
+<text x="120" y="429" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">需要物理在场：水电焊接管道</text>
+<circle cx="105" cy="450" r="3" fill="#4CAF50"/>
+<text x="120" y="455" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">需要人类信任：护理、咨询、社区</text>
+<circle cx="105" cy="476" r="3" fill="#4CAF50"/>
+<text x="120" y="481" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">需要判断与担责：手术、出庭</text>
+<circle cx="105" cy="502" r="3" fill="#4CAF50"/>
+<text x="120" y="507" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">需要审美与品味</text>
+<circle cx="645" cy="424" r="3" fill="#FF4444"/>
+<text x="660" y="429" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">纯信息处理</text>
+<circle cx="645" cy="450" r="3" fill="#FF4444"/>
+<text x="660" y="455" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">纯代码能力</text>
+<circle cx="645" cy="476" r="3" fill="#FF4444"/>
+<text x="660" y="481" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">纯知识记忆</text>
+<circle cx="645" cy="502" r="3" fill="#FF4444"/>
+<text x="660" y="507" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">标准化流程执行</text>
+<line x1="90" y1="546" x2="1110" y2="546" stroke="#333333" stroke-width="1"/>
+<text x="600" y="566" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">你自己</text>
+<circle cx="105" cy="592" r="3" fill="#4CAF50"/>
+<text x="120" y="597" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">"我拥有AI无法复制的东西"</text>
+<circle cx="105" cy="618" r="3" fill="#4CAF50"/>
+<text x="120" y="623" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">信任关系 / 物理在场 / 独有经验 / 牌照资质</text>
+<circle cx="645" cy="592" r="3" fill="#FF4444"/>
+<text x="660" y="597" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">"我会做一件AI也能做的事"</text>
+<circle cx="645" cy="618" r="3" fill="#FF4444"/>
+<text x="660" y="623" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">护城河正在被挖空</text>
+<text x="600" y="762" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">问自己一句：我的价值是 HALO 型，还是 SaaS 型？这个判断比"学AI"有用得多</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 906" width="1200" height="906">
+<rect width="1200" height="906" fill="#0A0A0A"/>
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">预期 × 行动：四种活法，只有一种在动荡里稳</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Defensive Pessimism — 低预期不是躺平，高行动也不是乐观主义</text>
+<line x1="156" y1="132" x2="156" y2="584" stroke="#555555" stroke-width="1.5"/>
+<line x1="156" y1="584" x2="608" y2="584" stroke="#555555" stroke-width="1.5"/>
+<line x1="156" y1="358.0" x2="608" y2="358.0" stroke="#333333" stroke-width="1" stroke-dasharray="4,4"/>
+<line x1="382.0" y1="132" x2="382.0" y2="584" stroke="#333333" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="136" y="352" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">行</text>
+<text x="136" y="372" text-anchor="end" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">动</text>
+<text x="136" y="148" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">高</text>
+<text x="136" y="580" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">低</text>
+<text x="382.0" y="656" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">预期</text>
+<text x="162" y="656" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">低</text>
+<text x="602" y="656" text-anchor="end" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">高</text>
+<rect x="164" y="140" width="210.0" height="210.0" rx="9" fill="#00BCD4" fill-opacity="0.16" stroke="#00BCD4" stroke-width="2.2"/>
+<text x="182" y="174" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16.5" font-weight="bold">防御性悲观</text>
+<text x="182" y="198" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">低预期 · 高行动</text>
+<text x="182" y="220" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">在高不确定性里最稳的一格</text>
+<rect x="390.0" y="140" width="210.0" height="210.0" rx="9" fill="#4CAF50" fill-opacity="0.07" stroke="#4CAF50" stroke-width="1.2"/>
+<text x="408.0" y="174" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16.5" font-weight="bold">策略性乐观</text>
+<text x="408.0" y="198" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">高预期 · 高行动</text>
+<text x="408.0" y="220" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">在稳定环境里效率最高</text>
+<rect x="164" y="366" width="210.0" height="210.0" rx="9" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.2"/>
+<text x="182" y="400" text-anchor="start" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16.5" font-weight="bold">抑郁 / 习得性无助</text>
+<text x="182" y="424" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">低预期 · 低行动</text>
+<text x="182" y="446" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">核心是"做了也没用"，行动力是塌的</text>
+<rect x="390.0" y="366.0" width="210.0" height="210.0" rx="9" fill="#FF9800" fill-opacity="0.07" stroke="#FF9800" stroke-width="1.2"/>
+<text x="408.0" y="400" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16.5" font-weight="bold">幻想 / 拖延</text>
+<text x="408.0" y="424" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">高预期 · 低行动</text>
+<text x="408.0" y="446" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">相信会好，但不动</text>
+<rect x="648" y="132" width="484" height="222" rx="9" fill="#00BCD4" fill-opacity="0.06" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="674" y="164" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">它常被误认成三样东西，都不是</text>
+<circle cx="688" cy="193" r="4" fill="#00BCD4"/>
+<text x="704" y="198" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">不是抑郁</text>
+<text x="704" y="219" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.3">抑郁的核心是"做了也没用"，行动力是塌的；它的行动力经常高得离谱</text>
+<circle cx="688" cy="247" r="4" fill="#00BCD4"/>
+<text x="704" y="252" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">不是谦虚</text>
+<text x="704" y="273" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.3">谦虚是说给别人听的社交表达；它是私下真的这么算，算完去干活</text>
+<circle cx="688" cy="301" r="4" fill="#00BCD4"/>
+<text x="704" y="306" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">不是策略性示弱</text>
+<text x="704" y="327" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.3">示弱是预期低、准备也低，在给失败留台阶；它是预期低、准备极高</text>
+<rect x="648" y="370" width="484" height="214" rx="9" fill="#9C27B0" fill-opacity="0.07" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="674" y="402" text-anchor="start" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">三个代价 —— 不讲代价就是在推销一种活法</text>
+<text x="674" y="436" text-anchor="start" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14.5" font-weight="bold">1. 系统性低估自己</text>
+<text x="688" y="456" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">把没做到的看得很清楚，把做到的自动折价；标准还会同步抬高</text>
+<text x="674" y="488" text-anchor="start" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14.5" font-weight="bold">2. 赢了也不松劲</text>
+<text x="688" y="508" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">动力是"不能让最坏情况发生"，而它永远有下一个版本。没有"到达"感</text>
+<text x="674" y="540" text-anchor="start" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14.5" font-weight="bold">3. 把生活往后排</text>
+<text x="688" y="560" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">最贵也最不显眼。"等这一轮过去"——而这一轮不会过去</text>
+<rect x="156" y="650" width="976" height="110" rx="9" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.8"/>
+<text x="644" y="678" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">要改的不是悲观本身，是它的定价 —— 而定价由两个变量决定</text>
+<rect x="184" y="692" width="440" height="54" rx="9" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+<text x="404" y="714" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">变量一：你还有多少可失去的</text>
+<text x="404" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.3">可失去的越少，把资源全换成准备强度越划算</text>
+<rect x="664" y="692" width="440" height="54" rx="9" fill="#FF9800" fill-opacity="0.06" stroke="#FF9800" stroke-width="1"/>
+<text x="884" y="714" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">变量二：被挤掉的是什么</text>
+<text x="884" y="735" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.3">挤掉闲暇 vs 挤掉不能延后购买的东西，成本差一个量级</text>
+<text x="600" y="790" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14.5" font-weight="bold">所以该问的不是"我是不是太悲观了"，而是：这笔交易按今天的价格重算一遍，还划算吗</text>
+<text x="600" y="814" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">两个变量都变了，答案就该变。有人算完发现远远准备不足，有人算完发现在为一个过期的处境付账。</text>
+<text x="600" y="856" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14.5" font-weight="bold">一条实证提醒：研究发现，强行让防御性悲观者"放松、往好处想"，会让他的表现变差</text>
+<text x="600" y="880" text-anchor="middle" fill="#666666" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="11.8">那份焦虑不是故障，是燃料。（Norem &amp; Cantor 1986 等；Norem &amp; Illingworth 1993 同时发现过度预演与长期动机下降相关——收益与代价同源）</text>
+<line x1="164" y1="358" x2="382" y2="358" stroke="#00BCD4" stroke-width="1" opacity="0.35"/>
+<text x="273" y="352" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">同样是低预期 —— 差别只在于</text>
+<text x="273" y="376" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">焦虑变成了燃料，还是麻醉</text>
+</svg>

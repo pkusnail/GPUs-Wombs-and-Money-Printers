@@ -31,7 +31,7 @@
   <!-- Scale: 50 years = 550px (110 to 660). 1 year = 11px -->
   <!-- 6 bars, evenly spaced. Bar width=110, gap=45 -->
 
-  <!-- 1. AT&T: 50 years. top=110, height=550 -->
+  <!-- 1. AT&amp;T: 50 years. top=110, height=550 -->
   <rect x="140" y="110" width="110" height="550" rx="5" fill="#2196F3" opacity="0.65"/>
   <text x="195" y="190" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34" font-weight="bold">50</text>
   <text x="195" y="690" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold">AT&amp;T</text>

@@ -1,6 +1,36 @@
-**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.3.1.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.3.1.pdf)
+**English** | [中文](README-cn.md) | [PDF (EN)](GPUs-Wombs-and-Money-Printers-v1.4.0.pdf) | [PDF (中文)](GPU、子宫与印钞机-v1.4.0.pdf)
 
-# GPUs, Wombs, and Money Printers: The Fates of Human Societies in the Age of AI
+# GPUs, Wombs, and Money Printers: Scenarios and Responses for Human Society in the Age of AI
+
+---
+
+## Preface: How to Read This Book
+
+This book has two volumes. They do not answer the same question.
+
+**Volume I asks: if current trends are not interrupted, what happens?** It makes no single-point prophecies; it runs a conditional extrapolation — taking observable data and trend lines already in motion and following each one to its end: if these trends are not interrupted by institutions or by technology itself, where do they take us. Its tone is cold, because an extrapolation owes no one comfort. Volume I gives you a map: where the cliffs are, how the road collapses, how much time is left.
+
+**Volume II asks: once you see it, what do you actually have?** The same data, turned to a different use — from "what will happen" to "so what should be done." It works on two levels: what institutions can do (Chapter XI), and what an ordinary person can do while institutions lag (Chapters XII through XVII).
+
+The two volumes speak differently, and that is deliberate.
+
+Volume I avoids "you," because an extrapolation has to set individual circumstance aside — its credibility comes from accommodating no one. Volume II puts "you" back at the centre, because advice only means something once it lands on a specific person.
+
+**Why the two must sit together.**
+
+Volume I alone is a diagnosis with nowhere to put it. Volume II alone is advice cut loose from its grounds — why believe that low leverage matters most? Why believe physical skills have a closing window? Why is psychological resilience not just comfort food? The grounds for every one of those judgments live in Volume I's hundred-plus data points.
+
+**A map and a pair of feet. Neither one gets you down the road alone.**
+
+If you are short on time: to understand what is happening, read Volume I; if you already understand and need to know what to do, start at Chapter XI. The load-bearing judgments in Volume II name the trend, the risk chain, or the class of outside evidence they rest on.
+
+---
+
+---
+
+# Volume I · The Extrapolation
+
+### If current trends are not interrupted, what happens
 
 ---
 
@@ -10,7 +40,7 @@ In 2012 AlexNet won the ImageNet contest by “telling cats from dogs” [3]. Mo
 
 Each tech wave is faster: AT&T dominated telephony ~50 years, IBM mainframes ~30, Microsoft PCs ~20, Google the web ~15 [2]. This time the wave isn’t giving humans mechanical arms—it’s giving machines a human brain. The target has moved from hands and feet to cognition, and the clock is ticking.
 
-**Promise of this essay:** not sci‑fi prediction, but data‑anchored simulation: if today’s trends keep running, what happens in 5, 15, even 100 years across economy, geopolitics, demography, finance, and the species itself? You’ll leave with a set of leading indicators, a timeline, and an action checklist.
+**Promise of this book:** not sci‑fi prediction, but data‑anchored simulation: if today’s trends keep running, what happens in 5, 15, even 100 years across economy, geopolitics, demography, finance, and the species itself? You’ll leave with a set of leading indicators, a timeline, and an action checklist.
 
 ![Tech wave compression](charts/en/wave-timeline.svg)
 
@@ -24,7 +54,7 @@ The layers: steam engines (coarse muscle) → electrification/assembly (rhythm) 
 
 In three short years, LLMs have gone from “chatty search” to autonomous coding/research/decision agents. Citrini Research’s Feb 2026 report “The Consequences of Surplus Intelligence” asks: standing in June 2028, what will we see? [1]
 
-This essay pushes further—a 100‑year simulation across economic structure, geopolitics, population, finance, and the human species. It’s not a forecast; it’s a chain of “if trends continue” logic.
+This book pushes further—a 100‑year simulation across economic structure, geopolitics, population, finance, and the human species. It’s not a forecast; it’s a chain of “if trends continue” logic.
 
 ---
 
@@ -223,7 +253,7 @@ The constraints fall into three layers: physical, trust, and institutional. But 
 
 The third row is the easiest to miss and the most important: **the institutional layer does not improve with time; it improves with accidents.** It is not slow — it is not running on the time axis at all. It sits still until something happens, then jumps discontinuously.
 
-The pattern recurs throughout this article. China issued a mandatory national standard for autonomous driving only after a multi-vehicle stall in Wuhan (§2.4). Chatbot liability was established only once Moffatt v. Air Canada was decided (§3.3). Texas ordered an audit only after its interconnection queue reached five times the state's record peak demand (§3.7). And **as of August 2026 humanoid robots still have no mandatory safety standard in the United States, China or the EU** (§2.5) — not because they are safer, but because they do not yet have an identifiable accident with an identifiable victim.
+The pattern recurs throughout this book. China issued a mandatory national standard for autonomous driving only after a multi-vehicle stall in Wuhan (§2.4). Chatbot liability was established only once Moffatt v. Air Canada was decided (§3.3). Texas ordered an audit only after its interconnection queue reached five times the state's record peak demand (§3.7). And **as of August 2026 humanoid robots still have no mandatory safety standard in the United States, China or the EU** (§2.5) — not because they are safer, but because they do not yet have an identifiable accident with an identifiable victim.
 
 There is a direct corollary: **the stronger the capability, the narrower the technical tail, and the rarer the triggering events — but the larger the deployment at the moment of each trigger, and the worse the consequence.** The gap between the two curves does not converge smoothly. It shows up as **steps that come further apart and land harder.**
 
@@ -326,7 +356,7 @@ What about the numerator? JOLTS answers that [128]: **layoffs rate 1.0–1.1%**,
 
 **Second, discouraged workers did not rise.** If the participation decline were mostly people giving up after two hundred unanswered applications, the discouraged-worker count should spike. It did not: 509,000 in January 2026, 503,000 in July — essentially flat [128]. **This weakens the "AI drove people out of the labour force" reading.**
 
-**Third, and therefore, none of this can be attributed to AI.** At least three explanations for falling participation coexist: boomer retirement, slower immigration, and AI-frozen hiring. This article cannot separate them.
+**Third, and therefore, none of this can be attributed to AI.** At least three explanations for falling participation coexist: boomer retirement, slower immigration, and AI-frozen hiring. This book cannot separate them.
 
 What can be established is one sentence: **the labour market is frozen — low hiring, low firing, low mobility — and the unemployment rate is structurally insensitive to a freeze.** It was designed for twentieth-century layoff recessions: a plant closes, a cohort loses work on the same day, the number jumps. Whatever its cause, the present change is a hiring-side one: **nobody is fired; nobody is hired.** In the unemployment rate, that shows up as nothing happening — or as improvement.
 
@@ -398,6 +428,57 @@ It moves to **trust and personhood**. What remains in the lights-out office is n
 
 (**Note**: this section is structural extrapolation, not a data finding. Its premises — that AI capability keeps improving, and that legal systems keep requiring liability to land on a person — could both change on a ten-year horizon. The ordering of the four layers is falsifiable: if an AI entity with independent legal personhood appears, layer four collapses immediately; if privacy norms shift so that conversations with AI acquire legal privilege, layer three shrinks sharply.)
 
+### 3.5.2 Three Gaps: Asking the Question From the Other Side
+
+Section 3.5.1 counted from the human side — which four boxes are left. **Counting the same thing from the AI side yields a version with more explanatory power: what does the AI still lack?**
+
+Today's large model is **a thing that is only a brain**. Its reasoning is already strong — strong enough to beat trained professionals on many closed tasks; its hardest current architectural limit is context length, not an inability to think. What actually holds it back is three other things it does not have.
+
+**Gap one: senses.** It has no eyes, ears, nose, tongue, or skin. It can read the part of the world that has already been written down; it cannot read the part that has not — the abnormal vibration in a running machine, the colour of a patient's face, what is missing from the shelf, the hesitation in a meeting that nobody said out loud. This is not a shortfall of judgement. **Its input is cut off.**
+
+**Gap two: authority.** It cannot move an account, issue a contract, change a production parameter, approve a payment, or represent any organisation to the outside world. **This is the easiest of the three to underestimate, because it looks like a switch — and it is in fact the hardest constraint in this book.** The reason follows below.
+
+**Gap three: physical action.** It has no hands or feet. Warehousing, picking, delivery, loading, on-site repair — those steps still require a person or a purpose-built machine.
+
+**These three gaps are the dual of the four boxes in 3.5.1.** What the human on the periphery actually does maps to them one for one: gather on-site information (fills gap one), open permissions and sign (fills gap two), go there and do it (fills gap three). **Put differently: "human on the periphery" is not an identity. It is a list of shortfalls to be closed. How much of the list is crossed off determines which form the organisation has taken.**
+
+**The evolution of organisational form is simply the completion status of that list:**
+
+| State of the three gaps | Organisational form |
+|---|---|
+| All three open | People are the subject, AI is the tool — the overwhelming majority of companies today |
+| Senses closed | **The one-person company**: one human feeds it information, holds the authority, and runs the errands |
+| Senses ＋ authority closed | **AI at the centre, humans at the edge**: the human is left with signing and showing up |
+| All three closed | **The lights-out office** |
+
+Chapter XI, 11.2 discussed the fragility of the one-person company: the human is the only component in that structure that gets sick, gets tired, and has no spare. **Placed on this table it becomes clear — the one-person company is fragile because it is a halfway state with only one gap closed, and the remaining two are loaded onto the same single person.** It is not a destination. It is what the list looks like half-crossed-off.
+
+**But the genuinely useful part of this table is that the three gaps close along completely different curves.**
+
+**Senses track hardware cost.** Unit prices for cameras, microphones and sensors keep falling and deployment density keeps rising. This one comes down on its own; nobody has to decide anything.
+
+**Physical action tracks robotics**, which has a technical roadmap and an approximate timetable — section 2.5 discussed its three bottlenecks: endurance, dexterity, safety standards. And it has a very concrete leading indicator: **logistics, warehousing, delivery.** Those three settings are structured, repetitive, and forgiving on precision, which makes them the first place embodied intelligence can hold ground. **Watching those three is worth far more than watching humanoid demo videos.**
+
+**Authority tracks no technology curve at all.**
+
+It is the only one of the three that **technical progress will not loosen by itself.** No accuracy figure will make someone hand over payment authority. It is determined by where liability lands — who gets sued in law, who pays under insurance, who gets fired inside the organisation. And a pattern this book keeps observing is that **rules of that kind only move after something goes wrong.** China issued a mandatory national standard for autonomous driving only after a fleet stalled across Wuhan (§2.4); liability for chatbots was established only after the Moffatt v. Air Canada ruling (§3.3); Texas ordered an audit only after the interconnection queue reached five times the state's historical peak load (§3.7).
+
+**So the likely order in which the gaps close is: senses first, physical action second, authority last.**
+
+That yields a conclusion that is not especially intuitive:
+
+> **The arrival time of the lights-out office is not set by model capability. It is set by who is willing to hand over the right to sign.**
+
+Long after capability is sufficient, the system will sit still — waiting not on technology but on a liability framework. This also explains the observation in 3.5.1: the prototype of the lights-out factory existed in the 1980s, and forty years later it is still a minority. **Not because it cannot be built, but because nobody wants to sign for the last 5% of exceptions.**
+
+**And if all three gaps really do close, something appears that has not existed before.**
+
+An organisation that has senses, authority and physical action, wired into a continuously running AI system, holds every component needed to close a loop: it can perceive external state, decide, make the decision take effect in the physical world, observe the result, and revise its own next move accordingly. **At that point a "company" stops being merely a legal container for employing people and becomes a system that iterates and updates itself.**
+
+The threshold for that step still lands on authority — because "modifying itself" means having the right to change its own rules, and that is something human organisations have never handed over.
+
+(**Note**: this section is a structural extrapolation, not a data conclusion, and it is falsifiable. Three tests. One: if some heavily regulated industry achieves large-scale autonomous authorisation before a lightly regulated one does, "authority closes last" fails. Two: if automation penetration in logistics/warehousing/delivery stalls for a long time while office automation keeps advancing, the ordering of "action before authority" has to be swapped. Three: if an AI entity with independent legal personality appears, the authority box collapses instantly and the whole ordering is void.)
+
 ### 3.6 Dashboard: Six Indicators, Three Thresholds
 
 Projection easily becomes self-serving. So here is a set of indicators that quarterly data can falsify directly — each with a numeric threshold rather than a defensible-either-way adjective.
@@ -420,13 +501,15 @@ All six are publicly checkable (BLS, OECD, IMF GFSR, Fed regional banking data).
 
 ### 3.7 Brake Conditions and Scorecard
 
-Which forces could interrupt the main line? One hard requirement in this revision: **every brake must be judgeable from public data as either pressed or not pressed.** One condition in the previous version failed that test and has been replaced — see the note below.
+Which forces could interrupt the main line? They share one hard requirement: **every brake must be judgeable from public data as either pressed or not pressed.**
+
+That requirement is stricter than it looks. An indicator that cannot be adjudicated is **worse than no indicator at all** — it manufactures the impression of monitoring while in practice any outcome can be read as consistent with expectation. Two worked examples follow the table.
 
 | Brake | Test | As of August 2026 |
 |---|---|---|
 | **Compute supply tightens** | Frontier accelerator lead times back above 12 months | **Not triggered.** Nvidia's Vera Rubin platform entered full production and began shipping to cloud providers on 21 July 2026 — supply is accelerating, not tightening [123] |
 | **Power and interconnection** | An **administrative** interconnection freeze in a major data-center state | **Triggered.** On 3 August 2026 the Governor of Texas ordered the PUCT and ERCOT to audit every data center in the interconnection queue, warning that projects failing to disclose ownership, financial, water and community-impact information could be denied grid access. The ERCOT large-load queue reached **474.7 GW** in June 2026, of which **420.8 GW (90.2%) is data centers** — more than five times the state's all-time peak demand of 91,089 MW (22 July 2026) [123] |
-| **Autonomous driving** | **Time required to enter each new city stops falling as the technology improves** | **Triggered.** As of March 2026, **90.4%** of all rider-only miles ever driven remained concentrated in Phoenix, the SF Bay Area and Los Angeles [129]. This test replaces the previous version's "city count stalls" — city count *is* the governance variable, so using it to test whether the constraint is governance is circular. "Does time-per-city fall?" actually discriminates: if the constraint is technical, better generalisation should make each new city markedly faster; if it is accountability, time-per-city is independent of model capability |
+| **Autonomous driving** | **Time required to enter each new city stops falling as the technology improves** | **Triggered.** As of March 2026, **90.4%** of all rider-only miles ever driven remained concentrated in Phoenix, the SF Bay Area and Los Angeles [129]. This test deliberately avoids "city count stalls" — city count *is* the governance variable, so using it to test whether the constraint is governance is circular. "Does time-per-city fall?" actually discriminates: if the constraint is technical, better generalisation should make each new city markedly faster; if it is accountability, time-per-city is independent of model capability |
 | **Humanoid robots** | Unit price >$30k and runtime <4h persisting to 2030 | Open (see §2.5) |
 | **Macro demand** | Fiscal/monetary easing triggers real reflation, forcing AI CapEx cuts | **Not triggered.** As of mid-2026 no hyperscaler had cut its 2026 AI CapEx guidance [123] |
 
@@ -438,11 +521,13 @@ The bet is live as of August 2026: OSHA's own robotics page still reads "There a
 
 The gap between capability and accountability is widening visibly.
 
-**A self-correction on the second row.** The previous version wrote this brake as "average grid-interconnection wait exceeding 5 years." That was a **design error**: no institution publishes an authoritative "average wait" statistic, so the condition could be neither confirmed nor refuted — it looked like a threshold but was only an adjective.
+**How to read this table — two notes.**
 
-Meanwhile the real brake was pressed in an entirely different form: not longer queues, but a **political stop**. The largest data-center state in America froze new interconnections four months after the previous version of this article was published.
+**First, why the power-and-grid row is written as an *administrative* restriction rather than as "the queue got longer."** The more intuitive phrasing would be "average grid-interconnection wait exceeding 5 years" — it sounds concrete, but it is a bad indicator: **no institution publishes an authoritative "average wait" statistic**, so the condition can be neither confirmed nor refuted. It looks like a threshold; it is only an adjective.
 
-The lesson is worth recording: **an unmeasurable indicator is worse than no indicator, because it manufactures the illusion of monitoring.** Note also that row one is currently *refuted* — which is the point. These conditions are supposed to be capable of being wrong.
+And the brake, when it was actually pressed, arrived in an entirely different form: not longer queues, but a **political stop**. In August 2026 the largest data-center state in America froze new interconnections — an event with a date, an administrative order, and a paper trail. **That is precisely what the "adjudicable" requirement is for: the real turn rarely arrives in the shape you predicted, so the indicator has to track events rather than a phrasing.**
+
+**Second, row one — "lead times back above 12 months" — is currently *refuted*.** That is a good sign: it means these conditions can be contradicted by reality rather than absorbing whatever happens. **A set of indicators that is always right is a set with no information in it.**
 ---
 
 ## IV. Geographic Differentiation
@@ -997,7 +1082,7 @@ A 2024 paper in *Bioethics* (Wiley) by Rueda argues that radical genetic enhance
 
 75 of 96 countries currently prohibit heritable genome editing [113]. But prohibition only works if everyone complies. He Jiankui edited three human embryos in 2018, served three years in prison, and by July 2024 had relocated to Hainan (China's medical tourism hub), received funding from a U.S. crypto entrepreneur, and was proposing new CRISPR embryo editing targeting Alzheimer's [113]. The genie is out of the bottle.
 
-**Path B: Extinction of natural humans.** This isn't dramatic sci-fi — it's a logical consequence of multiple converging forces analyzed throughout this article:
+**Path B: Extinction of natural humans.** This isn't dramatic sci-fi — it's a logical consequence of multiple converging forces analyzed throughout this book:
 - **Economic obsolescence** (Chapter II): natural humans can't compete with AI in any cognitive task
 - **AI-enabled WMDs** (Section 7.4): bioweapons, genetic weapons, and autonomous weapons systems create existential risks that disproportionately threaten unaugmented populations
 - **Reproductive collapse** (Chapter V): the fertility spiral ensures natural human populations shrink every generation
@@ -1028,7 +1113,15 @@ Starship 150 t, $78–94/kg (target $10–20/kg) [73]. V3 flew for the first tim
 
 ![The space economy](charts/en/space-economy.svg)
 
-China catching up: 137 funding rounds 2025, 11 reusable rocket projects. **On 18 August 2026 LandSpace's second Zhuque-3 reached orbit and its first stage made a vertical soft landing in Minqin County, Gansu — making LandSpace the first Chinese and third global commercial company to recover an orbital-class booster**, after SpaceX and Blue Origin (landing-leg fire was filmed afterwards; whether the booster is reflyable is unconfirmed) [80]. The path is uneven: rival Space Pioneer's Tianlong-3 failed on its debut launch on 3 April 2026 [80]. Gap to SpaceX still ~10 years by cadence.
+China catching up: 137 funding rounds in 2025, at least 11 reusable-rocket programmes. **And in the summer of 2026 that threshold was crossed twice in two months — by two different methods.**
+
+**First the state programme, at sea.** On 10 July 2026 a Long March 10B launched from the Hainan commercial spaceport and its first stage was recovered by a **net-capture system on a sea platform** — China's first successful controlled recovery of a reusable launch vehicle first stage, and reported as the **world's first net-based recovery** (note this is not a Falcon 9-style landing-leg touchdown at sea; the booster is caught in a net rig on the platform) [139].
+
+**Then a private firm, on land, on legs.** On 19 August 2026 at 07:35, LandSpace's Zhuque-3 Y2 lifted off from the Dongfeng commercial space innovation test zone; at **07:41 — six minutes after launch** — the first stage completed a controlled land recovery as planned. The China National Space Administration's own wording: following the 10 July sea net-capture of the Long March 10B first stage, this was **China's first successful controlled land recovery of a reusable first stage using landing legs** [138]. LandSpace thereby became the first Chinese and third global **commercial** company to recover an orbital-class booster, after SpaceX and Blue Origin.
+
+**The boundary of the achievement has to be marked honestly: recovery is not reuse.** Public information establishes only that a first stage can be brought back intact after an orbital launch. No recovered booster has been confirmed to have flown again. From "we can get it back" to "we can refurbish and refly it" to "we can refly it without refurbishment" took SpaceX nearly four years. So the accurate comparison is not "caught up with Falcon 9" but **arrived at where SpaceX stood in late 2015 — roughly a decade behind**.
+
+The path is uneven. Other publicly verifiable progress and setbacks over the same period: SAST's Long March 12A reached orbit on 23 December 2025 but lost the first stage on recovery; Space Pioneer's Tianlong-3 failed on its debut launch on 3 April 2026; Deep Blue Aerospace's Nebula-1 completed 10 of 11 primary objectives in its 22 September 2024 high-altitude vertical recovery test but not the final landing; Galactic Energy completed sea trials of the Pallas-1 first-stage propulsion system in November 2025, with orbital-class recovery validation scheduled for later missions; and iSpace conducted sea-recovery navigation and rehearsal work for Hyperbola-3 in the first half of 2026, with the company projecting a maiden flight by end-2026 [80]. **These timetables come from company and press disclosure and are markedly less certain than completed launches — discount them when reading.**
 
 ![China's rocket race](charts/en/china-rockets.svg)
 
@@ -1064,17 +1157,124 @@ But perhaps this isn't tragedy. Perhaps it's humanity's ultimate achievement—c
 
 ---
 
-## X. The Optimist's Algorithm: Turning Worst Cases into a Task List
+## X. One Person’s Life, Eight Billion Fates
 
-The previous nine chapters projected what happens if the trend is not interrupted. This chapter asks a different question: **if we actually want to interrupt it, what do we have?**
+Citrini Research's report ends with an image: the canary in the coal mine. Before the toxic gas spreads, the canary collapses first, warning the miners [1].
+
+"The canary is still alive." That means we still have time. But not much.
+
+Let's collapse the logic of Volume I into two lenses.
+
+### Xiao Ming's Life: Born in 2026
+
+![Dual perspective](charts/en/dual-perspective.svg)
+
+Xiao Ming is born in 2026 to a typical Chinese dual-income household.
+
+**Ages 0–5**: His first "friend" is an AI companion tablet. Both parents work. AI is endlessly patient, never says no. He learns to chat with AI but struggles to make up with the kid next door after a fight.
+
+**Ages 6–18**: An AI tutor teaches him math, English, coding one-on-one. Learning efficiency is 3x traditional classrooms. But school's purpose shifts from "learning knowledge" to "learning socialization"—AI can teach knowledge; finding your place in a group of people, it can't. 26% of his peers use ChatGPT for homework [101]—by high school, the number may be 90%.
+
+**Ages 18–22**: He skips the four-year degree. Degrees have devalued to the point where four years and hundreds of thousands in tuition aren't worth it. He stacks 6 micro-credentials on Coursera, learning while interning. His "diploma" is a string of digital badges, not a sheet of paper.
+
+**Ages 22–35**: He changes jobs 7 times in 13 years—not because he's unstable, but because each job's lifecycle is only 2 years. He's had two relationships, both ending because they were "too exhausting." An AI companion app becomes his most stable nightly company. He doesn't not want a real relationship—he's just accustomed to zero-friction AI and can no longer tolerate the bumps of real human connection. He hasn't married. No children.
+
+**Ages 35–60**: Work becomes optional. UBI (or some variant) covers basic living expenses. He occasionally takes projects AI can't do—mostly "human experience" work: counseling, elderly companionship, outdoor guiding. Income is modest but enough. His main struggle isn't money—it's "What am I actually doing?" He tries painting, writing a novel, learning guitar—not for income, but to find a sliver of "I made this" in a world where AI can do everything.
+
+**Ages 60–150**: AI medicine extends his lifespan. Genetic screening at 40 caught early liver cancer; AI-assisted targeted therapy cured it. Epigenetic reprogramming therapy becomes accessible to ordinary people by the time he's 70—not because he's wealthy, but because AI-driven drug development has crushed costs to a fraction of early prices, and public healthcare systems have begun covering basic-tier cellular rejuvenation. He becomes one of the first ordinary people to receive "cellular age reversal" therapy. But his pension runs out at 75—the system was designed for people who live to 80; he lives to 148. The last 70-plus years are sustained by UBI and AI caregiving systems. He witnesses three forms of humanity coexisting: augmented, natural, and AI.
+
+**After death**: His family keeps his AI version. AI-Xiao Ming continues chatting with grandchildren, telling stories from his youth. Sometimes the grandchildren can't tell if they're talking to "Grandpa's AI" or "Grandpa." His digital self "lives" 30 years after his body dies.
+
+Xiao Ming's life isn't sci-fi. Every step above is built on data and trends analyzed in Volume I.
+
+### Eight Billion Fates: Seven Phase Transitions
+
+Pull the lens back. Xiao Ming's predicament multiplied by 8 billion is the structural phase transition of human society:
+
+**Employment: from "must work" to "choose to work."** Work is no longer a prerequisite for survival. This is the first time in 10,000 years of civilization that humanity faces this question—how does a world run when most people don't need to labor? Every economic system, legal framework, and moral code in history is built on the assumption "people should work." Remove the assumption; rebuild everything.
+
+**Education: from "one-time degree" to "lifetime subscription."** The four-year university is an industrial-age product—load knowledge once, use it for 40 years. When knowledge half-life shrinks to 2–3 years, education must become a continuous, lifelong subscription. Universities won't vanish, but their business model and raison d'etre will be fundamentally redefined.
+
+**Family: from "economic unit" to "emotional choice."** Once AI and market services replace marriage's economic functions, the only remaining reason is "I want to be with this person." That sounds romantic, but the consequence: when the only glue is emotion, and emotion is changeable, family structures become extremely fragile. Having children shifts from "default option" to a deeply deliberate, counter-current decision.
+
+**Cities: from "work hubs" to "experience hubs."** People congregated in cities because jobs were there. When remote work + AI decentralizes employment, a city's core function shifts from "providing jobs" to "providing experiences"—restaurants, music, art, community, nature. Cities that can't offer unique experiences (the "generic cities" of section 6.3) will shrink; those offering non-digitizable experiences will thrive.
+
+**Nations: from "labor competition" to "compute competition."** A nation's strength used to depend on how many educated workers it had. In the future, it depends on how much compute, energy, and data it controls. Population is no longer an advantage—it may be a liability (more people needing UBI). The core resource of international competition shifts from "people" to "GPUs."
+
+**Species: from "single human" to three coexisting forms.** Augmented humans (gene editing + BCI + nanomedicine), natural humans (refusing augmentation, living in AI-maintained societies), and pure AI/robots (Earth's most powerful "species," expanding to the stars). For the first time, humanity faces an irreconcilable rift on the question "What is human?"
+
+### The Canary, Reflexivity, and Your Choice
+
+The mine air is still breathable. But the toxic gas is spreading.
+
+The canary is still alive. The question is—for how long?
+
+One last thing to be wary of—the volume you just read.
+
+Sociologist Robert Merton introduced the "self-fulfilling prophecy" in 1948: an initially inaccurate expectation becomes real because people believe it and act accordingly [28]. Soros brought this concept into finance as "reflexivity"—cognition shapes reality, reality reinforces cognition, creating an irreversible positive-feedback loop [29].
+
+Every spiral and collapse chain described in this volume is reflexive. If this analysis (or similar work) spreads widely and gains acceptance, it becomes a catalyst: executives read it and accelerate AI deployment—"everyone's moving; I can't wait"; white-collar workers read it and panic-switch jobs or cash out real estate early; young people read it and become more certain they shouldn't marry or have kids; investors read it and dump SaaS and mortgage-related assets. The prophecy accelerates its own fulfillment. Citrini Research's report shook Silicon Valley not because it predicted something new, but because it put into black and white what everyone sensed but nobody dared say aloud. The act of writing it down changed the system.
+
+This is precisely the fundamental difference between human societies and physical systems: particles don't read papers, but people do. An asteroid hits Earth on the same trajectory whether or not anyone predicted it. But economic collapse is different—if enough people believe it will happen, it does. The last straw in the 2008 financial crisis wasn't a data point; it was the contagion of fear itself.
+
+So the strangest thing about this extrapolation: if it's right, every decision you make after reading it—whether to save more cash, delay buying a house, switch careers, have a child—makes it more right. You cannot stand outside it. Reading is participation. Understanding is acceleration.
+
+This may be the deepest tragedy of the commons in this entire analysis: not that no one sees the cliff, but that those who see it vote with their feet in a direction that is, precisely, toward the cliff.
+
+But Xiao Ming's story also hides a thread of hope: he paints not for money, runs not to outpace cars, connects with people not for efficiency. **When AI takes everything "useful," what remains is everything "meaningful."** The next chapter of human civilization may not be about competing with AI, but about finding, in a world that no longer requires competition, reasons worth living for.
+
+---
+
+
+---
+
+Volume I ends here.
+
+It did one thing: follow the chain of reasoning behind "if current trends are not interrupted" all the way to the end. It is pessimistic, because the direction the data points in is genuinely unsettling.
+
+**But an extrapolation is not a fate.** Seeing the cliff is not about imagining you walk away untouched — it is about telling apart, while you still have choices, which risks can be avoided and which impacts can only be softened.
+
+That last conclusion — that the people who see the cliff vote with their feet toward it — is the final result Volume I can produce, and it is the entire reason Volume II exists. **If seeing clearly accelerates the collapse, the antidote is not to stop looking. It is to know where to walk once you have looked.**
+
+Volume II is that "where."
+
+---
+
+---
+
+# Volume II · The Response
+
+### Once you see it, what do you actually have
+
+---
+
+This volume is not a set of permanent answers. It is a framework for reducing damage under high uncertainty — its goal is not to make you win, but to help you make fewer irreversible mistakes.
+
+Precisely because that is what it is, I have to concede four limits before offering any advice.
+
+**First, much of this advice may be wrong.** The pace of change AI brings exceeds any precedent in human history. A strategy that looks correct today may be obsolete in two years. This volume is not scripture; it is the best framework we can assemble right now — and reality may overturn it at any time.
+
+**Second, not everyone has room to choose.** "Build passive income," "invest in yourself," "learn new skills" — all of it presumes you have time, energy, and some financial slack. Tell someone earning three thousand a month, working twelve-hour days, supporting both parents and children, to "build a personal brand," and you are handing out cake to people with no bread. This volume tries throughout to separate what an individual can do from what only institutions can fix.
+
+**Third, some problems have no individual solution at all.** Pension collapse, mass unemployment, financial-system cascade — you cannot save your way past these. For that class of problem I can only say honestly: it requires collective action and policy change. An individual can soften the impact, not become immune to it. That is why this volume opens at the institutional level (Chapter XI) rather than starting with your portfolio.
+
+**Fourth, the endgame may be good, but the transition will hurt.** If AI genuinely delivers material abundance, humanity may enter an era that does not require work for survival. But the road from here to there is full of unemployment, devaluation, identity crisis, and institutional absence. What you need is not the patience to wait for utopia — it is the capacity to stay alive until it arrives.
+
+---
+
+## XI. The Optimist's Algorithm: Turning Worst Cases into a Task List
+
+The nine chapters of Volume I projected what happens if the trend is not interrupted. This chapter asks a different question: **if we actually want to interrupt it, what do we have?**
+
+First, be clear who this chapter is talking to: **it is about why institutions and organisations must act — not about individual self-rescue.** Ordinary readers need it anyway, because it draws the boundary around every piece of personal advice that follows: **which risks only institutions can carry, and which are left for individuals to choose about.** It is also not a complete policy programme. Its job is to let you read Chapter XII onward knowing which burdens were never yours to carry.
 
 This is not a walk-back. The proper use of a pessimistic projection is planning, not fear. An analysis that only says "we're doomed" and one that only says "it'll be fine" are equivalent at the decision layer — **neither produces any action**.
 
-### 10.1 Three Premises Taken for Granted — All Three Are Questionable
+### 11.1 Three Premises Taken for Granted — All Three Are Questionable
 
 #### Premise one: AI is net destruction
 
-The WEF figure of 92 million jobs displaced by 2030 has been quoted endlessly — including in Chapter III of this article. The same report contains another number: **170 million** jobs created over the same period, for a **net gain of 78 million** [91].
+The WEF figure of 92 million jobs displaced by 2030 has been quoted endlessly — including in Chapter III of this volume. The same report contains another number: **170 million** jobs created over the same period, for a **net gain of 78 million** [91].
 
 More persuasive is the **ATM paradox**. After automated teller machines spread, tellers per bank branch fell from 20 to 13 (−35%) and everyone assumed the job was finished. What actually happened: the operating cost of a branch collapsed, banks therefore opened **43% more branches**, and the total number of U.S. tellers rose from 300,000 to 600,000 — **double** [124]. Technology cut unit costs, demand expanded, total employment rose. McKinsey estimates that **about one third of jobs in America today did not exist 25 years ago** [124].
 
@@ -1111,7 +1311,7 @@ The cross-study conclusion: **most people who receive money do not quit.** Some 
 
 The hard question was never whether cash breeds idleness. It is **where the money comes from**. Chapter V gave the direction: shift the tax base from labour to capital, compute and carbon. This is not charity — it is reconnecting machine output to the demand side, without which the "production is fine, consumption collapses" knot has no solution.
 
-### 10.2 Policy Levers: Three Lines, Three Horizons
+### 11.2 Policy Levers: Three Lines, Three Horizons
 
 Once the three premises are removed, what remains is an engineering problem: **what specifically, and when.**
 
@@ -1125,7 +1325,7 @@ Three lines run throughout: **distribute the dividend** (turn productivity into 
 
 Nothing on this list is newly invented. Every item has been discussed, piloted, or partially implemented somewhere. **What is missing has never been the tools — it is the political will to put them on a timetable.**
 
-### 10.3 The Test: When to Change Gear
+### 11.3 The Test: When to Change Gear
 
 The six-indicator dashboard in §3.6 is this chapter's decision rule: entry-level postings, the youth-versus-overall unemployment gap, whether AI CapEx crowds out headcount, accelerator lead times, pension solvency, and housing vacancy alongside regional bank capital. Each has explicit red/amber/green thresholds.
 
@@ -1135,9 +1335,9 @@ Why write it down in advance? Because incremental reform and emergency intervent
 
 The reverse rule matters just as much: **while the lights are not red, do not spend emergency tools early.** Firing all the ammunition at the wrong moment is as damaging as failing to fire at the right one.
 
-### 10.4 Optimism Is Not Naivety
+### 11.4 Optimism Is Not Naivety
 
-Take each disaster from the previous nine chapters and map it against this one:
+Take each disaster from the nine chapters of Volume I and map it against this one:
 
 | Problem | Lever |
 |---|---|
@@ -1158,99 +1358,753 @@ Chapter I said the adaptation window may be short. Short is not the same as abse
 
 ---
 
-## XI. Conclusion: One Person's Life, Eight Billion Fates
 
-Citrini Research's report ends with an image: the canary in the coal mine. Before the toxic gas spreads, the canary collapses first, warning the miners [1].
+### 11.5 For Managers and Policymakers: The One-Line Version
 
-"The canary is still alive." That means we still have time. But not much.
+The core conclusion from section 5.5 of Volume I, worth restating here:
 
-Let's collapse the entire essay's logic into two lenses.
+**Do not try to produce more humans to compete with machines. Instead, ensure that the wealth machines create flows to people.**
 
-### Xiao Ming's Life: Born in 2026
-
-![Dual perspective](charts/en/dual-perspective.svg)
-
-Xiao Ming is born in 2026 to a typical Chinese dual-income household.
-
-**Ages 0–5**: His first "friend" is an AI companion tablet. Both parents work. AI is endlessly patient, never says no. He learns to chat with AI but struggles to make up with the kid next door after a fight.
-
-**Ages 6–18**: An AI tutor teaches him math, English, coding one-on-one. Learning efficiency is 3x traditional classrooms. But school's purpose shifts from "learning knowledge" to "learning socialization"—AI can teach knowledge; finding your place in a group of people, it can't. 26% of his peers use ChatGPT for homework [101]—by high school, the number may be 90%.
-
-**Ages 18–22**: He skips the four-year degree. Degrees have devalued to the point where four years and hundreds of thousands in tuition aren't worth it. He stacks 6 micro-credentials on Coursera, learning while interning. His "diploma" is a string of digital badges, not a sheet of paper.
-
-**Ages 22–35**: He changes jobs 7 times in 13 years—not because he's unstable, but because each job's lifecycle is only 2 years. He's had two relationships, both ending because they were "too exhausting." An AI companion app becomes his most stable nightly company. He doesn't not want a real relationship—he's just accustomed to zero-friction AI and can no longer tolerate the bumps of real human connection. He hasn't married. No children.
-
-**Ages 35–60**: Work becomes optional. UBI (or some variant) covers basic living expenses. He occasionally takes projects AI can't do—mostly "human experience" work: counseling, elderly companionship, outdoor guiding. Income is modest but enough. His main struggle isn't money—it's "What am I actually doing?" He tries painting, writing a novel, learning guitar—not for income, but to find a sliver of "I made this" in a world where AI can do everything.
-
-**Ages 60–150**: AI medicine extends his lifespan. Genetic screening at 40 caught early liver cancer; AI-assisted targeted therapy cured it. Epigenetic reprogramming therapy becomes accessible to ordinary people by the time he's 70—not because he's wealthy, but because AI-driven drug development has crushed costs to a fraction of early prices, and public healthcare systems have begun covering basic-tier cellular rejuvenation. He becomes one of the first ordinary people to receive "cellular age reversal" therapy. But his pension runs out at 75—the system was designed for people who live to 80; he lives to 148. The last 70-plus years are sustained by UBI and AI caregiving systems. He witnesses three forms of humanity coexisting: augmented, natural, and AI.
-
-**After death**: His family keeps his AI version. AI-Xiao Ming continues chatting with grandchildren, telling stories from his youth. Sometimes the grandchildren can't tell if they're talking to "Grandpa's AI" or "Grandpa." His digital self "lives" 30 years after his body dies.
-
-Xiao Ming's life isn't sci-fi. Every step above is built on data and trends analyzed in this essay.
-
-### Eight Billion Fates: Seven Phase Transitions
-
-Pull the lens back. Xiao Ming's predicament multiplied by 8 billion is the structural phase transition of human society:
-
-**Employment: from "must work" to "choose to work."** Work is no longer a prerequisite for survival. This is the first time in 10,000 years of civilization that humanity faces this question—how does a world run when most people don't need to labor? Every economic system, legal framework, and moral code in history is built on the assumption "people should work." Remove the assumption; rebuild everything.
-
-**Education: from "one-time degree" to "lifetime subscription."** The four-year university is an industrial-age product—load knowledge once, use it for 40 years. When knowledge half-life shrinks to 2–3 years, education must become a continuous, lifelong subscription. Universities won't vanish, but their business model and raison d'etre will be fundamentally redefined.
-
-**Family: from "economic unit" to "emotional choice."** Once AI and market services replace marriage's economic functions, the only remaining reason is "I want to be with this person." That sounds romantic, but the consequence: when the only glue is emotion, and emotion is changeable, family structures become extremely fragile. Having children shifts from "default option" to a deeply deliberate, counter-current decision.
-
-**Cities: from "work hubs" to "experience hubs."** People congregated in cities because jobs were there. When remote work + AI decentralizes employment, a city's core function shifts from "providing jobs" to "providing experiences"—restaurants, music, art, community, nature. Cities that can't offer unique experiences (the "generic cities" of section 6.3) will shrink; those offering non-digitizable experiences will thrive.
-
-**Nations: from "labor competition" to "compute competition."** A nation's strength used to depend on how many educated workers it had. In the future, it depends on how much compute, energy, and data it controls. Population is no longer an advantage—it may be a liability (more people needing UBI). The core resource of international competition shifts from "people" to "GPUs."
-
-**Species: from "single human" to three coexisting forms.** Augmented humans (gene editing + BCI + nanomedicine), natural humans (refusing augmentation, living in AI-maintained societies), and pure AI/robots (Earth's most powerful "species," expanding to the stars). For the first time, humanity faces an irreconcilable rift on the question "What is human?"
-
-### The Canary, Reflexivity, and Your Choice
-
-The mine air is still breathable. But the toxic gas is spreading.
-
-The canary is still alive. The question is—for how long?
-
-One last thing to be wary of—the article you just read.
-
-Sociologist Robert Merton introduced the "self-fulfilling prophecy" in 1948: an initially inaccurate expectation becomes real because people believe it and act accordingly [28]. Soros brought this concept into finance as "reflexivity"—cognition shapes reality, reality reinforces cognition, creating an irreversible positive-feedback loop [29].
-
-Every spiral and collapse chain described in this article is reflexive. If this article (or similar analyses) spreads widely and gains acceptance, it becomes a catalyst: executives read it and accelerate AI deployment—"everyone's moving; I can't wait"; white-collar workers read it and panic-switch jobs or cash out real estate early; young people read it and become more certain they shouldn't marry or have kids; investors read it and dump SaaS and mortgage-related assets. The prophecy accelerates its own fulfillment. Citrini Research's report shook Silicon Valley not because it predicted something new, but because it put into black and white what everyone sensed but nobody dared say aloud. The act of writing it down changed the system.
-
-This is precisely the fundamental difference between human societies and physical systems: particles don't read papers, but people do. An asteroid hits Earth on the same trajectory whether or not anyone predicted it. But economic collapse is different—if enough people believe it will happen, it does. The last straw in the 2008 financial crisis wasn't a data point; it was the contagion of fear itself.
-
-So the strangest thing about this article: if it's right, every decision you make after reading it—whether to save more cash, delay buying a house, switch careers, have a child—makes it more right. You cannot stand outside it. Reading is participation. Understanding is acceleration.
-
-This may be the deepest tragedy of the commons in this entire analysis: not that no one sees the cliff, but that those who see it vote with their feet in a direction that is, precisely, toward the cliff.
-
-But Xiao Ming's story also hides a thread of hope: he paints not for money, runs not to outpace cars, connects with people not for efficiency. **When AI takes everything "useful," what remains is everything "meaningful."** The next chapter of human civilization may not be about competing with AI, but about finding, in a world that no longer requires competition, reasons worth living for.
+The answer on the production side is already clear -- AI and robotics. The distribution system on the consumption side is the problem you need to solve. Before the first wave of mass AI layoffs arrives (estimated 2028-2030), distribution systems need to be in place. Otherwise, "ghost GDP" will become a real social crisis.
 
 ---
 
-## About This Article
+---
+
+---
+
+## XII. The Transition: Why the Road Between Here and There Is the Most Dangerous Part
+
+### 12.1 The Endgame May Be Good
+
+Following the chain of reasoning from Volume I to its logical end, we arrive at a seemingly paradoxical conclusion:
+
+The combined productivity of AI + robotics may deliver radical material abundance. The production costs of food, clothing, housing, healthcare, and education could approach zero. Sam Altman predicts "massive deflation" -- AI usage costs falling tenfold every year [34]. Marx's vision of communism -- material abundance, distribution according to need, free human development -- may actually be realized, not through proletarian revolution, but through a fleet of machines that never need to eat.
+
+Standing in 2050 and looking back, you might say: "That stretch was rough, but the outcome was not bad."
+
+### 12.2 But the Transition Will Kill People
+
+The problem is that you are not standing in 2050. You are standing in 2026.
+
+Between now and that "abundant endgame" lies a transition of perhaps 10-20 years. During this period:
+
+- **The production side has already been revolutionized by AI** -- efficiency skyrockets, costs plunge, GDP may keep growing
+- **But the distribution side is still stuck in the old system** -- wages are the only income source, social insurance runs on payroll taxes, pensions assume people die around 80
+
+The time lag between production and distribution is the ordinary person's nightmare.
+
+GDP is growing, but you just got laid off. Prices are falling, but your mortgage hasn't. AI is making everything cheaper, but you can't afford even the cheap stuff -- because you have no income. This is the "ghost GDP" described in Volume I: statistics paint a rosy picture while ordinary people see only ruin.
+
+**The core contradiction of the transition: technology advances far faster than institutions can adapt.**
+
+Self-driving cars could reach mass deployment within five years, but retraining taxi drivers takes ten. AI could replace most entry-level programming jobs within a year, but university curriculum reform takes five. Robots could take over warehouses within three years, but reforming the social safety net may require a generation of political struggle.
+
+**In the gap between technology arriving and institutions catching up, ordinary people are exposed.** This volume is about helping you get through that gap with as little damage as possible.
+
+### 12.3 Transitions in History
+
+This is not the first time.
+
+The British Industrial Revolution (1760-1840): The endgame was a several-fold increase in per capita income. But the transition -- roughly 60-80 years -- was filled with child labor, slums, cholera, and workers' uprisings. The average life expectancy of a Manchester worker once dropped to just 17. When Engels wrote *The Condition of the Working Class in England*, the Industrial Revolution had been underway for 80 years.
+
+The American Gilded Age (1870-1900): The endgame was America becoming the world's largest economy. But the transition -- railroad barons monopolizing everything, workers toiling 16-hour days, no minimum wage, no social insurance, no workers' compensation. It took the New Deal of the 1930s to build a social safety net.
+
+**Every technological revolution follows this pattern: the endgame is prosperity, but the transition is blood and tears.** The difference lies in how long the transition lasts, how painful it is, and whether institutions can keep pace.
+
+What makes the AI revolution unique: **the speed is an order of magnitude faster.** The Industrial Revolution took 60 years to put textile workers out of jobs; AI may take 6 years to do the same to programmers. The transition is compressed -- meaning the pain is more concentrated and the window for institutional adaptation is shorter.
+
+---
+
+---
+
+---
+
+## XIII. Mental Resilience: The Foundation for Everything Else
+
+### Why Psychology Comes First
+
+Most "survival guides for the AI era" put mental health last -- first they teach you skills, finance, and career planning, then tack on a "take care of your mental health" appendix.
+
+**That priority order is wrong.**
+
+If someone's mental state collapses, they will not learn new skills, manage their money, or build connections. They will lie in bed doomscrolling, or worse. Mental health is not a "soft" need -- it is the prerequisite for all action.
+
+### 13.1 The Psychological Structure of the AI Shock: Crushed From the Top Down
+
+Viewed through Maslow's hierarchy of needs, AI does not strike from the bottom (can't afford food) -- it **crushes downward from the top, simultaneously**:
+
+| Need Level | AI's Impact | Speed of Collapse |
+|---|---|---|
+| Self-actualization | "Everything I spent a lifetime learning is suddenly worthless" | Collapses first |
+| Esteem | "I am no longer needed; I am surplus" | Follows closely |
+| Belonging | "Social circle shrinks after job loss; AI companions replace real people" | Slow erosion |
+| Safety | "Can't make mortgage payments; pension falls short" | Delayed onset |
+| Physiological | "Can't afford food" | Last (unlikely in developed nations) |
+
+**Most people don't break down when they can't eat -- they break down when they feel useless.**
+
+Data from the Great Depression: Between 1928 and 1932, the U.S. suicide rate surged **22.8%**, from 18.0 to 22.1 per 100,000 -- the highest in American history. The sharpest rise was not among the poorest but among **working-age adults aged 25-64** -- the group with the strongest "career = identity" bond. They did not starve. There was no mass famine in 1930s America. They were stripped of purpose.
+
+### 13.2 A Lifetime of Accumulation, Wiped Out: How Deep That Pain Goes
+
+Imagine you are a 45-year-old senior developer. You spent 20 years mastering programming, from C++ to Java to Python, rising to the role of architect. Your professional identity, social standing, income, and self-confidence are all built on "I can write code."
+
+Then Claude Code arrives. A fresh graduate uses it for a few weeks to deliver what would have taken you months. Your 20 years of experience become "legacy knowledge" in the face of AI.
+
+This is not a "just learn a new tool" problem. This is **identity-level destruction**.
+
+The same thing is happening to translators (10 years perfecting the craft, AI produces results in seconds), accountants (earned the CPA, AI processes books 100x faster), designers (years of visual intuition, AI generates better-looking work), lawyers (memorized thousands of cases, AI searches all case law without omission), and journalists (decades of editorial experience, AI mass-produces news copy).
+
+**Behind every devalued skill is a person's youth, sweat, and sense of self.** Telling them to "just learn something new" is easy to say from the sidelines.
+
+What's crueler still: learning something new may not even help. You spend a year acquiring a new skill, and AI may be able to do it six months later. **Your learning speed can't outrun the rate of depreciation** -- a predicament without historical precedent. In past technological revolutions, a horse-carriage driver could move to a factory; when factories automated, workers moved to the service sector. There was always a "next stop." This time, AI may replace all the stops simultaneously.
+
+### 13.3 The Special Risk Facing Men
+
+This is not a politically correct discussion -- it is a data-driven one.
+
+Virtually every culture places a core expectation on men: **economic provider**. "Providing for the family" is not just a responsibility; it is the central pillar of male identity.
+
+This section rests on Volume I, 5.3 and Chapter VIII, where the data was already laid out. Its only job here is to translate that into something you can use.
+
+When that pillar is pulled away:
+- Depression among unemployed men runs **1.5-2x the rate among unemployed women** [88] -- note this is not a claim that men are more prone to depression overall (lifetime prevalence is higher in women). It is that **the same job loss does more damage to a man**. The difference is not in the event; it is in what the event hits
+- For every 1-percentage-point rise in male unemployment, the marriage rate drops about **1.5-2%** [88]
+- Thirty years of economic stagnation in Japan: the lifetime non-marriage rate for men rose from **5% to 28%** [88] -- "herbivore men" was never a cultural preference; it was the product of economic despair
+- In China, "owning a car and a home" is the price of entry to the marriage market -- AI-driven layoffs lock more men out
+
+Women are equally affected by AI (customer service, admin, accounting, HR -- white-collar roles with high female representation are hit first), but men lose something additional: their core identity. **Middle-aged men may be the highest-risk group for mental health in the AI era.**
+
+### 13.4 Create Your Own "Luck" -- Evidence From a Decade of Scientific Research
+
+British psychologist Richard Wiseman spent ten years tracking hundreds of self-described "lucky" and "unlucky" people, publishing his findings in *The Luck Factor* [130]. His central discovery: **luck is not random -- "lucky people" and "unlucky people" exhibit entirely different psychological and behavioral patterns.** And these patterns can be learned -- when he taught "unlucky" people to adopt "lucky" thinking, their lives genuinely improved.
+
+This is highly relevant to surviving the AI era, because the years ahead are full of uncertainty -- and Wiseman's research is precisely about "how to find good outcomes amid uncertainty."
+
+**Four behavioral patterns of lucky people:**
+
+**1. Create and seize chance opportunities -- expand your "luck surface area."**
+
+Lucky people have broader social networks, talk to people from different backgrounds, and are willing to try new things. Unlucky people stay in their comfort zone, associate with familiar faces, and reject new experiences.
+
+In the AI era, your next opportunity will most likely not come from your existing circle. Actively expanding your exposure -- attending events you would normally skip, talking to people you would not normally talk to, trying things you would not normally try -- increases the probability of encountering good fortune.
+
+**2. Maintain a relaxed awareness -- anxiety is the enemy of opportunity.**
+
+Wiseman ran a classic experiment: he asked subjects to count the number of photos in a newspaper. On the second page, in large print, it said: "Stop counting -- there are 43 photos in this newspaper." The lucky people noticed it and finished in seconds. The unlucky people were so focused on counting photos that they missed it entirely.
+
+**Anxiety narrows your field of vision. Relaxation lets you see opportunities.**
+
+The biggest trap of the AI era is anxiety -- it locks your attention on "what you've lost" while blinding you to "what's emerging." Staying relaxed does not mean not caring -- it means paying attention to problems while preserving the bandwidth to notice new possibilities.
+
+**3. Positive self-expectation -- belief becomes self-fulfilling.**
+
+Lucky people believe good things will happen to them. This is not blind optimism; it is a mindset that fulfills itself. When you believe you can find a way out, you act more proactively, and that action itself increases the probability of finding one.
+
+The concept of "reflexivity" from Chapter X applies perfectly here -- **your beliefs about the future change your behavior, and your behavior changes your future.**
+
+**4. Counterfactual thinking -- broke a leg? At least it wasn't both.**
+
+When bad things happen, lucky people automatically imagine "how it could have been worse" -- Got laid off? "At least it happened while I had savings, not when my mortgage payments were at their peak." Skills devalued? "At least I found out early, not five years from now."
+
+This is not self-deception -- it is a validated psychological resilience mechanism. It does not change the facts, but it changes your capacity to bear them. Over the next few years, almost everyone will encounter "bad things." The difference is not whether you can avoid them (you probably can't), but **your psychological elasticity after they happen.**
+
+**Practical steps:**
+- Every week, have a conversation with at least one person you would not normally talk to (expand your luck surface area)
+- When you feel anxious, deliberately slow down -- go for a walk, cook a meal, instead of scrolling your phone (cultivate relaxed awareness)
+- Every day, write down one thing that "could have been worse" (train counterfactual thinking)
+- Set a small, actionable positive expectation -- not "I'll earn a million this year" but "this week I'll finish X"
+
+### 13.5 The Anatomy of Anxiety: A Simple but Useful Formula
+
+![Anatomy of anxiety: one formula, two levers](charts/en/anxiety-formula.svg)
+
+Anxiety has a formula:
+
+**Anxiety = Importance x Uncertainty**
+
+As long as something is **unimportant** or **more certain**, anxiety decreases. The problem in the AI era is that many things are simultaneously becoming "very important" and "very uncertain" -- Will I lose my job? Can I still make mortgage payments? Is the investment in my child's education worth it? Will my skills become obsolete?
+
+Anxiety goes through the roof.
+
+But the formula also gives you two clear levers: **reduce the uncertainty** or **reduce the importance**.
+
+#### Reducing Uncertainty
+
+You cannot eliminate uncertainty (no one can predict the precise speed of AI development), but you can **increase your tolerance for it**:
+
+- **Break big questions into small ones.** "What do I do for the next 20 years?" -- that question has 100% uncertainty and will crush anyone. But "what three things will I do in the next six months?" -- much less uncertain. Pull the focus of your anxiety from "the long-term big picture" back to "near-term actionable steps."
+- **Build a worst-case plan.** The most tormenting thing about uncertainty is "not knowing what will happen." But if you have already thought through the worst case and have a contingency ("If I get laid off, I have X months of savings; Plan B is XX"), the destructive power of uncertainty drops dramatically -- because it becomes "certainty about something bad," and a certain bad outcome is far easier to handle than an uncertain one.
+- **Control your information intake.** Reading ten "AI will replace everyone" articles a day only amplifies anxiety. This does not mean burying your head in the sand -- it means distinguishing between "useful information" and "anxiety-generating noise." Recommendation: catch up on AI developments once a week rather than being bombarded by push notifications every day.
+- **Wiseman's relaxed awareness:** As mentioned earlier -- anxiety narrows your vision; relaxation lets you see opportunity. Deliberately practice "attention in a relaxed state" -- good ideas come more easily during a walk, while cooking, or while exercising than while anxiously scrolling your phone.
+
+#### Reducing Importance -- The More Subversive Move
+
+Many things making you anxious are **not actually as important as you think they are**. But you have never questioned their importance, because all of society keeps telling you "this matters."
+
+**Work.** "Losing my job" is what most people worry about most. But ask yourself: what exactly are you anxious about? If it is "losing income" -- then the core issue is financial security, not "the job" itself. After cutting expenses and building a buffer, "losing this particular job" becomes less critical. If it is "losing identity" -- then the issue is that you have tied too much self-worth to your job title (see Strategy 1 in section 2.6: decouple identity).
+
+**Your child's grades.** If you accept the idea that "winning exams doesn't matter in the AI era" (see Chapter XVI), half your anxiety about grades evaporates instantly. What you are really anxious about is not the grades themselves, but the causal chain: "bad grades -> can't get into a good university -> can't get a good job -> life is ruined." When that chain itself is breaking, the "importance" of grades drops sharply.
+
+**Face.** "What will people think if I get laid off?" "What will relatives say if I take a pay cut?" -- social comparison is a massive source of anxiety. But in an era of mass structural unemployment, getting laid off is not a reflection of personal ability; it is the tide. When the people around you are going through the same thing, "what others think of me" naturally fades -- because everyone is too busy dealing with their own situation.
+
+**Your home.** "What if property prices drop?" -- If your home is where you live, what does the price have to do with your daily life? You still live in the same place. The price only "matters" when you plan to sell. Cross "property value" off your anxiety list (unless you actually need to sell), and your anxiety drops a notch.
+
+**One-line summary: Examine your anxiety list and ask yourself, "Does this actually matter, or am I being held hostage by social inertia?"** You will find that many "important things" can actually be let go. Let go of one, and your anxiety drops by one degree.
+
+### 13.6 Concrete Mental Survival Strategies
+
+**Strategy 1: Decouple early -- detach your identity from your career**
+
+Do not wait until the day you lose your job to ask "Who am I?" **Start now.**
+
+Exercise: Write down ten answers to "I am ____." If your first five are all work-related ("I am a programmer," "I am a director at XX Corp"), your identity structure is highly fragile.
+
+Goal: Make at least half of your self-concept independent of work -- "I am a runner," "I am a father of two," "I am a member of the community basketball team." When work disappears, **these identities remain**.
+
+**Strategy 2: Build sources of fulfillment that AI cannot replace**
+
+AI can paint better pictures than you, write better articles, and write better code. But AI cannot replace your **experience of the process**.
+
+Running is not about being faster than a car. Playing guitar is not about outperforming an AI musician. Cooking is not about being more efficient than a robot. **The process is the purpose.**
+
+Find at least one thing you do purely because "the act of doing it feels good." In the AI era, this kind of intrinsic, process-oriented satisfaction is the only thing that cannot be replaced.
+
+Suggestions:
+- Physical activities (running, swimming, hiking, martial arts) -- AI has no body; physical sensation is yours alone
+- Hands-on crafts (woodworking, pottery, cooking, gardening) -- the satisfaction of creating something tangible with your own hands
+- Social activities (communities that meet regularly -- book clubs, sports teams, volunteer organizations)
+- Creative pursuits -- but with process as the goal, not output (keeping a journal rather than chasing viral articles)
+
+**Strategy 3: Your social network is your "psychological ICU"**
+
+Isolation is the deadliest factor in a crisis.
+
+Research consistently shows that social support is among the strongest protective factors against suicide and depression [137]. Not because friends can help you find a job (though they might), but because **"someone cares about me" is itself a reason to keep going.**
+
+But the AI era carries a trend: social connection is shrinking. Remote work reduces informal interaction. AI companions make loneliness "bearable." Social media creates the illusion of connection while deepening isolation.
+
+**Actively maintaining real human social networks is one of the most important investments you can make in the AI era.** You do not need many people -- 5-10 whom you trust deeply is enough. But these relationships require ongoing investment: meeting in person regularly, sharing experiences, showing up when the other person is struggling.
+
+Specific suggestions:
+- At least one face-to-face social interaction per week (not online)
+- Join at least one community that meets regularly in person
+- Proactively reach out to a friend you have not seen in over six months
+- If you find yourself increasingly relying on AI chat to meet your social needs -- that is a warning sign
+
+**Strategy 4: Accept uncertainty as the new normal**
+
+The old life narrative was linear: school -> work -> retirement -> death. Every step had a "right answer."
+
+The AI era has no right answers. You might change careers at 35, change again at 45, and discover at 55 that everything you learned before is useless.
+
+**Accepting this is itself a form of psychological fortification.** If you still measure yourself against a linear narrative, every "deviation from the track" feels like failure. But if you accept that "there is no track," every turn is just a turn -- not a failure.
+
+Recommended practices:
+- Meditation/mindfulness -- training the ability to "accept the present without judgment," backed by solid neuroscience evidence
+- Journaling -- writing out anxiety; research shows that putting worry into words reduces amygdala activation
+- Deliberately exposing yourself to small uncertainties -- trying new foods, visiting unfamiliar places, talking to strangers
+
+### 13.7 If You Are Already in Crisis
+
+- **Losing your job is not your fault.** This is structural change. Just as a horse-carriage driver in 1900 did not lose his job because he was not working hard enough -- the automobile arrived.
+- **Seeking professional help is not weakness.** If you have felt hopeless, sleepless, or unable to concentrate for more than two weeks straight -- see a doctor. It is as normal as seeing a doctor for a cold.
+- **Downshifting is not defeat.** A former high earner delivering food is not failing -- it is being pragmatic. Being alive matters more than saving face.
+- **Do not carry it alone.** Tell someone you trust what you are going through. Shame loses its power the moment you speak it.
+- **Crisis hotlines:** China 24-hour mental health hotline 400-161-9995; Beijing Psychological Crisis Research and Intervention Center 010-82951332
+
+### 13.8 For the People Around You: Someone You Know May Be Struggling
+
+If someone near you has recently lost a job, become withdrawn and quiet, said things like "I'm useless," or started drinking noticeably more -- **reach out to them.**
+
+You do not need to say anything profound. "I've been thinking about you. Want to grab a meal?" That one sentence may be enough.
+
+The most counterintuitive fact of the AI era: **in a world of extreme technological advancement, the most primitive form of human connection -- "someone cares about me" -- may matter more than any technology.**
+
+---
+
+---
+
+---
+
+## XIV. Face Reality: HALO — What Is Losing Value, What Is Gaining Value
+
+### 14.1 HALO: Wall Street's Panic Signal
+
+![HALO: what is losing value, what is gaining it](charts/en/halo-framework.svg)
+
+In February 2026, a new term emerged on Wall Street: **HALO -- Heavy Assets, Low Obsolescence.**
+
+Coined by Josh Brown of Ritholtz Wealth Management and subsequently adopted into Morgan Stanley's investment framework [131], the core logic is: **tangible assets (factories, energy, logistics, land) are safer than intangible assets (software, brands, intellectual property)** -- because AI can copy code but cannot copy an oil refinery.
+
+Goldman Sachs data: since 2025, HALO-type companies have outperformed asset-light companies by **35%**. The energy sector is up 25.3%, materials up 18.1%. Meanwhile, SaaS companies lost roughly **$300 billion** in market capitalization in a single trading day.
+
+**What this means for ordinary people:** HALO is not just an investment strategy. It is a cognitive framework -- **things that are hard to replicate digitally are what hold lasting value.** Whether we are talking about companies, skills, or you yourself.
+
+### 14.2 The Death of SaaS: When Code Becomes a Consumable
+
+In 2025, Andrej Karpathy introduced "vibe coding" -- describe what you want, and AI generates the code [133].
+
+Claude Code, Cursor, and Replit Agent already enable a mid-level developer to replicate the core functionality of a medium-sized SaaS product in a matter of weeks.
+
+**The core paradigm of software engineering has been upended.** For the past 50 years, the industry pursued DRY (Don't Repeat Yourself), modularity, reusability, and scalability -- because writing code was expensive. But when AI can generate full features in minutes, the economic rationale for "reuse" vanishes. **Code shifts from "asset" to "consumable"** -- use it, discard it, regenerate when needed.
+
+This is "disposable software" [134]. You no longer need to subscribe to a project management SaaS -- AI generates a custom version tailored to your needs in 10 minutes. Free, perfectly fitted, no monthly fee.
+
+**Which SaaS companies can survive?** Only those whose moat lies not in "code" but in:
+- **Data**: unique, non-replicable data (e.g., Bloomberg Terminal)
+- **Network effects**: the more users, the more valuable (though AI agents are eroding this too)
+- **Regulatory barriers**: legal requirements to use specific systems (healthcare, financial compliance)
+
+Everything else -- project management, CRM, forms, basic analytics -- is a pseudo-asset [132].
+
+### 14.3 What This Means for You Personally
+
+The same logic applies to your career and income:
+
+**Ask yourself: Is my value "HALO-type" or "SaaS-type"?**
+
+- If your value lies in "I can do something AI can also do" -- you are SaaS, and your moat is being hollowed out
+- If your value lies in "I possess something AI cannot replicate" (trust relationships, physical presence, unique experience, regulatory credentials) -- you are HALO
+
+This framework is far more useful than "learn AI."
+
+---
+
+---
+
+### 14.4 Money: What Counts as a Truly Safe Asset
+#### 14.4.1 Asset Tiers Under the HALO Framework
+
+**Relatively safe ("atom world" assets):**
+- Real estate in core cities (location cannot be replicated)
+- Energy and infrastructure investments
+- Physical gold
+- Your own health and skills (the ultimate "heavy asset")
+
+**High risk ("bit world" assets):**
+- Tech stocks (especially pure software companies)
+- Anything tied to SaaS companies
+- Commercial real estate dependent on white-collar spending
+- Cryptocurrency (highly volatile, but may become the payment infrastructure of the AI economy)
+
+**Already depreciating:**
+- Real estate in third- and fourth-tier cities
+- Investment in traditional degrees
+- Business models built on "information brokerage"
+
+#### 14.4.2 Cash Is Optionality, Not Waste
+
+In periods of extreme uncertainty, cash gives you **time** -- time to survive before you find your next income source. Recommendation: maintain 6-24 months of living expenses in liquid reserves.
+
+#### 14.4.3 An Honest Word About "Passive Income"
+
+Time for some cold water: **most "passive income" sources are themselves under threat from AI.**
+
+- Online courses? AI can generate unlimited free courses
+- E-commerce? AI agents make pricing so transparent that margins approach zero
+- Content creation? AI can produce unlimited content
+- Rent? Depends on the city
+
+The only truly AI-resistant passive income comes from: **returns on scarce, non-replicable resources in the "atom world."** Prime urban locations, energy interests, trusted positions within specific communities.
+
+For most ordinary people, rather than chasing "passive income," pursue **"low burn rate"** -- reduce fixed expenses so you can hold on even when income drops.
+
+---
+
+---
+
+### 14.5 Skills: What Counts as a "HALO-Type Skill"
+#### 14.5.1 HALO-Type Skills vs. Light Skills
+
+**HALO-type (heavy skills, low obsolescence):**
+- Requiring physical presence: plumbing, welding, pipefitting, electrical work
+- Requiring human trust: counseling, nursing, community organizing
+- Requiring judgment and accountability: a surgeon making operative decisions, a lawyer arguing in court
+- Requiring taste and aesthetics: haute cuisine, interior design
+
+**Light skills (high obsolescence risk):**
+- Pure information processing, pure coding ability, pure knowledge memorization, standardized process execution
+
+#### 14.5.2 "Learning AI" Is Not the Answer
+
+The prompt engineering you learn in 2025 may be useless by 2027. Claude Code itself is upending the advice to "learn to code."
+
+**What you should learn is not the tool but the judgment** -- "Is this AI output correct?" "When should I trust AI, and when shouldn't I?" "Which of these three options is best?"
+
+#### 14.5.3 Skill Strategies Have Expiration Dates Too
+
+- **2025-2028**: Use AI tools to amplify your existing skills -- the highest-ROI window
+- **2028-2032**: Physical skills appreciate; judgment and trust relationships become core assets
+- **2032-2040**: Humanoid robots mature, closing the physical-skills window too; value may reside solely in "humanness" -- trust, companionship, emotional connection
+
+**The greatest danger is applying last phase's strategy to the next phase.**
+
+---
+
+---
+
+---
+
+## XV. Time and Circumstance: Different Windows, Different Groups
+
+![Three windows, three playbooks](charts/en/strategy-windows.svg)
+
+### 15.1 Phase 1: Now to 2030 -- "AI Augments Humans"
+
+**Characteristics:** AI is a tool; humans are still in the loop. Most jobs still exist, but efficiency expectations are surging.
+
+**What you can do:**
+- Use AI to amplify your existing capabilities -- not "learn AI," but "use AI to do what you already do, faster and better"
+- This is your highest-earning window -- save what you earn, reduce leverage
+- Expand your social network -- in an economic crisis, connections are more valuable than resumes
+- Cultivate at least one "HALO-type" skill or income source
+
+**Traps:**
+- "My job is fine" -- American homeowners in 2007 thought the same
+- Going all-in on a specific AI tool -- tools change; judgment does not
+- "I'm senior enough to be safe" -- seniority buys more time than being junior, but less than you think
+
+### 15.2 Phase 2: 2030-2040 -- "AI Replaces Humans"
+
+**Characteristics:** Mass unemployment becomes visible; UBI or some alternative begins rolling out; consumption patterns shift dramatically.
+
+**Keys to survival:**
+- Low leverage -- no mortgage, no heavy debt is the biggest safety net
+- Diversification -- not dependent on any single income source
+- Health -- those who live to see age-reversal/AI medicine mature could gain decades of additional life
+- Community -- the isolated are most vulnerable; those with mutual support networks are most resilient
+
+**An honest admission:** For most ordinary people, outcomes in this phase depend on government redistribution policy, not individual effort. If UBI is not in place and distribution systems are not reformed, personal strategy has extremely limited impact. What you can do is make sure you **hold on until the policy arrives**.
+
+### 15.3 Phase 3: After 2040 -- "The Post-Human Era"
+
+Augmented humans emerge, species divergence begins, "work" may have ceased to exist.
+
+This phase is too distant for specific strategies to matter much. The only certainty: **being alive when it arrives is the prerequisite for everything.**
+
+---
+
+---
+
+### 15.4 The Real Situation Facing Different Groups
+#### 15.4.1 Those With Capital and Skills (Top 10%)
+
+**Advantage:** Savings, networks, learning ability
+**Risk:** Overconfidence. "AI can't replace me" -- someone says this during every technological revolution.
+**Recommendation:** Use your advantages to build redundancy -- diversified income, assets in core cities, investment in health.
+
+#### 15.4.2 Average White-Collar Workers (Middle 60%)
+
+**The most vulnerable group.** Enough income to feel "fine," but not enough reserves to weather a shock.
+
+**What you can do:** Deleverage (top priority), save money, spend your spare time learning skills that will not become obsolete, think through your Plan B.
+**What you cannot do:** Solve pension devaluation and mass unemployment on your own -- these require systemic solutions.
+
+#### 15.4.3 Manual Laborers and Low-Income Groups (Bottom 30%)
+
+**Paradoxically, safer than white-collar workers in the short term** -- AI replaces cognitive labor first. Humanoid robots are still 5-10 years out.
+
+**What you can do:** Use the window to learn trade skills that are in high demand and short supply. Protect your body. Build community mutual-aid networks.
+**What you need (but cannot achieve alone):** Government retraining programs, a social safety net that catches you, distribution reform.
+
+---
+
+---
+
+---
+
+## XVI. Children: Let Go of the Obsession -- This May Be the Greatest Liberation
+
+### 16.1 A Realization That Could Halve Parental Anxiety
+
+Let me start with a fact that may be uncomfortable but must be faced: **your child will almost certainly not beat AI in cognitive ability.** No matter how good a university they attend, how trendy their major, how high their GPA -- on the dimensions of pure knowledge and pure skill, AI will be better.
+
+But this is not bad news. **This is liberation.**
+
+Think about it: you push your child to cram, attend tutoring classes, chase grades -- for what? So they can "get a good job and earn good money." But if the endgame of the AI era is radical material abundance and humans do not need to work to survive, the entire premise of that logic chain ceases to exist.
+
+**You are forcing your child to prepare for an exam that will never take place.**
+
+This does not mean education is unimportant. It means the purpose of education needs to be fundamentally redefined: not "beat everyone else," but **"become a whole person capable of enjoying life."**
+
+### 16.2 What Your Child Should Have
+
+**The capacity for joy.** This is not a platitude. In an era where material scarcity may vanish but meaning could become scarce, **knowing what makes you happy and having the ability to pursue it** is the most important survival skill. A child who plays guitar, loves hiking, and enjoys cooking may thrive far better in the AI era than one who only knows how to study for tests.
+
+**Curiosity.** Not "studying for the exam" curiosity, but "this is fascinating and I want to figure it out" curiosity. The only "skill" that will never become obsolete in the AI era is the impulse to learn something new.
+
+**Social skills and empathy.** Real human connection -- trust, friendship, love -- is the scarcest resource in the AI era. A child with three or five close friends will fare far better in the future than one with a 4.0 GPA but no friends.
+
+**Physical fitness.** A healthy body is the prerequisite for all options. And bodily sensations -- the exhilaration of running, the feel of water against skin while swimming -- are things AI can never experience, nor replace your experience of.
+
+**Resilience.** The future is not a straight line; it is a series of turns. Let children grow up accustomed to "fail and try again" rather than "one exam decides your life."
+
+### 16.3 What to Let Go Of
+
+- Grade anxiety -- AI will outperform any human on exams; this arms race has already lost its meaning
+- The linear path of "good university -> good job -> good life" -- this road is breaking apart
+- Comparing your child to other people's children -- in the face of AI, everyone loses that competition
+- The urge to control -- you cannot plan for a future you cannot imagine, but you can raise a person capable of handling any future
+
+### 16.4 A Different Perspective
+
+Your child may be the first generation in human history that **does not need to work to survive.**
+
+What does that mean? It means they can spend their entire lives doing what they truly want to do. Painting, exploring, studying dinosaurs, learning to bake bread, making friends, falling in love, seeing the world -- not "endure decades of work to earn money and then maybe enjoy retirement," but **living the life they want from the very start.**
+
+The ones who land on Mars and travel between stars will most likely be robots and AI, not your child. And that is fine. Your child does not need to land on Mars -- they need to be happy on Earth.
+
+**Be happy when there is reason to be happy. Enjoy what there is to enjoy.** This is not giving up; it is the clearest-eyed outlook for the AI era.
+
+---
+
+---
+
+---
+
+## XVII. The Good Things AI Brings: This Chapter May Be Longer Than You Expect
+
+The first eight chapters focused on defense. But an article that only talks about threats and not opportunities would be dishonest. Because while AI is dismantling the old world, it is simultaneously creating a wealth of things that were never before possible.
+
+### 17.1 Healthcare: For the First Time, the Poor Can Afford a Good Doctor
+
+This may be the most direct benefit AI offers ordinary people.
+
+**AI is democratizing diagnosis.** Getting a top doctor's opinion used to require booking a specialist months in advance or flying to a major city's best hospital. Now an AI-assisted diagnostic tool can deliver near-expert-level analysis in minutes.
+
+Specific advances:
+- Across a range of imaging-screening tasks, AI-assisted reading has measurably raised early cancer detection rates — for a patient the difference is finding it sooner, with a wider window to intervene
+- An AI blood test in clinical trials in the UK can detect **12 types of cancer** from just **10 drops of blood** with accuracy as high as **99%**
+- Mental health chatbots are already providing 24/7 emotional support -- for those who cannot get a counseling appointment, this is something where there was previously nothing
+- AI medical tools support real-time multilingual translation -- rural elderly who do not speak Mandarin, immigrants who do not speak the local language, can access medical information without barriers for the first time
+
+**AI is also accelerating drug development.** The figures usually quoted in the industry are that taking a new drug from scratch to market runs **over a decade** and costs on the order of **billions of dollars** (that number amortises failed programmes, and definitions vary widely). AI is expected to compress the front end sharply — **note that this is an expectation, not a delivered average**:
+- Insilico Medicine used an AI platform to design drug candidates targeting the cancer target KRAS (notoriously "undruggable"), screening at a scale no wet-lab campaign could reach
+- Google DeepMind used AI to discover a previously unknown protein interaction critical to cancer cell survival -- something traditional methods would have been virtually incapable of finding
+- 2025 saw the largest number of AI-originated molecules entering clinical trials, concentrated in oncology, fibrosis, autoimmune diseases, and rare diseases
+
+**One case from August 2026 is worth taking apart on its own — because it shows both the power of this route and its limits at the same time.**
+
+On 19 August 2026, Merck and Moderna released topline results from INTerpath-001, the Phase 3 trial of the individualised cancer vaccine intismeran autogene (mRNA-4157): **1,137 patients** with completely resected stage IIB-IV cutaneous melanoma, randomised 2:1, with the primary endpoint of recurrence-free survival (RFS) and the key secondary endpoint of distant metastasis-free survival (DMFS) **both statistically significant and clinically meaningful**. Moderna closed that day at $174.38 against a prior close of $62.96 — **+176.97% in a single session** [140].
+
+The technical point here is specific: this is not one drug given to every patient. It sequences **each patient's own tumour**, uses an algorithm to select and rank the neoantigens from that mutation profile most likely to be recognised by the immune system, and then synthesises an mRNA construct belonging to that one person — encoding up to **34 neoantigens** per dose. **"Algorithmic target selection" is not an assistive tool here; it is the precondition for the route existing at all**: without automated neoantigen selection and ranking, "make a separate vaccine for every individual" simply does not run as an engineering proposition [141].
+
+**But two things have to be kept apart, or this becomes hype:**
+
+- The Phase 3 release **stated only that the endpoints were met. It disclosed no hazard ratio, no confidence interval, no p-value, no event counts, and no follow-up duration** [140]. The widely circulated figures of "49% reduction in recurrence risk" and "59% reduction in distant metastasis risk" are **not** from this Phase 3 readout; they come from the earlier Phase 2b KEYNOTE-942 (n=157, median follow-up 60.3 months, RFS HR=0.51, DMFS HR=0.411) [141]. Attaching Phase 2b effect sizes to a Phase 3 result is a common misreading.
+- Public material says only that the neoantigen sequences are "algorithmically derived." **It does not disclose model architecture or training data, and does not state whether deep learning or generative models were used** [141]. So one can say "computational methods are the precondition for this route." One cannot say "AI cured cancer."
+
+Even discounted heavily, this remains the hardest single example supporting this section's argument: **once the marginal cost of screening and design falls far enough, "making one drug for one person" moves from economically impossible to economically possible.** Which is exactly what the next paragraph is about.
+
+**Rare disease patients may be the biggest beneficiaries.** The figure usually cited for rare-disease patients worldwide is around 300 million (definitions differ between bodies, and estimates vary accordingly); most conditions attract no pharmaceutical investment because patient populations are too small and markets too limited. AI dramatically lowers R&D costs -- niche diseases that were previously not worth pursuing may now become viable.
+
+### 17.2 Accessibility: The World Is Opening Up for People With Disabilities and the Elderly
+
+This is a severely underestimated area.
+
+**For the visually impaired:** Tools like Microsoft's Seeing AI use AI to describe the surrounding environment in real time -- identifying objects, reading text, recognizing faces. A blind person can "see" a restaurant menu, "read" the instructions on a medicine bottle, or "recognize" a friend walking toward them.
+
+**For the hearing impaired:** AI real-time captioning lets deaf people "hear" conversations -- not just video-call subtitles, but live transcription of face-to-face interactions.
+
+**For those with limited mobility:** AI-powered smart homes allow wheelchair users and bedridden elderly to control lights, air conditioning, door locks, and curtains by voice -- tasks that once required someone else's help can now be done independently.
+
+**For those with cognitive impairments/the elderly:** AI companion robots can chat with dementia patients, conduct cognitive training, monitor mood changes, and remind them to take medication. South Korea has already deployed more than **5,400** AI companion robots across 115 local governments.
+
+**For these groups, AI is not "replacement" -- it is "empowerment."** It grants them independence and dignity they never had before. This may be the purest benefit of AI, free of any negative controversy.
+
+### 17.3 Education: The Best Tutor in History, for Free
+
+AI may be the greatest equalizer in education.
+
+What used to be required to access top-tier educational resources? A house in the right school district (millions of yuan), international school tuition (hundreds of thousands per year), one-on-one tutoring (hundreds per hour). Poor children and rich children were never on the same track from the starting line.
+
+AI is changing this.
+
+A rural child can now learn the same material as an urban child using AI -- personalized, at their own pace. An AI tutor will not lose patience because you asked a "dumb question," will not give up on you for being a poor student, and will not stop teaching you because your family cannot afford the hourly rate.
+
+Stanford's Data Ocean platform has already provided nearly **3,600** free AI medical education certifications across **93 countries** -- for students in developing nations, this was previously unimaginable.
+
+In Kenya and Nigeria, AI tools already support Swahili, Yoruba, and Amharic -- farmers can interact with AI by voice on basic phones to get crop disease diagnoses.
+
+In the 2024-2025 school year, **60%** of U.S. K-12 teachers were using AI tools, saving **6 hours** per week [101] (see Volume I, 2.7). Those 6 hours can be redirected to things AI cannot do -- one-on-one attention for students, handling emotional issues, building personal trust.
+
+### 17.4 One Person, One Army: The Barrier to Entrepreneurship and Creation Drops to Zero
+
+This is AI's greatest gift to people with initiative.
+
+**Sam Altman predicts that the first "one-person billion-dollar company" will emerge between 2026 and 2028.** Anthropic CEO Dario Amodei believes there is a **70-80%** probability of this happening by 2026.
+
+This is not hyperbole. Take Midjourney: a private company that discloses no financials, and outside estimates disagree on both headcount and revenue — **but every set of figures lands revenue-per-employee in the millions of dollars a year**, an order of magnitude above a conventional software company. What if you compressed that further to one person?
+
+AI lets a single individual do what used to require a team:
+- **Programming**: Claude Code lets one person run 4-10 AI coding agents simultaneously, equivalent to a small development team
+- **Design**: AI generates drafts; you provide aesthetic judgment and make the final selection
+- **Marketing**: AI writes copy, generates ad creatives, analyzes data
+- **Customer service**: AI handles 90% of routine inquiries; you handle the 10% that are complex
+- **Finance/Legal**: AI handles basic compliance; you make strategic decisions
+
+**What does this mean?** It means entrepreneurship is no longer a game reserved for the wealthy. You do not need funding, employees, or an office. You need a good idea, basic judgment, and a computer with internet access.
+
+The probability of success is still low -- most startups fail, and AI will not change that. But the cost of failure approaches zero. Try an idea; if it doesn't work, discard it and try another. A single attempt used to cost millions; now it costs a few weeks and a few hundred dollars in API fees.
+
+### 17.5 Everyday Improvements: Unglamorous but Real Benefits
+
+Beyond these "big" benefits, AI is quietly improving everyday life in countless ways:
+
+- **Language is no longer a barrier**: Real-time translation lets you communicate with anyone in any language. Traveling abroad, doing cross-border business, reading foreign materials -- AI means "not speaking the language" is no longer a constraint
+- **Self-driving reduces accidents**: roughly **1.16 million** people die in road crashes worldwide each year [135]. NHTSA's classic crash-causation survey assigned the "critical reason" to the driver in about **94%** of crashes [136] -- that figure is where the ceiling on "how much autonomy could save" comes from. But be precise: 94% is an attribution, not a promise that a machine would have avoided all of them, and NHTSA itself cautions against reading it that way. The empirical record so far is limited to bounded mileage in specific cities (see the Waymo data at [129] in Volume I). Even partial delivery is on the order of hundreds of thousands of lives a year
+- **Personal productivity**: AI helps you sort email, manage your calendar, summarize long documents, and draft replies -- freeing you from repetitive mental labor
+- **Fraud and security**: AI protects you without you even knowing -- detecting anomalous bank transactions, identifying phishing emails, preventing identity theft
+- **Independent living for the elderly**: Smart homes + AI voice assistants allow the elderly to live independently at home for longer, reducing dependence on children or caretakers
+
+### 17.6 Shifting Perspective: From Threat to Tool
+
+Summing up the benefits above, the core cognitive shift is:
+
+**AI is not just something that steals your job. It is also:**
+- Your personal doctor (at the screening level)
+- Your all-subject tutor (free, patient, 24/7)
+- Your startup co-founder (no salary required, no equity demanded)
+- Your accessibility assistant (if you have any physical limitations)
+- Your translator, secretary, researcher, and designer
+
+**The same AI is a threat to one person ("it can do my job") and a superpower for another ("it can help me do ten times as much").** The difference lies not in AI itself, but in how you see it and how you use it.
+
+One designer worries AI will replace them -- but another uses AI to generate 50 concepts a day, then applies their own aesthetic judgment to pick the best 3. The latter produces 10x more than the former.
+
+One writer worries AI writes better than they do -- but another uses AI for research, organizing material, and generating first drafts, then injects their own perspective and personality. The latter produces in one week what used to take a month.
+
+**The question is not "can you do what AI does" but "what can you plus AI do that was previously impossible?"**
+
+Seize these opportunities. Use AI to do what you always wanted to do but couldn't -- learn a new skill, build a small product, help your community, improve your health. This is not the empty slogan of "embrace change." This is concrete action.
+
+### 17.7 "Survive the Storm and Better Days Await" -- The Power of This Narrative
+
+Humans can endure enormous suffering, provided they know it has an end.
+
+The British endured the Blitz during World War II because Churchill said "We shall never surrender" -- not "everything will be fine," but "beyond the suffering lies victory."
+
+Many who took their own lives during the Great Depression were not the poorest -- they were those who believed "things will never get better." **Despair kills; poverty alone does not.**
+
+What should the narrative of the AI era be?
+
+**Not "the apocalypse is here." Not "everything will be fine." Rather: "The next few years will be hard, but the hard part has an end. Survive the transition, and what lies beyond is very likely a better world."**
+
+This is not blind optimism. It is a rational assessment based on technological trends:
+- The cost of AI is falling exponentially -- Sam Altman predicts a tenfold drop per year
+- The cost of material production will approach zero
+- The day when humans no longer need to work for food, clothing, housing, or basic healthcare is technologically achievable
+- AI is already making healthcare, education, and accessibility services better, cheaper, and more widely available
+
+The only question is **how long the transition lasts**. It could be 5 years; it could be 20. But the direction is clear.
+
+**Knowing the storm will pass and believing the storm is eternal produce entirely different behaviors.** The former makes you repair the ship, stock provisions, support each other, and even savor moments of calm amid the rain. The latter makes you give up.
+
+**This is not optimism. This is strategy.**
+
+---
+
+### 17.8 Your Own Health: Living to 2035 May Be the Best Investment You Ever Make
+
+As analyzed in Volume I, 9.2–9.3: age-reversal technology and AI medicine may achieve breakthroughs between 2035 and 2045. **Those who are alive at that point could gain decades of additional life.** The return on your current health investments may be the highest in history.
+
+**Things that cost nothing but pay off enormously:**
+- 150 minutes of exercise per week
+- Adequate sleep (7-8 hours)
+- Weight management
+- Regular health checkups
+- Maintaining social connections -- the health damage of loneliness is equivalent to smoking 15 cigarettes a day
+
+---
+
+---
+
+---
+
+---
+
+# Conclusion · Crossing the Transition
+
+There is a saying: the pessimist is right, the optimist moves forward.
+
+By now the map and the list are both open on the table. The question is no longer whether it will hurt, but what is still in your hands when it does.
+
+Here is the whole thing in three sentences.
+
+**First, there is good reason for optimism about the technological endgame — but it is not a promise that pays out on its own.** If productivity keeps advancing along its current line, material abundance and a humanity released from most necessary labour are where the technology trend points. But technology only supplies the possibility. Whether it is delivered depends on distribution, on safety governance, and on how much strain a society can absorb — and what Volume I spent nine chapters establishing is that none of those three is guaranteed to keep up.
+
+**Second, the endgame does not arrive tomorrow.** In between lies a transition that may run ten to twenty years — the technology has already turned over, the institutions have not. The gap between the production side and the distribution side is exactly where ordinary people stand exposed. That gap is what this book is really about.
+
+**Third, on that stretch of road immunity is not available. Only endurance is.** Structural change at this scale is not something an individual can block. What Volume II offers is not armor but a handful of things that will get you through with fewer injuries:
+
+- **Psychology first** — unbind identity, train resilience, widen your luck surface area, stay loose (Chapter XIII)
+- **Read your assets correctly** — the HALO frame: things in the world of atoms resist better than things in the world of bits (Chapter XIV)
+- **Cut leverage** — low debt is the largest safety cushion in a transition (Chapter XIV, 14.4)
+- **Work in stages** — different windows need different strategies; the deadliest error is meeting the next phase with the last phase's playbook (Chapter XV)
+- **Maintain your people** — "someone cares whether I exist" may be the single most valuable resource in a transition (Chapter XIII)
+- **Stay healthy** — the longer the transition runs, the more your physical and mental condition becomes the underlying asset (Chapter XVII, 17.8)
+- **Let your children off** — this is not "education stops mattering." It is: stop using the last era's scarcity logic to train them into tools fitted to a vanishing world. Curiosity, health, and relationships matter more than winning an exam that is being cancelled (Chapter XVI)
+- **Use AI on offense** — it is not only a threat; it is a superpower. Use it to do what you could not do before (Chapter XVII)
+
+**One last thing.**
+
+Volume I closed on the hardest problem in the book: this analysis is reflexive — **every decision you make after reading it makes it more true.**
+
+There is no exit from that. But there is a direction.
+
+But that direction has to be stated precisely, or it collapses into a pep talk.
+
+The collapse-direction reflexivity works because it **requires no coordination at all**: each person panic-sells, each firm freezes hiring, each household cashes out early, and the sum is systemic acceleration.
+
+**Deleveraging requires no coordination either.** The collapse chain in Chapter VI of Volume I — pay cut → missed mortgage → impaired bank capital → credit contraction → further pay cuts — begins at household leverage. A person who brings their debt down is feeding the opposite quantity into the same chain. **Same mechanism, run backwards.**
+
+This is not the optimism of belief-makes-it-so. It is the realism that **action changes your exposure.** It may not stop a systemic shock; it decides where a great many people are standing when one arrives.
+
+That is the only honest use of reflexivity: **it does not promise the rain will stop. It only decides where you are standing when it falls.**
+
+**So: hold what can be held, put down what should be put down. Reduce risk, but do not stop acting. When the anxiety comes, go for a walk, cook something, see a friend. When nothing feels like it means anything, go do one thing that makes you happy — not for anyone else, for yourself.**
+
+The storm can pass — not because people naturally get better, but because technology is manufacturing the capacity to solve these problems. The real question is whether humanity can hold out until institutions learn to use that capacity.
+
+And "holding out" is your part of it.
+
+The pessimist draws the map; the optimist takes the steps. The map tells you where the cliff is. The steps decide how you go around it.
+
+**Pessimism by itself is useless. You still have to keep walking.**
+
+**Stay alive. Cross the transition. Then go see what is on the other side.**
+
+---
+
+## About This Book
 
 Written by Tony Seah, based on logical extrapolation from public data and research reports. All charts are original hand-drawn SVGs.
 
 ## Discussion
 
-Join the Telegram group to discuss the ideas in this article:
+Join the Telegram group to discuss the ideas in this book:
 
 ![Telegram Group](charts/gwm.jpg)
 
 ---
 
-If you found this article valuable, consider supporting the author:
+If you found this book valuable, consider supporting the author:
 
 **International:**
 - GitHub Sponsors: [github.com/sponsors/pkusnail](https://github.com/sponsors/pkusnail)
 - Buy Me a Coffee: [buymeacoffee.com/pkusnail](https://buymeacoffee.com/pkusnail)
 
-**Reprint notice:** Feel free to repost and share this article, but please retain author attribution and support links.
+**Reprint notice:** Feel free to repost and share this book, but please retain author attribution and support links.
 
 Source / Project: [github.com/pkusnail/GPUs-Wombs-and-Money-Printers](https://github.com/pkusnail/GPUs-Wombs-and-Money-Printers)
 
 ---
 
 ## References
+
+*The bibliography below is shared with the Chinese edition, which is the fuller text. A small number of entries are cited only there; reference numbers are kept identical across both editions so that a citation can be looked up in either.*
 
 [1] Citrini Research & Alap Shah, "The Consequences of Abundant Intelligence," February 22, 2026. https://www.citriniresearch.com/p/2028gic
 
@@ -1509,3 +2363,15 @@ Source / Project: [github.com/pkusnail/GPUs-Wombs-and-Money-Printers](https://gi
 [128] U.S. Bureau of Labor Statistics, public API series retrieved August 20, 2026 — LNS14000000 (unemployment rate), LNS11300000 (labour force participation), LNS12300000 (employment-population ratio), LNS11000000 (civilian labour force level), LNS12000000 (household-survey employment level), LNS13000000 (unemployment level), LNS15000000 (not in labour force), LNU05026645 (discouraged workers), LNS13025703 (unemployed 27 weeks and over, share of total unemployed), CES0000000001 (total nonfarm payroll employment), and JOLTS series JTS000000000000000HIR / LDR / QUR / JOR (hires, layoffs and discharges, quits, job openings rates). Identity checks performed: employment plus unemployment equals the published labour force level, and unemployment divided by labour force reproduces the published unemployment rate, for each month cited. January 2026 is used as the base period to avoid the annual CPS population-control break between December and January. Singapore: Ministry of Manpower, Unemployment Summary Table, June 2026 preliminary, released July 31, 2026. https://api.bls.gov/publicAPI/v2/timeseries/data/ · https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx
 
 [129] Waymo, "Waymo Safety Impact" (220.6 million rider-only miles through March 2026; by city: Phoenix 80.551M, SF Bay Area 67.078M, Los Angeles 51.816M, Austin 15.789M, Atlanta 5.379M); Waymo blog, June 24, 2026 (more than 4 million miles driven every week) and May 13, 2026 (11 cities, over 1,400 square miles); Baidu Q2 2026 earnings call (Apollo Go: approximately 1 million fully driverless rides in the quarter, cumulative rides exceeding 23 million, roughly one airbag deployment every 14.4 million kilometres; Robin Li: ride volume was "temporarily affected by operational adjustments in certain domestic cities due to regulatory considerations"); CnEVPost citing Bloomberg, April 29 and July 23, 2026 (on March 31, 2026 multiple Apollo Go robotaxis stalled on roads in Wuhan leaving passengers stranded on overpasses; three agencies including MIIT convened pilot-city officials and China suspended issuing new robotaxi permits, barring companies from adding vehicles, starting new test projects or expanding to new cities; issuance resumed gradually in some cities after an industry-wide safety review completed in late June. **This reporting is sourced to Bloomberg citing people familiar with the matter, not to an official announcement**); NHTSA recall 26E035, June 17, 2026 (Waymo recalled 3,871 fifth-generation Automated Driving Systems; defect: "the software may allow the vehicle to enter a closed freeway construction zone and continue driving at speed"; remedy notes that in the interim "Waymo modified the scope of vehicle operations to restrict freeway driving"); OSHA, "Robotics — Standards" ("There are currently no specific OSHA standards for the robotics industry."); ISO/CD 25785-1 (still a committee draft). https://waymo.com/safety/impact/ · https://static.nhtsa.gov/odi/rcl/2026/RCAK-26E035-6843.pdf · https://www.osha.gov/robotics/standards
+[130] Richard Wiseman, "The Luck Factor," Skeptical Inquirer (ten-year tracking study, original paper). http://richardwiseman.com/resources/The_Luck_Factor.pdf
+[131] CNBC, "The new anti-AI trade sweeping Wall Street: 'HALO'," February 27, 2026. https://www.cnbc.com/2026/02/27/the-new-anti-ai-trade-sweeping-wall-street-halo.html
+[132] The SaaS CFO, "The SaaSpocalypse: AI Agents, Vibe Coding, and the Changing Economics of SaaS." https://www.thesaascfo.com/the-saaspocalypse-ai-agents-vibe-coding-and-the-changing-economics-of-saas/
+[133] Daily AI World, "Vibe Coding & Disposable Software 2026: The End of SaaS as We Know It." https://dailyaiworld.com/post/vibe-coding-disposable-software-2026-the-end-of-saas-as-we-know-it
+[134] Harrison AI X, "Disposable Software: Why Code is No Longer an Asset." https://harrisonaix.com/blog/disposable-software-code-asset/
+[135] World Health Organization, "Road traffic injuries" fact sheet (approx. 1.16 million road traffic deaths globally per year; checked August 2026). https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
+[136] NHTSA, "Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey," DOT HS 812 115, 2015 (the "critical reason" was assigned to the driver in about 94% of crashes; NHTSA cautions this should not be read as "94% caused by driver error"). https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115
+[137] Holt-Lunstad, J., Smith, T.B., & Layton, J.B., "Social Relationships and Mortality Risk: A Meta-analytic Review," PLoS Medicine 7(7): e1000316, 2010 (148 studies, 308,849 participants; 50% greater likelihood of survival for those with stronger social relationships, OR = 1.50, 95% CI 1.42-1.59; the paper benchmarks this effect size against smoking and other established mortality risks, which is the origin of the popular "equivalent to 15 cigarettes a day" framing). https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316
+[138] China National Space Administration (relaying LandSpace Technology Corp.), "China Successfully Conducts First Land Recovery of a Reusable Launch Vehicle," 19 August 2026 (Zhuque-3 Y2 lifted off 07:35 from the Dongfeng commercial space innovation test zone; first stage completed controlled land recovery on landing legs at 07:41). https://www.cnsa.gov.cn/n6758823/n6758838/c10768762/content.html
+[139] People's Daily, report on the sea net-capture recovery of the Long March 10B first stage, July 2026 (China's first successful controlled recovery of a reusable launch vehicle first stage; performed by net capture on a sea platform, reported as the world's first net-based recovery). https://en.people.cn/n3/2026/0722/c90000-20480453.html
+[140] Merck & Moderna, "Merck and Moderna Announce Phase 3 INTerpath-001 Trial of Intismeran Autogene Plus KEYTRUDA," 19 August 2026 (1,137 patients with completely resected stage IIB-IV cutaneous melanoma, randomised 2:1; primary endpoint RFS and key secondary endpoint DMFS met; the topline release disclosed no HR, confidence interval, p-value, event counts or follow-up duration); MRNA closed at $174.38 vs a prior close of $62.96, +176.97%. https://www.nasdaq.com/press-release/merck-and-moderna-announce-phase-3-interpath-001-trial-intismeran-autogene-plus
+[141] Merck, "Moderna and Merck Present 5-Year Data for Intismeran Autogene in Combination with KEYTRUDA," (Phase 2b KEYNOTE-942: n=157, resected stage III/IV melanoma, median follow-up 60.3 months; RFS risk reduction 49%, HR=0.51, 95% CI 0.294-0.887; DMFS risk reduction 59%, HR=0.411, 95% CI 0.200-0.843; the vaccine comprises algorithmically derived individualised neoantigen sequences encoding up to 34 neoantigens per dose). https://www.merck.com/news/moderna-and-merck-present-5-year-data-for-intismeran-autogene-in-combination-with-keytruda-pembrolizumab-in-patients-with-high-risk-stage-iii-iv-melanoma-following-complete-resection-at-the-20/

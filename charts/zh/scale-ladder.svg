@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 866" width="1200" height="866">
+<rect width="1200" height="866" fill="#0A0A0A"/>
+
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">归因的尺度阶梯</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">The Scale Ladder of Attribution — 每放大一级，就有一部分"个体的失败"被交还给一个更大的过程</text>
+
+<!-- 左轴：放大方向 -->
+<line x1="72" y1="118" x2="72" y2="620" stroke="#555555" stroke-width="1.5"/>
+<path d="M72,112 L66,124 L78,124 z" fill="#00BCD4"/>
+<path d="M72,626 L66,614 L78,614 z" fill="#FF9800"/>
+<text x="46" y="200" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold" transform="rotate(-90 46 200)">放大　悲观</text>
+<text x="46" y="580" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold" transform="rotate(-90 46 580)">收回　积极</text>
+
+<!-- 五级：宽度递减，表示尺度收窄 -->
+<!-- L1 -->
+<rect x="100" y="118" width="1010" height="86" rx="9" fill="#00BCD4" fill-opacity="0.09" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="126" y="150" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">一 · 基质</text>
+<text x="126" y="176" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">碳基交棒给硅基，是地球演化的下一步，不是人类的失职</text>
+<text x="126" y="196" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">卷一 9.5 · 结语「从碳基主导到硅基自主」</text>
+<text x="1086" y="168" text-anchor="end" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">卸掉：守土失败</text>
+
+<!-- L2 -->
+<rect x="140" y="216" width="930" height="86" rx="9" fill="#2196F3" fill-opacity="0.09" stroke="#2196F3" stroke-width="1.5"/>
+<text x="166" y="248" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">二 · 物种</text>
+<text x="166" y="274" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">没有人原样穿过去 —— 改造了就不是"人"幸存，不改造就面对同样的选择压力</text>
+<text x="166" y="294" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">卷一 9.1 ·「增强不是奢侈品，是生存策略」</text>
+<text x="1046" y="266" text-anchor="end" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">卸掉：没挤进幸存那一类</text>
+
+<!-- L3 -->
+<rect x="180" y="314" width="850" height="86" rx="9" fill="#9C27B0" fill-opacity="0.09" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="206" y="346" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">三 · 时代</text>
+<text x="206" y="372" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">你活在一个有名字、有起止、会过去的时段里</text>
+<text x="206" y="392" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">卷一全卷 · 卷二 12 章「过渡期」</text>
+<text x="1006" y="364" text-anchor="end" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">卸掉：生不逢时记在自己头上</text>
+
+<!-- L4 -->
+<rect x="220" y="412" width="770" height="86" rx="9" fill="#E91E63" fill-opacity="0.09" stroke="#E91E63" stroke-width="1.5"/>
+<text x="246" y="444" fill="#E91E63" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">四 · 代际</text>
+<text x="246" y="470" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">你手上那把尺子，是上一个世界发的 —— 而那个世界正在消失</text>
+<text x="246" y="490" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">卷一 5 章「人口下降」· 8 章「AI 重塑一生」</text>
+<text x="966" y="462" text-anchor="end" fill="#E91E63" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">卸掉：拿旧尺量今天的不及格</text>
+
+<!-- L5 残余 -->
+<rect x="260" y="510" width="690" height="104" rx="9" fill="#FF9800" fill-opacity="0.14" stroke="#FF9800" stroke-width="2.2"/>
+<text x="286" y="542" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">五 · 个人 —— 剩下的那一块</text>
+<text x="286" y="570" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">前四级卸完之后，真正归你管的部分。卷三从这里才开始工作。</text>
+<text x="286" y="596" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">自洽只处理这一块，也只能处理这一块 —— 它不负责前四级，更不负责你的现金流</text>
+
+<!-- 底部：方法论 -->
+<rect x="100" y="632" width="1010" height="196" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#555555" stroke-width="1.2"/>
+<text x="600" y="660" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">方法论：悲观是一层防御，积极是更强的那一层</text>
+
+<rect x="126" y="674" width="420" height="62" rx="8" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.2"/>
+<text x="336" y="697" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">悲观 ＝ 第一层防御</text>
+<text x="336" y="720" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">降低预期，换来对最坏情况的承受力</text>
+
+<path d="M556,705 L588,705" stroke="#888888" stroke-width="2"/>
+<path d="M588,698 L602,705 L588,712 z" fill="#888888"/>
+
+<rect x="612" y="674" width="420" height="62" rx="8" fill="#FF9800" fill-opacity="0.10" stroke="#FF9800" stroke-width="1.6"/>
+<text x="822" y="697" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">积极 ＝ 更强的那一层</text>
+<text x="822" y="720" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">行动。行动能改变的，比降低预期多</text>
+
+<text x="1062" y="719" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12">↓</text>
+
+<line x1="126" y1="750" x2="1084" y2="750" stroke="#333333" stroke-width="1"/>
+<text x="600" y="778" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">人本来就是向死而生的 —— 从出生那天起就知道，多活一天就是少一天</text>
+<text x="600" y="802" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">AI 没有给你增加一个终点，它只是让你提前看见了那个终点</text>
+<text x="600" y="824" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14.5" font-weight="bold">而看见终点，从来有两种读法：「所以何必」和「所以别浪费」—— 用的是同一个事实</text>
+
+<text x="600" y="855" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">只放不收 → 瘫痪（把"终归要死"读成"所以何必"，那是把有限性读反了）　　只收不放 → 崩溃（把整个时代的账记在自己头上）</text>
+</svg>

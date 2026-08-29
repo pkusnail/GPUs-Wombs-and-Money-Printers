@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" width="1200" height="840">
+<rect width="1200" height="840" fill="#0A0A0A"/>
+<text x="600" y="48" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">自洽：结构、判据、以及两种病变</text>
+<text x="600" y="76" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Self-Consistency — 不是"我觉得我都对"，也不是"我不在乎别人怎么看"</text>
+<text x="300" y="122" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">结构：三层必须对齐</text>
+<rect x="70" y="150" width="460" height="84" rx="9" fill="#00BCD4" fill-opacity="0.09" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="96" y="184" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">1. 你看见了什么</text>
+<text x="96" y="210" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">对世界的判断。卷一已经替你做完了这一层</text>
+<line x1="300" y1="238" x2="300.0" y2="246.0" stroke="#888888" stroke-width="2"/>
+<path d="M293.0,246.0 L300,258 L307.0,246.0 z" fill="#888888"/>
+<rect x="70" y="262" width="460" height="84" rx="9" fill="#2196F3" fill-opacity="0.09" stroke="#2196F3" stroke-width="1.5"/>
+<text x="96" y="296" text-anchor="start" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">2. 你承认了什么</text>
+<text x="96" y="322" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">愿不愿意把看见的东西算进自己的处境——这一层最容易卡住</text>
+<line x1="300" y1="350" x2="300.0" y2="358.0" stroke="#888888" stroke-width="2"/>
+<path d="M293.0,358.0 L300,370 L307.0,358.0 z" fill="#888888"/>
+<rect x="70" y="374" width="460" height="84" rx="9" fill="#9C27B0" fill-opacity="0.09" stroke="#9C27B0" stroke-width="1.5"/>
+<text x="96" y="408" text-anchor="start" fill="#9C27B0" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">3. 你愿意为此怎么活</text>
+<text x="96" y="434" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">前两层落到具体的日子上。不落，前面两层就是空谈</text>
+<text x="300" y="508" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">三层错位 = 痛苦的来源</text>
+<text x="300" y="532" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">很多痛苦不是来自贫穷或失业本身，而是</text>
+<text x="300" y="552" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">一边知道世界变了，一边还拿旧世界的尺度审判自己</text>
+<text x="860" y="122" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="18" font-weight="bold">判据：怎么检验它真的对齐了</text>
+<rect x="600" y="150" width="520" height="84" rx="9" fill="#4CAF50" fill-opacity="0.09" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="626" y="180" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">判据一　解释的一致性</text>
+<text x="626" y="204" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">顺境和逆境用同一把尺子。</text>
+<text x="626" y="224" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">自我合理化的指纹是解释随结果漂移——成了是我能力，败了是环境</text>
+<rect x="600" y="262" width="520" height="84" rx="9" fill="#4CAF50" fill-opacity="0.09" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="626" y="292" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">判据二　不需要观众</text>
+<text x="626" y="316" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">没人看见的时候，行为不变。</text>
+<text x="626" y="336" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">需要观众的不是自洽，是表演</text>
+<rect x="600" y="374" width="520" height="84" rx="9" fill="#4CAF50" fill-opacity="0.09" stroke="#4CAF50" stroke-width="1.5"/>
+<text x="626" y="404" text-anchor="start" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">判据三　能承受被否定</text>
+<text x="626" y="428" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">别人的负评可以作为「信息」进来修正判断，</text>
+<text x="626" y="448" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">但不能作为「判决」决定你存在的合法性</text>
+<text x="860" y="508" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">三条同时成立，才叫自洽</text>
+<text x="860" y="532" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">缺一条，下面两种病变必居其一</text>
+<rect x="70" y="590" width="520" height="154" rx="9" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+<text x="96" y="622" text-anchor="start" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">病变一 · 向内塌：自我合理化</text>
+<text x="96" y="650" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">判据一失守。解释跟着结果走，怎么都对。</text>
+<text x="96" y="674" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">外表看起来很稳，其实是取消了检验——</text>
+<text x="96" y="698" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">一个永远不会错的解释，等于没有解释。</text>
+<text x="96" y="726" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">症状：无论发生什么，都能立刻讲通</text>
+<rect x="610" y="590" width="520" height="154" rx="9" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+<text x="636" y="622" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">病变二 · 向外封：自我封闭</text>
+<text x="636" y="650" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">判据三失守。为了不被判决，把门整个关上。</text>
+<text x="636" y="674" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">分界线就在判据三：固执的人挡的不只是判决，</text>
+<text x="636" y="698" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">是把外部信息连同判决一起挡在了门外。</text>
+<text x="636" y="726" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="12.5">症状：听不进任何反馈，包括对自己有用的那些</text>
+<text x="600" y="782" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">自洽处理的只有尺度阶梯第五级那一块 —— 它不负责前四级，更不负责你的现金流</text>
+<text x="600" y="812" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">一个吃不上饭的人需要的是饭，不是自洽。这一点在任何时候都不能倒过来说。</text>
+</svg>

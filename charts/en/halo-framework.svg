@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#0A0A0A"/>
+<text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">HALO: What Is Losing Value, What Is Gaining It</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Heavy Assets, Low Obsolescence — durable value lives in what cannot be digitally copied</text>
+<rect x="70" y="118" width="520" height="600" rx="10" fill="#4CAF50" fill-opacity="0.07" stroke="#4CAF50" stroke-width="1.5"/>
+<rect x="610" y="118" width="520" height="600" rx="10" fill="#FF4444" fill-opacity="0.07" stroke="#FF4444" stroke-width="1.5"/>
+<text x="330" y="158" text-anchor="middle" fill="#4CAF50" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">World of atoms · resists</text>
+<text x="330" y="184" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">AI can copy code. It cannot copy a refinery</text>
+<text x="870" y="158" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">World of bits · being hollowed out</text>
+<text x="870" y="184" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">When generation cost goes to zero, so does price</text>
+<line x1="90" y1="210" x2="1110" y2="210" stroke="#333333" stroke-width="1"/>
+<text x="600" y="230" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">Assets</text>
+<circle cx="105" cy="256" r="3" fill="#4CAF50"/>
+<text x="120" y="261" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Prime urban land (non-replicable)</text>
+<circle cx="105" cy="282" r="3" fill="#4CAF50"/>
+<text x="120" y="287" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Energy and infrastructure</text>
+<circle cx="105" cy="308" r="3" fill="#4CAF50"/>
+<text x="120" y="313" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Physical gold</text>
+<circle cx="105" cy="334" r="3" fill="#4CAF50"/>
+<text x="120" y="339" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Your own health</text>
+<circle cx="645" cy="256" r="3" fill="#FF4444"/>
+<text x="660" y="261" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Pure-software equity</text>
+<circle cx="645" cy="282" r="3" fill="#FF4444"/>
+<text x="660" y="287" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Commercial property fed by white-collar spend</text>
+<circle cx="645" cy="308" r="3" fill="#FF4444"/>
+<text x="660" y="313" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Property in declining cities</text>
+<circle cx="645" cy="334" r="3" fill="#FF4444"/>
+<text x="660" y="339" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Information-intermediary business models</text>
+<line x1="90" y1="378" x2="1110" y2="378" stroke="#333333" stroke-width="1"/>
+<text x="600" y="398" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">Skills</text>
+<circle cx="105" cy="424" r="3" fill="#4CAF50"/>
+<text x="120" y="429" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Physical presence: electrical, welding, plumbing</text>
+<circle cx="105" cy="450" r="3" fill="#4CAF50"/>
+<text x="120" y="455" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Human trust: care, counselling, community</text>
+<circle cx="105" cy="476" r="3" fill="#4CAF50"/>
+<text x="120" y="481" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Judgement and liability: surgery, advocacy</text>
+<circle cx="105" cy="502" r="3" fill="#4CAF50"/>
+<text x="120" y="507" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Taste and aesthetic judgement</text>
+<circle cx="645" cy="424" r="3" fill="#FF4444"/>
+<text x="660" y="429" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Pure information processing</text>
+<circle cx="645" cy="450" r="3" fill="#FF4444"/>
+<text x="660" y="455" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Pure coding ability</text>
+<circle cx="645" cy="476" r="3" fill="#FF4444"/>
+<text x="660" y="481" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Pure knowledge recall</text>
+<circle cx="645" cy="502" r="3" fill="#FF4444"/>
+<text x="660" y="507" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Standardised process execution</text>
+<line x1="90" y1="546" x2="1110" y2="546" stroke="#333333" stroke-width="1"/>
+<text x="600" y="566" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">Yourself</text>
+<circle cx="105" cy="592" r="3" fill="#4CAF50"/>
+<text x="120" y="597" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">"I hold something AI cannot copy"</text>
+<circle cx="105" cy="618" r="3" fill="#4CAF50"/>
+<text x="120" y="623" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">Trust / physical presence / rare experience / licensure</text>
+<circle cx="645" cy="592" r="3" fill="#FF4444"/>
+<text x="660" y="597" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">"I do a thing AI can also do"</text>
+<circle cx="645" cy="618" r="3" fill="#FF4444"/>
+<text x="660" y="623" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">The moat is being dug out from under you</text>
+<text x="600" y="762" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">Ask yourself one question: is my value HALO-type or SaaS-type? That call is worth far more than "learning AI"</text>
+</svg>

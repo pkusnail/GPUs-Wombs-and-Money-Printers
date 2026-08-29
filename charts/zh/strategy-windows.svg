@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#0A0A0A"/>
+<text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">三个窗口，三套打法</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Different Windows Require Different Strategies</text>
+<rect x="70" y="130" width="290" height="560" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="215" y="172" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">2026–2030</text>
+<text x="215" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">AI 增强人类</text>
+<line x1="100" y1="220" x2="330" y2="220" stroke="#00BCD4" stroke-width="1"/>
+<text x="90" y="250" text-anchor="start" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">该做的</text>
+<text x="90" y="276" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 用AI放大你已经会的事</text>
+<text x="90" y="301" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 这是收入最高的窗口：存钱</text>
+<text x="90" y="326" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 降杠杆</text>
+<text x="90" y="351" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 扩社交网络</text>
+<text x="90" y="376" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 养一个 HALO 型收入来源</text>
+<text x="90" y="423" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">陷阱</text>
+<text x="90" y="447" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· "我的工作还好好的"</text>
+<text x="90" y="472" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· All-in 学某个具体工具</text>
+<text x="90" y="497" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· "我够资深所以安全"</text>
+<rect x="455" y="130" width="290" height="560" rx="10" fill="#FF9800" fill-opacity="0.08" stroke="#FF9800" stroke-width="1.5"/>
+<text x="600" y="172" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">2030–2040</text>
+<text x="600" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">AI 替代人类</text>
+<line x1="485" y1="220" x2="715" y2="220" stroke="#FF9800" stroke-width="1"/>
+<text x="475" y="250" text-anchor="start" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">该做的</text>
+<text x="475" y="276" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 低杠杆——最大的安全垫</text>
+<text x="475" y="301" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 不依赖任何单一收入来源</text>
+<text x="475" y="326" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 健康：活到医疗突破那天</text>
+<text x="475" y="351" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 社区互助网络</text>
+<text x="475" y="398" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">陷阱</text>
+<text x="475" y="422" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 以为个人努力能解决</text>
+<text x="475" y="447" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 这一阶段命运主要取决于</text>
+<text x="475" y="472" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 分配政策，不是个人努力</text>
+<rect x="840" y="130" width="290" height="560" rx="10" fill="#FF4444" fill-opacity="0.08" stroke="#FF4444" stroke-width="1.5"/>
+<text x="985" y="172" text-anchor="middle" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="22" font-weight="bold">2040 以后</text>
+<text x="985" y="200" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">后人类时代</text>
+<line x1="870" y1="220" x2="1100" y2="220" stroke="#FF4444" stroke-width="1"/>
+<text x="860" y="250" text-anchor="start" fill="#FF4444" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">该做的</text>
+<text x="860" y="276" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 具体策略意义不大</text>
+<text x="860" y="301" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 唯一确定的是：</text>
+<text x="860" y="326" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 活到那个时候是一切的前提</text>
+<text x="860" y="373" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14" font-weight="bold">陷阱</text>
+<text x="860" y="397" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 用上一阶段的策略</text>
+<text x="860" y="422" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">· 应对下一个阶段</text>
+<path d="M378,400 L440,400" stroke="#888888" stroke-width="2"/>
+<path d="M440,393 L454,400 L440,407 z" fill="#888888"/>
+<path d="M763,400 L825,400" stroke="#888888" stroke-width="2"/>
+<path d="M825,393 L839,400 L825,407 z" fill="#888888"/>
+<rect x="70" y="712" width="1060" height="60" rx="10" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.5"/>
+<text x="600" y="740" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="17" font-weight="bold">最危险的不是没有策略，是用上一个阶段的策略应对下一个阶段</text>
+<text x="600" y="762" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">窗口是会关的——物理技能的窗口，大约在人形机器人成熟时关上</text>
+</svg>

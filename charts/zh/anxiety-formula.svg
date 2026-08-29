@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#0A0A0A"/>
+<text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="26" font-weight="bold">焦虑的解剖：一个公式，两个杠杆</text>
+<text x="600" y="82" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">Anatomy of Anxiety: One Formula, Two Levers</text>
+<rect x="300" y="118" width="600" height="92" rx="10" fill="#FF9800" fill-opacity="0.1" stroke="#FF9800" stroke-width="1.5"/>
+<text x="600" y="175" text-anchor="middle" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="34" font-weight="bold">焦虑 ＝ 重要性 × 不确定性</text>
+<text x="600" y="236" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15">乘法，不是加法——任何一项归零，焦虑就归零。这也意味着你有两个独立的下手处</text>
+<rect x="80" y="276" width="490" height="430" rx="10" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1.5"/>
+<text x="325" y="312" text-anchor="middle" fill="#00BCD4" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">杠杆一：降低不确定性</text>
+<text x="325" y="340" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">不是消除它，是提高你对它的耐受力</text>
+<circle cx="110" cy="377" r="4" fill="#00BCD4"/>
+<text x="128" y="382" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">把大问题拆成小问题</text>
+<text x="128" y="406" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">"未来20年怎么办"不确定性100%；"未来6个月做哪三件事"低得多</text>
+<circle cx="110" cy="451" r="4" fill="#00BCD4"/>
+<text x="128" y="456" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">先把最坏情况写下来</text>
+<text x="128" y="480" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">不确定的坏 → 确定的坏。确定的坏比不确定的好更好处理</text>
+<circle cx="110" cy="525" r="4" fill="#00BCD4"/>
+<text x="128" y="530" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">控制信息摄入</text>
+<text x="128" y="554" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">每周集中看一次AI进展，而不是每天被推送轰炸</text>
+<circle cx="110" cy="599" r="4" fill="#00BCD4"/>
+<text x="128" y="604" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">练习松弛状态下的注意力</text>
+<text x="128" y="628" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">焦虑让视野变窄；散步和做饭比刷手机更容易出好想法</text>
+<rect x="630" y="276" width="490" height="430" rx="10" fill="#2196F3" fill-opacity="0.08" stroke="#2196F3" stroke-width="1.5"/>
+<text x="875" y="312" text-anchor="middle" fill="#2196F3" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="20" font-weight="bold">杠杆二：降低重要性</text>
+<text x="875" y="340" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="14">更有颠覆性——很多事没有你以为的那么重要</text>
+<circle cx="660" cy="377" r="4" fill="#2196F3"/>
+<text x="678" y="382" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">工作</text>
+<text x="678" y="406" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">你怕的是断收入，还是失去身份？两者的解法完全不同</text>
+<circle cx="660" cy="451" r="4" fill="#2196F3"/>
+<text x="678" y="456" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">孩子的成绩</text>
+<text x="678" y="480" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">当"好成绩→好大学→好工作"这条链本身在断，成绩的权重自动下降</text>
+<circle cx="660" cy="525" r="4" fill="#2196F3"/>
+<text x="678" y="530" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">面子</text>
+<text x="678" y="554" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">在结构性失业的时代，被裁是浪潮的问题，不是能力的问题</text>
+<circle cx="660" cy="599" r="4" fill="#2196F3"/>
+<text x="678" y="604" text-anchor="start" fill="#FFFFFF" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="16" font-weight="bold">房价</text>
+<text x="678" y="628" text-anchor="start" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13.5">自住房涨跌和你的日常生活无关——除非你真的打算卖</text>
+<text x="600" y="752" text-anchor="middle" fill="#FF9800" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="15" font-weight="bold">审视你的焦虑清单：这件事真的重要，还是我被社会惯性绑架了？</text>
+<text x="600" y="778" text-anchor="middle" fill="#888888" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="13">放下一件，焦虑减一分</text>
+</svg>
